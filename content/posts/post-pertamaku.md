@@ -1,9 +1,10 @@
 ---
 title: "Post Pertamaku"
 date: 2021-08-21T21:29:03+07:00
-tags: ["satu", "dua", "tiga"]
-categories: ["kat1", "kat2"]
-moods: ["senang", "sedih", "semangat"]
+tags: ["Eksponen", "Logaritma"]
+categories: ["Matematika"]
 ---
 
-Hi, ini post pertamaku looo
+{{< typeit >}}
+This is a *paragraph* with **typing animation** based on [TypeIt](https://typeitjs.com/)...
+{{< /typeit >}}

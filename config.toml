@@ -12,6 +12,9 @@ theme = "FeelIt"
   # FeelIt theme version
   version = "1.0.X"
 
+[params.page.math]
+  enable = true
+
 [menu]
   [[menu.main]]
     identifier = "posts"

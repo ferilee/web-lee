@@ -41,10 +41,6 @@ theme = "FeelIt"
     title = ""
     weight = 3
 
-  [[taxonomies]]
-      tag = "tags"
-      category = "categories"
-      mood = "moods"
 # Markup related configuration in Hugo
 [markup]
   # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)

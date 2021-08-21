@@ -4,10 +4,6 @@ defaultContentLanguage = "en"
 # language code
 languageCode = "en"
 title = "Idetizen's Portfolio and Blog"
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  mood = "moods"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "FeelIt"
@@ -45,6 +41,10 @@ theme = "FeelIt"
     title = ""
     weight = 3
 
+  [[taxonomies]]
+      tag = "tags"
+      category = "categories"
+      mood = "moods"
 # Markup related configuration in Hugo
 [markup]
   # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)

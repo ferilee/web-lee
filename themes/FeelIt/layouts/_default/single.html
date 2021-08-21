@@ -100,8 +100,6 @@
         </div>
 
         {{- /* Comment */ -}}
-        {{- partial "comment.html" . -}}
-
         <script src="https://tegursapa.banghasan.com/client.js"
                 data-repo="ferilee/web-lee"
                 data-repo-id="MDEwOlJlcG9zaXRvcnkzOTg1NzcwMDk="
@@ -114,6 +112,7 @@
                 crossorigin="anonymous"
                 async>
         </script>
+        {{- partial "comment.html" . -}}
 
     </article>
     {{- end -}}

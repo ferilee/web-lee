@@ -21,9 +21,17 @@ toc:
 
 Discover what the Hugo - **FeelIt** theme is all about and the core-concepts behind it.
 
-## Definisi 1.1
+## Konsep Eksponen
 {{< admonition note "Definisi 1.1" >}}
 Misalkan a bilangan real dan n bilangan bulat positif.
 {{< /admonition >}}
+{{< admonition note "Definisi 1.2" >}}
+Fungsi Eksponen adalah suatu fungsi yang dinyatakan dalam bentuk .
+{{< /admonition >}}
 
 <!--more-->
+
+## Pangkat Bulat Negatif
+{{< admonition note "Definisi 1.3" >}}
+Misalkan a bilangan real dan n bilangan bulat positif.
+{{< /admonition >}}

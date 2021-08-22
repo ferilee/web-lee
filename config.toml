@@ -69,7 +69,7 @@ theme = "FeelIt"
     url = "/about/"
     title = ""
     weight = 4
-  [[languages.en.menu.main]]
+  [[menu.main]]
     identifier = "telegram"
     pre = "<i class='fa fa-telegram fa-fw'></i>"
     post = ""

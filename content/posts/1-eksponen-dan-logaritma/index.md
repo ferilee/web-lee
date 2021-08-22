@@ -1,5 +1,5 @@
 ---
-title: "Eksponen Dan Logaritma"
+title: "1 Eksponen Dan Logaritma"
 date: 2021-08-22T19:33:55+07:00
 author: "Ferilee"
 authorLink: "https://t.me/ferilee"
@@ -10,8 +10,8 @@ resources:
 - name: "featured-image-preview"
   src: "featured-image-preview.webp"
 
-tags: ["Eksponen", "Logaritma"]
-categories: ["Matematika"]
+tags: ["Eksponen dan Logaritma"]
+categories: ["Matematika-X"]
 
 lightgallery: true
 

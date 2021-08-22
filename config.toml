@@ -21,13 +21,13 @@ theme = "FeelIt"
     # Custom content (HTML format is supported)
     custom = 'hai'
     # whether to show Hugo and theme info
-    hugo = true
+    hugo = false
     # whether to show copyright info
     copyright = true
     # whether to show the author
     author = true
     # site creation time
-    since = 2019
+    since = 2021
     # ICP info only in China (HTML format is supported)
     icp = ""
     # license info (HTML format is supported)

@@ -69,14 +69,6 @@ theme = "FeelIt"
     url = "/about/"
     title = ""
     weight = 4
-  [[menu.main]]
-    identifier = "telegram"
-    pre = "<i class='fa fa-telegram'></i>"
-    post = ""
-    name = ""
-    url = "https://t.me/idetizen"
-    title = "Telegram"
-    weight = 5
 
 # Search config
     [params.search]

@@ -100,6 +100,35 @@ theme = "FeelIt"
         appID = "UAL0NNJWXE"
         searchKey = "7b7fbdfb7ee82ee61901f2c6b09b05be"
 
+# Home page config
+  [params.home]
+    # amount of RSS pages
+    rss = 10
+    # Home page profile
+    [params.home.profile]
+        enable = true
+        # Gravatar Email for preferred avatar in home page
+        gravatarEmail = ""
+        # URL of avatar shown in home page
+        avatarURL = "/images/avatar.webp"
+        # title shown in home page (HTML format is supported)
+        title = ""
+        # subtitle shown in home page (HTML format is supported)
+        subtitle = "A Clean, Elegant but Advanced Hugo Theme"
+        # whether to use typeit animation for subtitle
+        typeit = true
+        # whether to show social links
+        social = true
+        # disclaimer (HTML format is supported)
+        disclaimer = ""
+    # Home page posts
+    [params.home.posts]
+      enable = true
+      # special amount of posts in each home posts page
+      paginate = 6
+      # display image-preview
+      imagePreview = true
+
 # Markup related configuration in Hugo
 [markup]
   # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)

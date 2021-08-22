@@ -21,9 +21,9 @@ toc:
 
 Discover what the Hugo - **FeelIt** theme is all about and the core-concepts behind it.
 
-<!--more-->
-
 ## Definisi 1.1
-```definisi 1.1
+{{< admonition note "Definisi 1.1" >}}
 Misalkan a bilangan real dan n bilangan bulat positif.
-```
+{{< /admonition >}}
+
+<!--more-->

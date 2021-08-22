@@ -71,7 +71,7 @@ theme = "FeelIt"
     weight = 4
   [[menu.main]]
     identifier = "telegram"
-    pre = "<i class='fa fa-telegram fa-fw'></i>"
+    pre = "<i class='fa fa-telegram'></i>"
     post = ""
     name = ""
     url = "https://t.me/idetizen"

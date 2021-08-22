@@ -19,7 +19,7 @@ theme = "FeelIt"
   [params.footer]
     enable = true
     # Custom content (HTML format is supported)
-    custom = 'hai'
+    custom = ''
     # whether to show Hugo and theme info
     hugo = false
     # whether to show copyright info
@@ -61,6 +61,14 @@ theme = "FeelIt"
     url = "/categories/"
     title = ""
     weight = 3
+  [[menu.main]]
+    identifier = "about"
+    pre = ""
+    post = ""
+    name = "About"
+    url = "/about/"
+    title = ""
+    weight = 4
 
 # Markup related configuration in Hugo
 [markup]

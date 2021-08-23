@@ -1,5 +1,5 @@
 ---
-title: "3 Sistem Persamaan Linear dan Sistem Pertidaksamaan Linear Dua dan Tiga Variabel"
+title: "5 Barisan dan Deret"
 date: 2021-08-22T19:33:55+07:00
 author: "Ferilee"
 authorLink: "https://t.me/ferilee"
@@ -10,7 +10,7 @@ resources:
 - name: "featured-image-preview"
   src: "featured-image-preview.webp"
 
-tags: ["SPL(D/T)V", "SPTL(D/T)V"]
+tags: ["Barisan dan Deret"]
 categories: ["Matematika-X"]
 
 lightgallery: true

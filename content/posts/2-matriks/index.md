@@ -1,5 +1,5 @@
 ---
-title: "6 Trigonometri"
+title: "2 Matriks"
 date: 2021-08-22T19:33:55+07:00
 author: "Ferilee"
 authorLink: "https://t.me/ferilee"
@@ -10,8 +10,8 @@ resources:
 - name: "featured-image-preview"
   src: "featured-image-preview.webp"
 
-tags: ["Trigonometri"]
-categories: ["Matematika-X"]
+tags: ["Matriks"]
+categories: ["Matematika-XI"]
 
 lightgallery: true
 
@@ -19,11 +19,7 @@ toc:
   auto: false
 ---
 
-> **Fusion Drive** combines a hard drive with a flash storage (solid-state drive) and presents it as a single logical volume with the space of both drives combined.
-
-$ c = \pm\sqrt{a^2 + b^2} $ and \\( f(x)=\int_{-\infty}^{\infty} \hat{f}(\xi) e^{2 \pi i \xi x} d \xi \\)
-
-That is so funny! :(far fa-grin-tears):
+Discover what the Hugo - **FeelIt** theme is all about and the core-concepts behind it.
 
 <!--more-->
 
@@ -49,21 +45,3 @@ Misalkan a bilangan real dan n bilangan bulat positif.
 {{< admonition note "Sifat-1" >}}
 Misalkan a bilangan real dan n bilangan bulat positif.
 {{< /admonition >}}
-
-{{< mermaid >}}
-journey
-    title My working day
-    section Go to work
-      Make tea: 5: Me
-      Go upstairs: 3: Me
-      Do work: 1: Me, Cat
-    section Go home
-      Go downstairs: 5: Me
-      Sit down: 5: Me
-
-{{< /mermaid >}}
-
-
-{{< typeit >}}
-This is a *paragraph* with **typing animation** based on [TypeIt](https://typeitjs.com/)...
-{{< /typeit >}}

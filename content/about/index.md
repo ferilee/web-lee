@@ -7,6 +7,12 @@ lightgallery: true
 
 math:
   enable: true
+
+  output:
+    html_document:
+       css: assets/css/modal.css
+       js: assets/js/modal.js
+       self_contained: no
 ---
 
 {{< style "img { height: 1.25rem; }" >}}

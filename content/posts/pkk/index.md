@@ -1,11 +1,10 @@
 ---
 weight: 1
-title: "Theme Documentation - Basics"
+title: "Produk Kreatif dan Kewirausahaan"
 date: 2020-03-06T21:29:01+08:00
 lastmod: 2020-03-06T21:29:01+08:00
-draft: false
-author: "FeelIt"
-authorLink: "https://feelit.khusika.com"
+author: "Ferilee"
+authorLink: "https://t.me/ferilee"
 description: "Discover what the Hugo - FeelIt theme is all about and the core-concepts behind it."
 resources:
 - name: "featured-image"
@@ -13,8 +12,8 @@ resources:
 - name: "featured-image-preview"
   src: "featured-image-preview.webp"
 
-tags: ["Eksponen", "Logaritma"]
-categories: ["Matematika"]
+tags: ["PKK"]
+categories: ["Produk Kreatif dan Kewirausahaan"]
 
 lightgallery: true
 
@@ -26,7 +25,7 @@ Discover what the Hugo - **FeelIt** theme is all about and the core-concepts beh
 
 <!--more-->
 
-## 1 Requirements
+## 1 Menganalisis perencanaan produksi massal
 
 Thanks to the simplicity of Hugo, [Hugo](https://gohugo.io/) is the only dependency of this theme.
 
@@ -40,8 +39,11 @@ Since [Markdown Render Hooks](https://gohugo.io/getting-started/configuration-ma
 Since some features of this theme need to processes :(fab fa-sass fa-fw): SCSS to :(fab fa-css3 fa-fw): CSS, it is recommended to use Hugo **extended** version for better experience.
 {{< /admonition >}}
 
-## 2 Installation
-
+## 2 Menentukan indikator keberhasilan tahapan produksi massal
+## 3 Menerapkan proses produksi massal
+## 4 Menerapkan metoda perakitan produk barang/jasa
+## 5 Menganalisis prosedur pengujian kesesuaian fungsi produk barang/jasa
+## 6 Mengevaluasi kesesuaian hasil produk dengan rancangan
 The following steps are here to help you initialize your new website. If you don’t know Hugo at all, we strongly suggest you learn more about it by following this [great documentation for beginners](https://gohugo.io/getting-started/quick-start/).
 
 ### 2.1 Create Your Project

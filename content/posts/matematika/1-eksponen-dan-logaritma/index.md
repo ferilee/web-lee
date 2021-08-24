@@ -12,6 +12,7 @@ resources:
 
 tags: ["Eksponen dan Logaritma"]
 categories: ["Matematika-X"]
+matematika: ["Matematika-X"]
 
 lightgallery: true
 

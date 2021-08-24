@@ -76,7 +76,7 @@ theme = "FeelIt"
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
     name = "Matematika"
-    url = "/posts/matematika"
+    url = "/matematika"
     # title will be shown when you hover on this menu link
     title = ""
     weight = 5

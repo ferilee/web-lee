@@ -69,17 +69,7 @@ theme = "FeelIt"
     url = "/about/"
     title = ""
     weight = 4
-  [[menu.main]]
-    identifier = "matematika"
-    # you can add extra information before the name (HTML format is supported), such as icons
-    pre = ""
-    # you can add extra information after the name (HTML format is supported), such as icons
-    post = ""
-    name = "Matematika"
-    url = "/matematika"
-    # title will be shown when you hover on this menu link
-    title = ""
-    weight = 5
+
 
 # Search config
     [params.search]

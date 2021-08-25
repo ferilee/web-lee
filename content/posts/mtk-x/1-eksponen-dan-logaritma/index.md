@@ -36,7 +36,6 @@ $ b $ adalah bilangan pokok atau basis
 $ c $ adalah koefisien $ x $
 
 $ cx $ adalah eksponen dari $ b $
-{{< /admonition >}}
 
 ## Pangkat Bulat Negatif
 {{< admonition note "Definisi 1.3" >}}

@@ -50,6 +50,9 @@ Untuk $ a $ bilangan real dan $ a \not = 0, m $ bilangan bulat positif, didefini
 {{< admonition question "Contoh 1" >}}
 Jika nilai $ x = -2 $ dan $ y = 2 $, tentukan nilai $ x^{-3}\left(y^4\right)! $
 {{< /admonition >}}
+{{< admonition tip "Pembahasan" >}}
+Jika nilai $ x = -2 $ dan $ y = 2 $, tentukan nilai $ x^{-3}\left(y^4\right)! $
+{{< /admonition >}}
 
 ## Sifat-sifat Pangkat Bulat Positif
 {{< admonition note "Sifat-1" >}}

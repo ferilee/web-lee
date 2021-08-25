@@ -29,12 +29,15 @@ Discover what the Hugo - **FeelIt** theme is all about and the core-concepts beh
 
 > **Definisi 1.2**
 >> Fungsi Eksponen adalah suatu fungsi yang dinyatakan dalam bentuk $ y = f(x) = a(b^{cx}) $ dengan $ a, b, $ dan $ c $ bilangan real.
->> $ x $ adalah variabel
->> $ b $ adalah bilangan pokok atau basis
+{{< admonition note "Keterangan" >}}
+$ x $ adalah variabel
+
+$ b $ adalah bilangan pokok atau basis
 
 $ c $ adalah koefisien $ x $
 
 $ cx $ adalah eksponen dari $ b $
+{{< /admonition >}}
 
 ## Pangkat Bulat Negatif
 {{< admonition note "Definisi 1.3" >}}

@@ -46,9 +46,7 @@ Untuk $ a $ bilangan real dan $ a \not = 0, m $ bilangan bulat positif, didefini
 {{< /admonition >}}
 
 ## Pangkat Nol
-> Definisi 1.1
->> Misalkan a bilangan real dan n bilangan bulat positif.
-
+> **Definisi 1.1** Misalkan a bilangan real dan n bilangan bulat positif.
 {{< admonition note "Definisi 1.4" >}}
 Misalkan a bilangan real dan n bilangan bulat positif.
 {{< /admonition >}}

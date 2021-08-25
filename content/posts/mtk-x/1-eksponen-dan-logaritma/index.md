@@ -28,12 +28,16 @@ Discover what the Hugo - **FeelIt** theme is all about and the core-concepts beh
 Misalkan $ a $ bilangan real dan $ n $ bilangan bulat positif. $ a^n $ adalah hasil kali bilangan $ a $ sebanyak $ n $ faktor, dapat ditulis $ a^n = \underbrace{a \times a \times a \times ... \times a}_{\text{n faktor}} $ dengan $ a $ sebagai basis bilangan pokok dan $ n $ sebagai pangkat.
 {{< /admonition >}}
 {{< admonition note "Definisi 1.2" >}}
-Fungsi Eksponen adalah suatu fungsi yang dinyatakan dalam bentuk .
+Fungsi Eksponen adalah suatu fungsi yang dinyatakan dalam bentuk $ y = f(x) = a(b^{cx}) $ dengan $ a, b, $ dan $ c $ bilangan real.
+$ x $ adalah variabel
+$ b $ adalah bilangan pokok atau basis
+$ c $ adalah koefisien $ x $
+$ cx $ adalah eksponen dari $ b $
 {{< /admonition >}}
 
 ## Pangkat Bulat Negatif
 {{< admonition note "Definisi 1.3" >}}
-Misalkan a bilangan real dan n bilangan bulat positif.
+Untuk $ a $ bilangan real dan $ a \not = 0, m $ bilangan bulat positif, didefinisikan dengan $ a^{-m} = \left(\vcenter{\hbox{$\frac{1}a$}}\right)^m $
 {{< /admonition >}}
 
 ## Pangkat Nol

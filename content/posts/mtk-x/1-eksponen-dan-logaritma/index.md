@@ -29,9 +29,13 @@ Misalkan $ a $ bilangan real dan $ n $ bilangan bulat positif. $ a^n $ adalah ha
 {{< /admonition >}}
 {{< admonition note "Definisi 1.2" >}}
 Fungsi Eksponen adalah suatu fungsi yang dinyatakan dalam bentuk $ y = f(x) = a(b^{cx}) $ dengan $ a, b, $ dan $ c $ bilangan real.
+
 $ x $ adalah variabel
+
 $ b $ adalah bilangan pokok atau basis
+
 $ c $ adalah koefisien $ x $
+
 $ cx $ adalah eksponen dari $ b $
 {{< /admonition >}}
 
@@ -43,6 +47,10 @@ Untuk $ a $ bilangan real dan $ a \not = 0, m $ bilangan bulat positif, didefini
 ## Pangkat Nol
 {{< admonition note "Definisi 1.4" >}}
 Misalkan a bilangan real dan n bilangan bulat positif.
+{{< /admonition >}}
+
+{{< admonition question "Contoh 1" >}}
+Jika nilai $ x = -2 $ dan $ y = 2 $, tentukan nilai $ x^{-3}\left(y^4\right) = $
 {{< /admonition >}}
 
 ## Sifat-sifat Pangkat Bulat Positif

@@ -54,10 +54,11 @@ Jika nilai $ x = -2 $ dan $ y = 2 $, tentukan nilai $ x^{-3}\left(y^4\right) = $
 {{< /admonition >}}
 
 
-> Definisi 1.4
+> **Definisi 1.4**
+
 Misalkan a bilangan real dan n bilangan bulat positif.
-{{< admonition question "Contoh 1" >}}
-Jika nilai $ x = -2 $ dan $ y = 2 $, tentukan nilai $ x^{-3}\left(y^4\right) = $
+{{< admonition question "Contoh 1" Jika nilai $ x = -2 $ dan $ y = 2 $, tentukan nilai $ x^{-3}\left(y^4\right) = $ >}}
+Penyelesaian
 {{< /admonition >}}
 
 ## Sifat-sifat Pangkat Bulat Positif

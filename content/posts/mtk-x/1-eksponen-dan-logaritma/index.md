@@ -25,7 +25,7 @@ Discover what the Hugo - **FeelIt** theme is all about and the core-concepts beh
 
 ## Konsep Eksponen
 > **Definisi 1.1** Misalkan $ a $ bilangan real dan $ n $ bilangan bulat positif. $ a^n $ adalah hasil kali bilangan $ a $ sebanyak $ n $ faktor, dapat ditulis $ a^n = \underbrace{a \times a \times a \times ... \times a}_{\text{n faktor}} $ dengan $ a $ sebagai basis bilangan pokok dan $ n $ sebagai pangkat.
->> Contoh 1: $ a^3 = a \times a \times a $
+>> Contoh 1.1: $ a^3 = a \times a \times a $
 
 > **Definisi 1.2**
 >> Fungsi Eksponen adalah suatu fungsi yang dinyatakan dalam bentuk $ y = f(x) = a(b^{cx}) $ dengan $ a, b, $ dan $ c $ bilangan real.
@@ -40,15 +40,18 @@ $ cx $ adalah eksponen dari $ b $
 {{< /admonition >}}
 
 ## Pangkat Bulat Negatif
-{{< admonition note "Definisi 1.3" >}}
-Untuk $ a $ bilangan real dan $ a \not = 0, m $ bilangan bulat positif, didefinisikan dengan $ a^{-m} = \left(\vcenter{\hbox{$\frac{1}a$}}\right)^m $
+> **Definisi 1.3** Untuk $ a $ bilangan real dan $ a \not = 0, m $ bilangan bulat positif, didefinisikan dengan $ a^{-m} = \left(\vcenter{\hbox{$\frac{1}a$}}\right)^m $
+>> **Contoh 1.3** Jika nilai $ x = -2 $ dan $ y = 2 $, tentukan nilai $ x^{-3}\left(y^4\right)! $
+{{< admonition tip "Pembahasan" >}}
+Pembahasan ditulis di sini
 {{< /admonition >}}
 
+
 ## Pangkat Nol
-> **Definisi 1.1** combines a hard drive with a flash storage (solid-state drive) and presents it as a single logical volume with the space of both drives combined.
->> **Contoh 1** Jika nilai $ x = -2 $ dan $ y = 2 $, tentukan nilai $ x^{-3}\left(y^4\right)! $
+> **Definisi 1.4** combines a hard drive with a flash storage (solid-state drive) and presents it as a single logical volume with the space of both drives combined.
+>> **Contoh 1.4**
 {{< admonition tip "Pembahasan" >}}
-Jika nilai $ x = -2 $ dan $ y = 2 $, tentukan nilai $ x^{-3}\left(y^4\right)! $
+Pembahasan ditulis di sini
 {{< /admonition >}}
 
 ## Sifat-sifat Pangkat Bulat Positif

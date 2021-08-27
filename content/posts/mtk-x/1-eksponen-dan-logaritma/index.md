@@ -61,13 +61,9 @@ $ =\frac{16}{-8} $
 $ = -2 $
 {{< /admonition >}}
 
-
 ## Pangkat Nol
-> **Definisi 1.4** combines a hard drive with a flash storage (solid-state drive) and presents it as a single logical volume with the space of both drives combined.
->> **Contoh 1.4**
-{{< admonition tip "Pembahasan" >}}
-Pembahasan ditulis di sini
-{{< /admonition >}}
+> **Definisi 1.4** Untuk $ a $ bilangan real dan $ a \not = 0 $ , maka $ a^0 = 1 $
+>> **Contoh 1.4** $ 2^0 = 1, 5^0=1, \left(\frac{2}{3}\right)^0 $
 
 ## Sifat-sifat Pangkat Bulat Positif
 {{< admonition note "Sifat-1" >}}
@@ -75,8 +71,8 @@ Misalkan a bilangan real dan n bilangan bulat positif.
 {{< /admonition >}}
 
 <!--- Placeholder -->
-> **Definisi 1.4** combines a hard drive with a flash storage (solid-state drive) and presents it as a single logical volume with the space of both drives combined.
->> **Contoh 1.4**
+> **Title** description.
+>> **Example**
 {{< admonition tip "Pembahasan" >}}
 Pembahasan ditulis di sini
 {{< /admonition >}}

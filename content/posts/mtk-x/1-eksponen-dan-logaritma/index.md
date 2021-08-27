@@ -61,3 +61,10 @@ Pembahasan ditulis di sini
 {{< admonition note "Sifat-1" >}}
 Misalkan a bilangan real dan n bilangan bulat positif.
 {{< /admonition >}}
+
+<!--- Placeholder -->
+> **Definisi 1.4** combines a hard drive with a flash storage (solid-state drive) and presents it as a single logical volume with the space of both drives combined.
+>> **Contoh 1.4**
+{{< admonition tip "Pembahasan" >}}
+Pembahasan ditulis di sini
+{{< /admonition >}}

@@ -46,19 +46,19 @@ $ cx $ adalah eksponen dari $ b $
 > **Definisi 1.3** Untuk $ a $ bilangan real dan $ a \not = 0, m $ bilangan bulat positif, didefinisikan dengan $ a^{-m} = \left(\vcenter{\hbox{$\frac{1}a$}}\right)^m $
 >> **Contoh 1.3** Jika nilai $ x = -2 $ dan $ y = 2 $, tentukan nilai $ x^{-3}\left(y^4\right)! $
 {{< admonition tip "Pembahasan" >}}
-x^{-3}\left(y^4\right)=\left(\vcenter{\hbox{$\frac{1}x$}}\right)^3\left(y^4\right)
+$ x^{-3}\left(y^4\right)=\left(\vcenter{\hbox{$\frac{1}x$}}\right)^3\left(y^4\right) $
 
-=\left(\frac{1^3}{x^3} \right).\left(y^4 \right)
+$ =\left(\frac{1^3}{x^3} \right).\left(y^4 \right) $
 
-=\left(\frac{1}{x^3} \right).\left(y^4 \right)
+$ =\left(\frac{1}{x^3} \right).\left(y^4 \right) $
 
-=\frac{y^4}{x^3}
+$ =\frac{y^4}{x^3} $
 
-=\frac{2^4}{(-2)^3}
+$ =\frac{2^4}{(-2)^3} $
 
-=\frac{16}{-8}
+$ =\frac{16}{-8} $
 
-= -2
+$ = -2 $
 {{< /admonition >}}
 
 

@@ -25,7 +25,7 @@ Discover what the Hugo - **FeelIt** theme is all about and the core-concepts beh
 
 ## Konsep Eksponen
 > **Definisi 1.1** Misalkan $ a $ bilangan real dan $ n $ bilangan bulat positif. $ a^n $ adalah hasil kali bilangan $ a $ sebanyak $ n $ faktor, dapat ditulis $ a^n = \underbrace{a \times a \times a \times ... \times a}_{\text{n faktor}} $ dengan $ a $ sebagai basis bilangan pokok dan $ n $ sebagai pangkat.
->> **Contoh 1.1** $ a^3 = a \times a \times a $
+>> **Contoh 1.1 :** $ a^3 = a \times a \times a $
 {{< admonition tip "Pembahasan" >}}
 Pembahasan ditulis di sini
 {{< /admonition >}}
@@ -44,7 +44,7 @@ $ cx $ adalah eksponen dari $ b $
 
 ## Pangkat Bulat Negatif
 > **Definisi 1.3** Untuk $ a $ bilangan real dan $ a \not = 0, m $ bilangan bulat positif, didefinisikan dengan $ a^{-m} = \left(\vcenter{\hbox{$\frac{1}a$}}\right)^m $
->> **Contoh 1.3** Jika nilai $ x = -2 $ dan $ y = 2 $, tentukan nilai $ x^{-3}\left(y^4\right)! $
+>> **Contoh 1.3 :** Jika nilai $ x = -2 $ dan $ y = 2 $, tentukan nilai $ x^{-3}\left(y^4\right)! $
 {{< admonition tip "Pembahasan" >}}
 $ x^{-3}\left(y^4\right)=\left(\vcenter{\hbox{$\frac{1}x$}}\right)^3\left(y^4\right) $
 
@@ -63,11 +63,13 @@ $ = -2 $
 
 ## Pangkat Nol
 > **Definisi 1.4** Untuk $ a $ bilangan real dan $ a \not = 0 $ , maka $ a^0 = 1 $
->> **Contoh 1.4** $ 2^0 = 1, 5^0=1, \left(\frac{2}{3}\right)^0 $
+>> **Contoh 1.4 :** $ 2^0 = 1, 5^0=1, \left(\frac{2}{3}\right)^0=1 $
 
 ## Sifat-sifat Pangkat Bulat Positif
-{{< admonition note "Sifat-1" >}}
-Misalkan a bilangan real dan n bilangan bulat positif.
+> **Sifat-1** Jika $ a $ bilangan real, $m$ dan $n$ bilangan bulat positif maka $a^m \times a^n = a^{m+n}$.
+>> **Contoh :** Berapakah $2^4 \times 2^3$ ?
+{{< admonition tip "Pembahasan" >}}
+$2^4 \times 2^3 = 2^{4+3} = 2^7$
 {{< /admonition >}}
 
 <!--- Placeholder -->

@@ -86,10 +86,7 @@ $\left(3^2 \right)^3=3^{(2 \times 3)}$
 $=3^6$
 {{< /admonition >}}
 
-\begin{split}   a &=b+c\\
-      &=e+f
-\end{split}
-
+katex.render("\\begin{split}   \n   a &=b+c\\\\\n     &=e+f\n\\end{split}", /* element */, {"displayMode":true,"leqno":true,"fleqn":true,"throwOnError":true,"errorColor":"#cc0000","strict":"warn","output":"htmlAndMathml","trust":true,"macros":{"\\f":"#1f(#2)"}})
 
 <!--- Placeholder
 > **Title** description.

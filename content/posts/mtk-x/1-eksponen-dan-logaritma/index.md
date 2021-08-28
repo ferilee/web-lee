@@ -75,17 +75,16 @@ $2^4 \times 2^3 = 2^{4+3} = 2^7$
 > **Sifat-2** Jika $ a $ bilangan real dan $a \not = 0$, $m$ dan $n$ bilangan bulat positif maka $\frac{a^m}{a^n} = a^{m-n}$.
 >> **Contoh :** Berapakah $\frac{2^5}{2^3}$ ?
 {{< admonition tip "Pembahasan" >}}
-$\frac{2^5}{2^3} = 2^{5-3} = 2^2 = 4$
+$\frac{2^5}{2^3} = 2^{5-3} \Lrarr 2^2 \Lrarr 4$
 {{< /admonition >}}
 
 > **Sifat-3** Jika $a$ bilangan real dan $a \not = 0$, $m$ dan $n$ bilangan bulat positif maka $\left(a^m \right)^n = a^{mn}$.
 >> **Contoh :** Berapakah $\left(3^2 \right)^3$ ?
 {{< admonition tip "Pembahasan" >}}
-$\left(3^2 \right)^3=3^{2 \times 3}$
+$\left(3^2 \right)^3=3^{(2 \times 3)}$
 
 $=3^6$
 {{< /admonition >}}
-
 
 <!--- Placeholder
 > **Title** description.

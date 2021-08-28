@@ -86,7 +86,11 @@ $\left(3^2 \right)^3=3^{(2 \times 3)}$
 $=3^6$
 {{< /admonition >}}
 
-
+$$
+\begin{split}   a &=b+c\\
+      &=e+f
+\end{split}
+$$
 
 <!--- Placeholder
 > **Title** description.

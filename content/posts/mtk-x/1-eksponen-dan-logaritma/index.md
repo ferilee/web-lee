@@ -85,7 +85,9 @@ $\left(3^2 \right)^3=3^{(2 \times 3)}$
 
 $=3^6$
 {{< /admonition >}}
-a
+
+lorem
+
 <!--- Placeholder
 > **Title** description.
 >> **Example**

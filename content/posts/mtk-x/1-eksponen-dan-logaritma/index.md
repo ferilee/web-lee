@@ -101,6 +101,11 @@ ___
 
 ### Kuis
 
+\begin{align*}
+a &= b + c\\
+ &= d \\
+\end{align*}
+
 \\(
   \begin{aligned}
   a &= b+c \\\\

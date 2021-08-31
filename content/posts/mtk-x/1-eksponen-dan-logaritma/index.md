@@ -86,6 +86,9 @@ ___
 > **Sifat-5** Jika $a$ adalah bilangan real dan $a \not = 0$ dengan $a>0, \cfrac{m}{n}$ dan $\cfrac{p}{q}$ bilangan pecahan $q, n\not=0$, maka $\left(a^{\frac{m}{n}}\right)\left(a^{\frac{p}{q}}\right)=\left(a^{\frac{m}{n}+\frac{p}{q}}\right)$.
 
 ### 1.6 Kuis
+{{< admonition info "Petunjuk Kuis" >}}
+Kerjakan soal-soal kuis berikut di kertas, hasil jawaban difoto kemudian diunggah ke \to {{< link "https://drive.google.com/drive/folders/1b1J2i00PaFqpZRvInfMRXWp0tSDDmCwf?usp=sharing" Drive tugas "Visit Upstage!" >}}
+{{< /admonition >}}
 {{< admonition question "1. Sederhanakanlah operasi bilangan berpangkat berikut:" >}}
 - [x] $2^5 \times 2^9 \times 2^{12}=$
 - [x] $\cfrac{2^5 \times 3^5 \times 4^2}{12^2}=$
@@ -110,8 +113,9 @@ ___
 <!--- ---------------Logaritma-------------------- -->
 ## 2 LOGARITMA
 ### 2.1 Bentuk akar
-Pengakaran (penarikan akar) suatu bilangan merupakan inversi dari pemangkatan suatu bilangan. Dengan kata lain akar adalah kebalikan dari bilangan berpangkat. Akar dilambangkan dengan notasi "\sqrt{}".
+Pengakaran (penarikan akar) suatu bilangan merupakan inversi dari pemangkatan suatu bilangan. Dengan kata lain **akar** adalah kebalikan dari **bilangan berpangkat**. Akar dilambangkan dengan notasi "$\sqrt{}$".
 > **Definisi 1.7** Misalkan $a$ bilangan real dan $n$ bilangan bulat positif. $\sqrt[n]{a}$ disebut bentuk akar jika dan hanya jika hasil $\sqrt[n]{a}$ adalah bilangan irrasional.
+>> Bilangan irrasional yang menggunakan tanda akar ($\sqrt$) dinamakan _bentuk akar_. Tetapi tidak semua bilangan yang Berada dalam tanda akar merupakan bilangan irrasional. Contoh: $\sqrt{25}$ dan $\sqrt{64}$ bukan termasuk bentuk akar, karena jika disederhanakan $\sqrt{25}$ menjadi 5 dan $\sqrt{64}$ menjadi 8, keduanya bukan bilangan irrasional.
 
 ### 2.2 Hubungan Bentuk Akar dan Bilangan Berpangkat
 ### 2.3 Operasi pada Bentuk akar

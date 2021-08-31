@@ -113,6 +113,22 @@ a &= b + c\\
   \end{aligned}
 \\)
 
+$$  \begin{aligned}  a &= b+c \\\\  &= d+f  \end{aligned} $$
+
+\(
+  \begin{split}
+  a &= b+c \\
+  &= d+f
+  \end{split}
+\)
+
+\[
+  \begin{split}
+  a &= b+c \\
+  &= d+f
+  \end{split}
+\]
+
 <!--- ---------------Logaritma-------------------- -->
 ## LOGARITMA
 ### Bentuk akar

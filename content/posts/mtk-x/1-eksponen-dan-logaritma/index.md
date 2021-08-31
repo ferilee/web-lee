@@ -44,15 +44,15 @@ $cx$ adalah eksponen dari $b$
 {{< /admonition >}}
 
 ### 1.2 Pangkat Bulat Negatif
-> **Definisi 1.3** Untuk $ a $ bilangan real dan $ a \not = 0, m $ bilangan bulat positif, didefinisikan dengan $ a^{-m} = \left(\vcenter{\hbox{$\frac{1}a$}}\right)^m $
+> **Definisi 1.3** Untuk $ a $ bilangan real dan $ a \not = 0, m $ bilangan bulat positif, didefinisikan dengan $ a^{-m} = \left(\vcenter{\hbox{$\cfrac{1}a$}}\right)^m $
 >> **Contoh 1.3 :** Jika nilai $ x = -2 $ dan $ y = 2 $, tentukan nilai $ x^{-3}\left(y^4\right)! $
 {{< admonition tip "Pembahasan" >}}
-$$  \begin{aligned} x^{-3}\left(y^4\right) &= \left(\vcenter{\hbox{$\frac{1}x$}}\right)^3\left(y^4\right) \\\\ &= \left(\frac{1^3}{x^3} \right).\left(y^4 \right) \\\\ &= \left(\frac{1}{x^3} \right).\left(y^4 \right) \\\\ &= \frac{y^4}{x^3} \\\\ &= \frac{2^4}{(-2)^3} \\\\ &= \frac{16}{-8} \\\\ &= -2 \end{aligned} $$
+$$  \begin{aligned} x^{-3}\left(y^4\right) &= \left(\vcenter{\hbox{$\cfrac{1}x$}}\right)^3\left(y^4\right) \\\\ &= \left(\cfrac{1^3}{x^3} \right).\left(y^4 \right) \\\\ &= \left(\cfrac{1}{x^3} \right).\left(y^4 \right) \\\\ &= \cfrac{y^4}{x^3} \\\\ &= \cfrac{2^4}{(-2)^3} \\\\ &= \cfrac{16}{-8} \\\\ &= -2 \end{aligned} $$
 {{< /admonition >}}
 
 ### 1.3 Pangkat Nol
 > **Definisi 1.4** Untuk $ a $ bilangan real dan $ a \not = 0 $ , maka $ a^0 = 1 $
->> **Contoh 1.4 :** $ 2^0 = 1, 5^0=1, \left(\frac{2}{3}\right)^0=1 $
+>> **Contoh 1.4 :** $ 2^0 = 1, 5^0=1, \left(\cfrac{2}{3}\right)^0=1 $
 
 ### 1.4 Sifat-sifat Pangkat Bulat Positif
 > **Sifat-1** Jika $ a $ bilangan real, $m$ dan $n$ bilangan bulat positif maka $a^m \times a^n = a^{m+n}$.
@@ -61,8 +61,8 @@ $$  \begin{aligned} x^{-3}\left(y^4\right) &= \left(\vcenter{\hbox{$\frac{1}x$}}
 $$  \begin{aligned}  2^4 \times 2^3 &= 2^{4+3} \\\\  &= 2^7  \end{aligned} $$
 {{< /admonition >}}
 
-> **Sifat-2** Jika $ a $ bilangan real dan $a \not = 0$, $m$ dan $n$ bilangan bulat positif maka $\frac{a^m}{a^n} = a^{m-n}$.
->> **Contoh :** Berapakah $\frac{2^5}{2^3}$ ?
+> **Sifat-2** Jika $ a $ bilangan real dan $a \not = 0$, $m$ dan $n$ bilangan bulat positif maka $\cfrac{a^m}{a^n} = a^{m-n}$.
+>> **Contoh :** Berapakah $\cfrac{2^5}{2^3}$ ?
 {{< admonition tip "Pembahasan" >}}
 $$  \begin{aligned}  \frac{2^5}{2^3} &= 2^{5-3} \\\\  &= 2^2 \\\\ &= 4  \end{aligned} $$
 {{< /admonition >}}
@@ -74,40 +74,36 @@ $$  \begin{aligned}  \left(3^2 \right)^3 &= 3^{(2 \times 3)} \\\\  &= 3^6 \end{a
 {{< /admonition >}}
 
 ### 1.5 Pangkat Pecahan
-> **Definisi 1.5** Misalkan $a$ bilangan real dan $a \not = 0, m$ dan $n$ bilangan bulat positif maka $a^{\frac{m}{n}} = \left({a}^\frac{1}{n}\right)^m$.
+> **Definisi 1.5** Misalkan $a$ bilangan real dan $a \not = 0, m$ dan $n$ bilangan bulat positif maka $a^{\cfrac{m}{n}} = \left({a}^\cfrac{1}{n}\right)^m$.
 \
 > **Definisi 1.6** Misalkan $a$ bilangan real dan $a \not = 0$ dengan $a>0, \frac{p}{q}$ adalah bilangan pecahan $q \not = 0, q \ge 2$.
 \
 $a^{\frac{p}{q}}=c$, sehingga $c=\sqrt[q]{a^p}$
 ---
-> **Sifat-4** Misalkan $a$ adalah bilangan real dan $a \not = 0$, dengan $a>0, \frac{p}{n}$ dan $\frac{m}{n}$ adalah bilangan pecahan $n \not = 0$.
-Jika $n, q \ge 2$, maka $\left(a^{\frac{m}{n}}\right)\left(a^{\frac{p}{n}}\right)=\left(a^{\frac{m+p}{n}}\right)$.
+> **Sifat-4** Misalkan $a$ adalah bilangan real dan $a \not = 0$, dengan $a>0, \cfrac{p}{n}$ dan $\cfrac{m}{n}$ adalah bilangan pecahan $n \not = 0$.
+Jika $n, q \ge 2$, maka $\left(a^{\cfrac{m}{n}}\right)\left(a^{\cfrac{p}{n}}\right)=\left(a^{\cfrac{m+p}{n}}\right)$.
 ___
-> **Sifat-5** Jika $a$ adalah bilangan real dan $a \not = 0$ dengan $a>0, \frac{m}{n}$ dan $\frac{p}{q}$ bilangan pecahan $q, n\not=0$, maka $\left(a^{\frac{m}{n}}\right)\left(a^{\frac{p}{q}}\right)=\left(a^{\frac{m}{n}+\frac{p}{q}}\right)$.
+> **Sifat-5** Jika $a$ adalah bilangan real dan $a \not = 0$ dengan $a>0, \cfrac{m}{n}$ dan $\cfrac{p}{q}$ bilangan pecahan $q, n\not=0$, maka $\left(a^{\cfrac{m}{n}}\right)\left(a^{\cfrac{p}{q}}\right)=\left(a^{\cfrac{m}{n}+\cfrac{p}{q}}\right)$.
 
 ### 1.6 Kuis
 {{< admonition question "1. Sederhanakanlah operasi bilangan berpangkat berikut:" >}}
-[x] $2^5 \times 2^9 \times 2^{12}=$
-
-[x] $\cfrac{2^5 \times 3^5 \times 4^2}{12^2}=$
+- [x] $2^5 \times 2^9 \times 2^{12}=$
+- [x] $\cfrac{2^5 \times 3^5 \times 4^2}{12^2}=$
 {{< /admonition >}}
 
 {{< admonition question "2. Dengan menggunakan sifat bilangan berpangkat, sederhanakanlah bentuk berikut:" >}}
-[x] $2x^3 \times 7x^4 \times (3x)^2$
-
-[x] $\cfrac{-4a^3 \times 2b^5}{\cfrac{8a}{b}}$
+- [x] $2x^3 \times 7x^4 \times (3x)^2=$
+- [x] $\cfrac{-4a^3 \times 2b^5}{\cfrac{8a}{b}}=$
 {{< /admonition >}}
 
 {{< admonition question "3. Hitunglah hasil operasi bilangan berpangkat berikut:" >}}
-[x] $\left(-\cfrac{2}{3} \right)^4 \times \left(\cfrac{1}{2} - \cfrac{1}{6} \right)^2$
-
-[x] $\cfrac{3x^2 \times y^3}{24x} \times (2y)^2$ untuk $x=2$ dan $y=3$
+- [x] $\left(-\cfrac{2}{3} \right)^4 \times \left(\cfrac{1}{2} - \cfrac{1}{6} \right)^2$
+- [x] $\cfrac{3x^2 \times y^3}{24x} \times (2y)^2$ untuk $x=2$ dan $y=3$
 {{< /admonition >}}
 
 {{< admonition question "4. Tentukan nilai $x$ yang memenuhi:" >}}
-[x] $2^x = 8$
-
-[x] $4^x = 0,125$
+- [x] $2^x = 8$
+- [x] $4^x = 0,125$
 {{< /admonition >}}
 
 

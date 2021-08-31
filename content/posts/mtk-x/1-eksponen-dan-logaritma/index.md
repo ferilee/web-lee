@@ -67,7 +67,7 @@ $$  \begin{aligned}  \frac{2^5}{2^3} &= 2^{5-3} \\\\  &= 2^2 \\\\ &= 4  \end{ali
 > **Sifat-3** Jika $a$ bilangan real dan $a \not = 0$, $m$ dan $n$ bilangan bulat positif maka $\left(a^m \right)^n = a^{mn}$.
 >> **Contoh :** Berapakah $\left(3^2 \right)^3$ ?
 {{< admonition tip "Pembahasan" >}}
-$$  \begin{aligned}  \left(3^2 \right)^3=3^{(2 \times 3)} \\\\  &= 3^6 \\\\ \end{aligned} $$
+$$  \begin{aligned}  \left(3^2 \right)^3=3^{(2 \times 3)} \\\\  &= 3^6 \end{aligned} $$
 {{< /admonition >}}
 
 ### 1.5 Pangkat Pecahan
@@ -96,6 +96,14 @@ ___
 ### 2.4 Konsep Logaritma
 ### 2.5 Sifat-sifat Logaritma
 ### 2.6 Kuis
+1. Lorem ipsum dolor sit amet
+  * Consectetur adipiscing elit
+  * Integer molestie lorem at massa
+1. Facilisis in pretium nisl aliquet
+1. Nulla volutpat aliquam velit
+  * Faucibus porta lacus fringilla vel
+1. Aenean sit amet erat nunc
+1. Eget porttitor lorem
 
 <!--- Placeholder
 > **Title** description.

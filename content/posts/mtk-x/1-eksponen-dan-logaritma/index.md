@@ -117,16 +117,21 @@ Kerjakan soal-soal kuis berikut di kertas kemudian hasil jawaban dikirimkan dala
 ### 2.1 Bentuk akar
 Pengakaran (penarikan akar) suatu bilangan merupakan inversi dari pemangkatan suatu bilangan. Dengan kata lain **akar** adalah kebalikan dari **bilangan berpangkat**. Akar dilambangkan dengan notasi "$\sqrt{}$".
 > **Definisi 1.7** Misalkan $a$ bilangan real dan $n$ bilangan bulat positif. $\sqrt[n]{a}$ disebut bentuk akar jika dan hanya jika hasil $\sqrt[n]{a}$ adalah bilangan irrasional.
->> Bilangan irrasional yang menggunakan tanda akar ($\sqrt{}$) dinamakan _bentuk akar_. Tetapi tidak semua bilangan yang Berada dalam tanda akar merupakan bilangan irrasional. Contoh: $\sqrt{25}$ dan $\sqrt{64}$ bukan termasuk bentuk akar, karena jika disederhanakan $\sqrt{25}$ menjadi 5 dan $\sqrt{64}$ menjadi 8, keduanya bukan bilangan irrasional.
+>> Bilangan irrasional yang menggunakan tanda akar ($\sqrt{}$) dinamakan _bentuk akar_. Tetapi tidak semua bilangan yang Berada dalam tanda akar merupakan bilangan irrasional.
+\
+Contoh: $\sqrt{25}$ dan $\sqrt{64}$ bukan termasuk bentuk akar, karena jika disederhanakan $\sqrt{25}$ menjadi 5 dan $\sqrt{64}$ menjadi 8, keduanya bukan bilangan irrasional.
 
-### 2.2 Hubungan Bentuk Akar dan Bilangan Berpangkat
-### 2.3 Operasi pada Bentuk akar
-#### 2.3.1 Operasi Penjumlahan dan Pengurangan Bentuk Akar
-#### 2.3.2 Operasi Perkalian dan Pembagian Bentuk Akar
-#### 2.3.3 Merasionalkan Penyebut Bentuk Akar
-### 2.4 Konsep Logaritma
-### 2.5 Sifat-sifat Logaritma
-### 2.6 Kuis
+### 2.2 Operasi pada Bentuk akar
+#### 2.2.1 Operasi Penjumlahan dan Pengurangan Bentuk Akar
+{\fcolorbox{red}{aqua}{$p\sqrt[n]{r}+q\sqrt[n]{r}=(p+q)\sqrt[n]{r}$}
+
+\fcolorbox{red}{aqua}{$p\sqrt[n]{r}+q\sqrt[n]{r}=(p+q)\sqrt[n]{r}$}}
+
+#### 2.2.2 Operasi Perkalian dan Pembagian Bentuk Akar
+#### 2.2.3 Merasionalkan Penyebut Bentuk Akar
+### 2.3 Konsep Logaritma
+### 2.4 Sifat-sifat Logaritma
+### 2.5 Kuis
 
 
 

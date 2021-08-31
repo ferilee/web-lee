@@ -86,18 +86,30 @@ ___
 > **Sifat-5** Jika $a$ adalah bilangan real dan $a \not = 0$ dengan $a>0, \frac{m}{n}$ dan $\frac{p}{q}$ bilangan pecahan $q, n\not=0$, maka $\left(a^{\frac{m}{n}}\right)\left(a^{\frac{p}{q}}\right)=\left(a^{\frac{m}{n}+\frac{p}{q}}\right)$.
 
 ### 1.6 Kuis
-1. Sederhanakanlah operasi bilangan berpangkat berikut:
-  - [x] $2^5 \times 2^9 \times 2^{12}=$
-  [x] $\cfrac{2^5 \times 3^5 \times 4^2}{12^2}=$
-2. Dengan menggunakan sifat bilangan berpangkat, sederhanakanlah bentuk berikut:
-  * $2x^3 \times 7x^4 \times (3x)^2$
-  * $\cfrac{-4a^3 \times 2b^5}{\cfrac{8a}{b}}$
-3. Hitunglah hasil operasi bilangan berpangkat berikut:
-  * $\left(-\cfrac{2}{3} \right)^4 \times \left(\cfrac{1}{2} - \cfrac{1}{6} \right)^2$
-  * $\cfrac{3x^2 \times y^3}{24x} \times (2y)^2$ untuk $x=2$ dan $y=3$
-4. Tentukan nilai $x$ yang memenuhi:
-  * $2^x = 8$
-  * $4^x = 0,125$
+{{< admonition question "1. Sederhanakanlah operasi bilangan berpangkat berikut:" >}}
+[x] $2^5 \times 2^9 \times 2^{12}=$
+
+[x] $\cfrac{2^5 \times 3^5 \times 4^2}{12^2}=$
+{{< /admonition >}}
+
+{{< admonition question "2. Dengan menggunakan sifat bilangan berpangkat, sederhanakanlah bentuk berikut:" >}}
+[x] $2x^3 \times 7x^4 \times (3x)^2$
+
+[x] $\cfrac{-4a^3 \times 2b^5}{\cfrac{8a}{b}}$
+{{< /admonition >}}
+
+{{< admonition question "3. Hitunglah hasil operasi bilangan berpangkat berikut:" >}}
+[x] $\left(-\cfrac{2}{3} \right)^4 \times \left(\cfrac{1}{2} - \cfrac{1}{6} \right)^2$
+
+[x] $\cfrac{3x^2 \times y^3}{24x} \times (2y)^2$ untuk $x=2$ dan $y=3$
+{{< /admonition >}}
+
+{{< admonition question "4. Tentukan nilai $x$ yang memenuhi:" >}}
+[x] $2^x = 8$
+
+[x] $4^x = 0,125$
+{{< /admonition >}}
+
 
 <!--- ---------------Logaritma-------------------- -->
 ## 2 LOGARITMA

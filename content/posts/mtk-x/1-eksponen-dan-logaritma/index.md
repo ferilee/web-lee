@@ -88,7 +88,7 @@ ___
 ### 1.6 Kuis
 > **Petunjuk Kuis**
 \
-Kerjakan soal-soal kuis berikut di kertas kemudian hasil jawaban dikirimkan dalam bentuk PDF $\to$ {{< link "https://forms.gle/Mz3byTjp6N6dhdSM9" Tugas "Form Pengumpulan Tugas!" >}}. {{< link href="https://forms.gle/Mz3byTjp6N6dhdSM9" content=Tugas title="Form Pengumpulan Tugas" >}}
+Kerjakan soal-soal kuis berikut di kertas kemudian hasil jawaban dikirimkan dalam bentuk PDF $\to$ {{< link "https://forms.gle/Mz3byTjp6N6dhdSM9" Kumpulkan di sini "Form Pengumpulan Tugas!" >}}
 
 {{< admonition question "1. Sederhanakanlah operasi bilangan berpangkat berikut:" >}}
 - [x] $2^5 \times 2^9 \times 2^{12}=$
@@ -110,6 +110,7 @@ Kerjakan soal-soal kuis berikut di kertas kemudian hasil jawaban dikirimkan dala
 - [x] $4^x = 0,125$
 {{< /admonition >}}
 
+{{< image src="/assets/images/avatar.webp" caption="avatar (`image`)" >}}
 
 <!--- ---------------Logaritma-------------------- -->
 ## 2 LOGARITMA

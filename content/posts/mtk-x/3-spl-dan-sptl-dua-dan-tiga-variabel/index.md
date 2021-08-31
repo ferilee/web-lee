@@ -2,6 +2,8 @@
 title: "3 Sistem Persamaan Linear dan Sistem Pertidaksamaan Linear Dua dan Tiga Variabel"
 date: 2021-08-22T19:33:55+07:00
 author: "Ferilee"
+draft: true
+
 authorLink: "https://t.me/ferilee"
 description: ""
 resources:

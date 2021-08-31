@@ -3,6 +3,8 @@ title: "4 Program Linear"
 date: 2021-08-22T19:33:55+07:00
 author: "Ferilee"
 authorLink: "https://t.me/ferilee"
+draft: true
+
 description: ""
 resources:
 - name: "featured-image"

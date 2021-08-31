@@ -110,6 +110,9 @@ ___
 <!--- ---------------Logaritma-------------------- -->
 ## 2 LOGARITMA
 ### 2.1 Bentuk akar
+Pengakaran (penarikan akar) suatu bilangan merupakan inversi dari pemangkatan suatu bilangan. Dengan kata lain akar adalah kebalikan dari bilangan berpangkat. Akar dilambangkan dengan notasi "\sqrt{}".
+> **Definisi 1.7** Misalkan $a$ bilangan real dan $n$ bilangan bulat positif. $\sqrt[n]{a}$ disebut bentuk akar jika dan hanya jika hasil $\sqrt[n]{a}$ adalah bilangan irrasional.
+
 ### 2.2 Hubungan Bentuk Akar dan Bilangan Berpangkat
 ### 2.3 Operasi pada Bentuk akar
 #### 2.3.1 Operasi Penjumlahan dan Pengurangan Bentuk Akar

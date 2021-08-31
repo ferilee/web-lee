@@ -101,7 +101,7 @@ ___
 
 ### Kuis
 
-\\()
+\\(
   \begin{aligned}
   a &= b+c \\\\
   &= d+f

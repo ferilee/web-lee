@@ -78,7 +78,7 @@ $$  \begin{aligned}  \left(3^2 \right)^3 &= 3^{(2 \times 3)} \\\\  &= 3^6 \end{a
 \
 > **Definisi 1.6** Misalkan $a$ bilangan real dan $a \not = 0$ dengan $a>0, \frac{p}{q}$ adalah bilangan pecahan $q \not = 0, q \ge 2$.
 \
-$a^{\dfrac{p}{q}}=c$, sehingga $c=\sqrt[q]{a^p}$
+$a^{\tfrac{p}{q}}=c$, sehingga $c=\sqrt[q]{a^p}$
 ---
 > **Sifat-4** Misalkan $a$ adalah bilangan real dan $a \not = 0$, dengan $a>0, \cfrac{p}{n}$ dan $\cfrac{m}{n}$ adalah bilangan pecahan $n \not = 0$.
 Jika $n, q \ge 2$, maka $\left(a^{\frac{m}{n}}\right)\left(a^{\frac{p}{n}}\right)=\left(a^{\frac{m+p}{n}}\right)$.

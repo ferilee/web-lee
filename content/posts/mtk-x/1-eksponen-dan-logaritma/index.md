@@ -87,13 +87,17 @@ ___
 
 ### 1.6 Kuis
 1. Sederhanakanlah operasi bilangan berpangkat berikut:
-  a. $2^5 \times 2^9 \times 2^12$
-  b. $\frac{2^5 \times 3^5 \times 4^2}{12^2}$
+  * $2^5 \times 2^9 \times 2^12$
+  * $\frac{2^5 \times 3^5 \times 4^2}{12^2}$
 2. Dengan menggunakan sifat bilangan berpangkat, sederhanakanlah bentuk berikut:
-  a. $2x^3 \times 7x^4 \times (3x)^2$
-  b. $\frac{-4a^3 \times 2b^5}{\frac{8a}{b}}$
-3. Nulla volutpat aliquam velit
-  * Faucibus porta lacus fringilla vel
+  * $2x^3 \times 7x^4 \times (3x)^2$
+  * $\frac{-4a^3 \times 2b^5}{\frac{8a}{b}}$
+3. Hitunglah hasil operasi bilangan berpangkat berikut:
+  * $\left(-{frac{2}{3}} \right)^4 \times \left(\frac{1}{2} - \frac{1}{6} \right)^2$
+  * $\frac{3x^2 \times y^3}{24x} \times (2y)^2$ untuk $x=2$ dan $y=3$
+4. Tentukan nilai $x$ yang memenuhi:
+  * $2^x = 8$
+  * $4^x = 0,125$
 
 <!--- ---------------Logaritma-------------------- -->
 ## 2 LOGARITMA

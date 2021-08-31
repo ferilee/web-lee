@@ -26,16 +26,17 @@ Discover what the Hugo - **FeelIt** theme is all about and the core-concepts beh
 ## 1 EKSPONEN
 ### 1.1 Konsep Eksponen
 > **Definisi 1.1** Misalkan $ a $ bilangan real dan $ n $ bilangan bulat positif. $ a^n $ adalah hasil kali bilangan $ a $ sebanyak $ n $ faktor, dapat ditulis $ a^n = \underbrace{a \times a \times a \times ... \times a}_{\text{n faktor}} $ dengan $ a $ sebagai basis bilangan pokok dan $ n $ sebagai pangkat.
->> **Contoh 1.1 :** $ a^3 = a \times a \times a $
+>> **Contoh 1.1 :** $ 4^3 = 4 \times 4 \times 4 $
 {{< admonition tip "Pembahasan" >}}
-Pembahasan ditulis di sini
+$$  \begin{aligned}  4^3 &= 4 \times 4 \times 4 \\\\  &= 64  \end{aligned} $$
 {{< /admonition >}}
 
 > **Definisi 1.2**
 >> Fungsi Eksponen adalah suatu fungsi yang dinyatakan dalam bentuk $ y = f(x) = a(b^{cx}) $ dengan $ a, b, $ dan $ c $ bilangan real.
 {{< admonition note "Keterangan" >}}
-$x$ adalah variabel \\\\
-$b$ adalah bilangan pokok atau basis \\\\
+$x$ adalah variabel \\\
+$b$ adalah bilangan pokok atau basis \
+
 $c$ adalah koefisien $x$ \\\\
 $cx$ adalah eksponen dari $b$
 {{< /admonition >}}
@@ -67,7 +68,7 @@ $$  \begin{aligned}  \frac{2^5}{2^3} &= 2^{5-3} \\\\  &= 2^2 \\\\ &= 4  \end{ali
 > **Sifat-3** Jika $a$ bilangan real dan $a \not = 0$, $m$ dan $n$ bilangan bulat positif maka $\left(a^m \right)^n = a^{mn}$.
 >> **Contoh :** Berapakah $\left(3^2 \right)^3$ ?
 {{< admonition tip "Pembahasan" >}}
-$$  \begin{aligned}  \left(3^2 \right)^3=3^{(2 \times 3)} \\\\  &= 3^6 \end{aligned} $$
+$$  \begin{aligned}  \left(3^2 \right)^3 &= 3^{(2 \times 3)} \\\\  &= 3^6 \end{aligned} $$
 {{< /admonition >}}
 
 ### 1.5 Pangkat Pecahan

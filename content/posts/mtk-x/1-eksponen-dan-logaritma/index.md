@@ -74,16 +74,16 @@ $$  \begin{aligned}  \left(3^2 \right)^3 &= 3^{(2 \times 3)} \\\\  &= 3^6 \end{a
 {{< /admonition >}}
 
 ### 1.5 Pangkat Pecahan
-> **Definisi 1.5** Misalkan $a$ bilangan real dan $a \not = 0, m$ dan $n$ bilangan bulat positif maka $a^{\cfrac{m}{n}} = \left({a}^\cfrac{1}{n}\right)^m$.
+> **Definisi 1.5** Misalkan $a$ bilangan real dan $a \not = 0, m$ dan $n$ bilangan bulat positif maka $a^{\frac{m}{n}} = \left({a}^\frac{1}{n}\right)^m$.
 \
 > **Definisi 1.6** Misalkan $a$ bilangan real dan $a \not = 0$ dengan $a>0, \frac{p}{q}$ adalah bilangan pecahan $q \not = 0, q \ge 2$.
 \
-$a^{\frac{p}{q}}=c$, sehingga $c=\sqrt[q]{a^p}$
+$a^{\dfrac{p}{q}}=c$, sehingga $c=\sqrt[q]{a^p}$
 ---
 > **Sifat-4** Misalkan $a$ adalah bilangan real dan $a \not = 0$, dengan $a>0, \cfrac{p}{n}$ dan $\cfrac{m}{n}$ adalah bilangan pecahan $n \not = 0$.
-Jika $n, q \ge 2$, maka $\left(a^{\cfrac{m}{n}}\right)\left(a^{\cfrac{p}{n}}\right)=\left(a^{\cfrac{m+p}{n}}\right)$.
+Jika $n, q \ge 2$, maka $\left(a^{\frac{m}{n}}\right)\left(a^{\frac{p}{n}}\right)=\left(a^{\frac{m+p}{n}}\right)$.
 ___
-> **Sifat-5** Jika $a$ adalah bilangan real dan $a \not = 0$ dengan $a>0, \cfrac{m}{n}$ dan $\cfrac{p}{q}$ bilangan pecahan $q, n\not=0$, maka $\left(a^{\cfrac{m}{n}}\right)\left(a^{\cfrac{p}{q}}\right)=\left(a^{\cfrac{m}{n}+\cfrac{p}{q}}\right)$.
+> **Sifat-5** Jika $a$ adalah bilangan real dan $a \not = 0$ dengan $a>0, \cfrac{m}{n}$ dan $\cfrac{p}{q}$ bilangan pecahan $q, n\not=0$, maka $\left(a^{\frac{m}{n}}\right)\left(a^{\frac{p}{q}}\right)=\left(a^{\frac{m}{n}+\frac{p}{q}}\right)$.
 
 ### 1.6 Kuis
 {{< admonition question "1. Sederhanakanlah operasi bilangan berpangkat berikut:" >}}

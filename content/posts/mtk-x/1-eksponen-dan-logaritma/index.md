@@ -134,11 +134,11 @@ $$  \begin{aligned}  3\sqrt{5}+4\sqrt{5} &= (3+4)\sqrt{5} \\\\  &= 7\sqrt{5} \en
 {{< admonition question "$\sqrt{5}+\sqrt{3}=$" >}}
 (tidak dapat disederhanakan karena akarnya tidak senama, $5 \not = 3$)
 {{< /admonition >}}
-{{< admonition question "$3\sqrt{5}+4\sqrt{5}=$" >}}
-$$  \begin{aligned}  3\sqrt{5}+4\sqrt{5} &= (3+4)\sqrt{5} \\\\  &= 7\sqrt{5} \end{aligned} $$
+{{< admonition question "$2\sqrt[3]{4}-3\sqrt[3]{4}=$" >}}
+$$  \begin{aligned}  2\sqrt[3]{4}-3\sqrt[3]{4} &= (2-3)\sqrt[3]{4} \\\\  &= -\sqrt[3]{4} \end{aligned} $$
 {{< /admonition >}}
-{{< admonition question "$3\sqrt{5}+4\sqrt{5}=$" >}}
-$$  \begin{aligned}  3\sqrt{5}+4\sqrt{5} &= (3+4)\sqrt{5} \\\\  &= 7\sqrt{5} \end{aligned} $$
+{{< admonition question "$3\sqrt[3]{x}-\sqrt[3]{x}=$" >}}
+$$  \begin{aligned}  3\sqrt[3]{x}-\sqrt[3]{x} &= (3-1)\sqrt[3]{x} \\\\  &= 2\sqrt[3]{x} \end{aligned} $$
 {{< /admonition >}}
 
 #### 2.2.2 Operasi Perkalian dan Pembagian Bentuk Akar

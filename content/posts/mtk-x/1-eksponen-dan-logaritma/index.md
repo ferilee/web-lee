@@ -23,7 +23,8 @@ Discover what the Hugo - **FeelIt** theme is all about and the core-concepts beh
 
 <!--more-->
 
-## Konsep Eksponen
+## EKSPONEN
+### Konsep Eksponen
 > **Definisi 1.1** Misalkan $ a $ bilangan real dan $ n $ bilangan bulat positif. $ a^n $ adalah hasil kali bilangan $ a $ sebanyak $ n $ faktor, dapat ditulis $ a^n = \underbrace{a \times a \times a \times ... \times a}_{\text{n faktor}} $ dengan $ a $ sebagai basis bilangan pokok dan $ n $ sebagai pangkat.
 >> **Contoh 1.1 :** $ a^3 = a \times a \times a $
 {{< admonition tip "Pembahasan" >}}
@@ -42,7 +43,7 @@ $ c $ adalah koefisien $ x $
 $ cx $ adalah eksponen dari $ b $
 {{< /admonition >}}
 
-## Pangkat Bulat Negatif
+### Pangkat Bulat Negatif
 > **Definisi 1.3** Untuk $ a $ bilangan real dan $ a \not = 0, m $ bilangan bulat positif, didefinisikan dengan $ a^{-m} = \left(\vcenter{\hbox{$\frac{1}a$}}\right)^m $
 >> **Contoh 1.3 :** Jika nilai $ x = -2 $ dan $ y = 2 $, tentukan nilai $ x^{-3}\left(y^4\right)! $
 {{< admonition tip "Pembahasan" >}}
@@ -61,11 +62,11 @@ $ =\frac{16}{-8} $
 $ = -2 $
 {{< /admonition >}}
 
-## Pangkat Nol
+### Pangkat Nol
 > **Definisi 1.4** Untuk $ a $ bilangan real dan $ a \not = 0 $ , maka $ a^0 = 1 $
 >> **Contoh 1.4 :** $ 2^0 = 1, 5^0=1, \left(\frac{2}{3}\right)^0=1 $
 
-## Sifat-sifat Pangkat Bulat Positif
+### Sifat-sifat Pangkat Bulat Positif
 > **Sifat-1** Jika $ a $ bilangan real, $m$ dan $n$ bilangan bulat positif maka $a^m \times a^n = a^{m+n}$.
 >> **Contoh :** Berapakah $2^4 \times 2^3$ ?
 {{< admonition tip "Pembahasan" >}}
@@ -86,7 +87,7 @@ $\left(3^2 \right)^3=3^{(2 \times 3)}$
 $=3^6$
 {{< /admonition >}}
 
-## Pangkat Pecahan
+### Pangkat Pecahan
 > **Definisi 1.5** Misalkan $a$ bilangan real dan $a \not = 0, m$ dan $n$ bilangan bulat positif maka $a^{\frac{m}{n}} = \left({a}^\frac{1}{n}\right)^m$.
 \
 > **Definisi 1.6** Misalkan $a$ bilangan real dan $a \not = 0$ dengan $a>0, \frac{p}{q}$ adalah bilangan pecahan $q \not = 0, q \ge 2$.
@@ -96,7 +97,7 @@ $a^{\frac{p}{q}}=c$, sehingga $c=\sqrt[q]{a^p}$
 > **Sifat-4** Misalkan $a$ adalah bilangan real dan $a \not = 0$, dengan $a>0, \frac{p}{n}$ dan $\frac{m}{n}$ adalah bilangan pecahan $n \not = 0$.
 Jika $n, q \ge 2$, maka $\left(a^{\frac{m}{n}}\right)\left(a^{\frac{p}{n}}\right)=\left(a^{\frac{m+p}{n}}\right)$.
 ___
-> **Sifat-5** Jika $a$ adalah bilangan real dan $a \not = 0$ dengan $a>0, \frac{m}{n}$ dan $\frac{p}{q}$ bilangan pecahan $q, n\not=0$, maka $\left(a^{\frac{m}{n}}\right)\left(a^{\frac{p}{q}}\right)=\left(a^{\frac{m}{n}+\frac{p}{q}}\right))$.
+> **Sifat-5** Jika $a$ adalah bilangan real dan $a \not = 0$ dengan $a>0, \frac{m}{n}$ dan $\frac{p}{q}$ bilangan pecahan $q, n\not=0$, maka $\left(a^{\frac{m}{n}}\right)\left(a^{\frac{p}{q}}\right)=\left(a^{\frac{m}{n}+\frac{p}{q}}\right)$.
 
 
   \begin{split}

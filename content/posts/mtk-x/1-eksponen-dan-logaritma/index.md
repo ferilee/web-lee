@@ -123,8 +123,23 @@ Contoh: $\sqrt{25}$ dan $\sqrt{64}$ bukan termasuk bentuk akar, karena jika dise
 
 ### 2.2 Operasi pada Bentuk akar
 #### 2.2.1 Operasi Penjumlahan dan Pengurangan Bentuk Akar
+> Operasi penjumlahan dan pengurangan pada bentuk akar dapat dilakukan apabila bentuk akarnya senama. Bentuk akar senama adalah bentuk akar yang mempunyai eksponen dan basis sama.
 $$ {\fcolorbox{red}{aqua}{$p\sqrt[n]{r}+q\sqrt[n]{r}=(p+q)\sqrt[n]{r}$}} $$
 $$ {\fcolorbox{red}{aqua}{$p\sqrt[n]{r}-q\sqrt[n]{r}=(p-q)\sqrt[n]{r}$}} $$
+
+> **Contoh 1.6** Tentukan hasil penjumlahan dan pengurangan berikut dalam bentuk yang sederhana!
+{{< admonition question "$3\sqrt{5}+4\sqrt{5}=$" >}}
+$$  \begin{aligned}  3\sqrt{5}+4\sqrt{5} &= (3+4)\sqrt{5} \\\\  &= 7\sqrt{5} \end{aligned} $$
+{{< /admonition >}}
+{{< admonition question "$\sqrt{5}+\sqrt{3}=$" >}}
+(tidak dapat disederhanakan karena akarnya tidak senama, $5 \not = 3$)
+{{< /admonition >}}
+{{< admonition question "$3\sqrt{5}+4\sqrt{5}=$" >}}
+$$  \begin{aligned}  3\sqrt{5}+4\sqrt{5} &= (3+4)\sqrt{5} \\\\  &= 7\sqrt{5} \end{aligned} $$
+{{< /admonition >}}
+{{< admonition question "$3\sqrt{5}+4\sqrt{5}=$" >}}
+$$  \begin{aligned}  3\sqrt{5}+4\sqrt{5} &= (3+4)\sqrt{5} \\\\  &= 7\sqrt{5} \end{aligned} $$
+{{< /admonition >}}
 
 #### 2.2.2 Operasi Perkalian dan Pembagian Bentuk Akar
 #### 2.2.3 Merasionalkan Penyebut Bentuk Akar

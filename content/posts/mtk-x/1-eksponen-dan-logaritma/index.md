@@ -34,10 +34,12 @@ $$  \begin{aligned}  4^3 &= 4 \times 4 \times 4 \\\\  &= 64  \end{aligned} $$
 > **Definisi 1.2**
 >> Fungsi Eksponen adalah suatu fungsi yang dinyatakan dalam bentuk $ y = f(x) = a(b^{cx}) $ dengan $ a, b, $ dan $ c $ bilangan real.
 {{< admonition note "Keterangan" >}}
-$x$ adalah variabel \\\
-$b$ adalah bilangan pokok atau basis \
+$x$ adalah variabel
 
-$c$ adalah koefisien $x$ \\\\
+$b$ adalah bilangan pokok atau basis
+
+$c$ adalah koefisien $x$
+
 $cx$ adalah eksponen dari $b$
 {{< /admonition >}}
 
@@ -84,7 +86,14 @@ ___
 > **Sifat-5** Jika $a$ adalah bilangan real dan $a \not = 0$ dengan $a>0, \frac{m}{n}$ dan $\frac{p}{q}$ bilangan pecahan $q, n\not=0$, maka $\left(a^{\frac{m}{n}}\right)\left(a^{\frac{p}{q}}\right)=\left(a^{\frac{m}{n}+\frac{p}{q}}\right)$.
 
 ### 1.6 Kuis
-
+1. Sederhanakanlah operasi bilangan berpangkat berikut:
+  a. $2^5 \times 2^9 \times 2^12$
+  b. $\frac{2^5 \times 3^5 \times 4^2}{12^2}$
+2. Dengan menggunakan sifat bilangan berpangkat, sederhanakanlah bentuk berikut:
+  a. $2x^3 \times 7x^4 \times (3x)^2$
+  b. $\frac{-4a^3 \times 2b^5}{\frac{8a}{b}}$
+3. Nulla volutpat aliquam velit
+  * Faucibus porta lacus fringilla vel
 
 <!--- ---------------Logaritma-------------------- -->
 ## 2 LOGARITMA
@@ -97,14 +106,8 @@ ___
 ### 2.4 Konsep Logaritma
 ### 2.5 Sifat-sifat Logaritma
 ### 2.6 Kuis
-1. Lorem ipsum dolor sit amet
-  * Consectetur adipiscing elit
-  * Integer molestie lorem at massa
-1. Facilisis in pretium nisl aliquet
-1. Nulla volutpat aliquam velit
-  * Faucibus porta lacus fringilla vel
-1. Aenean sit amet erat nunc
-1. Eget porttitor lorem
+
+
 
 <!--- Placeholder
 > **Title** description.

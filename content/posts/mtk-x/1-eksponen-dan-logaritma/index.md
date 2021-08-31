@@ -86,11 +86,9 @@ ___
 > **Sifat-5** Jika $a$ adalah bilangan real dan $a \not = 0$ dengan $a>0, \cfrac{m}{n}$ dan $\cfrac{p}{q}$ bilangan pecahan $q, n\not=0$, maka $\left(a^{\frac{m}{n}}\right)\left(a^{\frac{p}{q}}\right)=\left(a^{\frac{m}{n}+\frac{p}{q}}\right)$.
 
 ### 1.6 Kuis
-> **Petunjuk Kuis** Kerjakan soal-soal kuis berikut di kertas kemudian hasil jawaban dikirimkan dalam bentuk PDF $\to$ {{< link "https://forms.gle/Mz3byTjp6N6dhdSM9" Drive Tugas "Form Pengumpulan Tugas!" >}}
-
-{{< admonition info "Petunjuk Kuis" >}}
-Kerjakan soal-soal kuis berikut di kertas kemudian hasil jawaban dikirimkan dalam bentuk PDF $\to$ {{< link "https://forms.gle/Mz3byTjp6N6dhdSM9" Drive Tugas "Form Pengumpulan Tugas!" >}}
-{{< /admonition >}}
+> **Petunjuk Kuis**
+\
+Kerjakan soal-soal kuis berikut di kertas kemudian hasil jawaban dikirimkan dalam bentuk PDF $\to$ {{< link "https://forms.gle/Mz3byTjp6N6dhdSM9" Tugas "Form Pengumpulan Tugas!" >}}. {{< link href="https://forms.gle/Mz3byTjp6N6dhdSM9" content=Tugas title="Form Pengumpulan Tugas" >}}
 
 {{< admonition question "1. Sederhanakanlah operasi bilangan berpangkat berikut:" >}}
 - [x] $2^5 \times 2^9 \times 2^{12}=$

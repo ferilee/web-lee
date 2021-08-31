@@ -123,7 +123,7 @@ Contoh: $\sqrt{25}$ dan $\sqrt{64}$ bukan termasuk bentuk akar, karena jika dise
 
 ### 2.2 Operasi pada Bentuk akar
 #### 2.2.1 Operasi Penjumlahan dan Pengurangan Bentuk Akar
-{\fcolorbox{red}{aqua}{$p\sqrt[n]{r}+q\sqrt[n]{r}=(p+q)\sqrt[n]{r}$}
+$$ {\fcolorbox{red}{aqua}{$p\sqrt[n]{r}+q\sqrt[n]{r}=(p+q)\sqrt[n]{r}$} $$
 
 \fcolorbox{red}{aqua}{$p\sqrt[n]{r}+q\sqrt[n]{r}=(p+q)\sqrt[n]{r}$}}
 

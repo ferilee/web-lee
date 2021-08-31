@@ -92,18 +92,17 @@ $=3^6$
 > **Definisi 1.6** Misalkan $a$ bilangan real dan $a \not = 0$ dengan $a>0, \frac{p}{q}$ adalah bilangan pecahan $q \not = 0, q \ge 2$.
 \
 $a^{\frac{p}{q}}=c$, sehingga $c=\sqrt[q]{a^p}$
-\
+---
 > **Sifat-4** Misalkan $a$ adalah bilangan real dan $a \not = 0$, dengan $a>0, \frac{p}{n}$ dan $\frac{m}{n}$ adalah bilangan pecahan $n \not = 0$.
-\
 Jika $n, q \ge 2$, maka $\left(a^{\frac{m}{n}}\right)\left(a^{\frac{p}{n}}\right)=\left(a^{\frac{m+p}{n}}\right)$.
+___
+> **Sifat-5** Jika $a$ adalah bilangan real dan $a \not = 0$ dengan $a>0, \frac{m}{n}$ dan $\frac{p}{q}$ bilangan pecahan $q, n\not=0$, maka $\left(a^{\frac{m}{n}}\right)\left(a^{\frac{p}{q}}\right)=\left(a^{\frac{m}{n}+\frac{p}{q}}\right))$.
 
-\\
+
   \begin{split}
   a &= b+c \\
   &= d+f
   \end{split}
-\\
-
 
 <!--- Placeholder
 > **Title** description.

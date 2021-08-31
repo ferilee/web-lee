@@ -88,10 +88,17 @@ $=3^6$
 
 ## Pangkat Pecahan
 > **Definisi 1.5** Misalkan $a$ bilangan real dan $a \not = 0, m$ dan $n$ bilangan bulat positif maka $a^{\frac{m}{n}} = \left({a}^\frac{1}{n}\right)^m$
+<<<<<<< HEAD
 \
 > **Definisi 1.6** Misalkan $a$ bilangan real dan $a \not = 0$ dengan $a>0, \frac{p}{q}$ adalah bilangan pecahan $q \not = 0, q \ge 2.$
 \
 $a^{\frac{p}{q}}=c,$ sehingga $c=\sqrt[q]{a^p}$
+=======
+\\
+> **Definisi 1.6** Misalkan $a$ bilangan real dan $a \not = 0$ dengan $a>0, \frac{p}{q}$ adalah bilangan pecahan $q \not = 0, q \ge 2.
+\\
+a^{\frac{p}{q}}=c,$ sehingga $c=\sqrt[q]{a^p}$
+>>>>>>> 489f15e51b7502994697efd5b6ec518baa7b6b74
 
 \\
   \begin{split}

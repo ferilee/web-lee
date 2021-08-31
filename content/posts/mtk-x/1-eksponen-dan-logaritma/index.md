@@ -34,32 +34,20 @@ Pembahasan ditulis di sini
 > **Definisi 1.2**
 >> Fungsi Eksponen adalah suatu fungsi yang dinyatakan dalam bentuk $ y = f(x) = a(b^{cx}) $ dengan $ a, b, $ dan $ c $ bilangan real.
 {{< admonition note "Keterangan" >}}
-$ x $ adalah variabel
-
-$ b $ adalah bilangan pokok atau basis
-
-$ c $ adalah koefisien $ x $
-
-$ cx $ adalah eksponen dari $ b $
+$ x $ adalah variabel \\
+$ b $ adalah bilangan pokok atau basis \\
+$ c $ adalah koefisien $ x $ \\
+$ cx $ adalah eksponen dari $ b $ \\
 {{< /admonition >}}
 
 ### Pangkat Bulat Negatif
 > **Definisi 1.3** Untuk $ a $ bilangan real dan $ a \not = 0, m $ bilangan bulat positif, didefinisikan dengan $ a^{-m} = \left(\vcenter{\hbox{$\frac{1}a$}}\right)^m $
 >> **Contoh 1.3 :** Jika nilai $ x = -2 $ dan $ y = 2 $, tentukan nilai $ x^{-3}\left(y^4\right)! $
 {{< admonition tip "Pembahasan" >}}
-$ x^{-3}\left(y^4\right)=\left(\vcenter{\hbox{$\frac{1}x$}}\right)^3\left(y^4\right) $
+$$  \begin{aligned} x^{-3}\left(y^4\right) &= \left(\vcenter{\hbox{$\frac{1}x$}}\right)^3\left(y^4\right) \\\\ &= \left(\frac{1^3}{x^3} \right).\left(y^4 \right) \\\\ &= \left(\frac{1}{x^3} \right).\left(y^4 \right) \\\\ &= \frac{y^4}{x^3} \\\\ &= \frac{2^4}{(-2)^3} \\\\ &= \frac{16}{-8} &= -2 \end{aligned} $$
 
-$ =\left(\frac{1^3}{x^3} \right).\left(y^4 \right) $
+$$  \begin{aligned}  a &= b+c \\\\  &= d+f  \end{aligned} $$
 
-$ =\left(\frac{1}{x^3} \right).\left(y^4 \right) $
-
-$ =\frac{y^4}{x^3} $
-
-$ =\frac{2^4}{(-2)^3} $
-
-$ =\frac{16}{-8} $
-
-$ = -2 $
 {{< /admonition >}}
 
 ### Pangkat Nol
@@ -101,33 +89,7 @@ ___
 
 ### Kuis
 
-\begin{align*}
-a &= b + c\\
- &= d \\
-\end{align*}
-
-\\(
-  \begin{aligned}
-  a &= b+c \\\\
-  &= d+f
-  \end{aligned}
-\\)
-
 $$  \begin{aligned}  a &= b+c \\\\  &= d+f  \end{aligned} $$
-
-\(
-  \begin{split}
-  a &= b+c \\
-  &= d+f
-  \end{split}
-\)
-
-\[
-  \begin{split}
-  a &= b+c \\
-  &= d+f
-  \end{split}
-\]
 
 <!--- ---------------Logaritma-------------------- -->
 ## LOGARITMA

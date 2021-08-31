@@ -99,11 +99,25 @@ Jika $n, q \ge 2$, maka $\left(a^{\frac{m}{n}}\right)\left(a^{\frac{p}{n}}\right
 ___
 > **Sifat-5** Jika $a$ adalah bilangan real dan $a \not = 0$ dengan $a>0, \frac{m}{n}$ dan $\frac{p}{q}$ bilangan pecahan $q, n\not=0$, maka $\left(a^{\frac{m}{n}}\right)\left(a^{\frac{p}{q}}\right)=\left(a^{\frac{m}{n}+\frac{p}{q}}\right)$.
 
+### Kuis
+
 
   \begin{split}
   a &= b+c \\
   &= d+f
   \end{split}
+
+<!--- ---------------Logaritma-------------------- -->
+## LOGARITMA
+### Bentuk akar
+### Hubungan Bentuk Akar dan Bilangan Berpangkat
+### Operasi pada Bentuk akar
+#### Operasi Penjumlahan dan Pengurangan Bentuk Akar
+#### Operasi Perkalian dan Pembagian Bentuk Akar
+#### Merasionalkan Penyebut Bentuk Akar
+### Konsep Logaritma
+### Sifat-sifat Logaritma
+### Kuis
 
 <!--- Placeholder
 > **Title** description.

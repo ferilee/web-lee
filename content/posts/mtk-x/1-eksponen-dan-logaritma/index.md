@@ -55,29 +55,19 @@ $$  \begin{aligned} x^{-3}\left(y^4\right) &= \left(\vcenter{\hbox{$\frac{1}x$}}
 > **Sifat-1** Jika $ a $ bilangan real, $m$ dan $n$ bilangan bulat positif maka $a^m \times a^n = a^{m+n}$.
 >> **Contoh :** Berapakah $2^4 \times 2^3$ ?
 {{< admonition tip "Pembahasan" >}}
-$$  \begin{aligned}  
-2^4 \times 2^3 &= 2^{4+3} \\\\  
-&= 2^7  
-\end{aligned} $$
+$$  \begin{aligned}  2^4 \times 2^3 &= 2^{4+3} \\\\  &= 2^7  \end{aligned} $$
 {{< /admonition >}}
 
 > **Sifat-2** Jika $ a $ bilangan real dan $a \not = 0$, $m$ dan $n$ bilangan bulat positif maka $\frac{a^m}{a^n} = a^{m-n}$.
 >> **Contoh :** Berapakah $\frac{2^5}{2^3}$ ?
 {{< admonition tip "Pembahasan" >}}
-$$  \begin{aligned}  
-\frac{2^5}{2^3} &= 2^{5-3} \\\\  
-&= 2^2 \\\\
-&= 4  
-\end{aligned} $$
+$$  \begin{aligned}  \frac{2^5}{2^3} &= 2^{5-3} \\\\  &= 2^2 \\\\ &= 4  \end{aligned} $$
 {{< /admonition >}}
 
 > **Sifat-3** Jika $a$ bilangan real dan $a \not = 0$, $m$ dan $n$ bilangan bulat positif maka $\left(a^m \right)^n = a^{mn}$.
 >> **Contoh :** Berapakah $\left(3^2 \right)^3$ ?
 {{< admonition tip "Pembahasan" >}}
-$$  \begin{aligned}  
-\left(3^2 \right)^3=3^{(2 \times 3)} \\\\  
-&= 3^6 \\\\
-\end{aligned} $$
+$$  \begin{aligned}  \left(3^2 \right)^3=3^{(2 \times 3)} \\\\  &= 3^6 \\\\ \end{aligned} $$
 {{< /admonition >}}
 
 ### 1.5 Pangkat Pecahan

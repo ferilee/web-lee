@@ -89,7 +89,13 @@ $=3^6$
 ## Pangkat Pecahan
 > **Definisi 1.5** Misalkan $a$ bilangan real dan $a \not = 0, m$ dan $n$ bilangan bulat positif maka $a^{\frac{m}{n}} = \left({a}^\frac{1}{n}\right)^m$.
 \
-> **Definisi 1.6** Misalkan $a$ bilangan real dan $a \not = 0$ dengan $a>0, \frac{p}{q}$ adalah bilangan pecahan $q \not = 0, q \ge 2$. $a^{\frac{p}{q}}=c$, sehingga $c=\sqrt[q]{a^p}$
+> **Definisi 1.6** Misalkan $a$ bilangan real dan $a \not = 0$ dengan $a>0, \frac{p}{q}$ adalah bilangan pecahan $q \not = 0, q \ge 2$.
+\
+$a^{\frac{p}{q}}=c$, sehingga $c=\sqrt[q]{a^p}$
+\
+> **Sifat-4** Misalkan $a$ adalah bilangan real dan $a \not = 0$, dengan $a>0, \frac{p}{n}$ dan $\frac{m}{n}$ adalah bilangan pecahan $n \not = 0$.
+\
+Jika $n, q \ge 2$, maka $\left(a^{\frac{m}{n}}\right)\left(a^{\frac{p}{n}}\right)=\left(a^{\frac{m+p}{n}}\right)$.
 
 \\
   \begin{split}

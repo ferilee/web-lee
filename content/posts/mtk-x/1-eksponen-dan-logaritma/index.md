@@ -142,6 +142,24 @@ $$  \begin{aligned}  3\sqrt[3]{x}-\sqrt[3]{x} &= (3-1)\sqrt[3]{x} \\\\  &= 2\sqr
 {{< /admonition >}}
 
 #### 2.2.2 Operasi Perkalian dan Pembagian Bentuk Akar
+Sifat perkalian dan pembagian bentuk akar dapat dicermati pada beberapa contoh berikut:
+> **Contoh 1.7** Tentukan hasil perkalian dan pembagian berikut dalam bentuk yang sederhana!
+{{< admonition question "$\sqrt[3]{8}$" >}}
+$$  \begin{aligned} \sqrt[3]{8} &= \sqrt[3]{2^3} \\\\ &= 2^{\frac{3}{3}} \\\\ &= 2^1 \\\\ &= 2 \end{aligned} $$
+{{< /admonition >}}
+{{< admonition question "$\sqrt[6]{64}$" >}}
+$$  \begin{aligned} \sqrt[6]{64} &= \sqrt[6]{2^6} \\\\  &= 2^{\frac{6}{6}} \\\\ &= 2^1 \\\\ &= 2 \end{aligned} $$
+{{< /admonition >}}
+{{< admonition question "$4\sqrt[3]{5} \times 2\sqrt[3]{7}$" >}}
+$$  \begin{aligned} 4\sqrt[3]{5} \times 2\sqrt[3]{7} &= (4 \times 2)(\sqrt[3]{5 \times 7}) \\\\  &= 8 \sqrt[3]{35} \end{aligned} $$
+{{< /admonition >}}
+{{< admonition question "$3\sqrt[5]{5} \times 5\sqrt[7]{5}$" >}}
+$$  \begin{aligned} 3\sqrt[5]{5} \times 5\sqrt[7]{5} &= (3 \times 5)(5^{\cfrac{1}{5}} \times 5^{\cfrac{1}{7}}) \\\\  &= 15(5^{\cfrac{12}{35}}) \\\\ 15 \sqrt[35]{5^{12}} \end{aligned} $$
+{{< /admonition >}}
+{{< admonition question "$\cfrac{3\sqrt[3]{4}}{4\sqrt[3]{5}}$" >}}
+$$  \begin{aligned} \cfrac{3\sqrt[3]{4}}{4\sqrt[3]{5}} &= \cfrac{3}{4}\sqrt[3]{\cfrac{4}{5}} \end{aligned} $$
+{{< /admonition >}}
+
 #### 2.2.3 Merasionalkan Penyebut Bentuk Akar
 ### 2.3 Konsep Logaritma
 ### 2.4 Sifat-sifat Logaritma

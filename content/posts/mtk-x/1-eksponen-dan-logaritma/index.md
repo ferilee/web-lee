@@ -101,11 +101,12 @@ ___
 
 ### Kuis
 
-
-  \begin{split}
-  a &= b+c \\
+\\()
+  \begin{aligned}
+  a &= b+c \\\\
   &= d+f
-  \end{split}
+  \end{aligned}
+\\)
 
 <!--- ---------------Logaritma-------------------- -->
 ## LOGARITMA

@@ -30,6 +30,10 @@ Untuk sembarang segitiga $ABC$, dengan panjang sisi-sisi $a, b, c$ dan $\angle A
 $$ {\fcolorbox{red}{aqua}{${\cfrac{a}{sin A}}={\cfrac{b}{sin B}}={\cfrac{c}{sin C}}$}} $$
 {{< /admonition >}}
 
+> {{< admonition tip "Aturan Sinus" >}}
+Untuk sembarang segitiga $ABC$, dengan panjang sisi-sisi $a, b, c$ dan $\angle A, \angle B, \angle C$, berlaku:
+$$ {\fcolorbox{red}{aqua}{${\cfrac{a}{sin A}}={\cfrac{b}{sin B}}={\cfrac{c}{sin C}}$}} $$
+{{< /admonition >}}
 >> **Contoh 1 :** Perhatikan segitiga $ABC$ berikut. Panjang $AB=8, BC=8 \sqrt{2}, AC=b, \angle BAC=45 \degree , \angle ACB = y \degree $ dan $\angle ABC = x \degree $. Tentukan panjang $b$ !
 {{< admonition tip "Alternatif Penyelesaian" >}}
 Dengan menggunakan aturan sinus, maka diperoleh:

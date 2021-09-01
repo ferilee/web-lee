@@ -37,7 +37,7 @@ Jumlah ketiga sudut pada segitiga adalah $\angle A + \angle B + \angle C = 180\d
 * Dengan menggunakan aturan sinus kembali, maka diperoleh:
 $$ \begin{aligned} \cfrac{AC}{sin~x\degree}=\cfrac{AB}{sin~y\degree} &\iff \cfrac{b}{sin~105\degree} = \cfrac{8}{sin~30\degree} \\\\ &\iff \cfrac{b}{sin~105\degree} = \cfrac{8}{\frac{1}{2}} \\\\ &\iff \cfrac{b}{sin~105\degree} = 16 \\\\ &\iff b = 16.sin~105\degree \end{aligned} $$
 Dengan memanfaatkan tabel sinus atau kalkulator maka diperoleh:
-$$ \begin{aligned} b = 16.sin~105\degree = 16 \times 0,9659 \\\\ &= 15,4548 \end{aligned} $$
+$$ \begin{aligned} b &= 16.sin~105\degree \\\\ &= 16 \times 0,9659 \\\\ &= 15,4548 \end{aligned} $$
 Jadi, panjang sisi $AC$ adalah 15,4548 satuan panjang.
 {{< /admonition >}}
 

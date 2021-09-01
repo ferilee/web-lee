@@ -24,9 +24,9 @@ Discover what the Hugo - **FeelIt** theme is all about and the core-concepts beh
 <!--more-->
 
 ## 1 ATURAN SINUS
-> **Aturan Sinus** Untuk sembarang segitiga $ABC$, dengan panjang sisi-sisi $a, b, c$ dan $\angle A, \angle B, \angle C$, berlaku:
-{{< admonition tip "Pembahasan" >}}
-$$ {\fcolorbox{red}{aqua}{${\frac{a}{sin A}}={\frac{b}{sin B}}={\frac{c}{sin C}}$}} $$
+
+{{< admonition tip "**Aturan Sinus** Untuk sembarang segitiga $ABC$, dengan panjang sisi-sisi $a, b, c$ dan $\angle A, \angle B, \angle C$, berlaku:" >}}
+$$ {\fcolorbox{red}{aqua}{${\cfrac{a}{sin A}}={\cfrac{b}{sin B}}={\cfrac{c}{sin C}}$}} $$
 {{< /admonition >}}
 
 > **Definisi 1.2**

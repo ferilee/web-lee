@@ -25,13 +25,15 @@ Discover what the Hugo - **FeelIt** theme is all about and the core-concepts beh
 
 ## 1 ATURAN SINUS
 
-{{< admonition tip "Untuk sembarang segitiga $ABC$, dengan panjang sisi-sisi $a, b, c$ dan $\angle A, \angle B, \angle C$, berlaku:" >}}
+{{< admonition tip "Aturan Sinus" >}}
+Untuk sembarang segitiga $ABC$, dengan panjang sisi-sisi $a, b, c$ dan $\angle A, \angle B, \angle C$, berlaku:
 $$ {\fcolorbox{red}{aqua}{${\cfrac{a}{sin A}}={\cfrac{b}{sin B}}={\cfrac{c}{sin C}}$}} $$
 {{< /admonition >}}
 
 >> **Contoh 1 :** Perhatikan segitiga $ABC$ berikut. Panjang $AB=8, BC=8 \sqrt{2}, AC=b, \angle BAC=45 \degree , \angle ACB = y \degree $ dan $\angle ABC = x \degree $. Tentukan panjang $b$ !
-{{< admonition tip "Pembahasan" >}}
-$$  \begin{aligned} x^{-3}\left(y^4\right) &= \left(\vcenter{\hbox{$\cfrac{1}x$}}\right)^3\left(y^4\right) \\\\ &= \left(\cfrac{1^3}{x^3} \right).\left(y^4 \right) \\\\ &= \left(\cfrac{1}{x^3} \right).\left(y^4 \right) \\\\ &= \cfrac{y^4}{x^3} \\\\ &= \cfrac{2^4}{(-2)^3} \\\\ &= \cfrac{16}{-8} \\\\ &= -2 \end{aligned} $$
+{{< admonition tip "Alternatif Penyelesaian" >}}
+Dengan menggunakan aturan sinus, maka diperoleh:
+$$  \begin{aligned} \cfrac{BC}{sin A}=\cfrac{AB}{sin y\degree} &\iff \cfrac{8\sqrt{2}}{sin 45\degree}=\cfrac{8}{sin y\degree} \\\\ &\iff \cfrac{8\sqrt{2}}{\cfrac{1}{2}\sqrt{2}}=\cfrac{8}{sin y\degree} \\\\ &\iff 16=\cfrac{8}{sin y\degree} \\\\ &\iff sin y\degree=\cfrac{1}{2} \\\\ &\iff y\degree = 30\degree \end{aligned} $$
 {{< /admonition >}}
 
 ## 2 ATURAN COSINUS

@@ -1,5 +1,5 @@
 ---
-title: "1 Luas Segitiga"
+title: "1 Trigonometri"
 date: 2021-08-22T19:33:55+07:00
 author: "Ferilee"
 authorLink: "https://t.me/ferilee"
@@ -10,7 +10,7 @@ resources:
 - name: "featured-image-preview"
   src: "featured-image-preview.webp"
 
-tags: ["Luas Segitiga"]
+tags: ["Trigonometri"]
 categories: ["Matematika-XI"]
 
 lightgallery: true
@@ -23,25 +23,61 @@ Discover what the Hugo - **FeelIt** theme is all about and the core-concepts beh
 
 <!--more-->
 
-## Konsep Eksponen
-{{< admonition note "Definisi 1.1" >}}
-Misalkan a bilangan real dan n bilangan bulat positif.
-{{< /admonition >}}
-{{< admonition note "Definisi 1.2" >}}
-Fungsi Eksponen adalah suatu fungsi yang dinyatakan dalam bentuk .
-{{< /admonition >}}
-
-## Pangkat Bulat Negatif
-{{< admonition note "Definisi 1.3" >}}
-Misalkan a bilangan real dan n bilangan bulat positif.
+## 1 ATURAN SINUS
+> **Definisi 1.1** Misalkan $ a $ bilangan real dan $ n $ bilangan bulat positif. $ a^n $ adalah hasil kali bilangan $ a $ sebanyak $ n $ faktor, dapat ditulis $ a^n = \underbrace{a \times a \times a \times ... \times a}_{\text{n faktor}} $ dengan $ a $ sebagai basis bilangan pokok dan $ n $ sebagai pangkat.
+>> **Contoh 1.1 :** $ 4^3 = 4 \times 4 \times 4 $
+{{< admonition tip "Pembahasan" >}}
+$$  \begin{aligned}  4^3 &= 4 \times 4 \times 4 \\\\  &= 64  \end{aligned} $$
 {{< /admonition >}}
 
-## Pangkat Nol
-{{< admonition note "Definisi 1.4" >}}
-Misalkan a bilangan real dan n bilangan bulat positif.
+> **Definisi 1.2**
+>> Fungsi Eksponen adalah suatu fungsi yang dinyatakan dalam bentuk $ y = f(x) = a(b^{cx}) $ dengan $ a, b, $ dan $ c $ bilangan real.
+{{< admonition note "Keterangan" >}}
+$x$ adalah variabel
+
+$b$ adalah bilangan pokok atau basis
+
+$c$ adalah koefisien $x$
+
+$cx$ adalah eksponen dari $b$
 {{< /admonition >}}
 
-## Sifat-sifat Pangkat Bulat Positif
-{{< admonition note "Sifat-1" >}}
-Misalkan a bilangan real dan n bilangan bulat positif.
+## 2 ATURAN COSINUS
+> **Definisi 1.3** Untuk $ a $ bilangan real dan $ a \not = 0, m $ bilangan bulat positif, didefinisikan dengan $ a^{-m} = \left(\vcenter{\hbox{$\cfrac{1}a$}}\right)^m $
+>> **Contoh 1.3 :** Jika nilai $ x = -2 $ dan $ y = 2 $, tentukan nilai $ x^{-3}\left(y^4\right)! $
+{{< admonition tip "Pembahasan" >}}
+$$  \begin{aligned} x^{-3}\left(y^4\right) &= \left(\vcenter{\hbox{$\cfrac{1}x$}}\right)^3\left(y^4\right) \\\\ &= \left(\cfrac{1^3}{x^3} \right).\left(y^4 \right) \\\\ &= \left(\cfrac{1}{x^3} \right).\left(y^4 \right) \\\\ &= \cfrac{y^4}{x^3} \\\\ &= \cfrac{2^4}{(-2)^3} \\\\ &= \cfrac{16}{-8} \\\\ &= -2 \end{aligned} $$
 {{< /admonition >}}
+
+## 3 LUAS SEGITIGA
+> **Definisi 1.4** Untuk $ a $ bilangan real dan $ a \not = 0 $ , maka $ a^0 = 1 $
+>> **Contoh 1.4 :** $ 2^0 = 1, 5^0=1, \left(\cfrac{2}{3}\right)^0=1 $
+
+
+
+## 4 KUIS
+> **Petunjuk Kuis**
+\
+Kerjakan soal-soal kuis berikut di kertas kemudian hasil jawaban dikirimkan dalam bentuk PDF $\to$ {{< link "https://forms.gle/Mz3byTjp6N6dhdSM9" Form_Tugas "Form Pengumpulan Tugas!" >}}
+
+{{< admonition question "1. Sederhanakanlah operasi bilangan berpangkat berikut:" >}}
+- [x] $2^5 \times 2^9 \times 2^{12}=$
+- [x] $\cfrac{2^5 \times 3^5 \times 4^2}{12^2}=$
+{{< /admonition >}}
+
+{{< admonition question "2. Dengan menggunakan sifat bilangan berpangkat, sederhanakanlah bentuk berikut:" >}}
+- [x] $2x^3 \times 7x^4 \times (3x)^2=$
+- [x] $\cfrac{-4a^3 \times 2b^5}{\cfrac{8a}{b}}=$
+{{< /admonition >}}
+
+{{< admonition question "3. Hitunglah hasil operasi bilangan berpangkat berikut:" >}}
+- [x] $\left(-\cfrac{2}{3} \right)^4 \times \left(\cfrac{1}{2} - \cfrac{1}{6} \right)^2$
+- [x] $\cfrac{3x^2 \times y^3}{24x} \times (2y)^2$ untuk $x=2$ dan $y=3$
+{{< /admonition >}}
+
+{{< admonition question "4. Tentukan nilai $x$ yang memenuhi:" >}}
+- [x] $2^x = 8$
+- [x] $4^x = 0,125$
+{{< /admonition >}}
+
+{{< image src="/images/avatar.webp" caption="avatar (`image`)" >}}

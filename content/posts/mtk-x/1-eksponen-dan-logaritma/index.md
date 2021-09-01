@@ -143,7 +143,7 @@ $$  \begin{aligned}  3\sqrt[3]{x}-\sqrt[3]{x} &= (3-1)\sqrt[3]{x} \\\\  &= 2\sqr
 
 #### 2.2.2 Operasi Perkalian dan Pembagian Bentuk Akar
 Sifat perkalian dan pembagian bentuk akar dapat dicermati pada beberapa contoh berikut:
-> **Contoh 1.7** Sederhanakan bentuk berikut:
+> **Contoh 1.7** Sederhanakan bentuk akar berikut:
 {{< admonition question "$\sqrt[3]{8}$" >}}
 $$  \begin{aligned} \sqrt[3]{8} &= \sqrt[3]{2^3} \\\\ &= 2^{\frac{3}{3}} \\\\ &= 2^1 \\\\ &= 2 \end{aligned} $$
 {{< /admonition >}}

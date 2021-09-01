@@ -42,10 +42,20 @@ Jadi, panjang sisi $AC$ adalah 15,4548 satuan panjang.
 {{< /admonition >}}
 
 ## 2 ATURAN COSINUS
-> **Definisi 1.3** Untuk $ a $ bilangan real dan $ a \not = 0, m $ bilangan bulat positif, didefinisikan dengan $ a^{-m} = \left(\vcenter{\hbox{$\cfrac{1}a$}}\right)^m $
->> **Contoh 1.3 :** Jika nilai $ x = -2 $ dan $ y = 2 $, tentukan nilai $ x^{-3}\left(y^4\right)! $
-{{< admonition tip "Pembahasan" >}}
-$$  \begin{aligned} x^{-3}\left(y^4\right) &= \left(\vcenter{\hbox{$\cfrac{1}x$}}\right)^3\left(y^4\right) \\\\ &= \left(\cfrac{1^3}{x^3} \right).\left(y^4 \right) \\\\ &= \left(\cfrac{1}{x^3} \right).\left(y^4 \right) \\\\ &= \cfrac{y^4}{x^3} \\\\ &= \cfrac{2^4}{(-2)^3} \\\\ &= \cfrac{16}{-8} \\\\ &= -2 \end{aligned} $$
+> {{< admonition tip "Aturan Cosinus" >}}
+Untuk sembarang segitiga $ABC$, dengan panjang sisi-sisi $a, b, c$ dan $\angle~A, \angle~B, \angle~C$, berlaku:
+$$ {\fcolorbox{red}{aqua}{$a^2=b^2+c^2bc.cos~A$}} \\\\ {\fcolorbox{red}{aqua}{$b^2=a^2+c^2ac.cos~B$}} \\\\ {\fcolorbox{red}{aqua}{$b\c^2=a^2+b^2ab.cos~C$}} $$ 
+{{< /admonition >}}
+>> **Contoh 1 :** Perhatikan segitiga $ABC$ berikut. Panjang $AB=8, BC=8 \sqrt{2}, AC=b, \angle BAC=45 \degree , \angle ACB = y \degree $ dan $\angle ABC = x \degree $. Tentukan panjang $b$ !
+{{< admonition tip "Alternatif Penyelesaian" >}}
+* Dengan menggunakan aturan sinus, maka diperoleh:
+$$  \begin{aligned} \cfrac{BC}{sin~A}=\cfrac{AB}{sin~y\degree} &\iff \cfrac{8\sqrt{2}}{sin~45\degree} = \cfrac{8}{sin~y\degree} \\\\ &\iff \cfrac{8\sqrt{2}}{\cfrac{1}{2}\sqrt{2}} = \cfrac{8}{sin~y\degree} \\\\ &\iff 16 = \cfrac{8}{sin~y\degree} \\\\ &\iff sin~y\degree = \cfrac{1}{2} \\\\ &\iff y\degree = 30\degree \end{aligned} $$
+Jumlah ketiga sudut pada segitiga adalah $\angle A + \angle B + \angle C = 180\degree$, sehingga $45\degree + 30\degree + x\degree = 180\degree \to x\degree = 105\degree$.
+* Dengan menggunakan aturan sinus kembali, maka diperoleh:
+$$ \begin{aligned} \cfrac{AC}{sin~x\degree}=\cfrac{AB}{sin~y\degree} &\iff \cfrac{b}{sin~105\degree} = \cfrac{8}{sin~30\degree} \\\\ &\iff \cfrac{b}{sin~105\degree} = \cfrac{8}{\frac{1}{2}} \\\\ &\iff \cfrac{b}{sin~105\degree} = 16 \\\\ &\iff b = 16.sin~105\degree \end{aligned} $$
+Dengan memanfaatkan tabel sinus atau kalkulator maka diperoleh:
+$$ \begin{aligned} b &= 16.sin~105\degree \\\\ &= 16 \times 0,9659 \\\\ &= 15,4548 \end{aligned} $$
+Jadi, panjang sisi $AC$ adalah 15,4548 satuan panjang.
 {{< /admonition >}}
 
 ## 3 LUAS SEGITIGA

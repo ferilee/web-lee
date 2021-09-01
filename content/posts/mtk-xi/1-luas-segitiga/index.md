@@ -31,8 +31,11 @@ $$ {\fcolorbox{red}{aqua}{${\cfrac{a}{sin A}}={\cfrac{b}{sin B}}={\cfrac{c}{sin 
 {{< /admonition >}}
 >> **Contoh 1 :** Perhatikan segitiga $ABC$ berikut. Panjang $AB=8, BC=8 \sqrt{2}, AC=b, \angle BAC=45 \degree , \angle ACB = y \degree $ dan $\angle ABC = x \degree $. Tentukan panjang $b$ !
 {{< admonition tip "Alternatif Penyelesaian" >}}
-Dengan menggunakan aturan sinus, maka diperoleh:
-$$  \begin{aligned} \cfrac{BC}{sin~A}=\cfrac{AB}{sin~y\degree} &\iff \cfrac{8\sqrt{2}}{sin~45\degree} &= \cfrac{8}{sin~y\degree} \\\\ &\iff \cfrac{8\sqrt{2}}{\cfrac{1}{2}\sqrt{2}} &= \cfrac{8}{sin~y\degree} \\\\ &\iff 16 &= \cfrac{8}{sin~y\degree} \\\\ &\iff sin~y\degree &= \cfrac{1}{2} \\\\ &\iff y\degree &= 30\degree \end{aligned} $$
+* Dengan menggunakan aturan sinus, maka diperoleh:
+$$  \begin{aligned} \cfrac{BC}{sin~A}=\cfrac{AB}{sin~y\degree} &\iff \cfrac{8\sqrt{2}}{sin~45\degree} = \cfrac{8}{sin~y\degree} \\\\ &\iff \cfrac{8\sqrt{2}}{\cfrac{1}{2}\sqrt{2}} = \cfrac{8}{sin~y\degree} \\\\ &\iff 16 = \cfrac{8}{sin~y\degree} \\\\ &\iff sin~y\degree = \cfrac{1}{2} \\\\ &\iff y\degree = 30\degree \end{aligned} $$
+Jumlah ketiga sudut pada segitiga adalah $\angle A + \angle B + \angle C = 180\degree$, sehingga $45\degree + 30\degree + x\degree = 180\degree \to x\degree = 105\degree$.
+* Dengan menggunakan aturan sinus kembali, maka diperoleh:
+$$  \begin{aligned} \cfrac{BC}{sin~A}=\cfrac{AB}{sin~y\degree} &\iff \cfrac{8\sqrt{2}}{sin~45\degree} = \cfrac{8}{sin~y\degree} \\\\ &\iff \cfrac{8\sqrt{2}}{\cfrac{1}{2}\sqrt{2}} = \cfrac{8}{sin~y\degree} \\\\ &\iff 16 = \cfrac{8}{sin~y\degree} \\\\ &\iff sin~y\degree = \cfrac{1}{2} \\\\ &\iff y\degree = 30\degree \end{aligned} $$
 {{< /admonition >}}
 
 ## 2 ATURAN COSINUS

@@ -46,8 +46,8 @@ Jadi, panjang sisi $AC$ adalah 15,4548 satuan panjang.
 Untuk sembarang segitiga $ABC$, dengan panjang sisi-sisi $a, b, c$ dan $\angle~A, \angle~B, \angle~C$, berlaku:
 $$ {\fcolorbox{red}{aqua}{$a^2=b^2+c^2-2bc.cos~A$}} $$
 $$ {\fcolorbox{red}{aqua}{$b^2=a^2+c^2-2ac.cos~B$}} $$
-$$ {\fcolorbox{red}{aqua}{$c^2=a^2+b^2-2ab.cos~C$}} $$ 
-$$ {\fcolorbox{red}{aqua}{$a^2=b^2+c^2-2bc.cos~A \\ b^2=a^2+c^2-2ac.cos~B \\ c^2=a^2+b^2-2ab.cos~C$}} $$
+$$ {\fcolorbox{red}{aqua}{$c^2=a^2+b^2-2ab.cos~C$}} $$
+$$ {\fcolorbox{red}{aqua}{$a^2=b^2+c^2-2bc.cos~A \\\\ b^2=a^2+c^2-2ac.cos~B \\\\ c^2=a^2+b^2-2ab.cos~C$}} $$
 
 {{< /admonition >}}
 >> **Contoh 1 :** Perhatikan segitiga $ABC$ berikut. Panjang $AB=8, BC=8 \sqrt{2}, AC=b, \angle BAC=45 \degree , \angle ACB = y \degree $ dan $\angle ABC = x \degree $. Tentukan panjang $b$ !

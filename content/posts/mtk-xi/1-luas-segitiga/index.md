@@ -24,10 +24,9 @@ Discover what the Hugo - **FeelIt** theme is all about and the core-concepts beh
 <!--more-->
 
 ## 1 ATURAN SINUS
-> **Definisi 1.1** Misalkan $ a $ bilangan real dan $ n $ bilangan bulat positif. $ a^n $ adalah hasil kali bilangan $ a $ sebanyak $ n $ faktor, dapat ditulis $ a^n = \underbrace{a \times a \times a \times ... \times a}_{\text{n faktor}} $ dengan $ a $ sebagai basis bilangan pokok dan $ n $ sebagai pangkat.
->> **Contoh 1.1 :** $ 4^3 = 4 \times 4 \times 4 $
+> **Aturan Sinus** Untuk sembarang segitiga $ABC$, dengan panjang sisi-sisi $a, b, c$ dan $\angle A, \angle B, \angle C$, berlaku:
 {{< admonition tip "Pembahasan" >}}
-$$  \begin{aligned}  4^3 &= 4 \times 4 \times 4 \\\\  &= 64  \end{aligned} $$
+$$ {\fcolorbox{red}{aqua}{${\frac{a}{sin A}}={\frac{b}{sin B}}={\frac{c}{sin C}}$}} $$
 {{< /admonition >}}
 
 > **Definisi 1.2**

@@ -22,7 +22,7 @@ toc:
 Discover what the Hugo - **FeelIt** theme is all about and the core-concepts behind it. tes teks
 
 {{< myshortcodes >}}
-
+{{< mysecondshortcodes >}}
 {{< mermaid >}}
 graph LR;
     A[Dimensi Tiga] -->|Link text| B(Round edge)

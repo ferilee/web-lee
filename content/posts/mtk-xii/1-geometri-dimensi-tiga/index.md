@@ -21,27 +21,85 @@ toc:
 
 Discover what the Hugo - **FeelIt** theme is all about and the core-concepts behind it.
 
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/w7Ft2ymGmfc?autoplay=1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+
+
 <!--more-->
 
-## Konsep Eksponen
-{{< admonition note "Definisi 1.1" >}}
-Misalkan a bilangan real dan n bilangan bulat positif.
+## 1 JARAK ANTAR TITIK
+## 2 JARAK TITIK KE GARIS
+## 3 JARAK TITIK KE BIDANG
+
+> {{< admonition tip "Aturan Sinus" >}}
+Untuk sembarang segitiga $ABC$, dengan panjang sisi-sisi $a, b, c$ dan $\angle~A, \angle~B, \angle~C$, berlaku:
+$$ {\fcolorbox{red}{aqua}{${\cfrac{a}{sin A}}={\cfrac{b}{sin B}}={\cfrac{c}{sin C}}$}} $$
 {{< /admonition >}}
-{{< admonition note "Definisi 1.2" >}}
-Fungsi Eksponen adalah suatu fungsi yang dinyatakan dalam bentuk .
+>> **Contoh 1 :** Perhatikan segitiga $ABC$ berikut. Panjang $AB=8, BC=8 \sqrt{2}, AC=b, \angle BAC=45 \degree , \angle ACB = y \degree $ dan $\angle ABC = x \degree $. Tentukan panjang $b$ !
+{{< admonition tip "Alternatif Penyelesaian" >}}
+* Dengan menggunakan aturan sinus, maka diperoleh:
+$$  \begin{aligned} \cfrac{BC}{sin~A}=\cfrac{AB}{sin~y\degree} &\iff \cfrac{8\sqrt{2}}{sin~45\degree} = \cfrac{8}{sin~y\degree} \\\\ &\iff \cfrac{8\sqrt{2}}{\cfrac{1}{2}\sqrt{2}} = \cfrac{8}{sin~y\degree} \\\\ &\iff 16 = \cfrac{8}{sin~y\degree} \\\\ &\iff sin~y\degree = \cfrac{1}{2} \\\\ &\iff y\degree = 30\degree \end{aligned} $$
+Jumlah ketiga sudut pada segitiga adalah $\angle A + \angle B + \angle C = 180\degree$, sehingga $45\degree + 30\degree + x\degree = 180\degree \to x\degree = 105\degree$.
+* Dengan menggunakan aturan sinus kembali, maka diperoleh:
+$$ \begin{aligned} \cfrac{AC}{sin~x\degree}=\cfrac{AB}{sin~y\degree} &\iff \cfrac{b}{sin~105\degree} = \cfrac{8}{sin~30\degree} \\\\ &\iff \cfrac{b}{sin~105\degree} = \cfrac{8}{\frac{1}{2}} \\\\ &\iff \cfrac{b}{sin~105\degree} = 16 \\\\ &\iff b = 16.sin~105\degree \end{aligned} $$
+Dengan memanfaatkan tabel sinus atau kalkulator maka diperoleh:
+$$ \begin{aligned} b &= 16.sin~105\degree \\\\ &= 16 \times 0,9659 \\\\ &= 15,4548 \end{aligned} $$
+Jadi, panjang sisi $AC$ adalah 15,4548 satuan panjang.
 {{< /admonition >}}
 
-## Pangkat Bulat Negatif
-{{< admonition note "Definisi 1.3" >}}
-Misalkan a bilangan real dan n bilangan bulat positif.
+## 2 ATURAN COSINUS
+> {{< admonition tip "Aturan Cosinus" >}}
+Untuk sembarang segitiga $ABC$, dengan panjang sisi-sisi $a, b, c$ dan $\angle~A, \angle~B, \angle~C$, berlaku:
+$$ {\fcolorbox{red}{aqua}{$a^2=b^2+c^2-2bc.cos~A$}} $$
+$$ {\fcolorbox{red}{aqua}{$b^2=a^2+c^2-2ac.cos~B$}} $$
+$$ {\fcolorbox{red}{aqua}{$c^2=a^2+b^2-2ab.cos~C$}} $$
+
+{{< /admonition >}}
+>> **Contoh 1 :** Perhatikan segitiga $ABC$ berikut. Panjang $AB=8, BC=8 \sqrt{2}, AC=b, \angle BAC=45 \degree , \angle ACB = y \degree $ dan $\angle ABC = x \degree $. Tentukan panjang $b$ !
+{{< admonition tip "Alternatif Penyelesaian" >}}
+* Dengan menggunakan aturan sinus, maka diperoleh:
+$$  \begin{aligned} \cfrac{BC}{sin~A}=\cfrac{AB}{sin~y\degree} &\iff \cfrac{8\sqrt{2}}{sin~45\degree} = \cfrac{8}{sin~y\degree} \\\\ &\iff \cfrac{8\sqrt{2}}{\cfrac{1}{2}\sqrt{2}} = \cfrac{8}{sin~y\degree} \\\\ &\iff 16 = \cfrac{8}{sin~y\degree} \\\\ &\iff sin~y\degree = \cfrac{1}{2} \\\\ &\iff y\degree = 30\degree \end{aligned} $$
+Jumlah ketiga sudut pada segitiga adalah $\angle A + \angle B + \angle C = 180\degree$, sehingga $45\degree + 30\degree + x\degree = 180\degree \to x\degree = 105\degree$.
+* Dengan menggunakan aturan sinus kembali, maka diperoleh:
+$$ \begin{aligned} \cfrac{AC}{sin~x\degree}=\cfrac{AB}{sin~y\degree} &\iff \cfrac{b}{sin~105\degree} = \cfrac{8}{sin~30\degree} \\\\ &\iff \cfrac{b}{sin~105\degree} = \cfrac{8}{\frac{1}{2}} \\\\ &\iff \cfrac{b}{sin~105\degree} = 16 \\\\ &\iff b = 16.sin~105\degree \end{aligned} $$
+Dengan memanfaatkan tabel sinus atau kalkulator maka diperoleh:
+$$ \begin{aligned} b &= 16.sin~105\degree \\\\ &= 16 \times 0,9659 \\\\ &= 15,4548 \end{aligned} $$
+Jadi, panjang sisi $AC$ adalah 15,4548 satuan panjang.
 {{< /admonition >}}
 
-## Pangkat Nol
-{{< admonition note "Definisi 1.4" >}}
-Misalkan a bilangan real dan n bilangan bulat positif.
+## 3 LUAS SEGITIGA
+> **Definisi 1.4** Untuk $ a $ bilangan real dan $ a \not = 0 $ , maka $ a^0 = 1 $
+>> **Contoh 1.4 :** $ 2^0 = 1, 5^0=1, \left(\cfrac{2}{3}\right)^0=1 $
+
+
+
+## 4 KUIS
+> **Petunjuk Kuis**
+\
+Kerjakan soal-soal kuis berikut di kertas kemudian hasil jawaban dikirimkan dalam bentuk PDF $\to$ {{< link "https://forms.gle/Mz3byTjp6N6dhdSM9" Form_Tugas "Form Pengumpulan Tugas!" >}}
+
+{{< admonition question "1. Sederhanakanlah operasi bilangan berpangkat berikut:" >}}
+- [x] $2^5 \times 2^9 \times 2^{12}=$
+- [x] $\cfrac{2^5 \times 3^5 \times 4^2}{12^2}=$
 {{< /admonition >}}
 
-## Sifat-sifat Pangkat Bulat Positif
-{{< admonition note "Sifat-1" >}}
-Misalkan a bilangan real dan n bilangan bulat positif.
+{{< admonition question "2. Dengan menggunakan sifat bilangan berpangkat, sederhanakanlah bentuk berikut:" >}}
+- [x] $2x^3 \times 7x^4 \times (3x)^2=$
+- [x] $\cfrac{-4a^3 \times 2b^5}{\cfrac{8a}{b}}=$
 {{< /admonition >}}
+
+{{< admonition question "3. Hitunglah hasil operasi bilangan berpangkat berikut:" >}}
+- [x] $\left(-\cfrac{2}{3} \right)^4 \times \left(\cfrac{1}{2} - \cfrac{1}{6} \right)^2$
+- [x] $\cfrac{3x^2 \times y^3}{24x} \times (2y)^2$ untuk $x=2$ dan $y=3$
+{{< /admonition >}}
+
+{{< admonition question "4. Tentukan nilai $x$ yang memenuhi:" >}}
+- [x] $2^x = 8$
+- [x] $4^x = 0,125$
+{{< /admonition >}}
+
+{{< image src="/images/avatar.webp" caption="avatar (`image`)" >}}

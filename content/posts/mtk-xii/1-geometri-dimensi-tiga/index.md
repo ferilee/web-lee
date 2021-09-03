@@ -21,14 +21,16 @@ toc:
 
 Discover what the Hugo - **FeelIt** theme is all about and the core-concepts behind it. tes teks
 
-{{< myshortcodes >}}
-{{< mysecondshortcodes >}}
 {{< mermaid >}}
 graph LR;
-    A[Dimensi Tiga] -->|Link text| B(Round edge)
-    B --> C{Decision}
-    C -->|One| D[Result one]
-    C -->|Two| E[Result two]
+    A[Dimensi Tiga] --> B(Jarak Titik ke Titik)
+    A --> |mempelajari| C(Jarak Titik ke Garis)
+    A --> D(Jarak Titik ke Bidang)
+    B --> C
+    B --> E
+    C --> |digunakan| E[Penerapan dalam kehidupan sehari-hari]
+    C --> D
+    D --> E
 {{< /mermaid >}}
 
 

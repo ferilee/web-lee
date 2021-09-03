@@ -19,10 +19,9 @@ toc:
   auto: false
 ---
 
-Discover what the Hugo - **FeelIt** theme is all about and the core-concepts behind it. tes teks
-
-{{< mermaid >}}
-graph LR;
+{{< admonition tip "Diagram Alur Konsep" >}}
+  {{< mermaid >}}
+  graph LR;
     A[Dimensi Tiga] --> B(Jarak Titik ke Titik)
     A --> |mempelajari| C(Jarak Titik ke Garis)
     A --> D(Jarak Titik ke Bidang)
@@ -31,18 +30,36 @@ graph LR;
     C --> |digunakan| E[Penerapan dalam kehidupan sehari-hari]
     C --> D
     D --> E
-{{< /mermaid >}}
-
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/w7Ft2ymGmfc?autoplay=1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
-
-
+  {{< /mermaid >}}
+{{< /admonition >}}
 
 <!--more-->
 
 ## 1 JARAK ANTAR TITIK
+Untuk memahami konsep jarak antara dua titik, amati permasalahan berikut:
+{{< admonition question "Masalah 1.1" >}}
+Bangun 1.2 berikut merepresentasikan kota-kota yang terhubung dengan jalan. Titik merepresentasikan kota dan ruas garis merepresentasikan jalan yang menghubungkan kota.
+
+[Gambar 1.2]
+
+Dobleh berencana menuju kota C berangkat dari kota A. Tentukan rute perjalanan yang mungkin ditempuh oleh Dobleh. Tulis kemungkinan rute yang ditempuh Dobleh pada tabel 1.1. Kemudian tentukan panjang rute-rute tersebut. Rute manakah yang terpendek? Menurut pendapat Anda berapakah jarak antara kota A dan C? Berikan alasan untuk jawaban Anda.
+
+***Tabel 1.1: Kemungkinan Rute yang ditempuh Dobleh***
+| No | Kemungkinan Rute dari kota A ke kota C | Panjang Lintasan |
+| :---:| ----------- | ------ |
+| 1  |      |     |
+| 2  |      |     |
+| 3  |      |     |
+| 4  |      |     |
+| 5  |      |     |
+{{< /admonition >}}
+
+> **Masalah 1.2** Dalam suatu kamar berukuran 4m × 4m × 4m dipasang lampu tepat di tengah-tengah atap. Kamar tersebut digambarkan sebagai kubus ABCD.EFGH. Berapa jarak lampu ke salah satu sudut lantai kamar?
+{{< admonition question "Pembahasan" >}}
+
+{{< /admonition >}}
+
+{{< matematika/kubusgeogebra >}}
 ## 2 JARAK TITIK KE GARIS
 ## 3 JARAK TITIK KE BIDANG
 
@@ -112,5 +129,3 @@ Kerjakan soal-soal kuis berikut di kertas kemudian hasil jawaban dikirimkan dala
 - [x] $2^x = 8$
 - [x] $4^x = 0,125$
 {{< /admonition >}}
-
-{{< image src="/images/avatar.webp" caption="avatar (`image`)" >}}

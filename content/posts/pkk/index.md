@@ -21,8 +21,7 @@ toc:
   auto: false
 ---
 
-Discover what the Hugo - **FeelIt** theme is all about and the core-concepts behind it.
-
+{{< image src="/images/giphy.gif" caption="Dirgahayu (`Indonesia`)" >}}
 <!--more-->
 
 ## 1 Menganalisis perencanaan produksi massal
@@ -35,4 +34,3 @@ Discover what the Hugo - **FeelIt** theme is all about and the core-concepts beh
 ## 4 Menerapkan metoda perakitan produk barang/jasa
 ## 5 Menganalisis prosedur pengujian kesesuaian fungsi produk barang/jasa
 ## 6 Mengevaluasi kesesuaian hasil produk dengan rancangan
-The following steps are here to help you initialize your new website. If you don’t know Hugo at all, we strongly suggest you learn more about it by following this [great documentation for beginners](https://gohugo.io/getting-started/quick-start/).

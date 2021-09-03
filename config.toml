@@ -12,6 +12,42 @@ theme = "FeelIt"
   # FeelIt theme version
   version = "1.0.X"
 
+# About page config
+  [params.about]
+    # whether to enable profile on about page
+    # depends on .Site.Params.home.profile.enable
+    enable = true
+    # whether to enable param layout
+    param = true
+    # title for param layout
+    paramTitle = "Personal Information"
+    # general description of your site
+    # can be write with markdown style
+    description = "[Feri Dwi Hermawan](https://github.com/ferilee). Seorang guru matematika yang gemar mempelajari dunia digital. Akrab dipanggil dengan sebutan ferilee sejak kuliah dulu, karena menyukai bela diri hehehehee ... Aktif di beberapa komunitas digital seperti [Indonesia Digital Teacher](https://t.me/idetizen), [Matematika Nusantara](https://t.me/joinchat/PO_09j0pCNPJ1iHB), dan menyukai channel seperti [GimpScape](https://t.me/gimpscape)."
+    # description of your status
+    [[params.about.status]]
+      faIcon = "fas fa-building"
+      title = "Instansi"
+      desc = "SMKN Pasirian"
+    [[params.about.status]]
+      faIcon = "fas fa-briefcase fa-fw"
+      title = "Pekerjaan"
+      desc = "Guru"
+    [[params.about.status]]
+      title = "Alamat"
+      faIcon = "fas fa-map-marker-alt"
+      desc = "Mutiara Kunir Residence Blok A22"
+    # description of your parameter
+    [[params.about.parameter]]
+      language = "Matematika"
+      level = "70"
+    [[params.about.parameter]]
+      language = "Free Open Source Software"
+      level = "90"
+    [[params.about.parameter]]
+      language = "Multimedia"
+      level = "80"
+
 [params.page.math]
   enable = true
   copyTex = true
@@ -104,11 +140,11 @@ theme = "FeelIt"
         # Gravatar Email for preferred avatar in home page
         gravatarEmail = ""
         # URL of avatar shown in home page
-        avatarURL = "/images/avatar.webp"
+        avatarURL = "/images/ferilee2.gif"
         # title shown in home page (HTML format is supported)
         title = ""
         # subtitle shown in home page (HTML format is supported)
-        subtitle = "A Clean, Elegant but Advanced Hugo Theme"
+        subtitle = "Teacher and Founder Indonesia Digital Teacher"
         # whether to use typeit animation for subtitle
         typeit = true
         # whether to show social links
@@ -122,6 +158,30 @@ theme = "FeelIt"
       paginate = 6
       # display image-preview
       imagePreview = true
+
+      # Social config in home page
+      [params.social]
+        GitHub = "ferilee"
+        Linkedin = ""
+        Twitter = "ferilee"
+        Instagram = "therealferilee"
+        Facebook = "the.real.ferilee"
+        Telegram = "ferilee"
+        Youtubelegacy = "xxxx"
+        Youtubecustom = ""
+        Youtubechannel = ""
+        Pinterest = ""
+        Stackoverflow = ""
+        VK = ""
+        Flickr = ""
+        Snapchat = ""
+        Soundcloud = ""
+        Spotify = ""
+        Strava = ""
+        Whatsapp = ""
+        Email = "admingse@ferilee.my.id"
+        Resume = "" #goo.gl id
+        RSS = true
 
 # Markup related configuration in Hugo
 [markup]

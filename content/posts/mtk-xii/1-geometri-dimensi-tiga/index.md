@@ -19,8 +19,17 @@ toc:
   auto: false
 ---
 
-Discover what the Hugo - **FeelIt** theme is all about and the core-concepts behind it.
+Discover what the Hugo - **FeelIt** theme is all about and the core-concepts behind it. tes teks
 
+{{< myshortcodes >}}
+
+{{< mermaid >}}
+graph LR;
+    A[Dimensi Tiga] -->|Link text| B(Round edge)
+    B --> C{Decision}
+    C -->|One| D[Result one]
+    C -->|Two| E[Result two]
+{{< /mermaid >}}
 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">

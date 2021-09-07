@@ -25,5 +25,3 @@ math:
 ### Profil
 
 ### Kompetensi
-
-### Pandangan Mereka Tentang Ferilee

@@ -161,14 +161,52 @@ $$  \begin{aligned} \cfrac{3\sqrt[3]{4}}{4\sqrt[3]{5}} &= \cfrac{3}{4}\sqrt[3]{\
 {{< /admonition >}}
 
 #### 2.2.3 Merasionalkan Penyebut Bentuk Akar
-{{< admonition note "Merasionalkan bentuk $\cfrac{p}{\sqrt{q}}$" >}}
+* > **Merasionalkan bentuk $\cfrac{p}{\sqrt{q}}$** \
 Bentuk $\cfrac{p}{\sqrt{q}}$ dirasionalkan dengan cara mengalikan dengan sekawannya, yaitu $\cfrac{\sqrt{q}}{\sqrt{q}}$
 $$  \begin{aligned} \cfrac{p}{\sqrt{q}} &= \cfrac{p}{\sqrt{q}}.\cfrac{\sqrt{q}}{\sqrt{q}} \\\\ &= \cfrac{p}{q}\sqrt{q} \end{aligned} $$
+{{< admonition question "Contoh: Rasionalkan penyebut dari $\cfrac{2}{\sqrt{3}}$" >}}
+Karena sekawan dari penyebut ($\sqrt{3}$) adalah $\sqrt{3}$, maka
+$$  \begin{aligned} \cfrac{2}{\sqrt{3}} &= \cfrac{2}{\sqrt{3}} \times {\fcolorbox{red}{aqua}{$\cfrac{\sqrt{3}}{\sqrt{3}}$}} \to sekawan  \\\\ &= \cfrac{2 \times \sqrt{3}}{\sqrt{3}\times \sqrt{3}} \\\\ &= \cfrac{2 \sqrt{3}}{3} \to \cfrac{2}{3}\sqrt{3} \end{aligned} $$
 {{< /admonition >}}
-{{< admonition note "Merasionalkan bentuk $\cfrac{p}{\sqrt{q}}$" >}}
-$$  \begin{aligned} \cfrac{3\sqrt[3]{4}}{4\sqrt[3]{5}} &= \cfrac{3}{4}\sqrt[3]{\cfrac{4}{5}} \end{aligned} $$
+
+* > **Merasionalkan bentuk $\cfrac{r}{p+\sqrt{q}} ~, \cfrac{r}{p-\sqrt{q}} ~, \cfrac{r}{\sqrt{p}+\sqrt{q}} ~, \cfrac{r}{\sqrt{p}-\sqrt{q}}$** \
+Bentuk $(p+\sqrt{q})$ dan bentuk $(p-\sqrt{q})$ saling sekawan, bentuk $(\sqrt{p}+\sqrt{q})$ dan $(\sqrt{p}-\sqrt{q})$ juga saling sekawan. Jika perkalian bentuk sekawan tersebut dilakukan maka dapat merasionalkan bentuk akar.
+{{< admonition question "Contoh-1: Rasionalkan penyebut dari $\cfrac{2}{4+\sqrt{3}}$" >}}
+Karena sekawan dari penyebut ($4+\sqrt{3}$) adalah $4-\sqrt{3}$, maka
+$$  \begin{aligned} \cfrac{2}{4+\sqrt{3}} &= \cfrac{2}{4+\sqrt{3}} \times {\fcolorbox{red}{aqua}{$\cfrac{4-\sqrt{3}}{4-\sqrt{3}}$}} \to sekawan  \\\\ &= \cfrac{2 \times (4-\sqrt{3})}{(4+\sqrt{3})\times (4-\sqrt{3})} \\\\ &= \cfrac{2(4) - (2\sqrt{3})}{4(4)-\sqrt{3}(\sqrt{3})} \\\\ &= \cfrac{8-2\sqrt{3}}{16-3} \\\ &= \cfrac{8-2\sqrt{3}}{13} \to \frac{8}{13}-\cfrac{2}{13}\sqrt{3} \end{aligned} $$
+{{< /admonition >}}
+{{< admonition question "Contoh-2: Rasionalkan penyebut dari $\cfrac{3}{\sqrt{2}-\sqrt{5}}$" >}}
+Karena sekawan dari penyebut $\left( \sqrt{2}-\sqrt{5} \right)$ adalah $\left(\sqrt{2}+\sqrt{5} \right)$, maka
+$$  \begin{aligned} \cfrac{3}{\sqrt{2}-\sqrt{5}} &= \cfrac{3}{\sqrt{2}-\sqrt{5}} \times {\fcolorbox{red}{aqua}{$\cfrac{\sqrt{2}+\sqrt{5}}{\sqrt{2}+\sqrt{5}}$}} \to sekawan  \\\\ &= \cfrac{3(\sqrt{2}+\sqrt{5})}{(\sqrt{2}-\sqrt{5})(\sqrt{2}+\sqrt{5})} \\\\ &= \cfrac{3(\sqrt{2}+\sqrt{5})}{(\sqrt{2}.\sqrt{2})-(\sqrt{5}.\sqrt{5})} \\\\ &= \cfrac{3(\sqrt{2}+\sqrt{5})}{4-5} \\\\ &= \cfrac{3(\sqrt{2}+\sqrt{5})}{-1} \\\\ &= -3(\sqrt{2}+\sqrt{5}) \to \fcolorbox{red}{aqua}{$-3\sqrt{2}-3\sqrt{5}$} \end{aligned} $$
+{{< /admonition >}}
+
+* > **Menyederhanakan bentuk $\sqrt{(p+q)\pm2{\sqrt{pq}}}$** \
+{{< admonition question "Contoh-1: Sederhanakan $\sqrt{8+2{\sqrt{15}}}$" >}}
+$$  \begin{aligned} \sqrt{\textcolor{blue}{8}+2{\sqrt{\textcolor{green}{15}}}} &= \sqrt{(\textcolor{blue}{5}+\textcolor{blue}{3})+2{\sqrt{\textcolor{green}{5\times3}}}} \\\\ &= \sqrt{\textcolor{blue}{5}+2{\sqrt{\textcolor{green}{5\times3}}}+\textcolor{blue}{3}} \to \fcolorbox{blue}{yellow}{$\sqrt{p+2{\sqrt{p\times q}}+q} = \sqrt{\left(\sqrt{p}+\sqrt{q} \right)^2}$} \\\\ &= \sqrt{\left(\sqrt {5}+ \sqrt{3} \right)^2} \\\\ &= \sqrt{5}+\sqrt {3} \end{aligned} $$
+{{< /admonition >}}
+{{< admonition question "Contoh-2: Sederhanakan $\sqrt{9-4{\sqrt{5}}}$" >}}
+$$  \begin{aligned} \sqrt{\textcolor{blue}{9}-4{\sqrt{5}}} &=  \sqrt{\textcolor{blue}{5}-4{\sqrt{5}}+\textcolor{blue}{4}} \\\\ &= \sqrt{\left(\sqrt {5} - 2 \right)^2} \\\\ &= \sqrt{5} - 2 \end{aligned} $$
 {{< /admonition >}}
 ### 2.3 Konsep Logaritma
+> **Definisi 1.8** Misalkan $a, b, c \in R, a>0, a \not= 1, $ dan $b>0$ maka ${^a}\log{b}=c$ jika dan hanya jika ${a^c}=b$
+>> **Keterangan:** \
+$a$ disebut basis ($0<a<1$ atau $a>1$)\
+$b$ disebut numerus ($b>0$)\
+$c$ disebut hasil logaritma
+
+Berdasarkan definisi di atas, perhatikan contoh berikut!
+{{< admonition question "Ubahlah ke bentuk logaritma" >}}
+* $2^x=5 \Harr x={^2}\log{5}$ (notasi $\Harr$ dibaca **jika dan hanya jika**)
+* $3^y=8 \Harr y={^3}\log{8}$
+* $5^z=3 \Harr z={^5}\log{3}$
+{{< /admonition >}}
+{{< admonition tip "Catatan" >}}
+* Jika logaritma dengan basis $e$ ($e$ adalah bilangan ***Euler***, $e \approx$ 2,718)
+* Bilangan pokok (basis) 10 tidak ditulis, sehingga $^{10}\log{a}=\log{a}$
+{{< /admonition >}}
+
+> **Definisi 1.9** Fungsi Logaritma adalah suatu fungsi yang didefinisikan oleh $y=f(x)= {^a}\log {x}$ dengan $a$ bilangan real, $a>0, a \not= 1$ serta $x>0$.\
+$x$ adalah variabel (peubah bebas) dan $a$ adalah bilangan pokok atau basis.
 ### 2.4 Sifat-sifat Logaritma
 ### 2.5 Kuis
 

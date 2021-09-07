@@ -208,6 +208,27 @@ Berdasarkan definisi di atas, perhatikan contoh berikut!
 > **Definisi 1.9** Fungsi Logaritma adalah suatu fungsi yang didefinisikan oleh $y=f(x)= {^a}\log {x}$ dengan $a$ bilangan real, $a>0, a \not= 1$ serta $x>0$.\
 $x$ adalah variabel (peubah bebas) dan $a$ adalah bilangan pokok atau basis.
 ### 2.4 Sifat-sifat Logaritma
+{{< admonition tip "Sifat-1">}}
+Untuk $a, b$, dan $c$ bilangan real positif, $a \not= 1$, dan $b>0$, berlaku $\fcolorbox{red}{aqua}{${^a\log{(b \times c)}=~ ^a\log b+~ ^a\log c}$}$
+{{< /admonition >}}
+{{< admonition tip "Sifat-2">}}
+Untuk $a, b$, dan $c$ bilangan real dengan $a>0, a \not= 1$, dan $b>0$, berlaku $\fcolorbox{red}{aqua}{${^a\log{\left( \cfrac {b}{c} \right) }=~ ^a\log b-~ ^a\log c}$}$
+{{< /admonition >}}
+{{< admonition tip "Sifat-3">}}
+Untuk $a, b$, dan $n$ bilangan real, $a>0, b>0$, dan $a \not= 1$, berlaku $\fcolorbox{red}{aqua}{${^a\log{b^n}=~ n.^a\log b}$}$
+{{< /admonition >}}
+{{< admonition tip "Sifat-4">}}
+Untuk $a, b$, dan $c$ bilangan real positif, $a \not= 1, b \not= 1$, dan $c \not= 1$, berlaku $\fcolorbox{red}{aqua}{${^a\log{b}=~ \cfrac{^c \log{b}}{^c \log{a}}}=\cfrac{1}{^b \log{a}}$}$
+{{< /admonition >}}
+{{< admonition tip "Sifat-5">}}
+Untuk $a, b$, dan $c$ bilangan real positif dengan $a \not= 1$ dan $c \not= 1$, berlaku $\fcolorbox{red}{aqua}{${^a\log{b} \times ~^b\log{c} =~ ^a\log{c}}$}$
+{{< /admonition >}}
+{{< admonition tip "Sifat-6">}}
+Untuk $a$ dan $b$ bilangan real positif dengan $a \not= 1$, berlaku $\fcolorbox{red}{aqua}{${{^a}^m\log b^n =~ \frac{n}{m}(^a\log b)}$}$
+{{< /admonition >}}
+{{< admonition tip "Sifat-7">}}
+Untuk $a$ dan $b$ bilangan real positif, $a \not= 1$, berlaku $\fcolorbox{red}{aqua}{$a^{^a\log{b}}=b$}$
+{{< /admonition >}}
 ### 2.5 Kuis
 
 

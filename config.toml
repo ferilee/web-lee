@@ -47,6 +47,9 @@ theme = "FeelIt"
     [[params.about.parameter]]
       language = "Multimedia"
       level = "80"
+    [[params.about.parameter]]
+      language = "Hugo"
+      level = "85"
 
 [params.page.math]
   enable = true

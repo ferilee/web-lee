@@ -19,5 +19,8 @@ math:
 ## Analisa Jam Efektif
 {{< perangkat/ahemtk >}}
 {{< perangkat/ahepkk >}}
-
-## Kompetensi
+## KKM
+## Program Tahunan
+{{< perangkat/prota >}}
+## Program Semester
+{{< perangkat/promes >}}

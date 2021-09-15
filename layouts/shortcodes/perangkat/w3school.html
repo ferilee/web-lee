@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: red;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+}
+
+#myBtn:hover {
+  background-color: #555;
+}
+
+</style>
+</head>
+<body>
+<button onclick="topFunction()" id="myBtn" title="Go to top">Kembali ke atas</button>
+
+<div style="background-color:black;color:white;padding:30px">Kalender Pendidikan</div>
+<div style="background-color:lightgrey;padding:30px 30px 250px"><iframe src="https://drive.google.com/file/d/13wnT4zdCXIOh0bgZIejlewb0jUc9usT2/preview" width="100%" height="480" allow="autoplay"></iframe>
+
+<div style="background-color:black;color:white;padding:30px">Analisa Harian Efektif</div>
+<iframe src="https://drive.google.com/file/d/1YOELuNUg_fbZ9JJM_FEkF_1x4hJ7H7VL/preview" width="100%" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1PW7_lty7JpPGpPW-8K89DwSbUfm9xCZn/preview" width="100%" height="480" allow="autoplay"></iframe>
+
+<div style="background-color:black;color:white;padding:30px">Program Tahunan</div>
+<iframe src="https://drive.google.com/file/d/1aSHrzFXvZnGKKcbFjwQ6tYGtvmbJAbw8/preview" width="100%" height="480" allow="autoplay"></iframe>
+
+<div style="background-color:black;color:white;padding:30px">Program Semester</div>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQnDtIyGdd_k7g7aT3mP4mTbE1LnCqEiK4Ona_9wR8z8NHl7-3e4IVVPJLcea1ghTM1_uZ4f8DZP3fs/pubhtml?gid=185414283&amp;single=true&amp;widget=true&amp;headers=false" width="100%"
+height="500px"></iframe>
+<script>
+//Get the button
+var mybutton = document.getElementById("myBtn");
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+</script>
+
+</body>
+</html>

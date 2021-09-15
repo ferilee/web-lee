@@ -126,11 +126,11 @@ theme = "FeelIt"
     title = ""
     weight = 4
   [[menu.main]]
-    identifier = "portfolio"
+    identifier = "dokumen"
     pre = ""
     post = ""
-    name = "Portfolio"
-    url = "/portfolio/"
+    name = "Dokumen"
+    url = "/dokumen/"
     title = ""
     weight = 5
 

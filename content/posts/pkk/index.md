@@ -20,8 +20,43 @@ lightgallery: true
 toc:
   auto: false
 ---
+## Daftar Alamat Blog XII MM
+| Nama | Alamat Blog |
+| ------ | ----------- |
+| ADHELIA GEMELEONNY PAMUNGKAS |  |
+| ADI SAPUTRA | https://adisaputra.netlify.app/ |
+| AYU NILAMSARI | https://ayunilam.netlify.app  |
+| DEBBY ANDRIYANTO |  |
+| DONI CRISNANDA | https://donicrisnanda.netlify.app |
+| DWI SATRIA BIMANTARA |  |
+| EMILIA IKA SINTA WATI | https://emiliaika.netlify.app  |
+| ERIKA DWI MARGARETA |  |
+| ERWIN DANI SAPUTRA | https://erwindani.netlify.app/ |
+| EVA BUNGA MUKAROMAH |  |
+| IKNA APRILIA INDRIANI | https://iknaapriliaa.netlify.app/ |
+| INTAN MAHARANI |  |
+| KADEK DWI SAFIATUL LAILI | https://blokkadek.netlify.app/ |
+| KURNIA VEBYYANTI |  |
+| LINA PUTRI LESTARI | https://bloglina.netlify.app/ |
+| MARCELL PHALEVI WAHYU CHAREZA |  |
+| MAY SUNY KHARISMATUN NISA |  |
+| MEITHA TRI SALSABILLAH |  |
+| MOCH. TAUFIK HIDAYAT | https://taufik13.netlify.app |
+| MOCHAMAD WAHYU HIDAYAT |  |
+| MUHAMMAD TOMI AHMADANI | https://mhmmdtomi.netlify.app/ |
+| NANDA LAILATUL FAZRA |  |
+| RIKO FIRMANSYAH |  |
+| ROSA ABELIA AYU PUSPITA |  |
+| SITI KHOLILAH | https://bloglila.netlify.app/ |
+| SOFHIA ISMAWATI |  |
+| TRI INDAYANTI | https://triindayanti.netlify.app/ |
+| VEVI NUR AINI |  |
+| WENI PUJI LESTARI | https://blogweni.netlify.app |
+| WIDIA TANTRI |  |
+| WULAN ASIH | https://wulan.netlify.app/ |
+| YUDHA ADITYA PRATAMA |  |
+| YULIA DWI CAHYANI | https://blogyulia.netlify.app |
 
-{{< image src="/images/giphy.gif" caption="Dirgahayu (`Indonesia`)" >}}
 <!--more-->
 
 ## 1 Menganalisis perencanaan produksi massal

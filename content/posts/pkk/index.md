@@ -64,7 +64,7 @@ toc:
 {{< pkk/perencanaanproduksimassal-pkk >}}
 
 
-## 2 Menentukan indikator keberhasilan tahapan produksi massal
+<!-- ## 2 Menentukan indikator keberhasilan tahapan produksi massal
 ## 3 Menerapkan proses produksi massal
 ## 4 Menerapkan metoda perakitan produk barang/jasa
 ## 5 Menganalisis prosedur pengujian kesesuaian fungsi produk barang/jasa

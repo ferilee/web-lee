@@ -229,9 +229,43 @@ Untuk $a$ dan $b$ bilangan real positif dengan $a \not= 1$, berlaku $\fcolorbox{
 {{< admonition tip "Sifat-7">}}
 Untuk $a$ dan $b$ bilangan real positif, $a \not= 1$, berlaku $\fcolorbox{red}{aqua}{$a^{^a\log{b}}=b$}$
 {{< /admonition >}}
+
+> **Contoh**\
+Misal $\log^2{a}$ adalah notasi untuk $(\log{a})^2$. Berapakah nilai $a$ yang memenuhi $\log^2{a}+\log{a}=6$ ?
+{{< admonition tip "Pembahasan" >}}
+Misal $P=\log{a}$\
+$$  \begin{aligned}  \log^2{a}+\log{a} = 6 &\Harr (\log{a})^2+(\log{a})=6 \\\  &\Harr P^2+P-6=0 \\\ &\Harr (P+3)(P-2)=0 \\\ &\Harr P=-3~ \text{atau} ~P=2 \\\ &\Harr \log{a}=-3~ \text{atau} ~\log{a}=2 \\\ &\Harr a=10^{-3}~ \text{atau} ~a=10^2 \end{aligned} $$
+Jadi, nilai $a$ yang memenuhi persaamaan di atas adalah $a=0,001$ atau $a=100$
+{{< /admonition >}}
 ### 2.5 Kuis
+> **Petunjuk Kuis**\
+Kerjakan soal-soal kuis berikut di kertas kemudian hasil jawaban dikirimkan dalam bentuk PDF $\to$ {{< link "https://forms.gle/Mz3byTjp6N6dhdSM9" Form_Tugas "Form Pengumpulan Tugas!" >}}
 
-
+{{< admonition question "1. Tulislah bentuk logaritma dari:" >}}
+- [x] $5^3=125$
+- [x] $10^2=100$
+- [x] $4^3=64$
+{{< /admonition >}}
+{{< admonition question "2. Tulislah bentuk pangkat dari:" >}}
+- [x] $\log{0,01}=-2$
+- [x] $^{0,5}\log{0,0625}=4$
+- [x] $^2\log{\sqrt[3]{2}}=\cfrac{1}{3}$
+{{< /admonition >}}
+{{< admonition question "3. Hitunglah nilai dari:" >}}
+- [x] $^5\log{125}$
+- [x] $^3\log{\left( \frac{1}{27} \right)}$
+- [x] $^2\log{0,25}$
+{{< /admonition >}}
+{{< admonition question "4. Diketahui $\log{2}=0,3010$, $\log{3}=0,4771$ dan $\log{7}=0,8451$. Tentukan:" >}}
+- [x] $\log{18}$
+- [x] $\log{10,5}$
+- [x] $\log{(\frac{1}{7})}$
+{{< /admonition >}}
+{{< admonition question "5. Sederhanakan operasi berikut:" >}}
+- [x] $\cfrac{2}{3}\times ^2\log{64}- \cfrac{1}{2}\times ^2\log{16}$
+- [x] $^a\log{\cfrac{a}{\sqrt{x}}}-^a\log{\sqrt{ax}}$
+- [x] $\log{\sqrt{a}}+\log{\sqrt{b}}-\cfrac{1}{2}\log{ab}$
+{{< /admonition >}}
 
 <!--- Placeholder
 > **Title** description.
@@ -239,7 +273,7 @@ Untuk $a$ dan $b$ bilangan real positif, $a \not= 1$, berlaku $\fcolorbox{red}{a
 {{< admonition tip "Pembahasan" >}}
 
 Pembahasan ditulis di sini
-$$  \begin{aligned}  a &= b+c \\\\  &= d+f  \end{aligned} $$
+$$  \begin{aligned}  \log^2{a}+\log{a} &= 6 \Harr a \\\\  &= d+f  \end{aligned} $$
 
 {{< /admonition >}}
 -->

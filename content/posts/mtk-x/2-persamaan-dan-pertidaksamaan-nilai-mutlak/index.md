@@ -2,7 +2,7 @@
 title: "2 Persamaan dan Pertidaksamaan Nilai Mutlak"
 date: 2021-08-22T19:33:55+07:00
 author: "Ferilee"
-draft: true
+draft: false
 authorLink: "https://t.me/ferilee"
 description: ""
 resources:
@@ -20,36 +20,49 @@ toc:
   auto: false
 ---
 
-> **Fusion Drive** combines a hard drive with a flash storage (solid-state drive) and presents it as a single logical volume with the space of both drives combined.
-
-$ c = \pm\sqrt{a^2 + b^2} $ and \\( f(x)=\int_{-\infty}^{\infty} \hat{f}(\xi) e^{2 \pi i \xi x} d \xi \\)
-
-That is so funny! :(far fa-grin-tears):
-
+## 1. Memahami dan Menemukan Konsep Nilai Mutlak
+> Nilai mutlak adalah jarak antara bilangan itu dengan nol pada garis bilangan real.
 <!--more-->
 
-## Konsep Eksponen
-{{< admonition note "Definisi 1.1" >}}
-Misalkan a bilangan real dan n bilangan bulat positif.
-{{< /admonition >}}
-{{< admonition note "Definisi 1.2" >}}
-Fungsi Eksponen adalah suatu fungsi yang dinyatakan dalam bentuk .
-{{< /admonition >}}
+{{<admonition tip "Definisi 2.1">}}
+Misalkan $x$ bilangan real, didefinisikan dengan $$ \vert x \vert = \begin{cases}   ~x &\text{jika } x \ge 0 \\\\   -x &\text{jika } x < 0 \end{cases} $$
+{{</admonition>}}
+## 2. Persamaan Linier
+{{<admonition tip "Definisi 2.2">}}
+Persamaan linear satu variabel adalah persaamaan yang didefinisikan dengan $ax+b=0$, dengan $a, b \in R$ dan $a \not=0$\
+$x$ : variabel\
+$a$ : koefisien dari $x$\
+$b$ : konstanta
+{{</admonition>}}
+{{<admonition tip "Definisi 2.3">}}
+Persamaan linear dua variabel adalah Persamaan yang didefinisikan dengan $ax+by+c=0$ dengan $a, b \in R, a \text{ dan } b$ tidak keduanya nol.\
+$x, y$ : variabel\
+$a$ : koefisien dari $x$\
+$b$ : koefisien dari $y$\
+$c$ : konstanta persamaan
+{{</admonition>}}
+{{<admonition tip "Definisi 2.4">}}
+Misalkan $a, b, \text{ dan } c$ bilangan real dan $a, b$ keduanya tidak nol. Himpunan penyelesaian persamaan linear $ax+by=c$ adalah himpunan semua pasangan $(x, y)$ yang memenuhi persamaan linear tersebut.
+{{</admonition>}}
+## Kuis 1
+> **Petunjuk Kuis**\
+Kerjakan soal-soal kuis berikut di kertas kemudian hasil jawaban dikirimkan dalam bentuk PDF $\to$ {{< link "https://forms.gle/Mz3byTjp6N6dhdSM9" Form_Tugas "Form Pengumpulan Tugas!" >}}
 
-## Pangkat Bulat Negatif
-{{< admonition note "Definisi 1.3" >}}
-Misalkan a bilangan real dan n bilangan bulat positif.
+{{< admonition question "1. Sederhanakanlah operasi bilangan berpangkat berikut:" >}}
+- [x] $2^5 \times 2^9 \times 2^{12}=$
+- [x] $\cfrac{2^5 \times 3^5 \times 4^2}{12^2}=$
 {{< /admonition >}}
+## 3. Aplikasi Nilai Mutlak pada Persamaan Linier
+## 4. Pertidaksamaan Linier
+> **Contoh:**\
+Selesaikan pertidaksamaan berikut dengan metode umum $\vert{2x+1}\vert \ge \vert{x-3}\vert$ !
+{{<admonition tip "penyelesaian">}}
 
-## Pangkat Nol
-{{< admonition note "Definisi 1.4" >}}
-Misalkan a bilangan real dan n bilangan bulat positif.
-{{< /admonition >}}
+{{</admonition>}}
+## 5. Aplikasi Nilai Mutlak pada Pertidaksamaan Linier
+## Kuis 2
 
-## Sifat-sifat Pangkat Bulat Positif
-{{< admonition note "Sifat-1" >}}
-Misalkan a bilangan real dan n bilangan bulat positif.
-{{< /admonition >}}
+
 
 {{< mermaid >}}
 journey

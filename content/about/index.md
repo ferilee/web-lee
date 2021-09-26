@@ -25,5 +25,6 @@ math:
 ![Ferilee](/images/coverferilee.gif)
 
 ### Profil
+{{< revolvermaps >}}
 
 ### Kompetensi

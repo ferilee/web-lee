@@ -56,58 +56,36 @@ Dobleh berencana menuju kota C berangkat dari kota A. Tentukan rute perjalanan y
 
 > **Masalah 1.2** Dalam suatu kamar berukuran 4m × 4m × 4m dipasang lampu tepat di tengah-tengah atap. Kamar tersebut digambarkan sebagai kubus ABCD.EFGH. Berapa jarak lampu ke salah satu sudut lantai kamar?
 {{< admonition question "Pembahasan" >}}
-
+Misal kamar tersebut digambarkan sebagai kubus ABCD.EFGH dan lampu dinyatakan dengan titik T seperti pada gambar berikut.
 {{< /admonition >}}
 
-{{< matematika/kubusgeogebra >}}
-## 2 JARAK TITIK KE GARIS
-## 3 JARAK TITIK KE BIDANG
+<!-- {{< matematika/kubusgeogebra >}} -->
 
-> {{< admonition tip "Aturan Sinus" >}}
-Untuk sembarang segitiga $ABC$, dengan panjang sisi-sisi $a, b, c$ dan $\angle~A, \angle~B, \angle~C$, berlaku:
-$$ {\fcolorbox{red}{aqua}{${\cfrac{a}{sin A}}={\cfrac{b}{sin B}}={\cfrac{c}{sin C}}$}} $$
-{{< /admonition >}}
->> **Contoh 1 :** Perhatikan segitiga $ABC$ berikut. Panjang $AB=8, BC=8 \sqrt{2}, AC=b, \angle BAC=45 \degree , \angle ACB = y \degree $ dan $\angle ABC = x \degree $. Tentukan panjang $b$ !
-{{< admonition tip "Alternatif Penyelesaian" >}}
-* Dengan menggunakan aturan sinus, maka diperoleh:
-$$  \begin{aligned} \cfrac{BC}{sin~A}=\cfrac{AB}{sin~y\degree} &\iff \cfrac{8\sqrt{2}}{sin~45\degree} = \cfrac{8}{sin~y\degree} \\\\ &\iff \cfrac{8\sqrt{2}}{\cfrac{1}{2}\sqrt{2}} = \cfrac{8}{sin~y\degree} \\\\ &\iff 16 = \cfrac{8}{sin~y\degree} \\\\ &\iff sin~y\degree = \cfrac{1}{2} \\\\ &\iff y\degree = 30\degree \end{aligned} $$
-Jumlah ketiga sudut pada segitiga adalah $\angle A + \angle B + \angle C = 180\degree$, sehingga $45\degree + 30\degree + x\degree = 180\degree \to x\degree = 105\degree$.
-* Dengan menggunakan aturan sinus kembali, maka diperoleh:
-$$ \begin{aligned} \cfrac{AC}{sin~x\degree}=\cfrac{AB}{sin~y\degree} &\iff \cfrac{b}{sin~105\degree} = \cfrac{8}{sin~30\degree} \\\\ &\iff \cfrac{b}{sin~105\degree} = \cfrac{8}{\frac{1}{2}} \\\\ &\iff \cfrac{b}{sin~105\degree} = 16 \\\\ &\iff b = 16.sin~105\degree \end{aligned} $$
-Dengan memanfaatkan tabel sinus atau kalkulator maka diperoleh:
-$$ \begin{aligned} b &= 16.sin~105\degree \\\\ &= 16 \times 0,9659 \\\\ &= 15,4548 \end{aligned} $$
-Jadi, panjang sisi $AC$ adalah 15,4548 satuan panjang.
+## 2 KUIS
+> **Petunjuk Kuis**\
+Kerjakan soal-soal kuis berikut di kertas kemudian hasil jawaban dikirimkan dalam bentuk PDF $\to$ {{< link "https://forms.gle/Mz3byTjp6N6dhdSM9" Form_Tugas "Form Pengumpulan Tugas!" >}}
+
+{{< admonition question "1. Tentukan jarak antara titik T dan C jika diketahui:" >}}
+Limas beraturan T.ABC dengan bidang alas berbentuk segitiga sama sisi. TA tegak lurus dengan bidang alas. Jika panjang AB=$4\sqrt{2}$ cm dan TA = 4 cm !
 {{< /admonition >}}
 
-## 2 ATURAN COSINUS
-> {{< admonition tip "Aturan Cosinus" >}}
-Untuk sembarang segitiga $ABC$, dengan panjang sisi-sisi $a, b, c$ dan $\angle~A, \angle~B, \angle~C$, berlaku:
-$$ {\fcolorbox{red}{aqua}{$a^2=b^2+c^2-2bc.cos~A$}} $$
-$$ {\fcolorbox{red}{aqua}{$b^2=a^2+c^2-2ac.cos~B$}} $$
-$$ {\fcolorbox{red}{aqua}{$c^2=a^2+b^2-2ab.cos~C$}} $$
-
-{{< /admonition >}}
->> **Contoh 1 :** Perhatikan segitiga $ABC$ berikut. Panjang $AB=8, BC=8 \sqrt{2}, AC=b, \angle BAC=45 \degree , \angle ACB = y \degree $ dan $\angle ABC = x \degree $. Tentukan panjang $b$ !
-{{< admonition tip "Alternatif Penyelesaian" >}}
-* Dengan menggunakan aturan sinus, maka diperoleh:
-$$  \begin{aligned} \cfrac{BC}{sin~A}=\cfrac{AB}{sin~y\degree} &\iff \cfrac{8\sqrt{2}}{sin~45\degree} = \cfrac{8}{sin~y\degree} \\\\ &\iff \cfrac{8\sqrt{2}}{\cfrac{1}{2}\sqrt{2}} = \cfrac{8}{sin~y\degree} \\\\ &\iff 16 = \cfrac{8}{sin~y\degree} \\\\ &\iff sin~y\degree = \cfrac{1}{2} \\\\ &\iff y\degree = 30\degree \end{aligned} $$
-Jumlah ketiga sudut pada segitiga adalah $\angle A + \angle B + \angle C = 180\degree$, sehingga $45\degree + 30\degree + x\degree = 180\degree \to x\degree = 105\degree$.
-* Dengan menggunakan aturan sinus kembali, maka diperoleh:
-$$ \begin{aligned} \cfrac{AC}{sin~x\degree}=\cfrac{AB}{sin~y\degree} &\iff \cfrac{b}{sin~105\degree} = \cfrac{8}{sin~30\degree} \\\\ &\iff \cfrac{b}{sin~105\degree} = \cfrac{8}{\frac{1}{2}} \\\\ &\iff \cfrac{b}{sin~105\degree} = 16 \\\\ &\iff b = 16.sin~105\degree \end{aligned} $$
-Dengan memanfaatkan tabel sinus atau kalkulator maka diperoleh:
-$$ \begin{aligned} b &= 16.sin~105\degree \\\\ &= 16 \times 0,9659 \\\\ &= 15,4548 \end{aligned} $$
-Jadi, panjang sisi $AC$ adalah 15,4548 satuan panjang.
+{{< admonition question "2. Perhatikan limas segi enam beraturan berikut!" >}}
+Jika diketahui panjang AB = 10 cm dan TA = 13 cm. Titik O merupakan titik tengah garis BE. Tentukan jarak antara titik T dan O!
 {{< /admonition >}}
 
-## 3 LUAS SEGITIGA
-> **Definisi 1.4** Untuk $ a $ bilangan real dan $ a \not = 0 $ , maka $ a^0 = 1 $
->> **Contoh 1.4 :** $ 2^0 = 1, 5^0=1, \left(\cfrac{2}{3}\right)^0=1 $
+{{< admonition question "3. Perhatikan bangun berikut!" >}}
+Jika diketahui panjang AB = 10 cm, AE = BC = EF = 4 cm, maka tentukan:
+- [x] jarak antara titik A dan C
+- [x] jarak antara titik E dan C
+- [x] jarak antara titik A dan G
+{{< /admonition >}}
 
+## 3 JARAK TITIK KE GARIS
+## 4 JARAK TITIK KE BIDANG
 
 
 ## 4 KUIS
-> **Petunjuk Kuis**
-\
+> **Petunjuk Kuis**\
 Kerjakan soal-soal kuis berikut di kertas kemudian hasil jawaban dikirimkan dalam bentuk PDF $\to$ {{< link "https://forms.gle/Mz3byTjp6N6dhdSM9" Form_Tugas "Form Pengumpulan Tugas!" >}}
 
 {{< admonition question "1. Sederhanakanlah operasi bilangan berpangkat berikut:" >}}

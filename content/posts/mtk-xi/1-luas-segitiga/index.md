@@ -19,10 +19,6 @@ toc:
   auto: false
 ---
 
-Discover what the Hugo - **FeelIt** theme is all about and the core-concepts behind it.
-
-<!--more-->
-
 ## 1 ATURAN SINUS
 
 > {{< admonition tip "Aturan Sinus" >}}
@@ -47,7 +43,6 @@ Untuk sembarang segitiga $ABC$, dengan panjang sisi-sisi $a, b, c$ dan $\angle~A
 $$ {\fcolorbox{red}{aqua}{$a^2=b^2+c^2-2bc.cos~A$}} $$
 $$ {\fcolorbox{red}{aqua}{$b^2=a^2+c^2-2ac.cos~B$}} $$
 $$ {\fcolorbox{red}{aqua}{$c^2=a^2+b^2-2ab.cos~C$}} $$
-
 {{< /admonition >}}
 >> **Contoh 1 :** Perhatikan segitiga $ABC$ berikut. Panjang $AB=8, BC=8 \sqrt{2}, AC=b, \angle BAC=45 \degree , \angle ACB = y \degree $ dan $\angle ABC = x \degree $. Tentukan panjang $b$ !
 {{< admonition tip "Alternatif Penyelesaian" >}}
@@ -62,34 +57,26 @@ Jadi, panjang sisi $AC$ adalah 15,4548 satuan panjang.
 {{< /admonition >}}
 
 ## 3 LUAS SEGITIGA
-> **Definisi 1.4** Untuk $ a $ bilangan real dan $ a \not = 0 $ , maka $ a^0 = 1 $
->> **Contoh 1.4 :** $ 2^0 = 1, 5^0=1, \left(\cfrac{2}{3}\right)^0=1 $
-
-
+> {{< admonition tip "Luas Segitiga" >}}
+Untuk sembarang segitiga $ABC$, dengan panjang sisi-sisi $a, b, c$ dan $\angle~A, \angle~B, \angle~C$, berlaku luas $\triangle{ABC}$=\
+$$ {\fcolorbox{red}{aqua}{$\cfrac{1}{2}\times ab\sin{C}$}} $$
+$$ {\fcolorbox{red}{aqua}{$\cfrac{1}{2}\times bc\sin{A}$}} $$
+$$ {\fcolorbox{red}{aqua}{$\cfrac{1}{2}\times ac\sin{B}$}} $$
+{{< /admonition >}}
 
 ## 4 KUIS
-> **Petunjuk Kuis**
-\
+> **Petunjuk Kuis**\
 Kerjakan soal-soal kuis berikut di kertas kemudian hasil jawaban dikirimkan dalam bentuk PDF $\to$ {{< link "https://forms.gle/Mz3byTjp6N6dhdSM9" Form_Tugas "Form Pengumpulan Tugas!" >}}
 
-{{< admonition question "1. Sederhanakanlah operasi bilangan berpangkat berikut:" >}}
-- [x] $2^5 \times 2^9 \times 2^{12}=$
-- [x] $\cfrac{2^5 \times 3^5 \times 4^2}{12^2}=$
+{{< admonition question "1. Tentukan sisi-sisi segitiga \triangle{ABC}, jika diketahui:" >}}
+- [x] $a+b=10,~ \angle{A}=60\degree$, dan $\angle{B}=45\degree$
+- [x] $a-b=6,~ \angle{A}=45\degree$, dan $\angle{B}=30\degree$
 {{< /admonition >}}
 
-{{< admonition question "2. Dengan menggunakan sifat bilangan berpangkat, sederhanakanlah bentuk berikut:" >}}
-- [x] $2x^3 \times 7x^4 \times (3x)^2=$
-- [x] $\cfrac{-4a^3 \times 2b^5}{\cfrac{8a}{b}}=$
+{{< admonition question "2. Hitunglah unsur-unsur yang belum diketahui berikut ini: (gunakan kalkulator untuk menghitung sudut)" >}}
+- [x] $\triangle{ABC}$ dengan $a=24$ cm, $b=32$ cm, dan $\angle{B}=52\degree$
+- [x] $\triangle{ABC}$ dengan $a=20$ cm, $b=18$ cm, dan $\angle{B}=124\degree$
 {{< /admonition >}}
 
-{{< admonition question "3. Hitunglah hasil operasi bilangan berpangkat berikut:" >}}
-- [x] $\left(-\cfrac{2}{3} \right)^4 \times \left(\cfrac{1}{2} - \cfrac{1}{6} \right)^2$
-- [x] $\cfrac{3x^2 \times y^3}{24x} \times (2y)^2$ untuk $x=2$ dan $y=3$
-{{< /admonition >}}
-
-{{< admonition question "4. Tentukan nilai $x$ yang memenuhi:" >}}
-- [x] $2^x = 8$
-- [x] $4^x = 0,125$
-{{< /admonition >}}
 
 {{< image src="/images/avatar.webp" caption="avatar (`image`)" >}}

@@ -3,7 +3,7 @@ title: "2 Peluang"
 date: 2021-08-22T19:33:55+07:00
 author: "Ferilee"
 authorLink: "https://t.me/ferilee"
-draft: true
+draft: false
 
 description: ""
 resources:
@@ -21,29 +21,34 @@ toc:
   auto: false
 ---
 
-Discover what the Hugo - **FeelIt** theme is all about and the core-concepts behind it.
-
+# COMING SOON
 <!--more-->
 
-## Konsep Eksponen
+## 1 Membangun Konsep Matriks
 {{< admonition note "Definisi 1.1" >}}
-Misalkan a bilangan real dan n bilangan bulat positif.
-{{< /admonition >}}
-{{< admonition note "Definisi 1.2" >}}
-Fungsi Eksponen adalah suatu fungsi yang dinyatakan dalam bentuk .
+Matriks adalah susunan bilangan yang diatur menurut aturan baris dan kolom dalam suatu jajaran berbentuk persegi atau persegi panjang. Susunan bilangan itu diletakkan di dalam kurung biasa "( )" atau kurung siku "[ ]"
 {{< /admonition >}}
 
-## Pangkat Bulat Negatif
-{{< admonition note "Definisi 1.3" >}}
-Misalkan a bilangan real dan n bilangan bulat positif.
+## 2 Jenis-jenis Matriks
+{{< admonition note "Definisi 1.1" >}}
+Placeholder
 {{< /admonition >}}
 
-## Pangkat Nol
-{{< admonition note "Definisi 1.4" >}}
-Misalkan a bilangan real dan n bilangan bulat positif.
+## 3 Kesamaan Dua Matriks
+{{< admonition note "Definisi 1.1" >}}
+Placeholder
 {{< /admonition >}}
 
-## Sifat-sifat Pangkat Bulat Positif
-{{< admonition note "Sifat-1" >}}
-Misalkan a bilangan real dan n bilangan bulat positif.
+## 4 Operasi Pada Matriks
+{{< admonition note "Definisi 1.1" >}}
+Placeholder
 {{< /admonition >}}
+
+## 5 Kuis 1
+
+## 6 Determinan dan Invers Matriks
+{{< admonition note "Definisi 1.1" >}}
+Placeholder
+{{< /admonition >}}
+
+## 7 Kuis 2

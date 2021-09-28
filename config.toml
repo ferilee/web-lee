@@ -133,6 +133,14 @@ theme = "FeelIt"
     url = "/dokumen/"
     title = ""
     weight = 5
+  [[menu.main]]
+    identifier = "ujian"
+    pre = ""
+    post = ""
+    name = "Ruang Ujian"
+    url = "https://ferilee.my.id/yukbelajar"
+    title = ""
+    weight = 6
 
 # Search config
     [params.search]

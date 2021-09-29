@@ -19,7 +19,7 @@ toc:
   auto: false
 ---
 
-{{< admonition tip "Diagram Alur Konsep" >}}
+> Diagram Alur Konsep
   {{< mermaid >}}
   graph LR;
     A[Dimensi Tiga] --> B(Jarak Titik ke Titik)
@@ -31,7 +31,6 @@ toc:
     C --> D
     D --> E
   {{< /mermaid >}}
-{{< /admonition >}}
 
 <!--more-->
 
@@ -82,10 +81,8 @@ Jika diketahui panjang AB = 10 cm, AE = BC = EF = 4 cm, maka tentukan:
 
 ## 3 JARAK TITIK KE GARIS
 ## 4 JARAK TITIK KE BIDANG
-
-
-## 4 KUIS
-> **Petunjuk Kuis**\
+## 5 KUIS
+<!--- > **Petunjuk Kuis**\
 Kerjakan soal-soal kuis berikut di kertas kemudian hasil jawaban dikirimkan dalam bentuk PDF $\to$ {{< link "https://forms.gle/Mz3byTjp6N6dhdSM9" Form_Tugas "Form Pengumpulan Tugas!" >}}
 
 {{< admonition question "1. Sederhanakanlah operasi bilangan berpangkat berikut:" >}}

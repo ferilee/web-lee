@@ -69,6 +69,7 @@ Limas beraturan T.ABC dengan bidang alas berbentuk segitiga sama sisi. TA tegak 
 {{< /admonition >}}
 
 {{< admonition question "2. Perhatikan limas segi enam beraturan berikut!" >}}
+{{<geogebra-export>}}
 Jika diketahui panjang AB = 10 cm dan TA = 13 cm. Titik O merupakan titik tengah garis BE. Tentukan jarak antara titik T dan O!
 {{< /admonition >}}
 

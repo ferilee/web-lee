@@ -48,7 +48,7 @@ toc:
 | RIKO FIRMANSYAH | http://rikofirmansyah.netlify.app/ |
 | ROSA ABELIA AYU PUSPITA |  |
 | SITI KHOLILAH | https://bloglila.netlify.app/ |
-| SOFHIA ISMAWATI |  |
+| SOFHIA ISMAWATI | https://sophiaaa.netlify.app/ |
 | TRI INDAYANTI | https://triindayanti.netlify.app/ |
 | VEVI NUR AINI |  |
 | WENI PUJI LESTARI | https://blogweni.netlify.app |

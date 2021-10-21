@@ -44,7 +44,7 @@ toc:
 | MOCH. TAUFIK HIDAYAT | https://taufik13.netlify.app |
 | MOCHAMAD WAHYU HIDAYAT | https://wahyublog.netlify.app/ |
 | MUHAMMAD TOMI AHMADANI | https://mhmmdtomi.netlify.app/ |
-| NANDA LAILATUL FAZRA |  |
+| NANDA LAILATUL FAZRA | https://nanda-fazra.netlify.app/ |
 | RIKO FIRMANSYAH | http://rikofirmansyah.netlify.app/ |
 | ROSA ABELIA AYU PUSPITA |  |
 | SITI KHOLILAH | https://bloglila.netlify.app/ |

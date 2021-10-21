@@ -28,9 +28,9 @@ toc:
 | AYU NILAMSARI | https://ayunilam.netlify.app  |
 | DEBBY ANDRIYANTO | https://debbyandrianto.netlify.app/ |
 | DONI CRISNANDA | https://donicrisnanda.netlify.app |
-| DWI SATRIA BIMANTARA |  |
+| DWI SATRIA BIMANTARA | http://blog-bimantara.netlify.app/ |
 | EMILIA IKA SINTA WATI | https://emiliaika.netlify.app  |
-| ERIKA DWI MARGARETA |  |
+| ERIKA DWI MARGARETA | https://erikadwi.netlify.app/ |
 | ERWIN DANI SAPUTRA | https://erwindani.netlify.app/ |
 | EVA BUNGA MUKAROMAH | https://evabunga.netlify.app/ |
 | IKNA APRILIA INDRIANI | https://iknaapriliaa.netlify.app/ |
@@ -50,7 +50,7 @@ toc:
 | SITI KHOLILAH | https://bloglila.netlify.app/ |
 | SOFHIA ISMAWATI | https://sophiaaa.netlify.app/ |
 | TRI INDAYANTI | https://triindayanti.netlify.app/ |
-| VEVI NUR AINI |  |
+| VEVI NUR AINI | https://vevi.netlify.app/ |
 | WENI PUJI LESTARI | https://blogweni.netlify.app |
 | WIDIA TANTRI |  |
 | WULAN ASIH | https://wulan.netlify.app/ |

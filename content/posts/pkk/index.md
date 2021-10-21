@@ -34,9 +34,9 @@ toc:
 | ERWIN DANI SAPUTRA | https://erwindani.netlify.app/ |
 | EVA BUNGA MUKAROMAH | https://evabunga.netlify.app/ |
 | IKNA APRILIA INDRIANI | https://iknaapriliaa.netlify.app/ |
-| INTAN MAHARANI |  |
+| INTAN MAHARANI | https://maharani.netlify.app/ |
 | KADEK DWI SAFIATUL LAILI | https://blokkadek.netlify.app/ |
-| KURNIA VEBYYANTI |  |
+| KURNIA VEBYYANTI | http://blog-veby.netlify.app/ |
 | LINA PUTRI LESTARI | https://bloglina.netlify.app/ |
 | MARCELL PHALEVI WAHYU CHAREZA | https://marcellphalevi.netlify.app/ |
 | MAY SUNY KHARISMATUN NISA | https://maysuny.netlify.app/ |

@@ -23,7 +23,7 @@ toc:
 ## Daftar Alamat Blog XII MM
 | Nama | Alamat Blog |
 | ------ | ----------- |
-| ADHELIA GEMELEONNY PAMUNGKAS |  |
+| ADHELIA GEMELEONNY PAMUNGKAS | https://gemelly.netlify.app/ |
 | ADI SAPUTRA | https://adisaputra.netlify.app/ |
 | AYU NILAMSARI | https://ayunilam.netlify.app  |
 | DEBBY ANDRIYANTO | https://debbyandrianto.netlify.app/ |
@@ -40,7 +40,7 @@ toc:
 | LINA PUTRI LESTARI | https://bloglina.netlify.app/ |
 | MARCELL PHALEVI WAHYU CHAREZA | https://marcellphalevi.netlify.app/ |
 | MAY SUNY KHARISMATUN NISA | https://maysuny.netlify.app/ |
-| MEITHA TRI SALSABILLAH |  |
+| MEITHA TRI SALSABILLAH | https://salsabillah.netlify.app/ |
 | MOCH. TAUFIK HIDAYAT | https://taufik13.netlify.app |
 | MOCHAMAD WAHYU HIDAYAT | https://wahyublog.netlify.app/ |
 | MUHAMMAD TOMI AHMADANI | https://mhmmdtomi.netlify.app/ |
@@ -52,7 +52,7 @@ toc:
 | TRI INDAYANTI | https://triindayanti.netlify.app/ |
 | VEVI NUR AINI | https://vevi.netlify.app/ |
 | WENI PUJI LESTARI | https://blogweni.netlify.app |
-| WIDIA TANTRI |  |
+| WIDIA TANTRI | https://widiatantri.netlify.app/ |
 | WULAN ASIH | https://wulan.netlify.app/ |
 | YUDHA ADITYA PRATAMA | https://yudaaditya.netlify.app/ |
 | YULIA DWI CAHYANI | https://blogyulia.netlify.app |

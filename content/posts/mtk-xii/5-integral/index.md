@@ -1,9 +1,8 @@
 ---
 title: "5 Integral"
-date: 2021-08-22T19:33:55+07:00
+date: 2022-02-15T19:33:55+07:00
 author: "Ferilee"
 authorLink: "https://t.me/ferilee"
-draft: true
 
 description: ""
 resources:
@@ -21,29 +20,12 @@ toc:
   auto: false
 ---
 
-Discover what the Hugo - **FeelIt** theme is all about and the core-concepts behind it.
-
-<!--more-->
-
-## Konsep Eksponen
-{{< admonition note "Definisi 1.1" >}}
-Misalkan a bilangan real dan n bilangan bulat positif.
-{{< /admonition >}}
-{{< admonition note "Definisi 1.2" >}}
-Fungsi Eksponen adalah suatu fungsi yang dinyatakan dalam bentuk .
+## Ukur kemampuanmu dengan menyelesaikan soal tentang luas daerah menggunakan integral
+Kerjakan soal berikut di buku, kemudian jawaban dalam bentuk PDF diupload ke alamat https://bit.ly/Tugas1602. Tenggat waktu sampai 16 Februari 2022 pukul 21.00
+{{< admonition note "Hitunglah luas daerah yang dibatasi oleh:" >}}
+* kurva $y=-x^2+2x$ dan sumbu-$x$ untuk interval $0 \leq x \leq 2$ !
+* kurva $y=2-x^2$ dan sumbu $y=x$ !
+* kurva $y=4-x^2$, sumbu-$x$, garis $x=0$, dan $x=1$ !
 {{< /admonition >}}
 
-## Pangkat Bulat Negatif
-{{< admonition note "Definisi 1.3" >}}
-Misalkan a bilangan real dan n bilangan bulat positif.
-{{< /admonition >}}
-
-## Pangkat Nol
-{{< admonition note "Definisi 1.4" >}}
-Misalkan a bilangan real dan n bilangan bulat positif.
-{{< /admonition >}}
-
-## Sifat-sifat Pangkat Bulat Positif
-{{< admonition note "Sifat-1" >}}
-Misalkan a bilangan real dan n bilangan bulat positif.
-{{< /admonition >}}
+Selamat mengerjakan!

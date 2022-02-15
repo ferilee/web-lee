@@ -3,7 +3,6 @@ title: "5 Barisan dan Deret"
 date: 2021-08-22T19:33:55+07:00
 author: "Ferilee"
 authorLink: "https://t.me/ferilee"
-draft: true
 
 description: ""
 resources:
@@ -21,51 +20,15 @@ toc:
   auto: false
 ---
 
-> **Fusion Drive** combines a hard drive with a flash storage (solid-state drive) and presents it as a single logical volume with the space of both drives combined.
-
-$ c = \pm\sqrt{a^2 + b^2} $ and \\( f(x)=\int_{-\infty}^{\infty} \hat{f}(\xi) e^{2 \pi i \xi x} d \xi \\)
-
-That is so funny! :(far fa-grin-tears):
-
-<!--more-->
-
-## Konsep Eksponen
-{{< admonition note "Definisi 1.1" >}}
-Misalkan a bilangan real dan n bilangan bulat positif.
+## Ukur kemampuanmu dengan menyelesaikan soal tentang barisan dan deret
+Kerjakan soal berikut di buku, kemudian jawaban dalam bentuk PDF diupload. Tenggat waktu sampai 16 Februari 2022 pukul 21.00
+{{< admonition note "Soal berikut berlaku pada tanggal 16 Februari 2022" >}}
+* Pada deret aritmetika, diketahui $U_6+U_9+U_{12}+U_{15}=20$. Berapakah $S_{20}$ ?
+* Diketahui barisan geometri dengan $U_1=3$ dan $U_9=768$. Berapakah suku ke-7 barisan tersebut ?
+* Jumlah 6.036 suku pertama dari suatu deret geometri adalah 1.141, sedangkan jumlah 4.024 suku pertamanya adalah 780. Berapakah jumlah 2.012 suku pertamanya ?
+* Jumlah suatu deret tak hingga adalah 30 dengan rasio $\frac{2}{3}$. Suku pertama deret tersebut adalah ...
 {{< /admonition >}}
-{{< admonition note "Definisi 1.2" >}}
-Fungsi Eksponen adalah suatu fungsi yang dinyatakan dalam bentuk .
-{{< /admonition >}}
-
-## Pangkat Bulat Negatif
-{{< admonition note "Definisi 1.3" >}}
-Misalkan a bilangan real dan n bilangan bulat positif.
-{{< /admonition >}}
-
-## Pangkat Nol
-{{< admonition note "Definisi 1.4" >}}
-Misalkan a bilangan real dan n bilangan bulat positif.
-{{< /admonition >}}
-
-## Sifat-sifat Pangkat Bulat Positif
-{{< admonition note "Sifat-1" >}}
-Misalkan a bilangan real dan n bilangan bulat positif.
-{{< /admonition >}}
-
-{{< mermaid >}}
-journey
-    title My working day
-    section Go to work
-      Make tea: 5: Me
-      Go upstairs: 3: Me
-      Do work: 1: Me, Cat
-    section Go home
-      Go downstairs: 5: Me
-      Sit down: 5: Me
-
-{{< /mermaid >}}
-
 
 {{< typeit >}}
-This is a *paragraph* with **typing animation** based on [TypeIt](https://typeitjs.com/)...
+Selamat mengerjakan!
 {{< /typeit >}}

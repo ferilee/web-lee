@@ -42,3 +42,6 @@ Kerjakan soal berikut di buku, kemudian jawaban dalam bentuk PDF diupload. Tengg
 {{< typeit >}}
 Selamat mengerjakan!
 {{< /typeit >}}
+
+
+{{< matematika/daftartugas >}}

@@ -5,7 +5,7 @@ date: 2022-03-04T21:29:01+08:00
 lastmod: 2022-03-04T21:29:01+08:00
 author: "Ferilee"
 authorLink: "https://t.me/ferilee"
-description: "Discover what the Hugo - FeelIt theme is all about and the core-concepts behind it."
+description: "Catatan perjalanan Ferilee dalam mengikuti seleksi Pengajar Praktik"
 resources:
 - name: "featured-image"
   src: "featured-image.webp"

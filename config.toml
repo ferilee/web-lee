@@ -138,7 +138,7 @@ theme = "FeelIt"
     pre = ""
     post = ""
     name = "Ruang Ujian"
-    url = "https://ferilee.my.id/yukbelajar"
+    url = "/ujian/"
     title = ""
     weight = 6
 

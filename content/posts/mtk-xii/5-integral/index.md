@@ -49,3 +49,5 @@ Tentukan hasil dari integral berikut:
   * $\int\limits_{2}^3 (x-2) dx$
 
 Selamat mengerjakan!
+
+{{< quizizz/integral>}}

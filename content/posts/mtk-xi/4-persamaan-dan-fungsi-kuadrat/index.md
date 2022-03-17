@@ -18,7 +18,7 @@ toc:
 
 # PERSAMAAN KUADRAT
 {{< admonition note "Definisi 1.1" >}}
-Misalkan a bilangan real dan n bilangan bulat positif.
+Persamaan Kuadrat dalam $x$ adalah suatu persamaan berbentuk $ax^2+bx+c=0$, dengan $a,b$,dan $c$ bilangan real dan $a\not=0$
 {{< /admonition >}}
 {{< admonition note "Definisi 1.2" >}}
 Fungsi Eksponen adalah suatu fungsi yang dinyatakan dalam bentuk .

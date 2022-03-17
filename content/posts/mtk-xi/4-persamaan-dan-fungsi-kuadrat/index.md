@@ -1,6 +1,6 @@
 ---
 title: "4 Persamaan dan Fungsi Kuadrat"
-date: 2022-03-17T19:33:55+07:00
+date: 2022-03-16T19:33:55+07:00
 author: "Ferilee"
 authorLink: "https://t.me/ferilee"
 description: ""

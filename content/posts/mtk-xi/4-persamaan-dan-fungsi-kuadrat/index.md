@@ -1,9 +1,9 @@
 ---
 title: "4 Persamaan dan Fungsi Kuadrat"
-date: 2021-08-22T19:33:55+07:00
+date: 2022-03-17T19:33:55+07:00
 author: "Ferilee"
 authorLink: "https://t.me/ferilee"
-draft: true
+draft: false
 
 description: ""
 resources:
@@ -21,11 +21,7 @@ toc:
   auto: false
 ---
 
-Discover what the Hugo - **FeelIt** theme is all about and the core-concepts behind it.
-
-<!--more-->
-
-## Konsep Eksponen
+# PERSAMAAN KUADRAT
 {{< admonition note "Definisi 1.1" >}}
 Misalkan a bilangan real dan n bilangan bulat positif.
 {{< /admonition >}}
@@ -33,17 +29,17 @@ Misalkan a bilangan real dan n bilangan bulat positif.
 Fungsi Eksponen adalah suatu fungsi yang dinyatakan dalam bentuk .
 {{< /admonition >}}
 
-## Pangkat Bulat Negatif
+## Akar-akar Persamaan Kuadrat
 {{< admonition note "Definisi 1.3" >}}
 Misalkan a bilangan real dan n bilangan bulat positif.
 {{< /admonition >}}
 
-## Pangkat Nol
+## Rumus Jumlah dan Hasil Kali Akar-akar Persamaan Kuadrat
 {{< admonition note "Definisi 1.4" >}}
 Misalkan a bilangan real dan n bilangan bulat positif.
 {{< /admonition >}}
 
-## Sifat-sifat Pangkat Bulat Positif
+## Persamaan Kuadrat dengan Akar-akar $x_1$ dan $x_2$
 {{< admonition note "Sifat-1" >}}
 Misalkan a bilangan real dan n bilangan bulat positif.
 {{< /admonition >}}

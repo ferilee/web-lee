@@ -3,20 +3,15 @@ title: "4 Persamaan dan Fungsi Kuadrat"
 date: 2022-03-17T19:33:55+07:00
 author: "Ferilee"
 authorLink: "https://t.me/ferilee"
-draft: false
-
 description: ""
 resources:
 - name: "featured-image"
   src: "featured-image.webp"
 - name: "featured-image-preview"
   src: "featured-image-preview.webp"
-
 tags: ["Persamaan dan Fungsi Kuadrat"]
 categories: ["Matematika-XI"]
-
 lightgallery: true
-
 toc:
   auto: false
 ---

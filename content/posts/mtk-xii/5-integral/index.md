@@ -48,5 +48,6 @@ Tentukan hasil dari integral berikut:
   * $\int\limits_{2}^3 (x-2) dx$
 
 Selamat mengerjakan!
-$$ \begin{aligned}  L &= \int\limits_{0}^2 (-x^2+2x) dx $$
+$ \begin{aligned}  L &= \int\limits_{0}^2 (-x^2+2x) dx $
+
 {{< quizizz/integral>}}

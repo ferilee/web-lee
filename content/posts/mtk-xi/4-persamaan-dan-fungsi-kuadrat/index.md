@@ -29,8 +29,8 @@ Ada tiga cara (aturan) yang bisa dilakukan untuk menentukan akar-akar persamaan 
 
 > Contoh: Tentukan akar-akar persamaan kuadrat $x^2+x-6=0$ dengan cara pemfaktoran.
 {{< admonition example "Penyelesaian" >}}
-$$ \underbrace{x^2+x-6=0}_{\text{a=1,b=1, c=-6}} \
-\begin{aligned} x^2+x-6 &= 0 \\\\ (x-2)(x+3) &= 0 \\\\ x-2=0 &\lor x+3=0 \\\\ x_1=2 &\lor x_2=-3 \end{aligned} $$
+$ \underbrace{x^2+x-6=0}_{\text{a=1,b=1, c=-6}}$ \
+$$ \begin{aligned} x^2+x-6 &= 0 \\\\ (x-2)(x+3) &= 0 \\\\ x-2=0 &\lor x+3=0 \\\\ x_1=2 &\lor x_2=-3 \end{aligned} $$
 {{< /admonition >}}
 
 ### Rumus Jumlah dan Hasil Kali Akar-akar Persamaan Kuadrat

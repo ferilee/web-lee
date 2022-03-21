@@ -21,7 +21,7 @@ toc:
 ---
 
 ## Ukur kemampuanmu dengan menyelesaikan soal tentang luas daerah menggunakan integral
-<!--
+
 Kerjakan soal berikut di buku, kemudian jawaban dalam bentuk PDF diupload ke alamat https://bit.ly/Tugas1602. Tenggat waktu sampai 16 Februari 2022 pukul 21.00
 > Hitunglah luas daerah yang dibatasi oleh:
   * kurva $y=-x^2+2x$ dan sumbu-$x$ untuk interval $0 \leq x \leq 2$ !
@@ -39,7 +39,6 @@ $$  \begin{aligned}  L &= \int\limits_{0}^2 (-x^2+2x) dx \\\\  &= -(\frac{1}{2+1
 * kurva $y=2-x^2$ dan sumbu $y=x$ !
 * kurva $y=4-x^2$, sumbu-$x$, garis $x=0$, dan $x=1$ !
 {{< /admonition >}}
--->
 
 Tentukan hasil dari integral berikut:
   * $\int (4x-1)(3x+2) dx$

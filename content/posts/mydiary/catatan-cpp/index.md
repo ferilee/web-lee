@@ -20,6 +20,8 @@ lightgallery: true
 toc:
   auto: false
 ---
+{{< style "text-align:justify; strong{color:#00b1ff;}" >}}{{< /style >}}
+
 # PEMBEKALAN CPP
 ## Hari ke-1
 Di hari pertama ini (Senin, 14 Februari 2022) aku mengikuti pembukaan dan orientasi pembelajaran, kemudian dilanjutkan dengan mengerjakan tes awal (postest) di LMS https://lms20-gp.simpkb.id/
@@ -112,9 +114,77 @@ Lembar Aktivitas Analisis Alur Merdeka:
 {{< /admonition >}}
 
 ## Hari ke-5
-**Pengantar Materi Penetapan Tujuan, Refleksi dan Umpan Balik**
-{{< mydiary/pembekalan-pp/tab-headers >}}
-{{< mydiary/pembekalan-pp/accordion >}}
+### **Pengantar Materi Penetapan Tujuan, Refleksi dan Umpan Balik**
+{{< admonition info "Kompetensi Acuan" >}}
+1. Menunjukkan praktik pengembangan diri berdasarkan kesadaran dan kemauan pribadi;
+1. Mengembangkan kompetensi warga sekolah untuk meningkatkan kualitas pembelajaran;
+1. Memimpin perencanaan dan pelaksanaan proses belajar yang berpusat pada murid.
+1. Memimpin refleksi dan perbaikan kualitas proses belajar yang berpusat pada murid;
+{{</admonition>}}
+> **Indikator Kompetensi Acuan**
+{{< admonition info "Kompetensi Acuan 1" >}}
+1. Mengenali potensi diri dalam kepemimpinan pendidikan.
+1. Mengambil inisiatif, menetapkan tujuan, dan merencanakan pengembangan diri sesuai dengan kebutuhan kepemimpinan pendidikan yang dihadapi.
+1. Melakukan pengembangan diri sesuai dengan yang direncanakan.
+1. Melakukan refleksi terhadap hasil pengembangan diri untuk perbaikan.
+{{</admonition>}}
+{{< admonition info "Kompetensi Acuan 2" >}}
+1. Memetakan kebutuhan belajar warga sekolah untuk meningkatkan kualitas pembelajaran.
+1. Melakukan pendampingan kepada guru untuk melakukan pengembangan diri.
+1. Melakukan pendampingan kepada guru untuk meningkatkan kualitas pembelajaran.
+1. Mendorong warga sekolah menguasai kompetensi yang dibutuhkan.
+1. Memberikan kesempatan kepada warga sekolah untuk melakukan pengembangan kompetensi di luar sekolah.
+{{</admonition>}}
+{{< admonition info "Kompetensi Acuan 3" >}}
+1. Memimpin pertemuan guru untuk merencanakan proses belajar yang berpusat pada murid.
+2. Memberi umpan balik terhadap perencanaan dan pelaksanaan proses belajar sebagai dasar bagi guru melakukan perbaikan.
+{{</admonition>}}
+{{< admonition info "Kompetensi Acuan 4" >}}
+1. Mengoordinasi pengumpulan dan pengolahan data terkait proses dan hasil belajar murid.
+2. Mengoordinasi evaluasi praktik pembelajaran berdasarkan data terkait proses dan hasil belajar murid.
+3. Memimpin pertemuan refleksi secara berkala untuk perbaikan kualitas proses belajar.
+{{</admonition>}}
+Membimbing guru untuk melakukan perbaikan kualitas proses belajar berdasarkan hasil dari refleksi.
+
+{{< admonition info "Topik Pembelajaran Modul" >}}
+- [x] Penentuan Tujuan
+  1. Menetapkan tujuan adalah proses yang berharga karena membantu diri kita sendiri memikirkan masa depan, memberi kita kesempatan untuk merenungkan nilai-nilai yang kita yakini, dan membantu menemukan peran apa yang benar-benar sesuai bagi kita.
+  1. Menetapkan tujuan juga memungkinkan kita untuk merekonstruksi realitas, yaitu memberi kita kesempatan untuk merefleksikan situasi saat ini secara rasional, dan mendorong kita untuk terus bergerak.
+  1. Calon Pengajar Praktik perlu menetapkan dan atau merefleksikan tujuannya untuk mengoptimalisasi perannya sebagai pendamping Calon Guru Penggerak
+  1. Untuk membantu proses pencapaian tujuan, Calon Pengajar Praktik akan menggunakan alat bantu Lingkaran Emas Pribadi (Golden Circle).  
+  1. Lingkaran Emas Pribadi adalah dokumen hidup sehingga di masa depan Calon Pengajar Praktik dapat mengevaluasi dan merevisi agar terus relevan dan kontekstual dengan tujuan.
+- [x] Refleksi
+  1. Refleksi merupakan proses yang dilakukan individu untuk mengobservasi apa yang dipikirkan dan dirasakan
+  1. Ada berbagai macam model untuk melakukan refleksi, beberapa metode yang dapat digunakan adalah:
+      * Segitiga Refleksi
+      * Deal
+      * Empat P (4P)
+      * Reflective Storyboard
+      * Teknik 6 Topi
+      * Empat C (4C)
+      * Model FSB
+      * Model Cuaca
+- [x] Umpan Balik
+  1. Dalam proses belajar, seseorang membutuhkan dukungan yang bertujuan untuk membantu evaluasi diri (self-evaluation). Dukungan ini sangat erat kaitannya dengan umpan balik.
+  1. Umpan balik memungkinkan seseorang untuk melihat zona buta (blind spot) dan juga untuk membantu seseorang dalam meningkatkan pengetahuan, keterampilan, sikap atau tindakan yang relevan dengan tujuannya
+  1. Umpan balik dapat dimanfaatkan untuk perbaikan dan meningkatkan kualitas diri. Memberi dan menerima umpan balik adalah salah satu keterampilan penting dalam pekerjaan dan kehidupan. Dalam lingkungan profesional, umpan balik adalah aspek kunci dari setiap pekerjaan kolaboratif.
+  1. Calon Pengajar Praktik akan diperkenalkan dengan Model Umpan Balik EPIK (Empati, Posisi, Intensi dan Kualitas) sebagai pondasi untuk melihat kebutuhan penerima umpan balik, dalam rangka memberikan umpan balik yang berkualitas dan memberdayakan.
+  1. Dengan memberikan serta mengelola umpan balik dalam lingkungan diskusi yang sehat, individu-individu akan mampu berkembang dengan lebih cepat dan lebih adaptif.
+{{</admonition>}}
+
+{{< admonition info "Pemahaman Bermakna" >}}
+Pengajar Praktik mendorong terjadinya perubahan bersama-sama Calon Guru Penggerak dengan melakukan evaluasi diri serta melakukan pengembangan dan pemberdayaan diri melalui penetapan tujuan, refleksi dan umpan balik yang bermakna dan berkualitas.
+{{</admonition>}}
+
+{{< admonition info "Produk yang Dihasilkan" >}}
+1. Dokumen Lingkaran Emas Pribadi
+1. Dokumen refleksi harian
+{{</admonition>}}
+
+### Alur Belajar MERDEKA
+{{< mydiary/pembekalan-pp/merdeka5 >}}
+
+
 ## Hari ke-6
 ## Hari ke-7
 ## Hari ke-8

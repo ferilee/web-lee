@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.accordion5b {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+.active, .accordion5b:hover {
+  background-color: #ccc;
+}
+
+.accordion5b:after {
+  content: '\002B';
+  color: #777;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212";
+}
+
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+</style>
+</head>
+<body>
+
+<b></b>
+<button class="accordion5b">Mulai dari diri</button>
+<div class="panel">
+  <p>Refleksi pengalaman belajar dan latar belakang dalam menjalankan peran sebagai pendidik sebagai landasan tujuan untuk bergabung dalam program Pendidikan Guru Penggerak sebagai CPP.</p>
+  <p>Peserta diminta untuk:</p>
+  <ol>
+    <li>Menjawab serangkaian pertanyaan tentang pengalaman belajar saat bersekolah dan alasan menjadi pendidik serta prinsip dalam menjalankan peran tersebut.</li>
+    <li>Mengaitkan jawaban di poin 1 dengan tujuan bergabung dalam Pendidikan Guru Penggerak sebagai CPP</li>
+    <li>Mendiskusikan jawaban bersama rekan CPP lain.</li>
+  <ol>
+</div>
+
+<button class="accordion5b">Eksplorasi Konsep</button>
+<div class="panel">
+  <p>Menggali pemikiran KHD tentang Pendidikan yang memerdekakan.</p>
+  <p>Kegiatan</p>
+  <ol>
+    <li>Mempelajari serangkaian referensi tentang pemikiran KHD dan profil Pelajar Pancasila.</li>
+    <li>Mendiskusikan pemahaman CPP tentang pemikiran KHD dan mengaitkannya dengan tujuan untuk membentuk profil pelajar Pancasila.</li>
+  </ol>
+</div>
+
+<button class="accordion5b">Ruang Kolaborasi</button>
+<div class="panel">
+  <p>"Berbagi pemahaman tentang prinsip Pendidikan yang Memerdekakan".</p>
+  <p>Kegiatan:<br>
+    Mendiskusikan jawaban pertanyaan dan kaitan pemikiran KHD terhadap proses pengembangan profil Pelajar Pancasila bersama CPP lain.</p>
+</div>
+
+<button class="accordion5b">Demonstrasi Kontekstual</button>
+<div class="panel">
+  <p>Menyampaikan pernyataan sikap tentang prinsip Pendidikan yang Memerdekakan (manifesto).</p>
+  <p>Kegiatan</p>
+  <ol>
+    <li>Membuat presentasi pernyataan sikap tentang prinsip Pendidikan yang Memerdekaan yang diyakini.</li>
+    <li>Menyampaikan pernyataan sikap tersebut dengan cara yang menurut CPP paling sesuai.</li>
+  </ol>
+</div>
+
+<button class="accordion5b">Elaborasi Pemahaman</button>
+<div class="panel">
+  <p>Menggali penerapan prinsip Pendidikan yang Memerdekakan yang relevan dan kontekstual.</p>
+  <p>Kegiatan</p>
+  <ol>
+    <li>Mempelajari serangkaian sumber belajar tentang Praktik Pendidikan yang Memerdekakan di beberapa model tempat belajar (berupa video)</li>
+    <li>Menganalisa praktik baik pembelajaran yang berpihak pada anak dari sumber belajar di poin 1</li>
+    <li>Mendiskusikan pendapat tentang poin 2 bersama CPP lain</li>
+  </ol>
+</div>
+
+<button class="accordion5b">Koneksi Antar Materi</button>
+<div class="panel">
+  <p>Mengidentifikasi kondisi pembelajaran yang berpihak pada anak di lingkungan sekolah terkait praktik baik yang perlu dipertahankan dan tantangan yang perlu diatasi.</p>
+  <p>Kegiatan:</br>
+    Menjawab pertanyaan tentang praktik baik dan tantangan yang dialami di sekolah tempat CPP bekerja.</p>
+</div>
+
+<button class="accordion5b">Aksi Nyata</button>
+<div class="panel">
+  <p>"Prakarsa perubahan yang berpihak pada anak dan berdampak pada anak".</p>
+  <p>Kegiatan:</br>
+    Merancang rencana perubahan  yang ditulis dalam format ATAP (Awal, Tantangan, Aksi dan Pelajaran).</p>
+</div>
+
+<script>
+var acc = document.getElementsByClassName("accordion5b");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    }
+  });
+}
+</script>
+
+</body>
+</html>

@@ -1,18 +1,18 @@
 ---
 weight: 1
-title: "Catatan seorang Pengajar Praktik"
+title: "Aktivitas Pembekalan Pengajar Praktik"
 date: 2022-03-04T21:29:01+08:00
 lastmod: 2022-03-04T21:29:01+08:00
 author: "Ferilee"
 authorLink: "https://t.me/ferilee"
-description: "Catatan perjalanan Ferilee dalam mengikuti seleksi Pengajar Praktik"
+description: "Materi Pembekalan Pengajar Praktik Angkatan V"
 resources:
 - name: "featured-image"
   src: "featured-image.webp"
 - name: "featured-image-preview"
   src: "featured-image-preview.webp"
 
-tags: ["Catatan CPP"]
+tags: ["Pembekalan PP-PGP"]
 categories: ["My Diary"]
 
 lightgallery: true
@@ -335,6 +335,34 @@ Bagaimana pengalaman belajar Anda mempengaruhi tujuan anda bergabung dalam progr
 {{< admonition question "Refleksi-5" false >}}
 Bagaimana latar belakang dan prinsip yang Anda anut sebagai pendidik mempengaruhi tujuan Anda bergabung dalam program Pendidikan Guru Penggerak sebagai Pengajar Praktik?
 {{</admonition>}}
+
+### Eksplorasi Konsep - Pendidikan yang Memerdekakan
+**Tujuan Sesi:**
+
+1. Mengidentifikasi nilai dan prinsip yang diyakini tentang Pendidikan Yang Memerdekakan
+1. Menyelaraskan nilai diri dan prinsip diri dengan prinsip Pendidikan yang Memerdekakan sesuai filosofi Ki Hajar Dewantara
+1. Memperluas referensi dan pengetahuan terkait prinsip Pendidikan yang Memerdekakan yang berpihak pada murid dari Ki Hajar Dewantara dan pemikir lainnya.
+1. Memahami profil Pelajar Pancasila sebagai tujuan transformasi pendidikan yang berpihak pada murid
+
+**Menggali Pemikiran Para Tokoh**
+Pada kegiatan ini, Anda diminta untuk mencari tahu dan mempelajari secara mandiri Prinsip Pendidikan yang Memerdekakan. Beberapa referensi yang perlu dicari tahu adalah sebagai berikut:
+* Pemikiran Ki Hadjar Dewantara mengenai konsep Pendidikan yang Memerdekakan mencakup kemandirian, kemerdekaan, kodrat alam, kodrat zaman, asas trikon, budi pekerti, dan patrap triloka.
+* Pemikiran dan praktik belajar mandiri menurut Maria Montessori, Friedrich Fröbel, Rabindranath Tagore sebagai referensi pemikiran KHD
+* Referensi lain (referensi pribadi atau referensi yang baru ditemukan)  yang dianggap selaras dengan prinsip Pendidikan yang Memerdekakan.
+ 
+Anda dapat mencari tahu dan menggali topik-topik tersebut lewat media (internet, buku yang dimiliki, dll.) yang beragam. CPP dapat  menggunakan media yang memungkinkan untuk diakses serta sesuai dengan kebutuhan dan kenyamanan.
+
+Selain itu, untuk membantu Anda lebih memahami konsep Pendidikan yang Memerdekakan sesuai filosofi dan pemikiran Ki Hajar Dewantara  yang menjadi landasan transformasi pendidikan, Anda diminta mengakses dan mempelajari sumber informasi yang tertera di halaman selanjutnya. Setelah itu, Anda diminta untuk menuliskan hasil belajar Anda.
+
+**Pendidikan Indonesia Zaman Kolonial**
+{{< youtube M90E2vT7zF4 >}}
+
+**Kerangka Pemikiran Ki Hadjar Dewantara**
+{{< youtube FB63f8A5KZs >}}
+
+**Dasar-dasar Pendidikan**
+<iframe src="https://drive.google.com/file/d/1ivjBO_kGb4N_6XhRsLUa_V1fjxyjycCP/preview" width="640" height="480" allow="autoplay"></iframe>
+
 ## Hari ke-6
 ## Hari ke-7
 ## Hari ke-8

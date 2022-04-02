@@ -337,33 +337,51 @@ Bagaimana latar belakang dan prinsip yang Anda anut sebagai pendidik mempengaruh
 {{</admonition>}}
 
 ### Eksplorasi Konsep - Pendidikan yang Memerdekakan
-**Tujuan Sesi:**
+{{< mydiary/pembekalan-pp/eksplorasikonsep5 >}}
 
-1. Mengidentifikasi nilai dan prinsip yang diyakini tentang Pendidikan Yang Memerdekakan
-1. Menyelaraskan nilai diri dan prinsip diri dengan prinsip Pendidikan yang Memerdekakan sesuai filosofi Ki Hajar Dewantara
-1. Memperluas referensi dan pengetahuan terkait prinsip Pendidikan yang Memerdekakan yang berpihak pada murid dari Ki Hajar Dewantara dan pemikir lainnya.
-1. Memahami profil Pelajar Pancasila sebagai tujuan transformasi pendidikan yang berpihak pada murid
+{{< admonition abstract "Pemahaman tentang filosofi pendidikan Ki Hajar Dewantara yang menjadi landasan transformasi pendidikan Indonesia yang berpihak pada anak" false >}}
+Menurut analogi Ki Hadjar Dewantara, anak itu seperti padi dan petani itu seperti pendidik. Tumbuhkanlah padi sebagai padi, jangan pernah berharap akan tumbuh sebagai jagung. Ki Hadjar Dewantara menilai sesuatu yang perlu diubah adalah budi pekerti. Budi mengandung komponen cipta (pikiran), rasa (perasaan), dan karsa (kemauan), sedangkan pekerti berarti tenaga (raga). Sehingga pendidikan itu harus holistik dan seimbang, tidak boleh timpang antara olah cipta, olah rasa, olah karsa, dan olah raga yang akhirnya dapat menciptakan kesempurnaan budi pekerti yang akan membawa anak pada kebijaksanaan. Pendidikan seharusnya mengacu kepada azas taman siswa, yaitu “bebas dari segala ikatan, dengan suci hati mendekati sang anak, tidak untuk meminta sesuatu hak, namun untuk berhamba pada sang anak (berorientasi pada sang anak merupakan hal yang utama dan esensial bagi para pendidik).
 
-**Menggali Pemikiran Para Tokoh**
-Pada kegiatan ini, Anda diminta untuk mencari tahu dan mempelajari secara mandiri Prinsip Pendidikan yang Memerdekakan. Beberapa referensi yang perlu dicari tahu adalah sebagai berikut:
-* Pemikiran Ki Hadjar Dewantara mengenai konsep Pendidikan yang Memerdekakan mencakup kemandirian, kemerdekaan, kodrat alam, kodrat zaman, asas trikon, budi pekerti, dan patrap triloka.
-* Pemikiran dan praktik belajar mandiri menurut Maria Montessori, Friedrich Fröbel, Rabindranath Tagore sebagai referensi pemikiran KHD
-* Referensi lain (referensi pribadi atau referensi yang baru ditemukan)  yang dianggap selaras dengan prinsip Pendidikan yang Memerdekakan.
- 
-Anda dapat mencari tahu dan menggali topik-topik tersebut lewat media (internet, buku yang dimiliki, dll.) yang beragam. CPP dapat  menggunakan media yang memungkinkan untuk diakses serta sesuai dengan kebutuhan dan kenyamanan.
+Pendidikan diartikan sebagai ‘tuntunan dalam hidup tumbuhnya anak-anak’. Maksud Pendidikan yaitu: menuntun segala kodrat yang ada pada anak-anak, agar mereka dapat mencapai keselamatan dan kebahagiaan yang setinggi-tingginya baik sebagai manusia maupun sebagai anggota masyarakat. Sebagai pendidik kita hanya dapat menuntun tumbuh atau hidupnya kekuatan-kekuatan itu, agar dapat memperbaiki lakunya (bukan dasarnya) hidup dan tumbuhnya itu.
+{{</admonition>}}
 
-Selain itu, untuk membantu Anda lebih memahami konsep Pendidikan yang Memerdekakan sesuai filosofi dan pemikiran Ki Hajar Dewantara  yang menjadi landasan transformasi pendidikan, Anda diminta mengakses dan mempelajari sumber informasi yang tertera di halaman selanjutnya. Setelah itu, Anda diminta untuk menuliskan hasil belajar Anda.
+{{< admonition abstract "Pemahaman tentang Pendidikan yang Memerdekakan menurut pemikir - pemikir yang selaras dengan pemikiran KHD dan menjadi acuannya (Metode Montessori dan Taman Anak Frobel)" false >}}
+Di Eropa metode pengajaran yang mengubah budi pekerti dilakukan oleh Dr. Frobel dan Dr. Maria Montessori yang dikenal dengan metode Montessori dan Frobel. Metode ini bertujuan untuk mencari jalan lahir untuk mendidik batin.
 
-**Pendidikan Indonesia Zaman Kolonial**
-{{< youtube M90E2vT7zF4 >}}
+1. Montessori mementingkan pelajaran panca indra, hingga ujung jari pun dihidupkan rasanya, menghadirkan beberapa alat untuk latihan panca indra dan semua itu bersifat pelajaran. Anak diberi kemerdekaan dengan luas, tetapi permainan tidak dipentingkan.
+1. Frobel juga menjadikan panca indra sebagai konsentrasi pembelajarannya, tetapi yang diutamakan adalah permainan anak-anak, kegembiraan anak, sehingga pelajaran panca indra juga diwujudkan menjadi barang-barang yang menyenangkan anak. Namun, dalam proses pembelajarannya anak masih diperintah.
+1. Taman Siswa bisa dikatakan memakai kedua metode tersebut, akan tetapi pelajaran panca indra dan permainan anak itu tidak dipisah, yaitu dianggap satu. Sebab, salam Taman Siswa terdapat kepercayaan bahwa dalam segala tingkah laku dan segala kehidupan anak-anak tersebut sudah diisi Sang Maha Among (Pemelihara) dengan segala alat-alat yang bersifat mendidik si anak.{{</admonition>}}
 
-**Kerangka Pemikiran Ki Hadjar Dewantara**
-{{< youtube FB63f8A5KZs >}}
+{{< admonition abstract "Kaitan filosofi dan prinsip pendidikan yang memerdekakan dengan tujuan pendidikan untuk membentuk profil Pelajar Pancasila" false >}}
+Pelajar Pancasila disini berarti pelajar sepanjang hayat yang kompeten dan memiliki karakter sesuai nilai-nilai Pancasila. Pelajar yang memiliki profil ini adalah pelajar yang terbangun utuh keenam dimensi pembentuknya. Dimensi ini adalah: 1) Beriman, bertakwa kepada Tuhan yang Maha Esa dan berakhlak mulia; 2) Mandiri; 3) Bergotong-royong; 4) Berkebinekaan global; 5) Bernalar kritis; 6) Kreatif. Keenam dimensi ini perlu dilihat sebagai satu buah kesatuan yang tidak terpisahkan. Apabila satu dimensi ditiadakan, maka profil ini akan menjadi tidak bermakna.
+{{</admonition>}}
 
-**Dasar-dasar Pendidikan**
-<iframe src="https://drive.google.com/file/d/1ivjBO_kGb4N_6XhRsLUa_V1fjxyjycCP/preview" width="640" height="480" allow="autoplay"></iframe>
+### Refleksi hari ke-5
+Menuliskan refleksi dengan model segitiga. Template bisa diunduh di [sini](https://docs.google.com/document/d/13vXvYNe6NVsMb62I1CDLJwtJIv7ut29g9wUmrzNoN9Y/edit?usp=sharing)
 
 ## Hari ke-6
+> Ruang Kolaborasi
+
+Lakukan evaluasi diri terkait hasil diskusi dan umpan balik yang sudah Anda dapatkan. Anda dapat menggunakan pertanyaan-pertanyaan berikut ini untuk melakukan evaluasi.
+* Apakah yang saat ini Anda pahami tentang Pendidikan yang Memerdekakan?
+* Dari hasil belajar mandiri dan berdiskusi, prinsip apa yang semakin Anda yakini terkait Pendidikan yang Memerdekakan?
+* Pemikiran apa yang Anda rasa perlu dihilangkan atau dirasa tidak sejalan dan relevan  lagi setelah Anda melalui proses belajar?
+
+> Demonstrasi Kontekstual
+
+**Tujuan Sesi**
+
+Peserta dapat menyampaikan pernyataan sikap / manifesto tentang Prinsip Pendidikan yang Memerdekakan dalam kaitannya untuk membentuk profil Pelajar Pancasila.
+
+Pada kegiatan ini, Anda diminta untuk menyampaikan pemahaman tentang prinsip Pendidikan  yang Memerdekakan yang diyakini akan membangun lingkungan belajar yang berpihak pada murid dan memunculkan karakter dari profil Pelajar Pancasila.
+Paparan tersebut menunjukkan pemahaman Anda tentang konsep Pendidikan yang Memerdekakan. Anda dapat menggunakan media apapun untuk menyampaikan pemikirannya, misalnya lewat video, E-Poster, tulisan, PowerPoint Presentation, dsb. Hal yang harus diperhatikan adalah bagaimana Anda dapat menyampaikan pemikiran dengan cara yang efektif dan efisien kepada orang lain (audiens yang  ditentukan). Untuk lebih jelasnya, Anda dapat mencermati contoh video dan bahan presentasi berikut.
+{{< mydiary/pembekalan-pp/contohvideo6 >}}
+
+Setelah melihat contoh bentuk hasil presentasi di atas, buatlah rancangan dan media presentasi pemahaman. Berikut adalah beberapa poin yang harus disertakan dalam mengomunikasikan pemahaman pada kegiatan ini:
+* Pesan yang ingin disampaikan
+* Sasaran audiens yang dituju (guru, siswa, orang tua, dll)
+* Media yang digunakan (video, poster digital, foto, puisi, dll)
+
 ## Hari ke-7
 ## Hari ke-8
 ## Hari ke-9

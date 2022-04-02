@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {box-sizing: border-box}
+body {font-family: "Lato", sans-serif;}
+
+/* Style the tab */
+.tab {
+  float: left;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+  width: 30%;
+  height: 125%;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  display: block;
+  background-color: inherit;
+  color: black;
+  padding: 22px 16px;
+  width: 100%;
+  border: none;
+  outline: none;
+  text-align: left;
+  cursor: pointer;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current "tab button" class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  float: left;
+  padding: 0px 12px;
+  border: 1px solid #ccc;
+  width: 70%;
+  border-left: none;
+  height: 800px;
+}
+</style>
+</head>
+<body>
+
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'TujuanSesi')" id="defaultOpen">Tujuan Sesi</button>
+  <button class="tablinks" onclick="openCity(event, 'Menggali')">Menggali Pemikiran Para Tokoh</button>
+  <button class="tablinks" onclick="openCity(event, 'Kolonial')">Pendidikan Indonesia Zaman Kolonial</button>
+  <button class="tablinks" onclick="openCity(event, 'KHD')">Kerangka Pemikiran Ki Hadjar Dewantara</button>
+  <button class="tablinks" onclick="openCity(event, 'DasarPendidikan')">Dasar-dasar Pendidikan</button>
+  <button class="tablinks" onclick="openCity(event, 'Metode')">Metode Montessori, Fröbel dan Taman Anak</button>
+  <button class="tablinks" onclick="openCity(event, 'Filsafat')">Filsafat Pendidikan, Pengajaran, dan Kebudayaan oleh Iwan Syahril</button>
+  <button class="tablinks" onclick="openCity(event, 'PPP')">Profil Pelajar Pancasila</button>
+</div>
+
+<div id="TujuanSesi" class="tabcontent">
+  <h3>Tujuan Sesi</h3>
+  <ol>
+    <li>Mengidentifikasi nilai dan prinsip yang diyakini tentang Pendidikan Yang Memerdekakan</li>
+    <li>Menyelaraskan nilai diri dan prinsip diri dengan prinsip Pendidikan yang Memerdekakan sesuai filosofi Ki Hajar Dewantara</li>
+    <li>Memperluas referensi dan pengetahuan terkait prinsip Pendidikan yang Memerdekakan yang berpihak pada murid dari Ki Hajar Dewantara dan pemikir lainnya</li>
+    <li>Memahami profil Pelajar Pancasila sebagai tujuan transformasi pendidikan yang berpihak pada murid</li>
+  </ol>
+</div>
+
+<div id="Menggali" class="tabcontent">
+  <h3>Menggali Pemikiran Para Tokoh</h3>
+  <p style="text-align:justify">Pada kegiatan ini, Anda diminta untuk mencari tahu dan mempelajari secara mandiri Prinsip Pendidikan yang Memerdekakan. Beberapa referensi yang perlu dicari tahu adalah sebagai berikut:</p>
+    <ol>
+      <li>Pemikiran Ki Hadjar Dewantara mengenai konsep Pendidikan yang Memerdekakan mencakup kemandirian, kemerdekaan, kodrat alam, kodrat zaman, asas trikon, budi pekerti, dan patrap triloka</li>
+      <li>Pemikiran dan praktik belajar mandiri menurut Maria Montessori, Friedrich Fröbel, Rabindranath Tagore sebagai referensi pemikiran KHD</li>
+      <li>Referensi lain (referensi pribadi atau referensi yang baru ditemukan)  yang dianggap selaras dengan prinsip Pendidikan yang Memerdekakan</li>
+    </ol>
+  <p style="text-align:justify">Anda dapat mencari tahu dan menggali topik-topik tersebut lewat media (internet, buku yang dimiliki, dll.) yang beragam. CPP dapat  menggunakan media yang memungkinkan untuk diakses serta sesuai dengan kebutuhan dan kenyamanan.</br>
+  Selain itu, untuk membantu Anda lebih memahami konsep Pendidikan yang Memerdekakan sesuai filosofi dan pemikiran Ki Hajar Dewantara  yang menjadi landasan transformasi pendidikan, Anda diminta mengakses dan mempelajari sumber informasi yang tertera di halaman selanjutnya. Setelah itu, Anda diminta untuk menuliskan hasil belajar Anda.</p>
+</div>
+
+<div id="Kolonial" class="tabcontent">
+  <h3>Pendidikan Indonesia Zaman Kolonial</h3>
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/M90E2vT7zF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div id="KHD" class="tabcontent">
+  <h3>Kerangka Pemikiran Ki Hadjar Dewantara</h3>
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/FB63f8A5KZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div id="DasarPendidikan" class="tabcontent">
+  <h3>Dasar-dasar Pendidikan</h3>
+<iframe src="https://drive.google.com/file/d/1ivjBO_kGb4N_6XhRsLUa_V1fjxyjycCP/preview" width="100%" height="80%" allow="autoplay"></iframe>
+</div>
+
+<div id="Metode" class="tabcontent">
+  <h3>Metode Montessori, Fröbel dan Taman Anak</h3>
+<iframe src="https://drive.google.com/file/d/156WiHJTf4BhXwV8KmyMROLsn43eVCztQ/preview" width="100%" height="80%" allow="autoplay"></iframe>
+</div>
+
+<div id="Filsafat" class="tabcontent">
+  <h3>Filsafat Pendidikan, Pengajaran, dan Kebudayaan oleh Iwan Syahril</h3>
+<iframe src="https://drive.google.com/file/d/1NfD1pA0NqeuLnMme_F8wzR57x0u6Q-9v/preview" width="100%" height="80%" allow="autoplay"></iframe>
+</div>
+
+<div id="PPP" class="tabcontent">
+  <h3>Profil Pelajar Pancasila</h3>
+<iframe src="https://drive.google.com/file/d/1DywqsGpzwT5gCmcgg-tT6vrPwOFlSLxx/preview" width="100%" height="80%" allow="autoplay"></iframe>
+</div>
+
+<p style="text-align:justify">Setelah selesai mempelajari referensi-referensi, langkah selanjutnya yang harus dilakukan adalah:</p>
+<ol>
+  <li>merangkum hasil belajar mandiri</li>
+  <li>memaparkan poin-poin pemikiran yang diyaki ni menjadi temuan berpengaruh dan penting terhadap pemahaman CPP mengenai tujuan transformasi pendidikan berlandaskan filosofi KHD</li>
+  <li>merangkum hasil belajar dan refleksi dalam sebuah tulisan di LMS</li>
+</ol>
+
+<script>
+function openCity(evt, cityName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
+
+</body>
+</html>

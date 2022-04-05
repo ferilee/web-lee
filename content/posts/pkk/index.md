@@ -6,6 +6,7 @@ lastmod: 2020-03-06T21:29:01+08:00
 author: "Ferilee"
 authorLink: "https://t.me/ferilee"
 description: "Discover what the Hugo - FeelIt theme is all about and the core-concepts behind it."
+draft: true
 resources:
 - name: "featured-image"
   src: "featured-image.webp"

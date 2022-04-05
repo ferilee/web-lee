@@ -1,7 +1,7 @@
 ---
 weight: 2
 title: "Pendampingan CGP dan Lokakarya"
-date: 2022-04-05T20:29:01+08:00
+date: 2022-04-05T21:29:01+08:00
 lastmod: 2022-04-05T21:29:01+08:00
 author: "Ferilee"
 authorLink: "https://t.me/ferilee"

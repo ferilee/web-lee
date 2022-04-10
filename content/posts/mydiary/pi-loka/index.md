@@ -129,10 +129,10 @@ Jurnal pendampingan adalah catatan pendamping terhadap CGP yang sudah diberikan 
 * Buatlah jurnal sesuai dengan jumlah CGP yang di dampingi
 * Tuangkan hasil catatan Anda berdasarkan setiap kolom yang telah disediakan.
 {{< /admonition >}}
-> {{< mydiary/pembekalan-pp/jurnal-pendampingan-1-2 >}}
+> {{< mydiary/pembekalan-pp/jurnal-pendampingan-1-6 >}}
 
 {{< admonition note "PI.1.3. Rencana Tindak Lanjut" false >}}
-Pendamping mengembangkan Rencana Tindak Lanjut (RTL) untuk proses pendampingan selanjutnya, tuliskan apa saja yang akan di rencanakan oleh pendamping terkait proses pendampingan berikutnya, perhatikan apa saja yang telah dipelajari oleh CGP dan capain apa saja yang mungkin telah tercapai saat pendampingan berikutnya, ada baiknya komunikasi ke fasilitataor untuk menghasilkan pendampingan yang maksimal.
+Pendamping mengembangkan Rencana Tindak Lanjut (RTL) untuk proses pendampingan selanjutnya, tuliskan apa saja yang akan di rencanakan oleh pendamping terkait proses pendampingan berikutnya, perhatikan apa saja yang telah dipelajari oleh CGP dan capaian apa saja yang mungkin telah tercapai saat pendampingan berikutnya, ada baiknya komunikasi ke fasilitator untuk menghasilkan pendampingan yang maksimal.
 {{< /admonition >}}
 
 {{< admonition note "PI.1.4. Unggah dokumentasi kegiatan PI" false >}}
@@ -228,10 +228,10 @@ Jurnal pendampingan adalah catatan pendamping terhadap CGP yang sudah diberikan 
 * Buatlah jurnal sesuai dengan jumlah CGP yang di dampingi
 * Tuangkan hasil catatan Anda berdasarkan setiap kolom yang telah disediakan.
 {{< /admonition >}}
-> {{< mydiary/pembekalan-pp/jurnal-pendampingan-1-2 >}}
+> {{< mydiary/pembekalan-pp/jurnal-pendampingan-1-6 >}}
 
 {{< admonition note "PI.2.3. Rencana Tindak Lanjut" false >}}
-Pendamping mengembangkan Rencana Tindak Lanjut (RTL) untuk proses pendampingan selanjutnya, tuliskan apa saja yang akan di rencanakan oleh pendamping terkait proses pendampingan berikutnya, perhatikan apa saja yang telah dipelajari oleh CGP dan capaian apa saja yang mungkin telah tercapai saat pendampingan berikutnya, ada baiknya komunikasi ke fasilitataor untuk menghasilkan pendampingan yang maksimal.
+Pendamping mengembangkan Rencana Tindak Lanjut (RTL) untuk proses pendampingan selanjutnya, tuliskan apa saja yang akan di rencanakan oleh pendamping terkait proses pendampingan berikutnya, perhatikan apa saja yang telah dipelajari oleh CGP dan capaian apa saja yang mungkin telah tercapai saat pendampingan berikutnya, ada baiknya komunikasi ke fasilitator untuk menghasilkan pendampingan yang maksimal.
 {{< /admonition >}}
 
 {{< admonition note "PI.2.4. Unggah dokumentasi kegiatan PI" false >}}
@@ -240,7 +240,95 @@ Mengunggah dokumentasi berikut sesuai dengan nama CGP.
 * Media yang berupa video, rekaman, foto, atau dokumen lainnya terkait aksi nyata peserta.
 * Dokumentasi lainnya terkait dengan pelaksanaan kegiatan, seperti daftar hadir, dan lain sebagainya.
 {{< /admonition >}}
+
 ### Pendampingan Individu 3
+{{< admonition note "Deskripsi" false >}}
+**Waktu:** Kurun waktu seminggu sebelum lokakarya 4
+
+**Tema Pendampingan:** Implementasi Pembelajaran yang Berpihak pada Murid
+
+**Fokus Pendampingan:**
+  * Refleksi hasil survei (feedback 360) + penilaian sendiri tentang kompetensi guru penggerak
+  * Diskusi rencana menerapkan pembelajaran sosial-emosional
+  * Diskusi hasil lokakarya 2 (keterlaksanaan dari tahapan BAGJA)
+
+**Penilaian:** Refleksi CGP
+{{< /admonition >}}
+
+{{< admonition note "PI.3.1. Langkah-langkah Pendampingan" false >}}
+1. Bagian awal pendampingan (20’)
+    * Pengajar Praktik menyapa dan menanyakan kabar Calon Guru Penggerak
+    * Menjelaskan tentang fokus pendampingan, PP memastikan CGP memahami aktivitas pendampingan yang akan dilakukan.
+    * Pengajar Praktik memastikan Calon Guru Penggerak telah meng-input instrumen lembar umpan balik  (Lampiran 5) ke LMS s esuai dengan responden yang telah ditetapkan.
+    * Pengajar Praktik menanyakan apa saja proses yang sudah berjalan selama satu bulan terakhir, menanyakan rencana tindak lanjut dari pendampingan sebelumnya, serta hal-hal yang dianggap sebagai capaian selama satu bulan terakhir (berdasarkan Jurnal Pemanatauan Pembelajaran Daring)
+    * Mengapresiasi kemajuan-kemajuan yang disampaikan oleh Calon Guru Penggerak
+
+2. Bagian inti pendampingan (145’)
+    - *Refleksi hasil survei (feedback 360) + penilaian sendiri tentang kompetensi guru penggerak (45’)*
+
+      PP memberikan hasil analisis feedback 3600  + penilaian sendiri tentang kompetensi guru penggerak  kepada CGP,  berikan CGP waktu beberapa saat untuk membaca dan memahami infomasi dari hasil analisis yang telah dilakukan.
+        * Berdasarkan hasil feedback 3600 lakukan refleksi dengan memberikan pertanyaan pematik berikut ini:
+        * Berdasarkan hasil feedback 3600 + penilaian sendiri tentang kompetensi guru penggerak , apa yang kurang baik/ perlu ditingkatkan  menurut responden terhadap kompetensi bapak/Ibu? Jelaskan menurut masing-masing responden (kepala sekolah, rekan sejawat, dan murid)
+        * Apa rencana Bapak/Ibu ke depannya untuk dilakukan mengenai kompetensi guru penggerak yang harus Bapak/Ibu miliki?
+        * Siapa saja yang akan Bapak/Ibu libatkan untuk meningkatkan kompetensi guru penggerak yang harus Bapak/Ibu miliki?
+
+    - *Rencana penerapan pembelajaran sosial-emosional (45’)*
+
+      PP mengajak CGP berdiskusi terkait rencana penerapan pembelajaran sosial-emosional, gunakan pertanyaan pematik berikut sebagai panduan diskusi:
+      + Apakah Bapak/Ibu sudah mempelajari Modul 2.2? Apa yang dipelajari pada modul tersebut ?
+      + Apakah Bapak/Ibu sudah merencanakan pembelajaran sosial-emosional yang akan diterapkan dalam kelas Bapak/Ibu?
+      + Jika sudah, seperti apa perencanaan yang sudah Bapak/ibu buat?
+      + Apa harapan Bapak/Ibu setelah menerapkan pembelajaran sosial-emosional di kelas yang Bapak/Ibu ampu?
+
+    - *Keterlaksanaan tahapan BAGJA (60’)*
+
+      Berdasarkan hasil diskusi lokakarya 2, gali informasi dan berikan penguatan terkait kertelaksanaan BAGJA di sekolah CGP. Gunakan pertanyaan pematik berikut ini:
+      * Apakah Bapak/Ibu telah menerapkan metode BAGJA untuk merencanakan perubahan pada diri Bapak/Ibu?
+      * Setelah Bapak/Ibu melakukan tahapan BAGJA apakah memperoleh hasil sesuai dengan visi guru penggerak yang Bapak/Ibu inginkan?
+      * Apakah tantangan yang Bapak/Ibu hadapi dalam menerapkan tahapan BAGJA untuk mencapai visi?
+      * Apa yang perlu Bapak/Ibu perbaiki ke depannya terkait dengan pelaksanaan tahapan BAGJA untuk perubahan diri bapak/ibu sehingga bisa mencapai visi yang telah dirumuskan?
+
+3. Bagian akhir pendampingan (15 menit)
+    * Melakukan refleksi terhadap proses pendampingan saat ini:
+        - Apa hal paling menarik yang Bapak/ Ibu dapatkan setelah proses pendampingan hari ini? Apa yang membuat hal tersebut menarik menurut Bapak/ Ibu?
+        - Apa yang sudah baik dan yang perlu diperbaiki dari pendamping pada kegiatan pendampingan berikutnya?
+    * Mengapresiasi dan mengucapkan terima kasih telah berbagi praktik baik yang sudah dilakukan dari pembelajaran daring.
+    * Sebelum pelaksanaan Pendampingan Individu 4, PP terlebih dahulu membuat kesepakatan dengan CGP. Adapun kesepakatan yang harus disepakati bersama (pra observasi) adalah:
+        * CGP menyusun RPP dengan unsur diferensiasi dan kompetensi sosial emosional Batas waktu penyerahan RPP ke PP
+        * Batas waktu penyerahan Kembali RPP oleh PP ke CGP (RPP yang telah dikoreksi) dan PP melakukan pencatatan hasil koreksi RPP pada  Lampiran….
+        * Batas waktu penyerahan RPP yang telah direvisi CGP
+        * Jadwal pelaksanaan observasi pembelajaran dengan CGP (observasi pembelajaran dilaksanakan minimal 2 jam pelajaran dan mengikuti jadwal CGP atau jadwal yang disepakati bersama).
+    * Jika ada hal-hal terkait pembelajaran daring yang perlu diketahui oleh fasilitator, maka perlu dicatat dalam Jurnal Komunikasi.
+{{< /admonition >}}
+
+{{< admonition note "PI.3.2. Jurnal Pendampingan" false >}}
+Jurnal pendampingan adalah catatan pendamping terhadap CGP yang sudah diberikan pendampingan individu.
+* Buatlah jurnal sesuai dengan jumlah CGP yang di dampingi
+* Tuangkan hasil catatan Anda berdasarkan setiap kolom yang telah disediakan.
+{{< /admonition >}}
+> {{< mydiary/pembekalan-pp/jurnal-pendampingan-1-6 >}}
+
+{{< admonition note "PI.3.3. Rencana Tindak Lanjut" false >}}
+Pendamping mengembangkan Rencana Tindak Lanjut (RTL) untuk proses pendampingan selanjutnya, tuliskan apa saja yang akan di rencanakan oleh pendamping terkait proses pendampingan berikutnya, perhatikan apa saja yang telah dipelajari oleh CGP dan capaian apa saja yang mungkin telah tercapai saat pendampingan berikutnya, ada baiknya komunikasi ke fasilitator untuk menghasilkan pendampingan yang maksimal.
+{{< /admonition >}}
+
+{{< admonition note "PI.3.4. Unggah dokumentasi kegiatan PI" false >}}
+Mengunggah dokumentasi berikut sesuai dengan nama CGP.
+
+* Media yang berupa video, rekaman, foto, atau dokumen lainnya terkait aksi nyata peserta.
+* Dokumentasi lainnya terkait dengan pelaksanaan kegiatan, seperti daftar hadir, dan lain sebagainya.
+{{< /admonition >}}
+
+{{< admonition note "PI.3.5. Penilaian Refleksi CGP" false >}}
+Pada kegiatan ini, Anda sebagai pengajar praktik diminta untuk memberikan penilaian kepada CGP terkait refleksi kegiatan yang telah dilakukan melalui rubrik yang telah disediakan.
+
+> Silahkan klik tombol **Grade** di LMS untuk memberikan penilaian.
+
+*Catatan:*
+* Pastikan group yang Anda pilih sudah benar agar tidak terjadi salah menilai CGP yang didampingi oleh pengajar praktik lain.
+* Jika pada saat menilai nama CGP yang muncul tidak sesuai/tidak muncul, klik tombol *View all submission*, kemudian klik *Reset table preference*. Jika masih tidak muncul, periksa bagian *Filter* yang ada dibagian *Option*, dan pilih *No Filter*.
+{{< /admonition >}}
+
 ### Pendampingan Individu 4
 ### Pendampingan Individu 5
 ### Pendampingan Individu 6

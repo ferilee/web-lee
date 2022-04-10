@@ -18,7 +18,7 @@ categories: ["My Diary"]
 lightgallery: true
 
 toc:
-  auto: false
+  auto: true
 ---
 {{< style "text-align:justify; strong{color:#00b1ff;}" >}}{{< /style >}}
 

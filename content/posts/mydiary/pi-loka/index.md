@@ -243,7 +243,7 @@ Mengunggah dokumentasi berikut sesuai dengan nama CGP.
 
 ### Pendampingan Individu 3
 {{< admonition note "Deskripsi" false >}}
-**Waktu:** Kurun waktu seminggu sebelum lokakarya 4
+**Waktu:** Kurun waktu seminggu sebelum lokakarya 3
 
 **Tema Pendampingan:** Implementasi Pembelajaran yang Berpihak pada Murid
 
@@ -330,6 +330,30 @@ Pada kegiatan ini, Anda sebagai pengajar praktik diminta untuk memberikan penila
 {{< /admonition >}}
 
 ### Pendampingan Individu 4
+{{< admonition note "Deskripsi" false >}}
+**Waktu:** Kurun waktu seminggu sebelum lokakarya 4
+
+**Tema Pendampingan:** Evaluasi dan Pengembangan Proses Pembelajaran
+
+**Fokus Pendampingan:**
+  * Observasi kelas CGP untuk melihat penerapan dari modul budaya positif, pembeljaaran berdiferensiasi dan pembelajaran sosial-emosional.
+  * Penilaian Observasi Praktik Pembelajaran
+
+**Penilaian:** Observasi pembelajaran yang berpusat pada murid
+{{< /admonition >}}
+
+{{< mydiary/pembekalan-pp/perangkat-pi-4 >}}
+
+{{< admonition note "PI.4.1. Langkah-langkah Pendampingan" false >}}
+1. Bagian awal pendampingan (20’)
+    * Menjelaskan tentang fokus pendampingan, PP memastikan CGP memahami aktivitas pendampingan yang akan dilakukan.
+    * Pengajar Praktik menanyakan apa saja proses yang sudah berjalan selama satu bulan terakhir, menanyakan rencana tindak lanjut dari pendampingan sebelumnya, serta hal-hal yang dianggap sebagai capaian selama satu bulan terakhir (berdasarkan Jurnal Pemanatauan Pembelajaran Daring)
+    * Mengapresiasi dan mengucapkan terima kasih telah berbagi praktik baik yang sudah dilakukan dari pembelajaran daring.
+    * Pengajar Praktik memastikan RPP yang dibuat CGP sudah direvisi berdasarkan masukan yang diberikan PP.
+    * Menyiapkan lembar Observasi Praktik Mengajar Calon Guru Penggerak (Lampiran 5).
+
+{{< /admonition >}}
+
 ### Pendampingan Individu 5
 ### Pendampingan Individu 6
 

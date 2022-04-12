@@ -353,17 +353,23 @@ Pada kegiatan ini, Anda sebagai pengajar praktik diminta untuk memberikan penila
     * Menyiapkan lembar Observasi Praktik Mengajar Calon Guru Penggerak (Lampiran 5).
 2. Bagian Inti Pendampingan (135’)
     * Ketentuan
-          - Observasi pembelajaran dilakukan di kelas CGP baik secara luring atau daring (disesuaikan dengan kebijakan sekolah)
-          - Observasi dilakukan minimal 2 (dua) jam pelajaran dengan durasi menit disesuaikan dengan jenjang sekolah.
-    * Pra- Observasi (15’)
+
+        - Observasi pembelajaran dilakukan di kelas CGP baik secara luring atau daring (disesuaikan dengan kebijakan sekolah)
+        - Observasi dilakukan minimal 2 (dua) jam pelajaran dengan durasi menit disesuaikan dengan jenjang sekolah.
+
+    * Pra-Observasi (15’)
+
       Pertemuan pra-observasi ini merupakan percakapan yang membangun hubungan antara guru (CGP) dan supervisor (PP) sebagai mitra dalam pengembangan kompetensi diri.
       Percakapan pra-observasi ini berlangsung selama 15 menit, dengan menggunakan percakapan coaching untuk perencanaan, supervisor dapat mencatat apa yang menjadi sasaran pengembangan guru dan menginformasikan kepada guru prosedur supervisi klinis ini. Adapun yang harus dilakukan oleh supervisor adalah:
-          - Supervisor menyampaikan tujuan besar supervisi dan tujuan dari percakapan awal.
-          - Guru menyampaikan rancangan pelaksanaan pembelajaran dan menginformasikan aspek perkembangan yang hendak diobservasi
-          - Supervisor dan guru menyepakati sasaran observasi, waktu kunjungan kelas dan waktu percakapan pasca-observasi
-          - Supervisor menginformasikan bahwa ia akan mencatat kegiatan pembelajaran yang dilakukan guru di kelas
+
+        - Supervisor menyampaikan tujuan besar supervisi dan tujuan dari percakapan awal.
+        - Guru menyampaikan rancangan pelaksanaan pembelajaran dan menginformasikan aspek perkembangan yang hendak diobservasi
+        - Supervisor dan guru menyepakati sasaran observasi, waktu kunjungan kelas dan waktu percakapan pasca-observasi
+        - Supervisor menginformasikan bahwa ia akan mencatat kegiatan pembelajaran yang dilakukan guru di kelas
       Percakapan pra-observasi baiknya berlangsung dengan suasana santai dan kekeluargaan dan dengan semangat positif. Hasil percakapan pra-observasi dicatat pada Lampiran 4.
+
     * Observasi Pembelajaran (90’)
+
       Observasi adalah aktivitas pengamatan oleh supervisor (PP) pada saat guru melaksanakan pembelajaran di kelas. Tujuan utama tahap ini adalah mengambil data atau informasi secara obyektif mengenai aspek pengembangan yang sudah disepakati.
 
       Pengamatan oleh supervisor menggunakan instrumen yang telah ditentukan sebelumnya dan fokus pada sasaran yang sudah disepakati (lihat hasil catatan pada lampiran 4). Namun dapat saja pada saat observasi ada hal-hal menarik di luar hal yang sudah disepakati yang ditemukan oleh supervisor (PP) yang dapat bermanfaat bagi guru dalam pengembangan kompetensi dirinya sebagai pemimpin pembelajaran yang berpihak pada murid.
@@ -376,6 +382,7 @@ Pada kegiatan ini, Anda sebagai pengajar praktik diminta untuk memberikan penila
         * Pencatatan aktivitas pembelajaran dilakukan pada lembar Observasi Praktik Mengajar Calon Guru Penggerak (Lampiran 5)
 
     * Pasca Observasi (30’)
+
         Dalam proses percakapan pasca-observasi ini, supervisor (PP) dan guru (CGP) secara bersama memahami tujuan percakapan dan saling percaya akan tahapan kegiatan yang berlangsung.  Percakapan pasca-observasi  berisikan aktivitas berikut:
         * Menyampaikan tujuan percakapan dan hasil analisis data observasi kepada CGP
         * Melakukan percakapan umpan balik. Dalam percakapan PP menemukan area pengembangan dan perbaikan diri yang hendak dilakukan. Catat hasil umpan balik pada lampiran 6 .
@@ -383,26 +390,185 @@ Pada kegiatan ini, Anda sebagai pengajar praktik diminta untuk memberikan penila
         * Rencana aksi pengembangan diri. Hasil perencanaan aksi pengembangan diri dicatat pada lampiran 7.
 
 3. Bagian akhir pendampingan (15’)
-    * Melakukan refleksi terhadap proses pendampingan saat ini:
-          - Apa yang sudah baik dan yang perlu Bapak/Ibu perbaiki ke depannya pada pembelajaran tadi?
-          - Sejauh apa pendampingan saat ini membantu Bapak/ Ibu mengimplementasikan pembelajaran yang berpihak kepada murid? Hal-hal apa saja yang perlu diperbaiki untuk ke depannya?
-    * Jika ada hal-hal terkait pembelajaran daring yang perlu diketahui oleh fasilitator, maka perlu dicatat dalam Jurnal Komunikasi di LMS.
-    * Mengingatkan CGP untuk menyiapkan diri untuk pendampingan individu 5.
-      Aktivitas persiapan:
-          - Kelengkapan bahan yang harus disiapkan CGP untuk PI 5 adalah:
-                + Mengajak satu orang rekan sejawat untuk dibimbing dan dicoaching pada PI 5.
-                + Penetapan jadwal observasi pembelajaran. Pelaksanaan observasi pembelajaran minimal 2 jam pelajaran dan dapat dilakukan secara daring ataupun luring (disesuaikan dengan kebijakan sekolah)
-                + Membimbing rekan sejawat dalam menyusun RPP dan juga melakukan koreksi terhadap RPP yang disusun. Hasil koreksiksi CGP dijadi dasar perbaikan RPP oleh rekan sejawat.
-          - Aktivitas Coaching untuk supervisi akademik
-                Untuk melakukan aktivitas ini, CGP harus mengikuti instruksi yang ada dalam modul 2.3 pada bagian aksi nyata. Pastikan CGP melakukan:
-                + Proses pra-observasi. Hasil catatan saat proses ini diserahkan kepada PP saat pendampingan individu 5 (CGP menggunakan instrument pra-observasi di modul 2.3)
-                + Proses observasi pembelajatan.  Hasil catatan saat proses ini diserahkan kepada PP saat pendampingan individu 5 (CGP menggunakan instrument observasi pembelajaran di modul 2.3)
-          - Setiap aktivitas CGP saat melakukan pra-observasi dan observasi pembelajaran, PP tetap melakukan pemantauan dan diskusi melalui WA/HP/tatap muka virtual. 
+    * [x] Melakukan refleksi terhadap proses pendampingan saat ini:
 
+        - Apa yang sudah baik dan yang perlu Bapak/Ibu perbaiki ke depannya pada pembelajaran tadi?
+        - Sejauh apa pendampingan saat ini membantu Bapak/ Ibu mengimplementasikan pembelajaran yang berpihak kepada murid? Hal-hal apa saja yang perlu diperbaiki untuk ke depannya?
 
+    * [x] Jika ada hal-hal terkait pembelajaran daring yang perlu diketahui oleh fasilitator, maka perlu dicatat dalam Jurnal Komunikasi di LMS.
+    * [x] Mengingatkan CGP untuk menyiapkan diri untuk pendampingan individu 5.
+
+      **Aktivitas persiapan:**
+
+        - Kelengkapan bahan yang harus disiapkan CGP untuk PI 5 adalah:
+
+            + Mengajak satu orang rekan sejawat untuk dibimbing dan dicoaching pada PI 5.
+            + Penetapan jadwal observasi pembelajaran. Pelaksanaan observasi pembelajaran minimal 2 jam pelajaran dan dapat dilakukan secara daring ataupun luring (disesuaikan dengan kebijakan sekolah)
+            + Membimbing rekan sejawat dalam menyusun RPP dan juga melakukan koreksi terhadap RPP yang disusun. Hasil koreksiksi CGP dijadi dasar perbaikan RPP oleh rekan sejawat.
+
+        - Aktivitas Coaching untuk supervisi akademik
+
+            Untuk melakukan aktivitas ini, CGP harus mengikuti instruksi yang ada dalam modul 2.3 pada bagian aksi nyata. Pastikan CGP melakukan:
+            + Proses pra-observasi. Hasil catatan saat proses ini diserahkan kepada PP saat pendampingan individu 5 (CGP menggunakan instrument pra-observasi di modul 2.3)
+            + Proses observasi pembelajatan.  Hasil catatan saat proses ini diserahkan kepada PP saat pendampingan individu 5 (CGP menggunakan instrument observasi pembelajaran di modul 2.3)
+
+        - Setiap aktivitas CGP saat melakukan pra-observasi dan observasi pembelajaran, PP tetap melakukan pemantauan dan diskusi melalui WA/HP/tatap muka virtual.
+{{< /admonition >}}
+
+{{< admonition note "PI.4.2. Jurnal Pendampingan" false >}}
+Jurnal pendampingan adalah catatan pendamping terhadap CGP yang sudah diberikan pendampingan individu.
+* Buatlah jurnal sesuai dengan jumlah CGP yang di dampingi
+* Tuangkan hasil catatan Anda berdasarkan setiap kolom yang telah disediakan.
+{{< /admonition >}}
+> {{< mydiary/pembekalan-pp/jurnal-pendampingan-1-6 >}}
+
+{{< admonition note "PI.4.3. Rencana Tindak Lanjut" false >}}
+Pendamping mengembangkan Rencana Tindak Lanjut (RTL) untuk proses pendampingan selanjutnya, tuliskan apa saja yang akan di rencanakan oleh pendamping terkait proses pendampingan berikutnya, perhatikan apa saja yang telah dipelajari oleh CGP dan capaian apa saja yang mungkin telah tercapai saat pendampingan berikutnya, ada baiknya komunikasi ke fasilitator untuk menghasilkan pendampingan yang maksimal.
+{{< /admonition >}}
+
+{{< admonition note "PI.4.4. Unggah dokumentasi kegiatan PI" false >}}
+Mengunggah dokumentasi berikut sesuai dengan nama CGP.
+
+* Media yang berupa video, rekaman, foto, atau dokumen lainnya terkait aksi nyata peserta.
+* Dokumentasi lainnya terkait dengan pelaksanaan kegiatan, seperti daftar hadir, dan lain sebagainya.
+{{< /admonition >}}
+
+{{< admonition note "PI.4.5. Penilaian Observasi Pembelajaran yang Berpusat pada Murid" false >}}
+Pada kegiatan ini, Anda sebagai pengajar praktik diminta untuk memberikan penilaian Observasi Pembelajaran yang Berpusat pada Murid yang dilakukan oleh CGP melalui instrumen yang telah disediakan. Selanjutnya,
+
+* [x] **masukkan nilai akhir** yang diperoleh ke kolom nilai yang telah disediakan
+* [x] **unggah** foto/file instrumen yang telah diisi ke kolom Feedback file.
+
+> Silahkan klik tombol **Grade** di LMS untuk memberikan penilaian.
+
+*Catatan:*
+* Pastikan group yang Anda pilih sudah benar agar tidak terjadi salah menilai CGP yang didampingi oleh pengajar praktik lain.
+* Jika pada saat menilai nama CGP yang muncul tidak sesuai/tidak muncul, klik tombol *View all submission*, kemudian klik *Reset table preference*. Jika masih tidak muncul, periksa bagian *Filter* yang ada dibagian *Option*, dan pilih *No Filter*.
 {{< /admonition >}}
 
 ### Pendampingan Individu 5
+{{< admonition note "Deskripsi" false >}}
+**Waktu:** Kurun waktu seminggu sebelum lokakarya 5
+
+**Tema Pendampingan:** Rancangan Program yang Berpihak pada Murid
+
+**Fokus Pendampingan:**
+  * Refleksi penerapan aksi nyata modul 3.1
+  * Diskusi rancangan program yang berdampak pada murid
+  * Diskusi perkembangan komunitas praktisi yang dijalankan di sekolah serta implementasi dari rencana di lokakarya 3 untuk berbagi ke rekan sejawat
+
+**Penilaian:** Keterampilan coaching untuk supervisi akademik
+{{< /admonition >}}
+
+{{< admonition note "PI.5.1. Langkah-langkah Pendampingan" false >}}
+1. Bagian awal pendampingan (10’)
+    * Menjelaskan tentang fokus pendampingan, PP memastikan CGP memahami aktivitas pendampingan yang akan dilakukan.
+    * Pengajar Praktik menanyakan apa saja proses yang sudah berjalan selama satu bulan terakhir, menanyakan rencana tindak lanjut dari pendampingan sebelumnya, serta hal-hal yang dianggap sebagai capaian selama satu bulan terakhir (berdasarkan Jurnal Pemanatauan Pembelajaran Daring)
+    * Mengapresiasi dan mengucapkan terima kasih telah berbagi praktik baik yang sudah dilakukan dari pembelajaran daring.
+    * Meminta hasil observasi pembelajaran rekan sejawat
+
+2. Bagian Inti Pendampingan (160’)
+    * Penerapan aksi nyata modul 3.1 (30’)
+
+      Penerapan aksi nyata modul 3.1, CGP tidak ditugaskan untuk melaporkan implementasinya melalui LMS. CGP hanya mendiskusikan pengalaman dan refleksi dari aksi nyata ini bersama pendamping pada saat  pendampingan individu.
+
+      Untuk mempermudah PP melaksanakan refleksi dengan CGP, gunakanlah pertanyaan pematik berikut ini:
+
+        + Refleksi proses pembuatan peta sumber daya dengan menggunakan pertanyaan:
+            - Bagaimana proses Bapak/Ibu dalam menemukan/mengidentifikasi sumber daya yang ada di sekolah?
+            - Apa saja kendala dan tantangan yang Bapak/Ibu hadapi saat melakukan identifikasi sumber daya sekolah dan bagaimana Bapak/Ibu mengatasinya?
+            - Bagaimana perasaan Bapak/Ibu ketika berhasil mengidentifikasi sumber daya sekolah?
+            - Apa pertimbangan Bapak/Ibu dalam menentukan sumber daya sekolah?
+            - Apakah terdapat hal lain yang dapat dijadikan sumber daya sekolah yang belum Bapak/Ibu temukan dalam proses yang sudah berlangsung?
+
+        + Refleksi proses pengambilan keputusan dengan menggunakan pertanyaan:
+            - Berdasarkan hasil pemetaan yang Bapak/ Ibu lakukan, bagaimana hal tersebut memengaruhi proses pengambilan keputusan yang dilakukan Bapak/ Ibu?
+            - Apa hal yang menurut Bapak/ Ibu masih perlu dikembangkan atau perlu dievaluasi?
+            - Apa hal yang menurut Bapak/ Ibu mendukung keberhasilan dari keputusan yang diambil?
+            - Adakah pengalaman yang terjadi (baik dalam waktu dekat ataupun sebelum mengikuti Pendidikan Guru Penggerak) yang mencerminkan dilema etika, baik itu terkait murid maupun rekan sejawat?
+            - Menurut Bapak/Ibu, apakah proses pengambilan keputusan yang dilakukan sudah sesuai dengan prinsip dan langkah yang dipelajari di modul 3.1?
+            - Apa hal yang menurut Bapak/ Ibu masih perlu dikembangkan atau perlu dievaluasi dari proses pengambilan keputusan tersebut?
+
+    * Penerapan aksi nyata modul 3.1 (30’)
+
+      Diskusi rancangan program yang berdampak pada murid, dapat diawali dengan menanyakan rancangan program yang sudah ada di sekolah. Lakukan reviu bersama CGP, apakah rancangan di sekolah sudah berpihak kepada murid?, berdasarkan diskusi awal ini menjadi dasar untuk PP untuk melanjutkan diskusi pada tahap berikutnya.
+      Untuk lebih meningkatkan penglaman CGP, ajaklah CGP berdiskusi terkait rancangan program yang berdampak pada murid dengan mengacukan pertanyaan pematik berikut ini:
+        + Apakah Bapak/Ibu sudah membuat rancangan program yang berdampak pada murid?
+        + Apa bentuk program yang sudah Bapak/Ibu rancang?
+        + Dukungan apa saja yang Bapak/Ibu perlukan untuk menerapkan program yang sudah dibuat?
+        + Apa yang menjadi tantangan Bapak/Ibu dalam melaksanakan rancangan program yang sudah dibuat?
+        + Apa yang Bapak/Ibu lakukan untuk menghadapi tantangan tersebut?
+
+    * Perkembangan komunitas praktisi (30’)
+      Diskusi perkembangan komunitas praktisi yang dijalankan di sekolah serta implementasi dari rencana di lokakarya 2 untuk berbagi ke rekan sejawat.
+        + Bapak/ Ibu sudah merintis komunitas praktisi di lingkungan sekolah (dan sekitarnya, jika ada), bagaimana peran komunitas ini terhadap proses belajar Bapak/ Ibu?
+        + Apa saja perubahan menyenangkan yang Bapak/ Ibu alami dari rekan di komunitas praktisi Bapak/ Ibu?
+        + Apa rencana yang akan dilakukan komunitas praktisi Bapak/ Ibu setelah program ini selesai?
+        + Apa dukungan yang Bapak/ Ibu perlukan untuk komunitas praktisi Bapak/ Ibu agar bisa terus belajar bersama?
+
+    * Dialog Pasca-Observasi Pembelajaran (70’)
+      Diakhir PI 4, CGP sudah ditugaskan untuk membimbing satu orang rekan sejawat dalam penyusunan RPP dan juga melakukan observasi pembelajaran ke kelas rekan sejawat. Pada PI 5 ini, PP mengarahkan CGP untuk:
+        + Menyampaikan tujuan percakapan dan hasil analisis data observasi pembelajaran ke rekan sejawat.
+        + Melakukan percakapan umpan balik. Dalam percakapan CGP menemukan area pengembangan dan perbaikan diri yang hendak dilakukan kepada rekan sejawat. Catat hasil umpan balik pada Catatan Percakapan Pasca Observasi Kelas (format ambil di modul 2.3 pada bagian aksi nyata).
+        + Percakapan perencanaan area pengembangan
+        + Rencana aksi pengembangan diri. Hasil perencanaan aksi pengembangan diri rekan sejawat dicatat pada Lembar Rencana Pengembangan Diri (format ambil di modul 2.3 pada bagian aksi nyata).
+
+      Proses Pasca-observasi pembelajaran ini diamati dan dilakukan penilaian oleh PP dengan mengunakan Rubrik Penilaian Sesi Aksi Nyata pada kegiatan PI.5.5. Penilaian Keterampilan Coaching untuk Supervisi Akademik.
+
+
+3. Bagian akhir pendampingan (15’)
+    * [x] Melakukan refleksi terhadap proses pendampingan saat ini:
+
+        + Setelah Bapak/ Ibu menjalani program PGP ini apa hal yang menurut Bapak/ Ibu paling Bapak/Ibu kuasai dari materi-materi yang sudah dipraktikkan?
+        + Materi apa yang Bapak/ Ibu rasakan masih membingungkan dan ingin dipelajari lebih dalam?
+
+    * [x] Mengapresiasi dan mengucapkan terima kasih telah berbagi praktik baik yang sudah dilakukan dari pembelajaran daring.
+
+    * [x] Mengingat CGP untuk menyebarkan, mengumpulkan dan mengimput survei tentang kompetensi guru penggerak (feedback 360). Kegiatan ini sudah harus dilakukan sebelum pelaksanaan PI 6. Yang harus dilakukan CGP:
+        + Menyebarkan kuesioner survey feedback 3600 sesuai peran dan jenjang yang diampu oleh CGP dengan responden Kepala sekolah, rekan guru (5 orang), dan perwakilan murid CGP (5 orang)
+        + CGP mengisi self evaluation.
+
+    * [x] Mengingatkan CGP untuk melakuan diskusi terkait Pemetaan Aset (pelaksanaan sebelum PI 6 dilakukan), adapun hal-hal yang harus dilakukan CGP:
+        + Menentukan jadwal diskusi Pemetaan aset dengan Kepala Sekolah
+        + Mengundang aktor (Kepala sekolah, rekan guru, murid, orang tua, tokoh setempat dan perwakilan gender) yang terlibat dalam diskusi
+        + Membuat notulen hasil diskusi
+        + Mengambil foto kegiatan
+        + Mengumpulkan hasil pemetaan
+
+    * [x] Jika ada hal-hal terkait pembelajaran daring yang perlu diketahui oleh fasilitator, maka perlu dicatat dalam Jurnal Komunikasi di LMS.
+{{< /admonition >}}
+
+{{< admonition note "PI.5.2. Jurnal Pendampingan" false >}}
+Jurnal pendampingan adalah catatan pendamping terhadap CGP yang sudah diberikan pendampingan individu.
+* Buatlah jurnal sesuai dengan jumlah CGP yang di dampingi
+* Tuangkan hasil catatan Anda berdasarkan setiap kolom yang telah disediakan.
+{{< /admonition >}}
+> {{< mydiary/pembekalan-pp/jurnal-pendampingan-1-6 >}}
+
+{{< admonition note "PI.5.3. Rencana Tindak Lanjut" false >}}
+Pendamping mengembangkan Rencana Tindak Lanjut (RTL) untuk proses pendampingan selanjutnya, tuliskan apa saja yang akan di rencanakan oleh pendamping terkait proses pendampingan berikutnya, perhatikan apa saja yang telah dipelajari oleh CGP dan capaian apa saja yang mungkin telah tercapai saat pendampingan berikutnya, ada baiknya komunikasi ke fasilitator untuk menghasilkan pendampingan yang maksimal.
+{{< /admonition >}}
+
+{{< admonition note "PI.5.4. Unggah dokumentasi kegiatan PI" false >}}
+Mengunggah dokumentasi berikut sesuai dengan nama CGP.
+
+* Media yang berupa video, rekaman, foto, atau dokumen lainnya terkait aksi nyata peserta.
+* Dokumentasi lainnya terkait dengan pelaksanaan kegiatan, seperti daftar hadir, dan lain sebagainya.
+{{< /admonition >}}
+
+{{< admonition note "PI.5.5. Penilaian Keterampilan Coaching untuk Supervisi Akademik" false >}}
+Pada kegiatan ini, Anda sebagai pengajar praktik diminta untuk memberikan penilaian Keterampilan Coaching untuk Supervisi Akademik kepada CGP melalui rubrik yang telah disediakan.
+
+* [x] **masukkan nilai akhir** yang diperoleh ke kolom nilai yang telah disediakan
+* [x] **unggah** foto/file instrumen yang telah diisi ke kolom Feedback file.
+
+> Silahkan klik tombol **Grade** di LMS untuk memberikan penilaian.
+
+*Catatan:*
+* Pastikan group yang Anda pilih sudah benar agar tidak terjadi salah menilai CGP yang didampingi oleh pengajar praktik lain.
+* Jika pada saat menilai nama CGP yang muncul tidak sesuai/tidak muncul, klik tombol *View all submission*, kemudian klik *Reset table preference*. Jika masih tidak muncul, periksa bagian *Filter* yang ada dibagian *Option*, dan pilih *No Filter*.
+{{< /admonition >}}
+
 ### Pendampingan Individu 6
 
 ## Lokakarya

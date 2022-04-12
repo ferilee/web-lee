@@ -351,6 +351,54 @@ Pada kegiatan ini, Anda sebagai pengajar praktik diminta untuk memberikan penila
     * Mengapresiasi dan mengucapkan terima kasih telah berbagi praktik baik yang sudah dilakukan dari pembelajaran daring.
     * Pengajar Praktik memastikan RPP yang dibuat CGP sudah direvisi berdasarkan masukan yang diberikan PP.
     * Menyiapkan lembar Observasi Praktik Mengajar Calon Guru Penggerak (Lampiran 5).
+2. Bagian Inti Pendampingan (135’)
+    * Ketentuan
+          - Observasi pembelajaran dilakukan di kelas CGP baik secara luring atau daring (disesuaikan dengan kebijakan sekolah)
+          - Observasi dilakukan minimal 2 (dua) jam pelajaran dengan durasi menit disesuaikan dengan jenjang sekolah.
+    * Pra- Observasi (15’)
+      Pertemuan pra-observasi ini merupakan percakapan yang membangun hubungan antara guru (CGP) dan supervisor (PP) sebagai mitra dalam pengembangan kompetensi diri.
+      Percakapan pra-observasi ini berlangsung selama 15 menit, dengan menggunakan percakapan coaching untuk perencanaan, supervisor dapat mencatat apa yang menjadi sasaran pengembangan guru dan menginformasikan kepada guru prosedur supervisi klinis ini. Adapun yang harus dilakukan oleh supervisor adalah:
+          - Supervisor menyampaikan tujuan besar supervisi dan tujuan dari percakapan awal.
+          - Guru menyampaikan rancangan pelaksanaan pembelajaran dan menginformasikan aspek perkembangan yang hendak diobservasi
+          - Supervisor dan guru menyepakati sasaran observasi, waktu kunjungan kelas dan waktu percakapan pasca-observasi
+          - Supervisor menginformasikan bahwa ia akan mencatat kegiatan pembelajaran yang dilakukan guru di kelas
+      Percakapan pra-observasi baiknya berlangsung dengan suasana santai dan kekeluargaan dan dengan semangat positif. Hasil percakapan pra-observasi dicatat pada Lampiran 4.
+    * Observasi Pembelajaran (90’)
+      Observasi adalah aktivitas pengamatan oleh supervisor (PP) pada saat guru melaksanakan pembelajaran di kelas. Tujuan utama tahap ini adalah mengambil data atau informasi secara obyektif mengenai aspek pengembangan yang sudah disepakati.
+
+      Pengamatan oleh supervisor menggunakan instrumen yang telah ditentukan sebelumnya dan fokus pada sasaran yang sudah disepakati (lihat hasil catatan pada lampiran 4). Namun dapat saja pada saat observasi ada hal-hal menarik di luar hal yang sudah disepakati yang ditemukan oleh supervisor (PP) yang dapat bermanfaat bagi guru dalam pengembangan kompetensi dirinya sebagai pemimpin pembelajaran yang berpihak pada murid.
+
+      Hal-hal yang harus diperhatikan saat observasi pembelajaran:
+        * Saat observasi, PP tidak boleh menganggu proses pembelajaran atau ikut membantu CGP dalam pembelajaran. PP hanya melakukan pengamatan, apakah sudah sesuai dengan perangkat yang sudah dibuat dan materi modul yang sudah dipelajari yaitu sudah menerapkan budaya positif, pembelajaran berdiferensiasi pembelajaran sosial-emosional dan budaya positif.
+        * PP boleh melihat secara dekat aktivitas pembelajaran murid disaat murid mengerjakan tugas. Disini PP tetap tidak dibolehkan membantu murid dalam menyelesaikan masalah belajarnya, hanya boleh mengamati saja.
+        * Usahakan saat proses observasi pembelajaran tidak terlalu sering keluar masuk kelas karena hal ini dapat menganggu kosentrasi murid dalam belajara. (ijin keluar jika benar-benar mendesak)
+        * Pastikan HP dalam keadaan nada getar (tidak diijinkan melakukan komunukasi dalam kelas dengan HP). Silahkan gunakan HP untuk mengambil foto proses pembelajaran.
+        * Pencatatan aktivitas pembelajaran dilakukan pada lembar Observasi Praktik Mengajar Calon Guru Penggerak (Lampiran 5)
+
+    * Pasca Observasi (30’)
+        Dalam proses percakapan pasca-observasi ini, supervisor (PP) dan guru (CGP) secara bersama memahami tujuan percakapan dan saling percaya akan tahapan kegiatan yang berlangsung.  Percakapan pasca-observasi  berisikan aktivitas berikut:
+        * Menyampaikan tujuan percakapan dan hasil analisis data observasi kepada CGP
+        * Melakukan percakapan umpan balik. Dalam percakapan PP menemukan area pengembangan dan perbaikan diri yang hendak dilakukan. Catat hasil umpan balik pada lampiran 6 .
+        * Percakapan perencanaan area pengembangan
+        * Rencana aksi pengembangan diri. Hasil perencanaan aksi pengembangan diri dicatat pada lampiran 7.
+
+3. Bagian akhir pendampingan (15’)
+    * Melakukan refleksi terhadap proses pendampingan saat ini:
+          - Apa yang sudah baik dan yang perlu Bapak/Ibu perbaiki ke depannya pada pembelajaran tadi?
+          - Sejauh apa pendampingan saat ini membantu Bapak/ Ibu mengimplementasikan pembelajaran yang berpihak kepada murid? Hal-hal apa saja yang perlu diperbaiki untuk ke depannya?
+    * Jika ada hal-hal terkait pembelajaran daring yang perlu diketahui oleh fasilitator, maka perlu dicatat dalam Jurnal Komunikasi di LMS.
+    * Mengingatkan CGP untuk menyiapkan diri untuk pendampingan individu 5.
+      Aktivitas persiapan:
+          - Kelengkapan bahan yang harus disiapkan CGP untuk PI 5 adalah:
+                + Mengajak satu orang rekan sejawat untuk dibimbing dan dicoaching pada PI 5.
+                + Penetapan jadwal observasi pembelajaran. Pelaksanaan observasi pembelajaran minimal 2 jam pelajaran dan dapat dilakukan secara daring ataupun luring (disesuaikan dengan kebijakan sekolah)
+                + Membimbing rekan sejawat dalam menyusun RPP dan juga melakukan koreksi terhadap RPP yang disusun. Hasil koreksiksi CGP dijadi dasar perbaikan RPP oleh rekan sejawat.
+          - Aktivitas Coaching untuk supervisi akademik
+                Untuk melakukan aktivitas ini, CGP harus mengikuti instruksi yang ada dalam modul 2.3 pada bagian aksi nyata. Pastikan CGP melakukan:
+                + Proses pra-observasi. Hasil catatan saat proses ini diserahkan kepada PP saat pendampingan individu 5 (CGP menggunakan instrument pra-observasi di modul 2.3)
+                + Proses observasi pembelajatan.  Hasil catatan saat proses ini diserahkan kepada PP saat pendampingan individu 5 (CGP menggunakan instrument observasi pembelajaran di modul 2.3)
+          - Setiap aktivitas CGP saat melakukan pra-observasi dan observasi pembelajaran, PP tetap melakukan pemantauan dan diskusi melalui WA/HP/tatap muka virtual. 
+
 
 {{< /admonition >}}
 

@@ -382,6 +382,18 @@ Setelah melihat contoh bentuk hasil presentasi di atas, buatlah rancangan dan me
 * Sasaran audiens yang dituju (guru, siswa, orang tua, dll)
 * Media yang digunakan (video, poster digital, foto, puisi, dll)
 
+> Elaborasi Pemahaman
+
+**Tujuan Sesi**
+
+Peserta dapat menggali lebih dalam wawasan tentang praktik Pendidikan yang Memerdekakan sehingga memiliki pemahaman yang matang sesuai dengan konteks praktik yang terjadi di sekolahnya.
+
+Bagaimana perasaan Anda sejauh ini? Kami yakin saat ini mulai banyak pemahaman maupun pertanyaan yang muncul di benak Anda terkait pembelajaran yang Memerdekakan. Mungkin juga Anda justru tidak sabar untuk segera menerapkan apa yang sudah Anda pelajari sampai saat ini di tempat Anda bekerja. Semoga Anda tetap bisa mempertahankan semangat belajar Anda sampai nanti kita menyelesaikan seluruh modul. Di Pembelajaran ini, kita kembali akan melihat pemikiran sosok Ki Hadjar Dewantara serta memahaminya secara lebih mendalam.
+
+Setelah Anda menyampaikan pemahaman Anda tentang Pendidikan yang Memerdekakan, sekarang Anda diminta untuk memikirkan bagaimana penerapan Prinsip Pendidikan yang Memerdekakan ini di berbagai tempat dalam sebuah kerangka penerapan. Sebagai referensi, silakan tonton dahulu video kompilasi wawancara dengan beberapa praktisi terkait praktik penerapan Pendidikan yang Memerdekakan yang akan disajikan pada halaman berikutnya.
+
+
+
 ## Hari ke-7
 ## Hari ke-8
 ## Hari ke-9

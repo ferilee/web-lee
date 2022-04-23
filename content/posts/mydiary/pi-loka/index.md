@@ -23,6 +23,7 @@ toc:
 {{< style "text-align:justify; strong{color:#00b1ff;}" >}}{{< /style >}}
 
 # PENDAMPINGAN CGP DAN LOKAKARYA
+<!--
 ## Paket Modul 1
 ### Modul 1.1
 {{< admonition note "1.1.b.4. Jurnal pemantauan pembelajaran Daring CGP oleh Pengajar Praktik" false >}}
@@ -56,8 +57,20 @@ Jurnal pemantauan pembelajaran Daring CGP adalah catatan pendamping terhadap pem
 
 ## Jurnal Refleksi
 ## Jurnal Komunikasi
+-->
+
 ## Pendampingan Individu
 ### Pendampingan Individu 1
+> **Deskripsi**
+
+**Waktu:** Kurun waktu seminggu sebelum lokakarya 1 \
+**Tema Pendampingan:** Refleksi awal kompetensi guru penggerak \
+**Fokus Pendampingan:**
+* Diskusi tantangan belajar daring
+* Refleksi penerapan perubahan kelas sesuai pemikiran Ki Hajar Dewantara
+* Diskusi pembuatan kerangka portofolio
+* Diskusi peta posisi diri dan rencana pengembangan diri dalam dalam kompetensi guru penggerak
+
 {{< admonition note "Deskripsi" false >}}
 **Waktu:** Kurun waktu seminggu sebelum lokakarya 1
 
@@ -573,6 +586,60 @@ Pada kegiatan ini, Anda sebagai pengajar praktik diminta untuk memberikan penila
 
 ## Lokakarya
 ### Lokakarya Orientasi
+{{< admonition note "Deskripsi" >}}
+**Waktu:** Pertemuan perdana \
+**Pemahaman bermakna:** Proses belajar di Pendidikan Guru Penggerak merupakan perjalanan pengembangan kompetensi dan dilakukan dengan melibatkan ekosistem sekolah \
+**Produk yang dihasilkan:**
+* Kesepakatan Peran CGP dan Kepala Sekolah
+* Peta posisi diri
+* Rencana Pengembangan Kompetensi CGP
+{{< /admonition >}}
+
+*Pada kegiatan Lokakarya Orientasi ini, Pengajar Praktik:*
+* mengakses perangkat lokakarya pada LMS.
+* mencatat hasil lokakarya orientasi
+* mengunggah dokumentasi kegiatan lokakarya Orientasi
+* memberikan penilaian keaktifan
+* mengevaluasi proses lokakarya
+
+{{< admonition note "LK.0.a.2. Mencatat Hasil Lokakarya" false >}}
+Pengajar Praktik mencatat pada blog post LMS memuat:
+1. Nama peserta
+1. Aktivitas pembelajaran
+1. Produk yang dihasilkan
+1. Ketercapaian tujuan belajar
+1. Kesimpulan dan Refleksi pembelajaran
+{{< /admonition >}}
+
+{{< admonition note "LK.0.a.3. Mengunggah Dokumentasi Kegiatan Lokakarya Orientasi" false >}}
+Pengajar Praktik mengunggah dokumen melalui LMS.
+
+**PRODUK YANG DIHASILKAN:**
+* Peta harapan dan kekhawatiran peserta terkait program
+* Komitmen aktor Calon Guru Penggerak dan Kepala Sekolah dalam proses transformasi sekolah
+
+**DOKUMENTASI**
+* Daftar hadir
+* Laporan Penyelenggaraan lokakarya
+* Foto dokumentasi kegiatan
+{{< /admonition >}}
+
+{{< admonition note "LK.0.a.4. Penilaian Keaktifan pada Lokakarya Orientasi" false >}}
+Pada kegiatan ini, pengajar praktik diminta untuk memberikan Penilaian Keaktifan CGP selama mengikuti kegiatan Lokakarya melalui rubrik yang telah disediakan pada LMS.
+Komponen penilaian pada rubrik adalah:
+* Inisiatif menyampaikan gagasan dalam forum
+* Merespons gagasan dalam diskusi
+* Komitmen diri
+{{< /admonition >}}
+
+{{< admonition note "LK.0.a.5. Evaluasi Proses Lokakarya Perdana" false >}}
+Pada kegiatan ini, pengajar praktik diminta untuk memberikan Penilaian Keaktifan CGP selama mengikuti kegiatan Lokakarya melalui rubrik yang telah disediakan pada LMS.
+Komponen penilaian pada rubrik adalah:
+* Inisiatif menyampaikan gagasan dalam forum
+* Merespons gagasan dalam diskusi
+* Komitmen diri
+{{< /admonition >}}
+
 ### Lokakarya 1
 ### Lokakarya 2
 ### Lokakarya 3

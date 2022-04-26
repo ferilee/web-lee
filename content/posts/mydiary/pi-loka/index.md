@@ -596,11 +596,22 @@ Pada kegiatan ini, Anda sebagai pengajar praktik diminta untuk memberikan penila
 {{< /admonition >}}
 
 *Pada kegiatan Lokakarya Orientasi ini, Pengajar Praktik:*
-* mengakses perangkat lokakarya pada LMS.
-* mencatat hasil lokakarya orientasi
-* mengunggah dokumentasi kegiatan lokakarya Orientasi
-* memberikan penilaian keaktifan
-* mengevaluasi proses lokakarya
+* mengakses perangkat lokakarya (LK.0.a.1)
+* mencatat hasil lokakarya orientasi (LK.0.a.2)
+* mengunggah dokumentasi kegiatan lokakarya Orientasi (LK.0.a.3)
+* memberikan penilaian keaktifan (LK.0.a.4)
+* mengevaluasi proses lokakarya (LK.0.a.5)
+
+{{< mermaid >}}
+graph LR;
+    A[LK.0.a.1] --> B(LK.0.a.2) --> C(LK.0.a.3) --> D(LK.0.a.4) --> E(LK.0.a.5)
+{{< /mermaid >}}
+
+> **LK.0.1. Rencana Moderasi Lokakarya Orientasi**
+{{< mydiary/pi-loka/rencana-moderasi-loka-ori >}}
+
+> **LK.0.a.1. Perangkat Lokakarya Orientasi**
+{{< mydiary/pi-loka/perangkat-loka-ori >}}
 
 {{< admonition note "LK.0.a.2. Mencatat Hasil Lokakarya" false >}}
 Pengajar Praktik mencatat pada blog post LMS memuat:
@@ -632,13 +643,8 @@ Komponen penilaian pada rubrik adalah:
 * Komitmen diri
 {{< /admonition >}}
 
-{{< admonition note "LK.0.a.5. Evaluasi Proses Lokakarya Perdana" false >}}
-Pada kegiatan ini, pengajar praktik diminta untuk memberikan Penilaian Keaktifan CGP selama mengikuti kegiatan Lokakarya melalui rubrik yang telah disediakan pada LMS.
-Komponen penilaian pada rubrik adalah:
-* Inisiatif menyampaikan gagasan dalam forum
-* Merespons gagasan dalam diskusi
-* Komitmen diri
-{{< /admonition >}}
+> **LK.0.a.5. Evaluasi Proses Lokakarya Perdana**
+{{< mydiary/pi-loka/eval-loka-perdana >}}
 
 ### Lokakarya 1
 ### Lokakarya 2

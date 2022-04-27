@@ -453,7 +453,8 @@ Jurnal pendampingan adalah catatan pendamping terhadap CGP yang sudah diberikan 
 > {{< mydiary/pembekalan-pp/jurnal-pendampingan-1-6 >}}
 
 ### Rencana Tindak Lanjut
-Pendamping mengembangkan Rencana Tindak Lanjut (RTL) untuk proses pendampingan selanjutnya, tuliskan apa saja yang akan di rencanakan oleh pendamping terkait proses pendampingan berikutnya, perhatikan apa saja yang telah dipelajari oleh CGP dan capaian apa saja yang mungkin telah tercapai saat pendampingan berikutnya, ada baiknya komunikasi ke fasilitator untuk menghasilkan pendampingan yang maksimal.
+{{< style "text-align:justify; strong{color:#00b1ff;}" >}}
+Pendamping mengembangkan Rencana Tindak Lanjut (RTL) untuk proses pendampingan selanjutnya, tuliskan apa saja yang akan di rencanakan oleh pendamping terkait proses pendampingan berikutnya, perhatikan apa saja yang telah dipelajari oleh CGP dan capaian apa saja yang mungkin telah tercapai saat pendampingan berikutnya, ada baiknya komunikasi ke fasilitator untuk menghasilkan pendampingan yang maksimal.{{< /style >}}
 
 ### Unggah Dokumentasi Kegiatan Pendampingan Individu
 Mengunggah dokumentasi berikut sesuai dengan nama CGP.
@@ -462,7 +463,8 @@ Mengunggah dokumentasi berikut sesuai dengan nama CGP.
 * Dokumentasi lainnya terkait dengan pelaksanaan kegiatan, seperti daftar hadir, dan lain sebagainya.
 
 ### Penilaian Refleksi CGP (Pendampingan Individu 3)
-Pada kegiatan ini, Anda sebagai pengajar praktik diminta untuk memberikan penilaian kepada CGP terkait refleksi kegiatan yang telah dilakukan melalui rubrik yang telah disediakan.
+{{< style "text-align:justify; strong{color:#00b1ff;}" >}}
+Pada kegiatan ini, Anda sebagai pengajar praktik diminta untuk memberikan penilaian kepada CGP terkait refleksi kegiatan yang telah dilakukan melalui rubrik yang telah disediakan.{{< /style >}}
 
 > Silahkan klik tombol **Grade** di LMS untuk memberikan penilaian.
 
@@ -471,7 +473,8 @@ Pada kegiatan ini, Anda sebagai pengajar praktik diminta untuk memberikan penila
 * Jika pada saat menilai nama CGP yang muncul tidak sesuai/tidak muncul, klik tombol *View all submission*, kemudian klik *Reset table preference*. Jika masih tidak muncul, periksa bagian *Filter* yang ada dibagian *Option*, dan pilih *No Filter*.
 
 ### Penilaian Observasi Pembelajaran yang Berpusat pada Murid (Pendampingan Individu 4)
-Pada kegiatan ini, Anda sebagai pengajar praktik diminta untuk memberikan penilaian Observasi Pembelajaran yang Berpusat pada Murid yang dilakukan oleh CGP melalui instrumen yang telah disediakan. Selanjutnya,
+{{< style "text-align:justify; strong{color:#00b1ff;}" >}}
+Pada kegiatan ini, Anda sebagai pengajar praktik diminta untuk memberikan penilaian Observasi Pembelajaran yang Berpusat pada Murid yang dilakukan oleh CGP melalui instrumen yang telah disediakan. Selanjutnya,{{< /style >}}
 
 * [x] **masukkan nilai akhir** yang diperoleh ke kolom nilai yang telah disediakan
 * [x] **unggah** foto/file instrumen yang telah diisi ke kolom Feedback file.
@@ -483,7 +486,8 @@ Pada kegiatan ini, Anda sebagai pengajar praktik diminta untuk memberikan penila
 * Jika pada saat menilai nama CGP yang muncul tidak sesuai/tidak muncul, klik tombol *View all submission*, kemudian klik *Reset table preference*. Jika masih tidak muncul, periksa bagian *Filter* yang ada dibagian *Option*, dan pilih *No Filter*.
 
 ### Penilaian Keterampilan Coaching untuk Supervisi Akademik (Pendampingan Individu 5)
-Pada kegiatan ini, Anda sebagai pengajar praktik diminta untuk memberikan penilaian Keterampilan Coaching untuk Supervisi Akademik kepada CGP melalui rubrik yang telah disediakan.
+{{< style "text-align:justify; strong{color:#00b1ff;}" >}}
+Pada kegiatan ini, Anda sebagai pengajar praktik diminta untuk memberikan penilaian Keterampilan Coaching untuk Supervisi Akademik kepada CGP melalui rubrik yang telah disediakan.{{< /style >}}
 
 * [x] **masukkan nilai akhir** yang diperoleh ke kolom nilai yang telah disediakan
 * [x] **unggah** foto/file instrumen yang telah diisi ke kolom Feedback file.
@@ -578,6 +582,7 @@ Pengajar Praktik mencatat pada blog post LMS yang memuat:
 1. Produk yang dihasilkan
 1. Ketercapaian tujuan belajar
 1. Kesimpulan dan Refleksi pembelajaran
+
 #### Unggah Dokumentasi Kegiatan Lokakarya
 {{< admonition note "Lokakarya Orientasi" false >}}
 Pengajar Praktik mengunggah dokumen melalui LMS.
@@ -596,19 +601,105 @@ Pengajar Praktik mengunggah dokumen melalui LMS.
 Pengajar Praktik mengunggah dokumen melalui LMS.
 
 **PRODUK YANG DIHASILKAN:**
-* Peta harapan dan kekhawatiran peserta terkait program
-* Komitmen aktor Calon Guru Penggerak dan Kepala Sekolah dalam proses transformasi sekolah
+* Identifikasi posisi diri berdasarkan kompetensi Guru Penggerak
+* Evaluasi posisi diri berdasarkan kompetensi Guru Penggerak
+* Rencana pengembangan diri Calon Guru Penggerak
 
 **DOKUMENTASI**
 * Daftar hadir
 * Laporan Penyelenggaraan lokakarya
 * Foto dokumentasi kegiatan
 {{< /admonition >}}
+
+{{< admonition note "Lokakarya 2" false >}}
+Pengajar Praktik mengunggah dokumen melalui LMS.
+
+**PRODUK YANG DIHASILKAN:**
+* Pemetaan aplikasi komunitas praktisi di sekolah masing-masing (manfaat, tantangan, peluang, cara)
+* Pemetaan kelebihan dan kelemahan diri dalam menjalankan perannya sebagai guru penggerak untuk membuat komunitas praktisi
+* Rencana menggerakan komunitas praktisi tahap merintis di sekolah masing-masing
+
+**DOKUMENTASI**
+* Daftar hadir
+* Laporan Penyelenggaraan lokakarya
+* Foto dokumentasi kegiatan
+{{< /admonition >}}
+
+{{< admonition note "Lokakarya 3" false >}}
+Pengajar Praktik mengunggah dokumen melalui LMS.
+
+**PRODUK YANG DIHASILKAN:**
+* Dokumen awal dari visi, misi dan program sekolah berdampak kepada murid
+* Dokumen rencana aksi jangka pendek oleh Calon Guru Penggerak dan Kepala Sekolah
+
+**DOKUMENTASI**
+* Daftar hadir
+* Laporan Penyelenggaraan lokakarya
+* Foto dokumentasi kegiatan
+{{< /admonition >}}
+
+{{< admonition note "Lokakarya 4" false >}}
+Pengajar Praktik mengunggah dokumen melalui LMS.
+
+**PRODUK YANG DIHASILKAN:**
+* Peta Kekuatan Diri dalam Pengajaran
+* Dokumen RPP “Berpihak pada Murid”
+
+**DOKUMENTASI**
+* Daftar hadir
+* Laporan Penyelenggaraan lokakarya
+* Foto dokumentasi kegiatan
+{{< /admonition >}}
+
+{{< admonition note "Lokakarya 5" false >}}
+Pengajar Praktik mengunggah dokumen melalui LMS.
+
+**PRODUK YANG DIHASILKAN:**
+* Evaluasi kompetensi guru penggerak
+* Hasil refleksi diri
+* Rencana pengembangan diri calon guru penggerak
+
+**DOKUMENTASI**
+* Daftar hadir
+* Laporan Penyelenggaraan lokakarya
+* Foto dokumentasi kegiatan
+{{< /admonition >}}
+
+{{< admonition note "Lokakarya 6" false >}}
+Pengajar Praktik mengunggah dokumen melalui LMS.
+
+**PRODUK YANG DIHASILKAN:**
+* Dokumen rencana program (Dampak, hasil langsung, aktivitas/strategi pelaksanaan, dan input)
+* Dokumen rancangan monitoring dan evaluasi
+* Pengumuman rencana lokakarya selanjutnya tersampaikan
+
+**DOKUMENTASI**
+* Daftar hadir
+* Laporan Penyelenggaraan lokakarya
+* Foto dokumentasi kegiatan
+{{< /admonition >}}
+
+{{< admonition note "Lokakarya 7" false >}}
+Pengajar Praktik mengunggah dokumen melalui LMS.
+
+**PRODUK YANG DIHASILKAN:**
+* Analisis hasil evaluasi program yang dibuat di Lokakarya 6
+* Analisis evaluasi program pelatihan CGP
+* Praktik baik di lingkungan belajar sekolah
+* Ide program selanjutnya
+
+**DOKUMENTASI**
+* Daftar hadir
+* Laporan Penyelenggaraan lokakarya
+* Foto dokumentasi kegiatan
+{{< /admonition >}}
+
 #### Penilaian Keaktifan di Lokakarya
 Pada kegiatan ini, pengajar praktik diminta untuk memberikan Penilaian Keaktifan CGP selama mengikuti kegiatan Lokakarya melalui rubrik yang telah disediakan pada LMS.
 Komponen penilaian pada rubrik adalah:
 * Inisiatif menyampaikan gagasan dalam forum
 * Merespons gagasan dalam diskusi
 * Komitmen diri
+
 #### Evaluasi Penyelenggaraan Lokakarya
 > {{< mydiary/pi-loka/eval-loka >}}

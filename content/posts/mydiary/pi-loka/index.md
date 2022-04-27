@@ -496,8 +496,8 @@ Pada kegiatan ini, Anda sebagai pengajar praktik diminta untuk memberikan penila
 
 
 ## Lokakarya
-### Lokakarya Orientasi
-{{< admonition note "Deskripsi" >}}
+### Deskripsi
+{{< admonition note "Lokakarya Orientasi" false >}}
 **Waktu:** Pertemuan perdana \
 **Pemahaman bermakna:** Proses belajar di Pendidikan Guru Penggerak merupakan perjalanan pengembangan kompetensi dan dilakukan dengan melibatkan ekosistem sekolah \
 **Produk yang dihasilkan:**
@@ -506,34 +506,80 @@ Pada kegiatan ini, Anda sebagai pengajar praktik diminta untuk memberikan penila
 * Rencana Pengembangan Kompetensi CGP
 {{< /admonition >}}
 
-*Pada kegiatan Lokakarya Orientasi ini, Pengajar Praktik:*
-* mengakses perangkat lokakarya (LK.0.a.1)
-* mencatat hasil lokakarya orientasi (LK.0.a.2)
-* mengunggah dokumentasi kegiatan lokakarya Orientasi (LK.0.a.3)
-* memberikan penilaian keaktifan (LK.0.a.4)
-* mengevaluasi proses lokakarya (LK.0.a.5)
+{{< admonition note "Lokakarya 1" false >}}
+**Waktu:** Bulan ke-1 \
+**Pemahaman bermakna:** Komunitas Praktisi sebagai wadah untuk mengembangkan kompetensi pemimpin pembelajaran dalam menggerakkan ekosistem pendidikan. \
+**Produk yang dihasilkan:** Pemetaan komunitas praktisi yang sudah ada untuk mengoptimalkan perannya sebagai guru penggerak.
+{{< /admonition >}}
 
-{{< mermaid >}}
-graph LR;
-    A[LK.0.a.1] --> B(LK.0.a.2) --> C(LK.0.a.3) --> D(LK.0.a.4) --> E(LK.0.a.5)
-{{< /mermaid >}}
+{{< admonition note "Lokakarya 2" false >}}
+**Waktu:** Bulan ke-2 \
+**Pemahaman bermakna:** Visi guru penggerak mengenai lingkungan belajar yang positif melandasi proses pengembangan kodrat murid yang selamat dan bahagia \
+**Produk yang dihasilkan:**
+* Rencana terkait prakarsa perubahan yang terbaru level diri yang sudah diberikan umpan balik oleh Calon Guru Penggerak lain
+* Rencana terkait strategi penyampaian disiplin positif di kelas dan konteks sekolah yang sudah diberikan umpan balik oleh Calon Guru Penggerak lain yang terbaru
+{{< /admonition >}}
 
-> **LK.0.1. Rencana Moderasi Lokakarya Orientasi**
+{{< admonition note "Lokakarya 3" false >}}
+**Waktu:** Bulan ke-3 \
+**Pemahaman bermakna:** Penerapan pembelajaran berdiferensiasi dan sosial emosional memungkinkan guru untuk meningkatkan kualitas proses dan hasil pembelajaran. \
+**Produk yang dihasilkan:**
+* Hasil refleksi dari simulasi dan penerapan pembelajaran berdiferensiasi.
+* Hasil refleksi dari Praktik mindfulness dan integrasi 5 kompetensi sosial emosional dalam praktik mengajar.
+* Strategi berbagi pengalaman belajar dengan rekan sejawat mengenai pembelajaran berdiferensiasi dan kompetensi sosial emosional.
+{{< /admonition >}}
+
+{{< admonition note "Lokakarya 4" false >}}
+**Waktu:** Bulan ke-4 \
+**Pemahaman bermakna:** Coaching adalah sarana untuk mengidentifikasi kekuatan dan merencanakan strategi perbaikan diri dalam proses pembelajaran yang berpihak pada murid \
+**Produk yang dihasilkan:**
+* Hasil identifikasi kekuatan, area pengembangan dan umpan balik guru/rekan sejawat
+* Rencana perbaikan dan strategi pengembangan proses pembelajaran yang berpihak pada murid
+{{< /admonition >}}
+
+{{< admonition note "Lokakarya 5" false >}}
+**Waktu:** Bulan ke-5 \
+**Pemahaman bermakna:** Menjalankan tahapan inkuiri apresiatif (BAGJA) membantu Calon Guru Penggerak dalam merancang program berorientasi pada kepemimpinan murid (student agency) dengan mengoptimalkan aset yang dimiliki sekolah. \
+**Produk yang dihasilkan:**
+* Rencana tindak lanjut tahapan B (Buat pertanyaan), A (Ambil pelajaran), dan G (Gali mimpi) dari tahapan BAGJA untuk merancang program yang berpihak pada murid.
+* Strategi pelibatan aktor dalam fase gali mimpi.
+* Rencana program bagian Judul Program atau kegiatan, latar belakang, dan tujuan program.
+{{< /admonition >}}
+
+{{< admonition note "Lokakarya 6" false >}}
+**Waktu:** Bulan ke-6 \
+**Pemahaman bermakna:** Dalam mengembangkan program sekolah yang berpihak pada murid diperlukan prakarsa perubahan yang mengedepankan pelibatan warga sekolah serta pengembangan diri yang berkelanjutan \
+**Produk yang dihasilkan:**
+* Rencana kerja pengembangan program sekolah yaitu tahapan J (Jabarkan Rencana) dan A (Atur Eksekusi) pada BAGJA
+* Hasil identifikasi kekuatan diri
+* Rencana pengembangan kompetensi diri sebagai pemimpin pembelajaran.
+{{< /admonition >}}
+
+{{< admonition note "Lokakarya 7" false >}}
+**Waktu:** Bulan ke-7 \
+**Pemahaman bermakna:** Perubahan positif di lingkungan belajar sekolah merupakan tanda keberhasilan dari program guru penggerak serta kerjasama berbagai pihak. \
+**Produk yang dihasilkan:**
+* Rangkuman materi kunci per sub modul, yang dikaitkan dengan perubahan perilaku dan nilai guru penggerak untuk "berpihak pada murid" (dipaparkan di kelas berbagi)
+* Ringkasan ide pengembangan program berdasarkan masukan dan info dukungan pengunjung
+* Persiapan: media presentasi praktik baik di lingkungan belajar sekolah dan paparan untuk kelas berbagi
+{{< /admonition >}}
+
+### Rencana Moderasi Lokakarya
 {{< mydiary/pi-loka/rencana-moderasi-loka-ori >}}
 
-> **LK.0.a.1. Perangkat Lokakarya Orientasi**
+### Laporan Lokakarya
+#### Perangkat Lokakarya
 {{< mydiary/pi-loka/perangkat-loka-ori >}}
 
-{{< admonition note "LK.0.a.2. Mencatat Hasil Lokakarya" false >}}
-Pengajar Praktik mencatat pada blog post LMS memuat:
+#### Catatan Hasil Lokakarya
+Pengajar Praktik mencatat pada blog post LMS yang memuat:
 1. Nama peserta
 1. Aktivitas pembelajaran
 1. Produk yang dihasilkan
 1. Ketercapaian tujuan belajar
 1. Kesimpulan dan Refleksi pembelajaran
-{{< /admonition >}}
-
-{{< admonition note "LK.0.a.3. Mengunggah Dokumentasi Kegiatan Lokakarya Orientasi" false >}}
+#### Unggah Dokumentasi Kegiatan Lokakarya
+{{< admonition note "Lokakarya Orientasi" false >}}
 Pengajar Praktik mengunggah dokumen melalui LMS.
 
 **PRODUK YANG DIHASILKAN:**
@@ -546,22 +592,23 @@ Pengajar Praktik mengunggah dokumen melalui LMS.
 * Foto dokumentasi kegiatan
 {{< /admonition >}}
 
-{{< admonition note "LK.0.a.4. Penilaian Keaktifan pada Lokakarya Orientasi" false >}}
+{{< admonition note "Lokakarya 1" false >}}
+Pengajar Praktik mengunggah dokumen melalui LMS.
+
+**PRODUK YANG DIHASILKAN:**
+* Peta harapan dan kekhawatiran peserta terkait program
+* Komitmen aktor Calon Guru Penggerak dan Kepala Sekolah dalam proses transformasi sekolah
+
+**DOKUMENTASI**
+* Daftar hadir
+* Laporan Penyelenggaraan lokakarya
+* Foto dokumentasi kegiatan
+{{< /admonition >}}
+#### Penilaian Keaktifan di Lokakarya
 Pada kegiatan ini, pengajar praktik diminta untuk memberikan Penilaian Keaktifan CGP selama mengikuti kegiatan Lokakarya melalui rubrik yang telah disediakan pada LMS.
 Komponen penilaian pada rubrik adalah:
 * Inisiatif menyampaikan gagasan dalam forum
 * Merespons gagasan dalam diskusi
 * Komitmen diri
-{{< /admonition >}}
-
-> **LK.0.a.5. Evaluasi Proses Lokakarya Perdana**
-{{< mydiary/pi-loka/eval-loka-perdana >}}
-
-
-### Lokakarya 1
-### Lokakarya 2
-### Lokakarya 3
-### Lokakarya 4
-### Lokakarya 5
-### Lokakarya 6
-### Lokakarya 7
+#### Evaluasi Penyelenggaraan Lokakarya
+> {{< mydiary/pi-loka/eval-loka >}}

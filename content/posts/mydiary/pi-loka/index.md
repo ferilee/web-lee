@@ -60,10 +60,8 @@ Jurnal pemantauan pembelajaran Daring CGP adalah catatan pendamping terhadap pem
 ## Pendampingan Individu
 ### Deskripsi
 {{< admonition note "Pendampingan Individu 1" false >}}
-**Waktu:** Kurun waktu seminggu sebelum lokakarya 1
-
-**Tema Pendampingan:** Refleksi awal kompetensi guru penggerak
-
+**Waktu:** Kurun waktu seminggu sebelum lokakarya 1 \
+**Tema Pendampingan:** Refleksi awal kompetensi guru penggerak \
 **Fokus Pendampingan:**
 * Diskusi tantangan belajar daring
 * Refleksi penerapan perubahan kelas sesuai pemikiran Ki Hajar Dewantara
@@ -72,10 +70,8 @@ Jurnal pemantauan pembelajaran Daring CGP adalah catatan pendamping terhadap pem
 {{< /admonition >}}
 
 {{< admonition note "Pendampingan Individu 2" false >}}
-**Waktu:** Kurun waktu seminggu sebelum lokakarya 2
-
-**Tema Pendampingan:** Perubahan paradigma pemimpin pembelajaran
-
+**Waktu:** Kurun waktu seminggu sebelum lokakarya 2 \
+**Tema Pendampingan:** Perubahan paradigma pemimpin pembelajaran \
 **Fokus Pendampingan:**
 * Diskusi refleksi diri tentang lingkungan belajar di sekolah
 * Diskusi refleksi perubahan diri setelah mempelajari modul 1.1, 1.2 dan 1.3
@@ -84,10 +80,8 @@ Jurnal pemantauan pembelajaran Daring CGP adalah catatan pendamping terhadap pem
 {{< /admonition >}}
 
 {{< admonition note "Pendampingan Individu 3" false >}}
-**Waktu:** Kurun waktu seminggu sebelum lokakarya 3
-
-**Tema Pendampingan:** Implementasi Pembelajaran yang Berpihak pada Murid
-
+**Waktu:** Kurun waktu seminggu sebelum lokakarya 3 \
+**Tema Pendampingan:** Implementasi Pembelajaran yang Berpihak pada Murid \
 **Fokus Pendampingan:**
   * Refleksi hasil survei (feedback 360) + penilaian sendiri tentang kompetensi guru penggerak
   * Diskusi rencana menerapkan pembelajaran sosial-emosional
@@ -97,10 +91,8 @@ Jurnal pemantauan pembelajaran Daring CGP adalah catatan pendamping terhadap pem
 {{< /admonition >}}
 
 {{< admonition note "Pendampingan Individu 4" false >}}
-**Waktu:** Kurun waktu seminggu sebelum lokakarya 4
-
-**Tema Pendampingan:** Evaluasi dan Pengembangan Proses Pembelajaran
-
+**Waktu:** Kurun waktu seminggu sebelum lokakarya 4 \
+**Tema Pendampingan:** Evaluasi dan Pengembangan Proses Pembelajaran \
 **Fokus Pendampingan:**
   * Observasi kelas CGP untuk melihat penerapan dari modul budaya positif, pembeljaaran berdiferensiasi dan pembelajaran sosial-emosional.
   * Penilaian Observasi Praktik Pembelajaran
@@ -109,10 +101,8 @@ Jurnal pemantauan pembelajaran Daring CGP adalah catatan pendamping terhadap pem
 {{< /admonition >}}
 
 {{< admonition note "Pendampingan Individu 5" false >}}
-**Waktu:** Kurun waktu seminggu sebelum lokakarya 5
-
-**Tema Pendampingan:** Rancangan Program yang Berpihak pada Murid
-
+**Waktu:** Kurun waktu seminggu sebelum lokakarya 5 \
+**Tema Pendampingan:** Rancangan Program yang Berpihak pada Murid \
 **Fokus Pendampingan:**
   * Refleksi penerapan aksi nyata modul 3.1
   * Diskusi rancangan program yang berdampak pada murid
@@ -122,7 +112,15 @@ Jurnal pemantauan pembelajaran Daring CGP adalah catatan pendamping terhadap pem
 {{< /admonition >}}
 
 {{< admonition note "Pendampingan Individu 6" false >}}
+**Waktu:** Kurun waktu seminggu sebelum lokakarya 6 \
+**Tema Pendampingan:** Refleksi perubahan diri dan dampak pendidikan \
+**Fokus Pendampingan:**
+  * Persiapan panen hasil belajar
+  * Pengumpulan survei umpan balik dan refleksi hasil survei tentang kompetensi guru penggerak (feedback 360)
+  * Refleksi perubahan dalam pembelajaran yang sudah diterapkan selama 6 bulan, diskusikan dampak pada diri guru dan murid yang terjadi
+  * Penilaian pemetaan aset; diskusi apakah tujuan program sudah dikomunikasikan ke warga sekolah
 
+**Penilaian:** Refleksi CGP dan Dokumentasi pemetaan aset secara kolaboratif
 {{< /admonition >}}
 
 ### Langkah-langkah Pendampingan
@@ -443,7 +441,67 @@ Jurnal pemantauan pembelajaran Daring CGP adalah catatan pendamping terhadap pem
 {{< /admonition >}}
 
 {{< admonition note "Pendampingan Individu 6" false >}}
+1. Bagian awal pendampingan (10’)
+    * Menjelaskan tentang fokus pendampingan, PP memastikan CGP memahami aktivitas pendampingan yang akan dilakukan.
+    * Pengajar Praktik menanyakan apa saja proses yang sudah berjalan selama satu bulan terakhir, menanyakan rencana tindak lanjut dari pendampingan sebelumnya, serta hal-hal yang dianggap sebagai capaian selama satu bulan terakhir (berdasarkan Jurnal Pemanatauan Pembelajaran Daring)
+    * Apresiasi kemajuan-kemajuan yang disampaikan oleh Calon Guru Penggerak, termasuk hal baik yang dilihat selama observasi
 
+
+2. Bagian Inti Pendampingan (160’)
+    * Refleksi hasil survei (feedback 360) (40’)
+
+      PP memberikan hasil analisis feedback $360^0$   kepada CGP,  berikan CGP waktu beberapa saat untuk membaca dan memahami infomasi dari hasil analisis yang telah dilakukan.
+
+      Berdasarkan hasil feedback  $360^0$ lakukan refleksi dengan memberikan pertanyaan pematik berikut ini:
+
+        + Berdasarkan hasil feedback $360^0$ apa yang kurang baik/ perlu ditingkatkan  menurut responden terhadap kompetensi bapak/Ibu? Jelaskan menurut masing-masing responden (kepala sekolah, rekan sejawat, dan murid)
+        + Apa rencana Bapak/Ibu ke depannya untuk dilakukan mengenai kompetensi guru penggerak yang harus Bapak/Ibu miliki?
+        + Siapa saja yang akan Bapak/Ibu libatkan untuk meningkatkan kompetensi guru penggerak yang harus Bapak/Ibu miliki?
+
+    * Perubahan dalam pembelajaran (30’)
+
+      Refleksi perubahan dalam pembelajaran yang sudah diterapkan selama 6 bulan, diskusikan dampak pada diri guru dan murid yang terjadi.
+        + Setelah Bapak/ Ibu menjalani 6 bulan pendidikan guru penggerak, perubahan apa yang Bapak/ Ibu rasakan yang berkaitan dengan kompetensi Bapak/ Ibu sebagai guru?
+        + Berdasarkan yang Bapak/ Ibu alami, perubahan apa saja yang terjadi pada diri murid Bapak/ Ibu setelah Bapak/ Ibu menjalani program 6 bulan ini?
+        + Apa saja hal yang membuat perjalanan 6 bulan ini cukup memuaskan?
+        + Apa saja hal yang membuat perjalanan 6 bulan ini menjadi cukup menantang bagi Bapak/Ibu?
+
+    * Penilaian pemetaan aset (60’)
+
+      Proses penilaian pemetaan aset dilakukan dengan cara berdiskusi dengan CGP dan aktor yang terlibat saat proses pemetaan asset. Berdasarkan hasil diskusi tersebut, silahkan lakukan penilaian dengan menggunakan rubrik yang telah disediakan.
+
+      Pertanyaan pematik untuk CGP yang digunakan saat diskusi:
+
+        + Siapa saja aktor yang terlibat saat proses pemetaan aset?
+        + Bagaimana proses Bapak/Ibu dalam menemukan/mengidentifikasi sumber daya yang ada di sekolah?
+        + Apa saja kendala dan tantangan yang Bapak/Ibu hadapi saat melakukan identifikasi sumber daya sekolah dan bagaimana Bapak/Ibu mengatasinya?
+        + Bagaimana perasaan Bapak/Ibu ketika berhasil mengidentifikasi sumber daya sekolah?
+        +  Apa pertimbangan Bapak/Ibu dalam menentukan sumber daya sekolah?
+        + Apakah terdapat hal lain yang dapat dijadikan sumber daya sekolah yang belum Bapak/Ibu temukan dalam proses yang sudah berlangsung?
+
+      Selain berdiskusi dengan CGP, lakukan juga wawancara ke perwakilan aktor yang terlibat untuk mengecek kesepahaman akan tujuan pemetaan dan proses yang terjadi, dengan menggunakan pertanyaan pematik berikut ini:
+
+        + Bagaimana proses Bapak/Ibu dalam menemukan/mengidentifikasi sumber daya yang ada di sekolah?
+        + Apa saja kendala dan tantangan yang Bapak/Ibu hadapi saat melakukan identifikasi sumber daya sekolah dan bagaimana Bapak/Ibu mengatasinya?
+        + Bagaimana perasaan Bapak/Ibu ketika berhasil mengidentifikasi sumber daya sekolah?
+        + Apa pertimbangan Bapak/Ibu dalam menentukan sumber daya sekolah?
+        + Apakah terdapat hal lain yang dapat dijadikan sumber daya sekolah yang belum Bapak/Ibu temukan dalam proses yang sudah berlangsung?
+
+    * Persiapan panen hasil belajar (30’)
+
+      Diskusikan dengan CGP terkait persiapan panen hasil belajar, pastikan CGP mengetahui dan memahami kelengkapan apa saja yang akan dibawa dan ditampilkan saat pelaksanaan panen hasil belajar. Berikan pertanyaan pematik sebagai panduan diskusi dengan CGP:
+        + Apa ide Bapak/Ibu untuk persiapan panen hasil belajar pada Lokakarya 7?
+        + Apa yang akan Bapak/Ibu pamerkan pada saat penen hasil belajar?
+
+      Disamping itu, untuk CGP yang terpilih sebagai penyaji dalam kelas berbagi, menyiapkan:
+
+        + Materi yang akan dibagikan kesepeserta panen belajar (rambu-rambu penyajian dilihat pada lampiran Lokakarya 7).
+        + PPT/bahan tayang yang akan dipaparkan saat kelas berbagi
+
+3. Bagian akhir pendampingan (10’)
+    * Mengapresiasi dan mengucapkan terima kasih telah berbagi praktik baik yang sudah dilakukan dari pembelajaran daring.
+    * Mendorong untuk terus memetakan sumber daya dalam melakukan perubahan dan perbaikan pembelajaran.
+    * Jika ada hal-hal terkait pembelajaran daring yang perlu diketahui oleh fasilitator, maka perlu dicatat dalam Jurnal Komunikasi di LMS.
 {{< /admonition >}}
 
 ### Jurnal Pendampingan
@@ -498,6 +556,19 @@ Pada kegiatan ini, Anda sebagai pengajar praktik diminta untuk memberikan penila
 * Pastikan group yang Anda pilih sudah benar agar tidak terjadi salah menilai CGP yang didampingi oleh pengajar praktik lain.
 * Jika pada saat menilai nama CGP yang muncul tidak sesuai/tidak muncul, klik tombol *View all submission*, kemudian klik *Reset table preference*. Jika masih tidak muncul, periksa bagian *Filter* yang ada dibagian *Option*, dan pilih *No Filter*.
 
+### Penilaian Dokumentasi Pemetaan Aset secara Kolaboratif (Pendampingan Individu 6)
+{{< style "text-align:justify; strong{color:#00b1ff;}" >}}
+Pada kegiatan ini, Anda sebagai pengajar praktik diminta untuk:{{< /style >}}
+
+* [x] memberikan **penilaian** Dokumentasi Pemetaan Aset secara Kolaboratif CGP melalui rubrik yang telah disediakan.
+* [x] sebagai salah satu bahan penilaian, Anda juga diminta untuk melakukan **wawancara ke perwakilan aktor** yang terlibat untuk pengecekan kesepahaman akan tujuan pemetaan dan proses yang terjadi.
+
+
+> Silahkan klik tombol **Grade** di LMS untuk memberikan penilaian.
+
+*Catatan:*
+* Pastikan group yang Anda pilih sudah benar agar tidak terjadi salah menilai CGP yang didampingi oleh pengajar praktik lain.
+* Jika pada saat menilai nama CGP yang muncul tidak sesuai/tidak muncul, klik tombol *View all submission*, kemudian klik *Reset table preference*. Jika masih tidak muncul, periksa bagian *Filter* yang ada dibagian *Option*, dan pilih *No Filter*.
 
 ## Lokakarya
 ### Deskripsi
@@ -569,11 +640,11 @@ Pada kegiatan ini, Anda sebagai pengajar praktik diminta untuk memberikan penila
 {{< /admonition >}}
 
 ### Rencana Moderasi Lokakarya
-{{< mydiary/pi-loka/rencana-moderasi-loka-ori >}}
+{{< mydiary/pi-loka/rencana-moderasi >}}
 
 ### Laporan Lokakarya
 #### Perangkat Lokakarya
-{{< mydiary/pi-loka/perangkat-loka-ori >}}
+{{< mydiary/pi-loka/perangkat-loka >}}
 
 #### Catatan Hasil Lokakarya
 Pengajar Praktik mencatat pada blog post LMS yang memuat:

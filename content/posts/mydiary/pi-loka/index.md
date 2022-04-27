@@ -17,8 +17,6 @@ categories: ["My Diary"]
 
 lightgallery: true
 
-toc:
-  auto: true
 ---
 {{< style "text-align:justify; strong{color:#00b1ff;}" >}}{{< /style >}}
 
@@ -60,18 +58,8 @@ Jurnal pemantauan pembelajaran Daring CGP adalah catatan pendamping terhadap pem
 -->
 
 ## Pendampingan Individu
-### Pendampingan Individu 1
-> **Deskripsi**
-
-**Waktu:** Kurun waktu seminggu sebelum lokakarya 1 \
-**Tema Pendampingan:** Refleksi awal kompetensi guru penggerak \
-**Fokus Pendampingan:**
-* Diskusi tantangan belajar daring
-* Refleksi penerapan perubahan kelas sesuai pemikiran Ki Hajar Dewantara
-* Diskusi pembuatan kerangka portofolio
-* Diskusi peta posisi diri dan rencana pengembangan diri dalam dalam kompetensi guru penggerak
-
-{{< admonition note "Deskripsi" false >}}
+### Deskripsi
+{{< admonition note "Pendampingan Individu 1" false >}}
 **Waktu:** Kurun waktu seminggu sebelum lokakarya 1
 
 **Tema Pendampingan:** Refleksi awal kompetensi guru penggerak
@@ -83,7 +71,62 @@ Jurnal pemantauan pembelajaran Daring CGP adalah catatan pendamping terhadap pem
 * Diskusi peta posisi diri dan rencana pengembangan diri dalam dalam kompetensi guru penggerak
 {{< /admonition >}}
 
-{{< admonition note "PI.1.1. Langkah-langkah Pendampingan" false >}}
+{{< admonition note "Pendampingan Individu 2" false >}}
+**Waktu:** Kurun waktu seminggu sebelum lokakarya 2
+
+**Tema Pendampingan:** Perubahan paradigma pemimpin pembelajaran
+
+**Fokus Pendampingan:**
+* Diskusi refleksi diri tentang lingkungan belajar di sekolah
+* Diskusi refleksi perubahan diri setelah mempelajari modul 1.1, 1.2 dan 1.3
+* Diskusi rencana merintis komunitas praktisi di sekolah, berdasarkan hasil pemetaan di lokakarya 1
+* Mengkomunikasikan visi dan prakasra perubahan ke KS dan warga sekolah dengan dimoderasi oleh PP
+{{< /admonition >}}
+
+{{< admonition note "Pendampingan Individu 3" false >}}
+**Waktu:** Kurun waktu seminggu sebelum lokakarya 3
+
+**Tema Pendampingan:** Implementasi Pembelajaran yang Berpihak pada Murid
+
+**Fokus Pendampingan:**
+  * Refleksi hasil survei (feedback 360) + penilaian sendiri tentang kompetensi guru penggerak
+  * Diskusi rencana menerapkan pembelajaran sosial-emosional
+  * Diskusi hasil lokakarya 2 (keterlaksanaan dari tahapan BAGJA)
+
+**Penilaian:** Refleksi CGP
+{{< /admonition >}}
+
+{{< admonition note "Pendampingan Individu 4" false >}}
+**Waktu:** Kurun waktu seminggu sebelum lokakarya 4
+
+**Tema Pendampingan:** Evaluasi dan Pengembangan Proses Pembelajaran
+
+**Fokus Pendampingan:**
+  * Observasi kelas CGP untuk melihat penerapan dari modul budaya positif, pembeljaaran berdiferensiasi dan pembelajaran sosial-emosional.
+  * Penilaian Observasi Praktik Pembelajaran
+
+**Penilaian:** Observasi pembelajaran yang berpusat pada murid
+{{< /admonition >}}
+
+{{< admonition note "Pendampingan Individu 5" false >}}
+**Waktu:** Kurun waktu seminggu sebelum lokakarya 5
+
+**Tema Pendampingan:** Rancangan Program yang Berpihak pada Murid
+
+**Fokus Pendampingan:**
+  * Refleksi penerapan aksi nyata modul 3.1
+  * Diskusi rancangan program yang berdampak pada murid
+  * Diskusi perkembangan komunitas praktisi yang dijalankan di sekolah serta implementasi dari rencana di lokakarya 3 untuk berbagi ke rekan sejawat
+
+**Penilaian:** Keterampilan coaching untuk supervisi akademik
+{{< /admonition >}}
+
+{{< admonition note "Pendampingan Individu 6" false >}}
+
+{{< /admonition >}}
+
+### Langkah-langkah Pendampingan
+{{< admonition note "Pendampingan Individu 1" false >}}
 1. Bagian awal pendampingan (20’)
     * Pengajar praktik menyapa dan menanyakan kabar Calon Guru Penggerak
     * Menjelaskan tentang fokus pendampingan
@@ -137,38 +180,7 @@ Jurnal pemantauan pembelajaran Daring CGP adalah catatan pendamping terhadap pem
     * Jika ada hal-hal terkait pembelajaran daring yang perlu diketahui oleh fasilitator, maka perlu dicatat dalam Jurnal Komunikasi dalam LMS.
 {{< /admonition >}}
 
-{{< admonition note "PI.1.2. Jurnal Pendampingan" false >}}
-Jurnal pendampingan adalah catatan pendamping terhadap CGP yang sudah diberikan pendampingan individu.
-* Buatlah jurnal sesuai dengan jumlah CGP yang di dampingi
-* Tuangkan hasil catatan Anda berdasarkan setiap kolom yang telah disediakan.
-{{< /admonition >}}
-> {{< mydiary/pembekalan-pp/jurnal-pendampingan-1-6 >}}
-
-{{< admonition note "PI.1.3. Rencana Tindak Lanjut" false >}}
-Pendamping mengembangkan Rencana Tindak Lanjut (RTL) untuk proses pendampingan selanjutnya, tuliskan apa saja yang akan di rencanakan oleh pendamping terkait proses pendampingan berikutnya, perhatikan apa saja yang telah dipelajari oleh CGP dan capaian apa saja yang mungkin telah tercapai saat pendampingan berikutnya, ada baiknya komunikasi ke fasilitator untuk menghasilkan pendampingan yang maksimal.
-{{< /admonition >}}
-
-{{< admonition note "PI.1.4. Unggah dokumentasi kegiatan PI" false >}}
-Mengunggah dokumentasi berikut sesuai dengan nama CGP.
-
-* Media yang berupa video, rekaman, foto, atau dokumen lainnya terkait aksi nyata peserta.
-* Dokumentasi lainnya terkait dengan pelaksanaan kegiatan, seperti daftar hadir, dan lain sebagainya.
-{{< /admonition >}}
-
-### Pendampingan Individu 2
-{{< admonition note "Deskripsi" false >}}
-**Waktu:** Kurun waktu seminggu sebelum lokakarya 2
-
-**Tema Pendampingan:** Perubahan paradigma pemimpin pembelajaran
-
-**Fokus Pendampingan:**
-* Diskusi refleksi diri tentang lingkungan belajar di sekolah
-* Diskusi refleksi perubahan diri setelah mempelajari modul 1.1, 1.2 dan 1.3
-* Diskusi rencana merintis komunitas praktisi di sekolah, berdasarkan hasil pemetaan di lokakarya 1
-* Mengkomunikasikan visi dan prakasra perubahan ke KS dan warga sekolah dengan dimoderasi oleh PP
-{{< /admonition >}}
-
-{{< admonition note "PI.2.1. Langkah-langkah Pendampingan" false >}}
+{{< admonition note "Pendampingan Individu 2" false >}}
 1. Bagian awal pendampingan (10’)
     * Pengajar Praktik menyapa dan menanyakan kabar Calon Guru Penggerak
     * Menjelaskan tentang fokus pendampingan. PP memastikan CGP memahami aktivitas pendampingan yang akan dilakukan.
@@ -233,42 +245,9 @@ Mengunggah dokumentasi berikut sesuai dengan nama CGP.
         - CGP mengisi self evaluation.
     * Memotivasi untuk tetap mencoba praktik-praktik pembelajaran yang berpihak pada anak.
     * Jika ada hal-hal terkait pembelajaran daring yang perlu diketahui oleh fasilitator, maka perlu dicatat dalam Jurnal Komunikasi.
-
 {{< /admonition >}}
 
-{{< admonition note "PI.2.2. Jurnal Pendampingan" false >}}
-Jurnal pendampingan adalah catatan pendamping terhadap CGP yang sudah diberikan pendampingan individu.
-* Buatlah jurnal sesuai dengan jumlah CGP yang di dampingi
-* Tuangkan hasil catatan Anda berdasarkan setiap kolom yang telah disediakan.
-{{< /admonition >}}
-> {{< mydiary/pembekalan-pp/jurnal-pendampingan-1-6 >}}
-
-{{< admonition note "PI.2.3. Rencana Tindak Lanjut" false >}}
-Pendamping mengembangkan Rencana Tindak Lanjut (RTL) untuk proses pendampingan selanjutnya, tuliskan apa saja yang akan di rencanakan oleh pendamping terkait proses pendampingan berikutnya, perhatikan apa saja yang telah dipelajari oleh CGP dan capaian apa saja yang mungkin telah tercapai saat pendampingan berikutnya, ada baiknya komunikasi ke fasilitator untuk menghasilkan pendampingan yang maksimal.
-{{< /admonition >}}
-
-{{< admonition note "PI.2.4. Unggah dokumentasi kegiatan PI" false >}}
-Mengunggah dokumentasi berikut sesuai dengan nama CGP.
-
-* Media yang berupa video, rekaman, foto, atau dokumen lainnya terkait aksi nyata peserta.
-* Dokumentasi lainnya terkait dengan pelaksanaan kegiatan, seperti daftar hadir, dan lain sebagainya.
-{{< /admonition >}}
-
-### Pendampingan Individu 3
-{{< admonition note "Deskripsi" false >}}
-**Waktu:** Kurun waktu seminggu sebelum lokakarya 3
-
-**Tema Pendampingan:** Implementasi Pembelajaran yang Berpihak pada Murid
-
-**Fokus Pendampingan:**
-  * Refleksi hasil survei (feedback 360) + penilaian sendiri tentang kompetensi guru penggerak
-  * Diskusi rencana menerapkan pembelajaran sosial-emosional
-  * Diskusi hasil lokakarya 2 (keterlaksanaan dari tahapan BAGJA)
-
-**Penilaian:** Refleksi CGP
-{{< /admonition >}}
-
-{{< admonition note "PI.3.1. Langkah-langkah Pendampingan" false >}}
+{{< admonition note "Pendampingan Individu 3" false >}}
 1. Bagian awal pendampingan (20’)
     * Pengajar Praktik menyapa dan menanyakan kabar Calon Guru Penggerak
     * Menjelaskan tentang fokus pendampingan, PP memastikan CGP memahami aktivitas pendampingan yang akan dilakukan.
@@ -314,50 +293,7 @@ Mengunggah dokumentasi berikut sesuai dengan nama CGP.
     * Jika ada hal-hal terkait pembelajaran daring yang perlu diketahui oleh fasilitator, maka perlu dicatat dalam Jurnal Komunikasi.
 {{< /admonition >}}
 
-{{< admonition note "PI.3.2. Jurnal Pendampingan" false >}}
-Jurnal pendampingan adalah catatan pendamping terhadap CGP yang sudah diberikan pendampingan individu.
-* Buatlah jurnal sesuai dengan jumlah CGP yang di dampingi
-* Tuangkan hasil catatan Anda berdasarkan setiap kolom yang telah disediakan.
-{{< /admonition >}}
-> {{< mydiary/pembekalan-pp/jurnal-pendampingan-1-6 >}}
-
-{{< admonition note "PI.3.3. Rencana Tindak Lanjut" false >}}
-Pendamping mengembangkan Rencana Tindak Lanjut (RTL) untuk proses pendampingan selanjutnya, tuliskan apa saja yang akan di rencanakan oleh pendamping terkait proses pendampingan berikutnya, perhatikan apa saja yang telah dipelajari oleh CGP dan capaian apa saja yang mungkin telah tercapai saat pendampingan berikutnya, ada baiknya komunikasi ke fasilitator untuk menghasilkan pendampingan yang maksimal.
-{{< /admonition >}}
-
-{{< admonition note "PI.3.4. Unggah dokumentasi kegiatan PI" false >}}
-Mengunggah dokumentasi berikut sesuai dengan nama CGP.
-
-* Media yang berupa video, rekaman, foto, atau dokumen lainnya terkait aksi nyata peserta.
-* Dokumentasi lainnya terkait dengan pelaksanaan kegiatan, seperti daftar hadir, dan lain sebagainya.
-{{< /admonition >}}
-
-{{< admonition note "PI.3.5. Penilaian Refleksi CGP" false >}}
-Pada kegiatan ini, Anda sebagai pengajar praktik diminta untuk memberikan penilaian kepada CGP terkait refleksi kegiatan yang telah dilakukan melalui rubrik yang telah disediakan.
-
-> Silahkan klik tombol **Grade** di LMS untuk memberikan penilaian.
-
-*Catatan:*
-* Pastikan group yang Anda pilih sudah benar agar tidak terjadi salah menilai CGP yang didampingi oleh pengajar praktik lain.
-* Jika pada saat menilai nama CGP yang muncul tidak sesuai/tidak muncul, klik tombol *View all submission*, kemudian klik *Reset table preference*. Jika masih tidak muncul, periksa bagian *Filter* yang ada dibagian *Option*, dan pilih *No Filter*.
-{{< /admonition >}}
-
-### Pendampingan Individu 4
-{{< admonition note "Deskripsi" false >}}
-**Waktu:** Kurun waktu seminggu sebelum lokakarya 4
-
-**Tema Pendampingan:** Evaluasi dan Pengembangan Proses Pembelajaran
-
-**Fokus Pendampingan:**
-  * Observasi kelas CGP untuk melihat penerapan dari modul budaya positif, pembeljaaran berdiferensiasi dan pembelajaran sosial-emosional.
-  * Penilaian Observasi Praktik Pembelajaran
-
-**Penilaian:** Observasi pembelajaran yang berpusat pada murid
-{{< /admonition >}}
-
-{{< mydiary/pembekalan-pp/perangkat-pi-4 >}}
-
-{{< admonition note "PI.4.1. Langkah-langkah Pendampingan" false >}}
+{{< admonition note "Pendampingan Individu 4" false >}}
 1. Bagian awal pendampingan (20’)
     * Menjelaskan tentang fokus pendampingan, PP memastikan CGP memahami aktivitas pendampingan yang akan dilakukan.
     * Pengajar Praktik menanyakan apa saja proses yang sudah berjalan selama satu bulan terakhir, menanyakan rencana tindak lanjut dari pendampingan sebelumnya, serta hal-hal yang dianggap sebagai capaian selama satu bulan terakhir (berdasarkan Jurnal Pemanatauan Pembelajaran Daring)
@@ -428,52 +364,7 @@ Pada kegiatan ini, Anda sebagai pengajar praktik diminta untuk memberikan penila
         - Setiap aktivitas CGP saat melakukan pra-observasi dan observasi pembelajaran, PP tetap melakukan pemantauan dan diskusi melalui WA/HP/tatap muka virtual.
 {{< /admonition >}}
 
-{{< admonition note "PI.4.2. Jurnal Pendampingan" false >}}
-Jurnal pendampingan adalah catatan pendamping terhadap CGP yang sudah diberikan pendampingan individu.
-* Buatlah jurnal sesuai dengan jumlah CGP yang di dampingi
-* Tuangkan hasil catatan Anda berdasarkan setiap kolom yang telah disediakan.
-{{< /admonition >}}
-> {{< mydiary/pembekalan-pp/jurnal-pendampingan-1-6 >}}
-
-{{< admonition note "PI.4.3. Rencana Tindak Lanjut" false >}}
-Pendamping mengembangkan Rencana Tindak Lanjut (RTL) untuk proses pendampingan selanjutnya, tuliskan apa saja yang akan di rencanakan oleh pendamping terkait proses pendampingan berikutnya, perhatikan apa saja yang telah dipelajari oleh CGP dan capaian apa saja yang mungkin telah tercapai saat pendampingan berikutnya, ada baiknya komunikasi ke fasilitator untuk menghasilkan pendampingan yang maksimal.
-{{< /admonition >}}
-
-{{< admonition note "PI.4.4. Unggah dokumentasi kegiatan PI" false >}}
-Mengunggah dokumentasi berikut sesuai dengan nama CGP.
-
-* Media yang berupa video, rekaman, foto, atau dokumen lainnya terkait aksi nyata peserta.
-* Dokumentasi lainnya terkait dengan pelaksanaan kegiatan, seperti daftar hadir, dan lain sebagainya.
-{{< /admonition >}}
-
-{{< admonition note "PI.4.5. Penilaian Observasi Pembelajaran yang Berpusat pada Murid" false >}}
-Pada kegiatan ini, Anda sebagai pengajar praktik diminta untuk memberikan penilaian Observasi Pembelajaran yang Berpusat pada Murid yang dilakukan oleh CGP melalui instrumen yang telah disediakan. Selanjutnya,
-
-* [x] **masukkan nilai akhir** yang diperoleh ke kolom nilai yang telah disediakan
-* [x] **unggah** foto/file instrumen yang telah diisi ke kolom Feedback file.
-
-> Silahkan klik tombol **Grade** di LMS untuk memberikan penilaian.
-
-*Catatan:*
-* Pastikan group yang Anda pilih sudah benar agar tidak terjadi salah menilai CGP yang didampingi oleh pengajar praktik lain.
-* Jika pada saat menilai nama CGP yang muncul tidak sesuai/tidak muncul, klik tombol *View all submission*, kemudian klik *Reset table preference*. Jika masih tidak muncul, periksa bagian *Filter* yang ada dibagian *Option*, dan pilih *No Filter*.
-{{< /admonition >}}
-
-### Pendampingan Individu 5
-{{< admonition note "Deskripsi" false >}}
-**Waktu:** Kurun waktu seminggu sebelum lokakarya 5
-
-**Tema Pendampingan:** Rancangan Program yang Berpihak pada Murid
-
-**Fokus Pendampingan:**
-  * Refleksi penerapan aksi nyata modul 3.1
-  * Diskusi rancangan program yang berdampak pada murid
-  * Diskusi perkembangan komunitas praktisi yang dijalankan di sekolah serta implementasi dari rencana di lokakarya 3 untuk berbagi ke rekan sejawat
-
-**Penilaian:** Keterampilan coaching untuk supervisi akademik
-{{< /admonition >}}
-
-{{< admonition note "PI.5.1. Langkah-langkah Pendampingan" false >}}
+{{< admonition note "Pendampingan Individu 5" false >}}
 1. Bagian awal pendampingan (10’)
     * Menjelaskan tentang fokus pendampingan, PP memastikan CGP memahami aktivitas pendampingan yang akan dilakukan.
     * Pengajar Praktik menanyakan apa saja proses yang sudah berjalan selama satu bulan terakhir, menanyakan rencana tindak lanjut dari pendampingan sebelumnya, serta hal-hal yang dianggap sebagai capaian selama satu bulan terakhir (berdasarkan Jurnal Pemanatauan Pembelajaran Daring)
@@ -551,25 +442,47 @@ Pada kegiatan ini, Anda sebagai pengajar praktik diminta untuk memberikan penila
     * [x] Jika ada hal-hal terkait pembelajaran daring yang perlu diketahui oleh fasilitator, maka perlu dicatat dalam Jurnal Komunikasi di LMS.
 {{< /admonition >}}
 
-{{< admonition note "PI.5.2. Jurnal Pendampingan" false >}}
+{{< admonition note "Pendampingan Individu 6" false >}}
+
+{{< /admonition >}}
+
+### Jurnal Pendampingan
 Jurnal pendampingan adalah catatan pendamping terhadap CGP yang sudah diberikan pendampingan individu.
 * Buatlah jurnal sesuai dengan jumlah CGP yang di dampingi
 * Tuangkan hasil catatan Anda berdasarkan setiap kolom yang telah disediakan.
-{{< /admonition >}}
 > {{< mydiary/pembekalan-pp/jurnal-pendampingan-1-6 >}}
 
-{{< admonition note "PI.5.3. Rencana Tindak Lanjut" false >}}
+### Rencana Tindak Lanjut
 Pendamping mengembangkan Rencana Tindak Lanjut (RTL) untuk proses pendampingan selanjutnya, tuliskan apa saja yang akan di rencanakan oleh pendamping terkait proses pendampingan berikutnya, perhatikan apa saja yang telah dipelajari oleh CGP dan capaian apa saja yang mungkin telah tercapai saat pendampingan berikutnya, ada baiknya komunikasi ke fasilitator untuk menghasilkan pendampingan yang maksimal.
-{{< /admonition >}}
 
-{{< admonition note "PI.5.4. Unggah dokumentasi kegiatan PI" false >}}
+### Unggah Dokumentasi Kegiatan Pendampingan Individu
 Mengunggah dokumentasi berikut sesuai dengan nama CGP.
 
 * Media yang berupa video, rekaman, foto, atau dokumen lainnya terkait aksi nyata peserta.
 * Dokumentasi lainnya terkait dengan pelaksanaan kegiatan, seperti daftar hadir, dan lain sebagainya.
-{{< /admonition >}}
 
-{{< admonition note "PI.5.5. Penilaian Keterampilan Coaching untuk Supervisi Akademik" false >}}
+### Penilaian Refleksi CGP (Pendampingan Individu 3)
+Pada kegiatan ini, Anda sebagai pengajar praktik diminta untuk memberikan penilaian kepada CGP terkait refleksi kegiatan yang telah dilakukan melalui rubrik yang telah disediakan.
+
+> Silahkan klik tombol **Grade** di LMS untuk memberikan penilaian.
+
+*Catatan:*
+* Pastikan group yang Anda pilih sudah benar agar tidak terjadi salah menilai CGP yang didampingi oleh pengajar praktik lain.
+* Jika pada saat menilai nama CGP yang muncul tidak sesuai/tidak muncul, klik tombol *View all submission*, kemudian klik *Reset table preference*. Jika masih tidak muncul, periksa bagian *Filter* yang ada dibagian *Option*, dan pilih *No Filter*.
+
+### Penilaian Observasi Pembelajaran yang Berpusat pada Murid (Pendampingan Individu 4)
+Pada kegiatan ini, Anda sebagai pengajar praktik diminta untuk memberikan penilaian Observasi Pembelajaran yang Berpusat pada Murid yang dilakukan oleh CGP melalui instrumen yang telah disediakan. Selanjutnya,
+
+* [x] **masukkan nilai akhir** yang diperoleh ke kolom nilai yang telah disediakan
+* [x] **unggah** foto/file instrumen yang telah diisi ke kolom Feedback file.
+
+> Silahkan klik tombol **Grade** di LMS untuk memberikan penilaian.
+
+*Catatan:*
+* Pastikan group yang Anda pilih sudah benar agar tidak terjadi salah menilai CGP yang didampingi oleh pengajar praktik lain.
+* Jika pada saat menilai nama CGP yang muncul tidak sesuai/tidak muncul, klik tombol *View all submission*, kemudian klik *Reset table preference*. Jika masih tidak muncul, periksa bagian *Filter* yang ada dibagian *Option*, dan pilih *No Filter*.
+
+### Penilaian Keterampilan Coaching untuk Supervisi Akademik (Pendampingan Individu 5)
 Pada kegiatan ini, Anda sebagai pengajar praktik diminta untuk memberikan penilaian Keterampilan Coaching untuk Supervisi Akademik kepada CGP melalui rubrik yang telah disediakan.
 
 * [x] **masukkan nilai akhir** yang diperoleh ke kolom nilai yang telah disediakan
@@ -580,9 +493,7 @@ Pada kegiatan ini, Anda sebagai pengajar praktik diminta untuk memberikan penila
 *Catatan:*
 * Pastikan group yang Anda pilih sudah benar agar tidak terjadi salah menilai CGP yang didampingi oleh pengajar praktik lain.
 * Jika pada saat menilai nama CGP yang muncul tidak sesuai/tidak muncul, klik tombol *View all submission*, kemudian klik *Reset table preference*. Jika masih tidak muncul, periksa bagian *Filter* yang ada dibagian *Option*, dan pilih *No Filter*.
-{{< /admonition >}}
 
-### Pendampingan Individu 6
 
 ## Lokakarya
 ### Lokakarya Orientasi
@@ -645,6 +556,7 @@ Komponen penilaian pada rubrik adalah:
 
 > **LK.0.a.5. Evaluasi Proses Lokakarya Perdana**
 {{< mydiary/pi-loka/eval-loka-perdana >}}
+
 
 ### Lokakarya 1
 ### Lokakarya 2

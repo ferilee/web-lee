@@ -34,10 +34,10 @@ body, html {
 /* Position text in the middle of the page/image */
 .bg-text {
   background-color: rgb(0,0,0); /* Fallback color */
-  background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+  background-color: rgba(0,0,0, 0.5); /* Black w/opacity/see-through */
   color: white;
   font-weight: bold;
-  border: 3px solid #f1f1f1;
+  border: 1px solid #f1f1f1;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -46,6 +46,43 @@ body, html {
   width: 80%;
   padding: 20px;
   text-align: center;
+}
+
+/* Ripple Animation button */
+.button-ripple {
+  position: relative;
+  background-color: #04AA6D;
+  border: none;
+  font-size: 15px;
+  color: #FFFFFF;
+  padding: 10px;
+  width: 200px;
+  text-align: center;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  text-decoration: none;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.button-ripple:after {
+  content: "";
+  background: #90EE90;
+  display: block;
+  position: absolute;
+  padding-top: 300%;
+  padding-left: 350%;
+  margin-left: -20px!important;
+  margin-top: -120%;
+  opacity: 0;
+  transition: all 0.8s
+}
+
+.button-ripple:active:after {
+  padding: 0;
+  margin: 0;
+  opacity: 1;
+  transition: 0s
 }
 
 /* Animated button */
@@ -57,7 +94,7 @@ body, html {
   text-align: center;
   font-size: 15px;
   padding: 10px;
-  width: 200px;
+  width: 150px;
   transition: all 0.5s;
   cursor: pointer;
   margin: 5px;
@@ -92,10 +129,10 @@ body, html {
 .fa {
   padding: 5px;
   font-size: 20px;
-  width: 30px;
+  width: 20px;
   text-align: center;
   text-decoration: none;
-  margin: 2px 2px;
+  margin: 1px 1px;
 }
 
 .fa:hover {
@@ -103,28 +140,99 @@ body, html {
 }
 
 .fa-telegram {
-  background: #2c4762;
-  color: white;
+  background: WhiteSmoke;
+  color: RoyalBlue;
 }
 
 .fa-facebook {
-  background: #2c4762;
-  color: white;
+  background: WhiteSmoke;
+  color: RoyalBlue;
 }
 
 .fa-twitter {
-  background: #2c4762;
-  color: white;
+  background: WhiteSmoke;
+  color: RoyalBlue;
 }
 
 .fa-youtube {
-  background: #2c4762;
-  color: white;
+  background: WhiteSmoke;
+  color: RoyalBlue;
 }
 
 .fa-envelope {
-  background: #2c4762;
+  background: WhiteSmoke;
+  color: RoyalBlue;
+}
+
+/* --- Modal --- */
+/* The Modal (background) */
+.modal-bg {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 2; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+  position: relative;
+  background-color: #fefefe;
+  margin: auto;
+  padding: 0;
+  border: 1px solid #888;
+  width: 80%;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+  -webkit-animation-name: animatetop;
+  -webkit-animation-duration: 0.4s;
+  animation-name: animatetop;
+  animation-duration: 0.4s
+}
+
+/* Add Animation */
+@-webkit-keyframes animatetop {
+  from {top:-300px; opacity:0}
+  to {top:0; opacity:1}
+}
+
+@keyframes animatetop {
+  from {top:-300px; opacity:0}
+  to {top:0; opacity:1}
+}
+
+/* The Close Button */
+.close-btn {
   color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close-btn:hover,
+.close-btn:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.modal-header {
+  padding: 1px 16px;
+  background-color: RoyalBlue;
+  color: white;
+}
+
+.modal-body {padding: 2px 16px;}
+
+.modal-footer {
+  padding: 2px 16px;
+  background-color: WhiteSmoke;
+  color: black;
 }
 </style>
 </head>
@@ -132,17 +240,65 @@ body, html {
 <div class="bg-image"></div>
 
 <div class="bg-text">
-  <h2>Personal Website and Blog</h2>
-  <h1 style="font-size:50px">I'am Ferilee</h1>
-  <p>Founder Indonesia Digital Teacher</p>
-  <a href="https://t.me/ferilee" class="fa fa-telegram"></a>
-  <a href="https://web.facebook.com/the.Real.Ferilee/" class="fa fa-facebook"></a>
-  <a href="https://twitter.com/ferilee" class="fa fa-twitter"></a>
-  <a href="https://www.youtube.com/c/FeriLee" class="fa fa-youtube"></a>
-  <a href="mailto:ferihermawan42@guru.smk.belajar.id" class="fa fa-envelope"></a>
-<br>
-  <a href="https://web-lee.netlify.app/categories/"><button class="button"><span>Masuk</span></button></a>
+  <h2>Welcome to</h2>
+  <h1 style="font-size:50px">Ferilee's Personal Blog</h1>
+  <button class="button" id="myBtn"><span>What's New</span></button>
 </div>
 
+<!-- The Modal -->
+<div id="myModal" class="modal-bg">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <div class="modal-header">
+      <span class="close-btn">&times;</span>
+      <h2>Informasi</h2>
+    </div>
+    <div class="modal-body">
+      <p><i>Hai, salam kenal dariku.</i></p>
+      <p style="text-align: justify;">Terima kasih telah mengunjungi blogku yang sederhana ini. Blog ini aku buat sebagai media perkenalan dariku, sekaligus menjadi tempat menyalurkan hobi menulisku.</p>
+      <p style="text-align: justify;">Blog ini berisi tentang aktivitas-aktivitas yang aku lakukan setiap hari yang berhubungan dengan dunia pendidikan dan teknologi. Semoga bisa menjadi inspirasi dan bermanfaat ya bestiee, heheheee ...</p>
+
+      <a href="https://web-lee.netlify.app/categories/"><button class="button-ripple"><span>Lihat Blog</span></button></a>
+    </div>
+
+    <div class="modal-footer">
+      <p><b>Ikuti</b> juga ceritaku di media sosial ini yaaa
+      <a href="https://t.me/ferilee" class="fa fa-telegram"></a>
+      <a href="https://web.facebook.com/the.Real.Ferilee/" class="fa fa-facebook"></a>
+      <a href="https://twitter.com/ferilee" class="fa fa-twitter"></a>
+      <a href="https://www.youtube.com/c/FeriLee" class="fa fa-youtube"></a>
+      <a href="mailto:ferihermawan42@guru.smk.belajar.id" class="fa fa-envelope"></a></p>
+    </div>
+  </div>
+
+</div>
+<script>
+// Get the modal
+var modal = document.getElementById("myModal");
+
+// Get the button that opens the modal
+var btn = document.getElementById("myBtn");
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close-btn")[0];
+
+// When the user clicks the button, open the modal
+btn.onclick = function() {
+  modal.style.display = "block";
+}
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+  modal.style.display = "none";
+}
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "block";
+  }
+}
+</script>
 </body>
 </html>

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.accordion9 {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+.active, .accordion9:hover {
+  background-color: #ccc;
+}
+
+.accordion9:after {
+  content: '\002B';
+  color: #777;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212";
+}
+
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+</style>
+</head>
+<body>
+
+<button class="accordion9">Perjalanan PGP Angkatan 5</button>
+<div class="panel">
+<iframe src="https://drive.google.com/file/d/1FLtpIfupXB9yltJwDqClAcjKmNMZq8eT/preview" width="100%" height="500" allow="autoplay"></iframe>
+</div>
+
+<button class="accordion9">Pembelajaran Orang Dewasa</button>
+<div class="panel">
+<iframe src="https://drive.google.com/file/d/1WROCfrcWd-xNz_Nsk8Ttl6mSoQ3D0XdH/preview" width="100%" height="500" allow="autoplay"></iframe>
+</div>
+
+<button class="accordion9">Dialog yang Memberdayakan</button>
+<div class="panel">
+<iframe src="https://drive.google.com/file/d/1QDVBen2OBkBDqf3o7koKs6kekRMS-ppS/preview" width="100%" height="500" allow="autoplay"></iframe>
+</div>
+
+<button class="accordion9">Apa itu Fasilitasi?</button>
+<div class="panel">
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/0urw5ui6qYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<button class="accordion9">Prinsip dan Kompetensi Dasar</button>
+<div class="panel">
+<iframe src="https://drive.google.com/file/d/1DN-FoThOAgc722_V1NIxeJuFySyg2tgh/preview" width="100%" height="500" allow="autoplay"></iframe>
+</div>
+
+<button class="accordion9">Perbedaan Fasilitasi, Coaching, Training, Mentoring, Moderasi dan Konsultasi</button>
+<div class="panel">
+<iframe src="https://drive.google.com/file/d/1TxtumbUx2wAlRbEDWVbe3CHSvf1hIrhg/preview" width="100%" height="500" allow="autoplay"></iframe>
+</div>
+
+<button class="accordion9">Forum Diskusi</button>
+<div class="panel">
+<p>Calon Pengajar Praktik mencari dan membagikan sumber-sumber belajar lain (berupa tautan video, artikel, dll) pada forum diskusi LMS</p>
+
+  Carilah sumber belajar lain berupa video, artikel dan lain sebagainya yang berkaitan dengan teknik fasilitasi, kemudian
+  Bagikan tautan sumber belajar tersebut pada forum diskusi
+  Tuliskan alasan mengapa materi dalam tautan tersebut berguna dan terkait dengan fasilitasi.
+  Silahkan beri pertanyaan atau pendapat dari sumber belajar yang dibagikan Calon Pengajar Praktik lain pada kolom komentar
+  Calon Pengajar Praktik membuat catatan pribadi tentang materi yang dipelajari di Eksplorasi Konsep untuk didiskusikan dengan Calon Pengajar Praktik lain di Ruang Kolaborasi.
+</div>
+
+<script>
+var acc = document.getElementsByClassName("accordion9");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    }
+  });
+}
+</script>
+
+</body>
+</html>

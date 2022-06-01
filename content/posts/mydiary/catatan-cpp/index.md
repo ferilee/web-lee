@@ -395,8 +395,21 @@ Setelah Anda menyampaikan pemahaman Anda tentang Pendidikan yang Memerdekakan, s
 
 
 ## Hari ke-7
+### Koneksi Antar Materi - Pendidikan yang Memerdekakan
+{{< style "text-align:justify; strong{color:#00b1ff;}" >}}
+Setelah Anda mempelajari praktik Pendidikan yang Memerdekakan, Anda diminta untuk menyampaikan isu terkait pemahaman dan penerapan prinsip Pendidikan yang Memerdekakan yang terjadi di sekolah tempat Anda bekerja dengan menjawab pertanyaan berikut:
+* Ceritakan hal hal yang sudah selaras dengan praktik prinsip pendidikan yang memerdekakan.
+* Hal-hal yang tidak selaras terkait praktik prinsip pendidikan yang memerdekakan yang dirasa perlu diubah atau dikembangkan bahkan dihilangkan.
+{{< /style >}}
+
+### Aksi Nyata
+### Refleksi
+
 ## Hari ke-8
 ## Hari ke-9
+### Eksplorasi Konsep - Teknik Fasilitasi dalam Pendampingan
+{{< mydiary/pembekalan-pp/accordion9 >}}
+
 ## Hari ke-10
 ## Hari ke-11
 ## Hari ke-12

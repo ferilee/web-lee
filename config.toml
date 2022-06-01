@@ -1,9 +1,9 @@
-baseURL = "http://example.org/"
+baseURL = "https://web-lee.netlify.app//"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "id"
 # language code
 languageCode = "en"
-title = "Blog Ferilee"
+title = "Beranda"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "FeelIt"

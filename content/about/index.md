@@ -17,14 +17,9 @@ math:
 
 {{< style "img { height: 1.25rem; }" >}}
 [![Hugo](https://img.shields.io/badge/Hugo-%5E0.87.0-ff4088?style=flat-square&logo=hugo)](https://gohugo.io/)
-[![Ferilee](https://img.shields.io/badge/hubungi%20ferilee-via%20telegram-blueviolet)](https://t.me/ferilee)
+[![CV Ferilee Lengkap](https://img.shields.io/badge/Unduh-CV_Ferilee_(Lengkap)-success?style=flat-square)](ferilee_CV.pdf)
 {{< /style >}}
 [Website Resmi IDT](https://web-idt.netlify.app/)
 [Blog IDT](https://website-idt.netlify.app/)
 
 ![Ferilee](/images/coverferilee.gif)
-
-### Profil
-{{< revolvermaps >}}
-
-### Kompetensi

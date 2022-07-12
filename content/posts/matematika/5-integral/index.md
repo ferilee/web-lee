@@ -49,5 +49,3 @@ Tentukan hasil dari integral berikut:
 
 Selamat mengerjakan!
 $ \begin{aligned}  L &= \int\limits_{0}^2 (-x^2+2x) dx $
-
-{{< quizizz/integral>}}

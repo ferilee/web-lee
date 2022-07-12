@@ -137,8 +137,8 @@ theme = "FeelIt"
     identifier = "ujian"
     pre = ""
     post = ""
-    name = "Ruang Ujian"
-    url = "/ujian/"
+    name = "Quizizz"
+    url = "/quizizz/"
     title = ""
     weight = 6
 

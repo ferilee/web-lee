@@ -8,4 +8,4 @@ lightgallery: true
 math:
   enable: true
 ---
-{{< quizizz/tot >}}
+{{< quizizz/lkpd1-xii >}}

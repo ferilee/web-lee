@@ -3,6 +3,7 @@ title: "5 Barisan dan Deret"
 date: 2022-02-15T19:33:55+07:00
 author: "Ferilee"
 authorLink: "https://t.me/ferilee"
+draft: true
 
 description: ""
 resources:

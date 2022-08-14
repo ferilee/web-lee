@@ -2,6 +2,8 @@
 title: "4 Persamaan dan Fungsi Kuadrat"
 date: 2022-03-16T19:33:55+07:00
 author: "Ferilee"
+draft: true
+
 authorLink: "https://t.me/ferilee"
 description: ""
 resources:
@@ -22,7 +24,7 @@ Persamaan Kuadrat dalam $x$ adalah suatu persamaan berbentuk $ax^2+bx+c=0$, deng
 {{< /admonition >}}
 
 ### Akar-akar Persamaan Kuadrat
-Ada tiga cara (aturan) yang bisa dilakukan untuk menentukan akar-akar persamaan kuadrat, yaitu: 
+Ada tiga cara (aturan) yang bisa dilakukan untuk menentukan akar-akar persamaan kuadrat, yaitu:
 * memfaktorkan
 * melengkapkan kuadrat sempurna
 * rumus ABC

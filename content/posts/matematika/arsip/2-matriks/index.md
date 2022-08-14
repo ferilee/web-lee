@@ -1,10 +1,9 @@
 ---
-title: "2 Peluang"
+title: "2 Matriks"
 date: 2021-08-22T19:33:55+07:00
 author: "Ferilee"
 authorLink: "https://t.me/ferilee"
-draft: false
-
+draft: true
 description: ""
 resources:
 - name: "featured-image"
@@ -12,7 +11,7 @@ resources:
 - name: "featured-image-preview"
   src: "featured-image-preview.webp"
 
-tags: ["Peluang"]
+tags: ["Matriks"]
 categories: ["Matematika"]
 
 lightgallery: true

@@ -2,7 +2,7 @@
 title: "2 Persamaan dan Pertidaksamaan Nilai Mutlak"
 date: 2021-08-22T19:33:55+07:00
 author: "Ferilee"
-draft: false
+draft: true
 authorLink: "https://t.me/ferilee"
 description: ""
 resources:

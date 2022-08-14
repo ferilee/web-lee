@@ -6,7 +6,7 @@ authorLink: "https://t.me/ferilee"
 description: ""
 resources:
 - name: "featured-image"
-  src: "featured-image.webp"
+  src: "featured-image.gif"
 - name: "featured-image-preview"
   src: "featured-image-preview.webp"
 

@@ -7,7 +7,8 @@ title = "Beranda"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "FeelIt"
-
+[permalinks]
+  posts = ":slug"
 [params]
   # FeelIt theme version
   version = "1.0.X"

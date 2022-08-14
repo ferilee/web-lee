@@ -16,5 +16,88 @@ categories: ["Matematika"]
 lightgallery: true
 math: true
 toc:
-  auto: false
+  auto: true
 ---
+## Eksponen dan Logaritma
+### Pengalaman Belajar
+Setelah mempelajari bab ini, kalian diharapkan dapat:
+1. Mengidentifikasi sifat-sifat eksponen.
+1. Mengidentifikasi bentuk akar.
+1. Mengidentifikasi fungsi eksponen.
+1. Menyelesaikan permasalahan sehari-hari yang berkaitan dengan fungsi eksponen.
+1. Mengidentifikasi sifat-sifat logaritma.
+1. Menyelesaikan permasalahan sehari-hari yang berkaitan dengan logaritma.
+
+{{< matematika/ekspolog >}}
+
+## Barisan dan Deret
+### Pengalaman Belajar
+Setelah mempelajari bab ini, kalian diharapkan dapat:
+1. Mengidentifikasi sifat-sifat eksponen.
+1. Mengidentifikasi bentuk akar.
+1. Mengidentifikasi fungsi eksponen.
+1. Menyelesaikan permasalahan sehari-hari yang berkaitan dengan fungsi eksponen.
+1. Mengidentifikasi sifat-sifat logaritma.
+1. Menyelesaikan permasalahan sehari-hari yang berkaitan dengan logaritma.
+
+{{< matematika/barisanderet >}}
+
+## Vektor
+### Pengalaman Belajar
+Setelah mempelajari bab ini, kalian diharapkan dapat:
+1. Mengidentifikasi sifat-sifat eksponen.
+1. Mengidentifikasi bentuk akar.
+1. Mengidentifikasi fungsi eksponen.
+1. Menyelesaikan permasalahan sehari-hari yang berkaitan dengan fungsi eksponen.
+1. Mengidentifikasi sifat-sifat logaritma.
+1. Menyelesaikan permasalahan sehari-hari yang berkaitan dengan logaritma.
+
+## Perbandingan Trigonometri
+### Pengalaman Belajar
+Setelah mempelajari bab ini, kalian diharapkan dapat:
+1. Mengidentifikasi sifat-sifat eksponen.
+1. Mengidentifikasi bentuk akar.
+1. Mengidentifikasi fungsi eksponen.
+1. Menyelesaikan permasalahan sehari-hari yang berkaitan dengan fungsi eksponen.
+1. Mengidentifikasi sifat-sifat logaritma.
+1. Menyelesaikan permasalahan sehari-hari yang berkaitan dengan logaritma.
+
+## Sistem Persamaan dan Pertidaksamaan Linear
+### Pengalaman Belajar
+Setelah mempelajari bab ini, kalian diharapkan dapat:
+1. Mengidentifikasi sifat-sifat eksponen.
+1. Mengidentifikasi bentuk akar.
+1. Mengidentifikasi fungsi eksponen.
+1. Menyelesaikan permasalahan sehari-hari yang berkaitan dengan fungsi eksponen.
+1. Mengidentifikasi sifat-sifat logaritma.
+1. Menyelesaikan permasalahan sehari-hari yang berkaitan dengan logaritma.
+
+## Fungsi Kuadrat
+### Pengalaman Belajar
+Setelah mempelajari bab ini, kalian diharapkan dapat:
+1. Mengidentifikasi sifat-sifat eksponen.
+1. Mengidentifikasi bentuk akar.
+1. Mengidentifikasi fungsi eksponen.
+1. Menyelesaikan permasalahan sehari-hari yang berkaitan dengan fungsi eksponen.
+1. Mengidentifikasi sifat-sifat logaritma.
+1. Menyelesaikan permasalahan sehari-hari yang berkaitan dengan logaritma.
+
+## Statistika
+### Pengalaman Belajar
+Setelah mempelajari bab ini, kalian diharapkan dapat:
+1. Mengidentifikasi sifat-sifat eksponen.
+1. Mengidentifikasi bentuk akar.
+1. Mengidentifikasi fungsi eksponen.
+1. Menyelesaikan permasalahan sehari-hari yang berkaitan dengan fungsi eksponen.
+1. Mengidentifikasi sifat-sifat logaritma.
+1. Menyelesaikan permasalahan sehari-hari yang berkaitan dengan logaritma.
+
+## Peluang
+### Pengalaman Belajar
+Setelah mempelajari bab ini, kalian diharapkan dapat:
+1. Mengidentifikasi sifat-sifat eksponen.
+1. Mengidentifikasi bentuk akar.
+1. Mengidentifikasi fungsi eksponen.
+1. Menyelesaikan permasalahan sehari-hari yang berkaitan dengan fungsi eksponen.
+1. Mengidentifikasi sifat-sifat logaritma.
+1. Menyelesaikan permasalahan sehari-hari yang berkaitan dengan logaritma.

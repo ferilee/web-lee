@@ -22,6 +22,7 @@
         {{- if and (not $analytics.Disable) (.Site.GoogleAnalytics) -}}
             {{- template "_internal/google_analytics.html" . -}}
         {{- end -}}
+        {{ template \"_internal/opengraph.html\" . }}
     </head>
     {{- if ne $offline true -}}
     <body data-header-desktop="{{ .Site.Params.header.desktopMode }}" data-header-mobile="{{ .Site.Params.header.mobileMode }}">

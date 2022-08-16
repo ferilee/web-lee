@@ -19,50 +19,15 @@ lightgallery: true
 {{< style "text-align:justify; strong{color:#00b1ff;}" >}}{{< /style >}}
 
 # PAKET MODUL 1
+## Etika Akademik Pemimpin Pembelajaran
+Bapak/ibu Guru Hebat, berikut adalah video panduan mengutip karya atau sumber media lain. Melalui panduan ini diharapkan Bapak/Ibu dapat membiasakan menghargai karya dan hak atas kekayaan intelektual orang lain.
+
+Silahkan menyimak dan mengimplementasikannya selama mengikuti Program Pendidikan Guru Penggerak.
+{{< pgp/etikaakademik >}}
 
 ## Modul 1.1
 ### Refleksi Filosofis Pendidikan Nasional - Ki Hadjar Dewantara
-#### Pendahuluan
-{{< pgp/pengantar1-1 >}}
-{{< admonition note "Surat dari Instruktur" false >}}
-Selamat datang Bapak/Ibu Calon Guru Penggerak (CGP)
-
-Selamat! Bapak/Ibu Calon Guru Penggerak (CGP) telah bersedia menyediakan waktu untuk menjadi bagian dari Program Pendidikan Guru Penggerak (PPGP). Program pendidikan ini merupakan wujud komitmen Kementerian Pendidikan dan Kebudayaan (Kemendikbud) berkolaborasi dengan berbagai pihak pemangku kepentingan untuk mewujudkan pendidikan yang berkualitas bagi murid-murid Indonesia. Melalui individu-individu yang proaktif dan memiliki kepedulian terhadap kemajuan dan mutu pendidikan di Indonesia, maka dibentuklah program pendidikan guru penggerak.
-
-Selama beberapa bulan ke depan Anda akan diajak untuk mempertajam keterampilan kepemimpinan Anda, menggali lebih dalam tentang jati diri Anda, mengasah berbagai keterampilan manajemen sekolah serta memperkaya dan menunjang sumber daya manusia yang berkualitas dan mumpuni. Semua kegiatan ini akan dilakukan melalui pelatihan daring (dalam jaringan) maupun tatap muka dengan pemodelan pelatihan yang sudah terbukti efektif dalam meningkatkan kualitas proses dan hasil belajar peserta didik/pelatihan.
-
-Refleksi Filosofi Pendidikan Nasional Ki Hadjar Dewantara menjadi titik awal Anda menjadi agen perubahan dan pemimpin pembelajaran dalam transformasi pendidikan di sekolah. Pada Modul 1.1. ini, kita akan membahas lebih mendalam, dan mendemonstrasikan konsep pemikiran-pemikiran filosofis Ki Hadjar Dewantara dan relevansinya dengan penerapan pendidikan abad ke-21 pada konteks lokal (nilai-nilai luhur sosial-budaya) di tempat asal; serta bersikap reflektif  kritis terhadap pemikiran filosofis Ki Hadjar Dewantara dan relevansinya terhadap konteks pendidikan di daerah asal Anda.
-
-Pada akhirnya kami harapkan Anda akan menikmati proses perjalanan pembelajaran, menjadi seorang pemimpin pembelajar yang berkualitas dan mandiri. Semoga waktu dan energi yang telah Anda investasikan akan dipergunakan sebaik-baiknya dan tentunya  bermanfaat untuk diri sendiri dan orang banyak.
-
-Teruslah bertanya, teruslah menggali dan teruslah belajar!
-
-
-Salam,
-
-Pengembang Modul 1.1
-{{< /admonition >}}
-
-> **Kompetensi Lulusan yang Dituju**
-
-Modul ini diharapkan berkontribusi untuk mencapai kompetensi lulusan sebagai berikut:
-1. Guru Penggerak memahami peran dan alasan menjadi pemimpin pembelajaran.
-1. Guru Penggerak, melalui refleksi diri yang terdokumentasi, mampu secara reguler mengidentifikasi kebutuhan peningkatan kompetensi dan kematangan diri demi mendukung pembelajaran murid.
-
-> **Capaian Umum**
-
-Secara umum, capaian modul ini adalah:
-
-1. CGP mampu memahami pemikiran filosofis pendidikan Ki Hadjar Dewantara dan melakukan refleksi-kritis atas korelasi pemikiran-pemikiran tersebut dengan konteks pendidikan lokal dan nasional pada saat ini.
-1. CGP mampu mengambil pembelajaran dari pemikiran filosofis Ki Hadjar Dewantara untuk diterapkan sebagai pemimpin pembelajaran yang mengupayakan terwujudnya sekolah sebagai pusat pengembangan karakter.
-
-> **Capaian Khusus**
-
-Secara khusus, modul ini diharapkan dapat membantu Calon Guru Penggerak untuk mampu memiliki:
-
-1. Pengetahuan tentang dasar-dasar Pendidikan Ki Hadjar Dewantara (KHD),
-1. Keterampilan mengelola pembelajaran yang berpihak pada murid pada konteks lokal kelas dan sekolah,
-1. Sikap reflektif-kritis dalam menerapkan pembelajaran yang merefleksikan dasar-dasar Pendidikan KHD dalam menuntun murid mencapai kekuatan kodratnya.
+{{< pgp/pendahuluan1-1 >}}
 
 ### Alur Belajar MERDEKA - Modul 1.1
 #### Mulai dari Diri

@@ -23,18 +23,14 @@ lightgallery: true
 Bapak/ibu Guru Hebat, berikut adalah video panduan mengutip karya atau sumber media lain. Melalui panduan ini diharapkan Bapak/Ibu dapat membiasakan menghargai karya dan hak atas kekayaan intelektual orang lain.
 
 Silahkan menyimak dan mengimplementasikannya selama mengikuti Program Pendidikan Guru Penggerak.
-{{< pgp/etikaakademik >}}
+{{< pgp/modul1-1/etikaakademik >}}
 
 ## Modul 1.1
 ### Refleksi Filosofis Pendidikan Nasional - Ki Hadjar Dewantara
-{{< pgp/pendahuluan1-1 >}}
+{{< pgp/modul1-1/pendahuluan1-1 >}}
 
 ### Alur Belajar MERDEKA - Modul 1.1
-#### Mulai dari Diri
-**Kegiatan pembelajaran pemantik:**
-
-1. CGP memberikan jawaban reflektif-kritis untuk mengetahui pemahaman diri tentang pemikiran (filosofi pendidikan) Ki Hadjar Dewantara,
-1. CGP membuat refleksi diri tentang pemikiran (filosofi pendidikan) Ki Hadjar Dewantara.
+{{< pgp/modul1-1/alurmerdeka1-1 >}}
 
 > Jawaban CGP
 {{< admonition example "Helda Winjaya" false >}}
@@ -125,6 +121,7 @@ Harapan saya, murid – murid lebih tertarik dan termotivasi dalam mengikuti pem
 3. Apa saja kegiatan, materi, manfaat yang Anda harapkan ada dalam modul ini?
 Harapan saya modul ini dapat memberikan lebih banyak contoh penerapan pemikiran – pemikiran Ki Hajar Dewantara Dalam Pendidikan dan pengajaran sehingga materi lebih mudah dipahami dan diserap
 {{< /admonition >}}
+
 #### Eksplorasi Konsep
 **Mandiri**
 1. CGP menyimak video tentang pendidikan di Indonesia dari zaman kolonial dan menjawab pertanyaan-pertanyaan panduan;
@@ -135,7 +132,7 @@ Harapan saya modul ini dapat memberikan lebih banyak contoh penerapan pemikiran 
 1. CGP mendiskusikan pertanyaan reflektif terkait pemikiran (filosofi pendidikan) Ki Hadjar Dewantara dan relevansinya dengan pendidikan Indonesia saat ini dan pendidikan pada konteks lokal sosial budaya di daerah asal CGP yang difasilitasi oleh Fasilitator
 1. CGP berbagi pengalaman praktik baik penerapan pemikiran filosofis Pendidikan KHD pada konteks lokal sosial budaya di daerahnya.
 
-{{< pgp/ekskonsep_1-1>}}
+{{< pgp/modul1-1/ekskonsep_1-1>}}
 ## Modul 1.2
 ### Modul 2.1
 ### Modul 2.2

@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial;}
+
+/* Style the tab */
+.tabmerdeka {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #ace7ff;
+}
+
+/* Style the buttons inside the tab */
+.tabmerdeka button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tabmerdeka button:hover {
+  background-color: #f44336;
+}
+
+/* Create an active/current tablink class */
+.tabmerdeka button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabmerdekacontent {
+  display: none;
+  padding: 6px 12px;
+  -webkit-animation: fadeEffect 1s;
+  animation: fadeEffect 1s;
+}
+
+/* Fade in tabs */
+@-webkit-keyframes fadeEffect {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+
+@keyframes fadeEffect {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+
+/* Accordion */
+
+.accordion_M1-1 {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+.active, .accordion_M1-1:hover {
+  background-color: #ccc;
+}
+
+.accordion_M1-1:after {
+  content: '\002B';
+  color: #777;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212";
+}
+
+.panel_M1-1 {
+  padding: 0 18px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+</style>
+</head>
+<body>
+
+<h3>Pendahuluan</h3>
+
+<div class="tabmerdeka">
+  <button class="tabmerdekalinks" onclick="openMerdeka(event, 'M')">M</button>
+  <button class="tabmerdekalinks" onclick="openMerdeka(event, 'E')">E</button>
+  <button class="tabmerdekalinks" onclick="openMerdeka(event, 'R')">R</button>
+  <button class="tabmerdekalinks" onclick="openMerdeka(event, 'D')">D</button>
+  <button class="tabmerdekalinks" onclick="openMerdeka(event, 'E')">E</button>
+  <button class="tabmerdekalinks" onclick="openMerdeka(event, 'K')">K</button>
+  <button class="tabmerdekalinks" onclick="openMerdeka(event, 'A')">A</button>
+</div>
+
+<div id="M" class="tabmerdekacontent">
+  <h3>Mulai dari diri</h3>
+  <ol>Kegiatan pembelajaran pemantik:
+    <li>CGP memberikan jawaban reflektif-kritis untuk mengetahui pemahaman diri tentang pemikiran (filosofi pendidikan) Ki Hadjar Dewantara,
+    <li>CGP membuat refleksi diri tentang pemikiran (filosofi pendidikan) Ki Hadjar Dewantara.
+  </ol>
+
+  <h3>Jawaban CGP</h3>
+  <button class="accordion_M1-1">Helda Winjaya</button>
+  <div class="panel_M1-1">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  </div>
+
+  <button class="accordion_M1-1">Muhibudin Haludi</button>
+  <div class="panel_M1-1">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  </div>
+
+  <button class="accordion_M1-1">Nanik Wuliyani</button>
+  <div class="panel_M1-1">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  </div>
+
+  <button class="accordion_M1-1">Rudi</button>
+  <div class="panel_M1-1">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  </div>
+
+  <button class="accordion_M1-1">Sifreni Mira Yusiana</button>
+  <div class="panel_M1-1">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  </div>
+
+  <button class="accordion_M1-1">Yustiena Widyardhini</button>
+  <div class="panel_M1-1">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  </div>
+</div>
+
+<div id="E" class="tabmerdekacontent">
+  <h3>Mulai dari diri</h3>
+  <ol>Kegiatan pembelajaran pemantik:
+    <li>CGP memberikan jawaban reflektif-kritis untuk mengetahui pemahaman diri tentang pemikiran (filosofi pendidikan) Ki Hadjar Dewantara,
+    <li>CGP membuat refleksi diri tentang pemikiran (filosofi pendidikan) Ki Hadjar Dewantara.
+  </ol>
+</div>
+
+<div id="R" class="tabmerdekacontent">
+  <h3>Mulai dari diri</h3>
+  <ol>Kegiatan pembelajaran pemantik:
+    <li>CGP memberikan jawaban reflektif-kritis untuk mengetahui pemahaman diri tentang pemikiran (filosofi pendidikan) Ki Hadjar Dewantara,
+    <li>CGP membuat refleksi diri tentang pemikiran (filosofi pendidikan) Ki Hadjar Dewantara.
+  </ol>
+</div>
+
+<div id="D" class="tabmerdekacontent">
+  <h3>Mulai dari diri</h3>
+  <ol>Kegiatan pembelajaran pemantik:
+    <li>CGP memberikan jawaban reflektif-kritis untuk mengetahui pemahaman diri tentang pemikiran (filosofi pendidikan) Ki Hadjar Dewantara,
+    <li>CGP membuat refleksi diri tentang pemikiran (filosofi pendidikan) Ki Hadjar Dewantara.
+  </ol>
+</div>
+
+<div id="E" class="tabmerdekacontent">
+  <h3>Mulai dari diri</h3>
+  <ol>Kegiatan pembelajaran pemantik:
+    <li>CGP memberikan jawaban reflektif-kritis untuk mengetahui pemahaman diri tentang pemikiran (filosofi pendidikan) Ki Hadjar Dewantara,
+    <li>CGP membuat refleksi diri tentang pemikiran (filosofi pendidikan) Ki Hadjar Dewantara.
+  </ol>
+</div>
+
+<div id="K" class="tabmerdekacontent">
+  <h3>Mulai dari diri</h3>
+  <ol>Kegiatan pembelajaran pemantik:
+    <li>CGP memberikan jawaban reflektif-kritis untuk mengetahui pemahaman diri tentang pemikiran (filosofi pendidikan) Ki Hadjar Dewantara,
+    <li>CGP membuat refleksi diri tentang pemikiran (filosofi pendidikan) Ki Hadjar Dewantara.
+  </ol>
+</div>
+
+<div id="A" class="tabmerdekacontent">
+  <h3>Mulai dari diri</h3>
+  <ol>Kegiatan pembelajaran pemantik:
+    <li>CGP memberikan jawaban reflektif-kritis untuk mengetahui pemahaman diri tentang pemikiran (filosofi pendidikan) Ki Hadjar Dewantara,
+    <li>CGP membuat refleksi diri tentang pemikiran (filosofi pendidikan) Ki Hadjar Dewantara.
+  </ol>
+</div>
+
+<script>
+function openMerdeka(evt, merdekaName) {
+  var i, tabmerdekacontent, tabmerdekalinks;
+  tabmerdekacontent = document.getElementsByClassName("tabmerdekacontent");
+  for (i = 0; i < tabmerdekacontent.length; i++) {
+    tabmerdekacontent[i].style.display = "none";
+  }
+  tabmerdekalinks = document.getElementsByClassName("tabmerdekalinks");
+  for (i = 0; i < tabmerdekalinks.length; i++) {
+    tabmerdekalinks[i].className = tabmerdekalinks[i].className.replace(" active", "");
+  }
+  document.getElementById(merdekaName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+
+/* Accordion */
+var acc = document.getElementsByClassName("accordion_M1-1");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    }
+  });
+}
+</script>
+
+</body>
+</html>

@@ -8,7 +8,7 @@ authorLink: "https://t.me/ferilee"
 description: "Materi Modul 1"
 resources:
 - name: "featured-image"
-  src: "banner.webp"
+  src: "banner.gif"
 
 tags: ["Filosofis Pendidikan Nasional"]
 categories: ["Pendidikan Guru Penggerak"]

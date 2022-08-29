@@ -26,14 +26,29 @@ Silahkan menyimak dan mengimplementasikannya selama mengikuti Program Pendidikan
 {{< pgp/modul1-1/etikaakademik >}}
 
 ## Modul 1.1
-### Refleksi Filosofis Pendidikan Nasional - Ki Hadjar Dewantara
-{{< pgp/modul1-1/pendahuluan1-1 >}}
+{{< pgp/modul1-1/browserwindow_pendahuluan >}}
 
-### Alur Belajar MERDEKA - Modul 1.1
-{{< pgp/modul1-1/alurmerdeka1-1 >}}
+---
+
+{{< pgp/modul1-1/browserwindow_merdeka >}}
 
 ## Modul 1.2
+{{< pgp/modul1-1/browserwindow_pendahuluan >}}
+
+---
+
+{{< pgp/modul1-1/browserwindow_merdeka >}}
 
 ## Modul 1.3
+{{< pgp/modul1-1/browserwindow_pendahuluan >}}
+
+---
+
+{{< pgp/modul1-1/browserwindow_merdeka >}}
 
 ## Modul 1.4
+{{< pgp/modul1-1/browserwindow_pendahuluan >}}
+
+---
+
+{{< pgp/modul1-1/browserwindow_merdeka >}}

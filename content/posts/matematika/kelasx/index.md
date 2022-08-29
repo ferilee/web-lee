@@ -19,16 +19,7 @@ toc:
   auto: true
 ---
 ## Eksponen dan Logaritma
-### Pengalaman Belajar
-Setelah mempelajari bab ini, kalian diharapkan dapat:
-1. Mengidentifikasi sifat-sifat eksponen.
-1. Mengidentifikasi bentuk akar.
-1. Mengidentifikasi fungsi eksponen.
-1. Menyelesaikan permasalahan sehari-hari yang berkaitan dengan fungsi eksponen.
-1. Mengidentifikasi sifat-sifat logaritma.
-1. Menyelesaikan permasalahan sehari-hari yang berkaitan dengan logaritma.
-
-{{< matematika/ekspolog >}}
+{{< matematika/ekslog >}}
 
 ## Barisan dan Deret
 ### Pengalaman Belajar

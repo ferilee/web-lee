@@ -122,7 +122,7 @@ theme = "FeelIt"
     identifier = "about"
     pre = ""
     post = ""
-    name = "About"
+    name = "About Me"
     url = "/about/"
     title = ""
     weight = 4
@@ -134,6 +134,14 @@ theme = "FeelIt"
     url = "/dokumen/"
     title = ""
     weight = 5
+    [[menu.main]]
+      identifier = "galeri"
+      pre = ""
+      post = ""
+      name = "Galeri"
+      url = "/galeri/"
+      title = ""
+      weight = 6
   [[menu.main]]
     identifier = "ujian"
     pre = ""
@@ -141,7 +149,7 @@ theme = "FeelIt"
     name = "Quizizz"
     url = "/quizizz/"
     title = ""
-    weight = 6
+    weight = 7
 
 # Search config
     [params.search]

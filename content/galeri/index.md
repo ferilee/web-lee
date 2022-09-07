@@ -13,7 +13,7 @@ resources:
 tags: ["galeri", "biodata", "foto"]
 categories: ["Matematika"]
 
-lightgallery: true
+lightgallery: false
 math: true
 toc:
   auto: true

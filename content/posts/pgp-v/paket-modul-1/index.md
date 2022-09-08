@@ -33,22 +33,10 @@ Silahkan menyimak dan mengimplementasikannya selama mengikuti Program Pendidikan
 {{< pgp/modul1-1/browserwindow_merdeka >}}
 
 ## Modul 1.2
-{{< pgp/modul1-1/browserwindow_pendahuluan >}}
+{{< pgp/modul1-1/responcgp11 >}}
 
----
-
-{{< pgp/modul1-1/browserwindow_merdeka >}}
 
 ## Modul 1.3
-{{< pgp/modul1-1/browserwindow_pendahuluan >}}
 
----
-
-{{< pgp/modul1-1/browserwindow_merdeka >}}
 
 ## Modul 1.4
-{{< pgp/modul1-1/browserwindow_pendahuluan >}}
-
----
-
-{{< pgp/modul1-1/browserwindow_merdeka >}}

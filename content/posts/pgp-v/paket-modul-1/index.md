@@ -20,7 +20,7 @@ lightgallery: true
 
 # PAKET MODUL 1
 ## Etika Akademik Pemimpin Pembelajaran
-Bapak/ibu Guru Hebat, berikut adalah video panduan mengutip karya atau sumber media lain. Melalui panduan ini diharapkan Bapak/Ibu dapat membiasakan menghargai karya dan hak atas kekayaan intelektual orang lain.
+{{< style "text-align:justify; strong{color:#00b1ff;}" >}}Bapak/ibu Guru Hebat, berikut adalah video panduan mengutip karya atau sumber media lain. Melalui panduan ini diharapkan Bapak/Ibu dapat membiasakan menghargai karya dan hak atas kekayaan intelektual orang lain.{{< /style >}}
 
 Silahkan menyimak dan mengimplementasikannya selama mengikuti Program Pendidikan Guru Penggerak.
 {{< pgp/modul1-1/etikaakademik >}}
@@ -28,15 +28,8 @@ Silahkan menyimak dan mengimplementasikannya selama mengikuti Program Pendidikan
 ## Modul 1.1
 {{< pgp/modul1-1/browserwindow_pendahuluan >}}
 
----
-
-{{< pgp/modul1-1/browserwindow_merdeka >}}
-
 ## Modul 1.2
-{{< pgp/modul1-1/responcgp11 >}}
-
 
 ## Modul 1.3
-
 
 ## Modul 1.4

@@ -11,7 +11,6 @@ resources:
   src: "featured-image-preview.webp"
 
 tags: ["galeri", "biodata", "foto"]
-categories: ["Matematika"]
 
 lightgallery: false
 math: true
@@ -19,4 +18,4 @@ toc:
   auto: true
 ---
 ## Galeri XI TKJ
-{{< matematika/galerisiswa >}}
+{{< matematika/galerixitkj >}}

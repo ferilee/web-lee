@@ -18,4 +18,4 @@ toc:
   auto: true
 ---
 ## Galeri XI TKJ
-{{< matematika/galerisiswa >}}
+{{< matematika/galerixitkj >}}

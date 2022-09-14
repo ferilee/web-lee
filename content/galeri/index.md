@@ -17,6 +17,9 @@ math: true
 toc:
   auto: true
 ---
+## Galeri XII MM-A
+{{< galeri/galerixiimma >}}
+
 ## Galeri XII MM-B
 {{< galeri/galerixiimmb >}}
 

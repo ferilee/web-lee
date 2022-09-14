@@ -8,4 +8,4 @@ lightgallery: true
 math:
   enable: true
 ---
-{{< genially/perangkat >}}
+{{< perangkat >}}

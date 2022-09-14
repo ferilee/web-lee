@@ -143,11 +143,11 @@ theme = "FeelIt"
       title = ""
       weight = 6
   [[menu.main]]
-    identifier = "ujian"
+    identifier = "tantangan"
     pre = ""
     post = ""
-    name = "Quizizz"
-    url = "/quizizz/"
+    name = "Challenge"
+    url = "/challenge/"
     title = ""
     weight = 7
 

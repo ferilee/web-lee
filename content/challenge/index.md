@@ -19,5 +19,7 @@ toc:
 ---
 ## Daily Quote
 Ikuti tantangan dari IDT di [sini](https://www.canva.com/brand/join?token=60SrD1bVMZW_MFOfZw9V7Q&brandingVariant=edu&referrer=team-invite)
+{{< challenge/quote >}}
+
 ## Quizizz
 {{< quizizz/lkpd1-xii >}}

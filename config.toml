@@ -119,11 +119,11 @@ theme = "FeelIt"
     title = ""
     weight = 3
   [[menu.main]]
-    identifier = "about"
+    identifier = "tantangan"
     pre = ""
     post = ""
-    name = "About Me"
-    url = "/about/"
+    name = "Tantangan"
+    url = "/challenge/"
     title = ""
     weight = 4
   [[menu.main]]
@@ -143,11 +143,11 @@ theme = "FeelIt"
       title = ""
       weight = 6
   [[menu.main]]
-    identifier = "tantangan"
+    identifier = "about"
     pre = ""
     post = ""
-    name = "Challenge"
-    url = "/challenge/"
+    name = "About Me"
+    url = "/about/"
     title = ""
     weight = 7
 

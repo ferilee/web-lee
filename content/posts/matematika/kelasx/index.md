@@ -18,6 +18,8 @@ math: true
 toc:
   auto: true
 ---
+{{< time/clock >}}
+
 ## Eksponen dan Logaritma
 {{< matematika/ekslog >}}
 

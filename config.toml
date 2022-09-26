@@ -226,6 +226,19 @@ theme = "FeelIt"
         Resume = "" #goo.gl id
         RSS = true
 
+        [params.page.comment]
+          enable = true
+          # Disqus comment config (https://disqus.com/)
+          # Disqus 评论系统设置 (https://disqus.com/)
+          [params.page.comment.disqus]
+            enable = true
+            # Disqus shortname to use Disqus in posts
+            # Disqus 的 shortname，用来在文章中启用 Disqus 评论系统
+            shortname = "therealferilee"
+
+          # telegram comments
+          telegram_site_id= "pzaWdwUk"
+
 # Markup related configuration in Hugo
 [markup]
   # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)

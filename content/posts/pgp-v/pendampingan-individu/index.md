@@ -6,9 +6,7 @@ authorLink: "https://t.me/ferilee"
 description: "Materi Pendampingan Individu"
 resources:
 - name: "featured-image"
-  src: "featured-image.webp"
-- name: "featured-image-preview"
-  src: "featured-image-preview.webp"
+  src: "cover.gif"
 
 tags: ["pendampingan individu"]
 categories: ["Pendidikan Guru Penggerak"]

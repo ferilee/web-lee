@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial;}
+
+* {
+  box-sizing: border-box;
+}
+
+/* The browser window */
+.container_pi1 {
+  border: 3px solid #f1f1f1;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+/* Container for columns and the top "toolbar" */
+.row {
+  padding: 10px;
+  background: #f1f1f1;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+/* Create three unequal columns that floats next to each other */
+.column {
+  float: left;
+}
+
+.left {
+  width: 15%;
+}
+
+.right {
+  width: 10%;
+}
+
+.middle {
+  width: 75%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Three dots */
+.dot {
+  margin-top: 4px;
+  height: 12px;
+  width: 12px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+/* Style the input field */
+input[type=text] {
+  width: 100%;
+  border-radius: 3px;
+  border: none;
+  background-color: white;
+  margin-top: -8px;
+  height: 25px;
+  color: #666;
+  padding: 5px;
+}
+
+/* Three bars (hamburger menu) */
+.bar {
+  width: 17px;
+  height: 3px;
+  background-color: #aaa;
+  margin: 3px 0;
+  display: block;
+}
+
+/* Page content */
+.content {
+  padding: 10px;
+}
+
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #ace7ff;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #f44336;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  -webkit-animation: fadeEffect 1s;
+  animation: fadeEffect 1s;
+}
+
+/* Fade in tabs */
+@-webkit-keyframes fadeEffect {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+
+@keyframes fadeEffect {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+
+.tab_text0 {
+      display: inline-block;
+      margin-left: 10px;
+}
+
+.tab_text1 {
+      display: inline-block;
+      margin-left: 120px;
+}
+.tab_text2 {
+      display: inline-block;
+      margin-left: 12.5px;
+}
+.tab_text3 {
+      display: inline-block;
+      margin-left: 8px;
+}
+
+ul li {
+  background: #f5f5f5;
+  color: DarkSlateGray;
+  margin: 5px;
+}
+
+ol.a {
+  list-style-type: lower-alpha;
+}
+
+ol.b {
+  list-style-type: circle;
+}
+</style>
+</head>
+<body>
+  <div class="container_pi1">
+    <div class="row">
+      <div class="column left">
+        <span class="dot" style="background:#ED594A;"></span>
+        <span class="dot" style="background:#FDD800;"></span>
+        <span class="dot" style="background:#5AC05A;"></span>
+      </div>
+      <div class="column middle">
+        <input type="text" value="Tema: Perubahan paradigma pemimpin pembelajaran">
+      </div>
+      <div class="column right">
+        <div style="float:right">
+          <span class="bar"></span>
+          <span class="bar"></span>
+          <span class="bar"></span>
+        </div>
+      </div>
+    </div>
+
+<p align="justify"><span class="tab_text0"></span>Waktu <span class="tab_text1"></span>: Kurun waktu seminggu sebelum lokakarya 2 <br>
+<span class="tab_text0"></span>Tema Pendampingan <span class="tab_text2"></span>: Perubahan paradigma pemimpin pembelajaran <br>
+<span class="tab_text0"></span>Fokus Pendampingan <span class="tab_text3"></span>:<br>
+  <ol>
+    <li>Diskusi refleksi diri tentang lingkungan belajar di sekolah
+    <li>Diskusi refleksi perubahan diri setelah mempelajari modul 1.1, 1.2 dan 1.3
+    <li>Diskusi rencana merintis komunitas praktisi di sekolah, berdasarkan hasil pemetaan di lokakarya 1
+    <li>Mengkomunikasikan visi dan prakasra perubahan ke KS dan warga sekolah dengan dimoderasi oleh PP
+  </ol>
+
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'langkah_pi2')">Panduan</button>
+  <button class="tablinks" onclick="openCity(event, 'laporan_pi2')">Laporan</button>
+  <button class="tablinks" onclick="openCity(event, 'rtl_pi2')">Rencana Tindak Lanjut</button>
+</div>
+
+<div id="langkah_pi2" class="tabcontent">
+<ol><h3>Langkah-langkah Pendampingan</h3>
+  <li>Bagian awal pendampingan (10’)
+    <ul>
+      <li>Pengajar praktik menyapa dan menanyakan kabar Calon Guru Penggerak
+      <li>Menjelaskan tentang fokus pendampingan
+      <li>PP memastikan CGP memahami aktivitas pendampingan yang akan dilakukan.
+      <li>Pengajar praktik memastikan dokumen yang dibutuhkan saat pendampingan individu sudah disiapkan CGP.
+      <li>Pendamping menanyakan apa saja proses kegiatan yang sudah berjalan selama satu bulan terakhir, pembelajaran daring dan menanyakan rencana tindak lanjut dari pendampingan individu 1, serta hal-hal yang dianggap sebagai capaian selama satu bulan terakhir (berdasarkan jurnal pemantauan pembelajaran daring)
+      <li>Mengapresiasi kemajuan-kemajuan yang disampaikan oleh Calon Guru Penggerak.
+    </ul>
+  <li>Bagian inti pendampingan (160’)
+    <ul>
+      <li>Refleksi diri tentang lingkungan belajar di sekolah (15’)<br>
+        Lakukan diskusi dengan CGP terkait lingkungan belajar di sekolah dengan meberikan pertanyaan permatik berikut ini:
+        <ol class="a">
+          <li>Bagaimana dukungan Kepala Sekolah/ Rekan Sejawat terhadap pendidikan guru penggerak yang Bapak/Ibu jalani?
+          <li>Apa bentuk dukungan yang mereka berikan?
+          <li>Apa tantangan yang Bapak/Ibu hadapi dalam menjalani pendidikan guru penggerak dilingkungan selolah Bapak/Ibu?
+          <li>Apa yang Bapak/Ibu lakukan untuk menghadapi tantangan tersebut?
+          <li>Apa rencana Bapak/Ibu ke depannya sehingga kegiatan pendidikan guru penggerak yang Bapak/Ibu jalani berjalan maksimal?
+        </ol>
+      <li>Refleksi perubahan diri setelah memperlajari modul 1.1, 1.2 dan 1.3. (15’)<br>
+        Lakukan diskusi dengan CGP terkait lingkungan belajar di sekolah dengan meberikan pertanyaan permatik berikut ini:
+        <ol class="a">
+          <li>Lakukan diskusi dengan CGP tekait perubahan apa saja yang dirasakan setelah mempelajari modul, dengan memberikan pertanyaan pematik berikut ini:
+          <li>Apa saja yang sudah Bapak/Ibu Pelajari pada Modul 1.1, 1.2 dan 1.3?
+          <li>Apakah yang Bapak/Ibu pelajari sudah di implementasikan di kelas bapak ibu ? Berikan beberapa contohnya?
+          <li>Apakah terjadi perubahan terhadap murid Bapak/Ibu dikelas? dan bagaimana tanggapan atau respon murid Bapak/Ibu terhadap perubahan yang dilakukan?
+          <li>Bagaimana perasaan Bapak/Ibu setelah menerapakan Modul 1.1, 1.2 dan 1.3 dikelas Bapak/Ibu?
+          <li>Apa yang yang sudah baik dan yang perlu Bapak/Ibu perbaiki kedepannya?
+        </ol>
+
+      <li>Rencana merintis komunitas praktisi di sekolah (20’)<br>
+        Berdasarkan hasil pemetaan di lokakarya 1, ajak CGP berdiskusi dengan memberikan pertanyaan pematik berikut ini.
+        <ol class="a">
+          <li>Apakah Bapak/ibu memiliki pengalaman merintis komunitas praktisi di sekolah/ lingkungan?
+          <li>Apakah capaian kegiatan sesuai dengan harapan dan tujuan?
+          <li>Apa tantangan selama penerapan komunitas praktisi di sekolah dan bagaimana  Bapak/Ibu mengatasi tantangan tersebut?
+          <li>Apa saja hal menarik dan menjadi pembelajaran saat merintis komunitas praktisi?
+        Setelah CGP menjawab 4 pertanyaan di atas, berikan pertanyaan lanjutan berikut ini.
+          <li>Strategi apa saja yang akan Bapak/ Ibu lakukan untuk segera memulai komunitas praktisi di lingkungan sekolah Bapak/ Ibu?
+          <li>Apa rencana yang akan Bapak/Ibu lakukan untuk pengembangan komunitas praktiksi yang sudah dibentuk?
+        </ol>
+
+      <li>Mengkomunikasikan visi dan prakarsa perubahan sekolah (110’)<br>
+          CGP bersama dengan KS dan warga sekolah berdikusi terkait visi dan prakasa perubahan sekolah. Pembagian peran dalam berdiskusi:
+        <ul>
+          <li>Pengajar Praktik: Moderator
+          <li>Calon Guru Penggerak: Pemandu diskusi
+          <li>Peserta diskusi: Kepala sekolah, Guru, tenaga kependidikan</li><br>
+          Proses diskusi:
+          <li>CGP membuka diskusi dan menyampaikan rambu-rambu dikusi kepada peserta diskusi
+          <li>CGP mengajak peserta diskusi untuk membahas dan menganalisis visi sekolah, CGP memberikankan pertanyaan pematik kepada peserta diskusi:
+            <ol class="a">
+              <li>Apakah visi sekolah sudah berpihak kepada murid?
+              <li>Jika visi sudah berpihak kepada murid, lakukan identifikasi dan pengembangan program yang bisa dilakukan oleh warga sekolah?
+              <li>Jika visi belum berpihak kepada murid, ajak warga sekolah merumuskan visi yang berpihak kepada murid. Setelah visi dirumuskan, ajak warga sekolah melakukan identifikasi dan mengembangkan program yang bisa dilakukan oleh warga sekolah.
+            </ol>
+          <li>PP memberikan penguatan diakhir diskusi.
+          <li>Semua hasil diskusi dicatat dan didokumentasikan oleh CGP
+          <li>Laporan hasil diskusi diserahkan CGP kepada Kepala sekolah dan Pengajar Praktik.
+        </ul>
+      </ul>
+
+  <li>Bagian akhir pendampingan (10 menit)
+      <ul>
+        <li>Melakukan refleksi terhadap proses pendampingan saat ini:
+          <ol class="a">
+            <li>Apa hal paling menarik yang Bapak/ Ibu dapatkan setelah proses pendampingan hari ini? Apa yang membuat hal tersebut menarik menurut Bapak/ Ibu?
+            <li>Apa yang sudah baik dan yang perlu diperbaiki dari pendamping pada kegiatan pendampingan berikutnya?
+          </ol>
+        <li>Mengapresiasi dan mengucapkan terima kasih telah berbagi praktik baik yang sudah dilakukan dari pembelajaran daring.
+        <li>Mengingat CGP untuk menyebarkan, mengumpulkan dan mengimput survei di LMS tentang kompetensi guru penggerak (lembar umpan balik). Kegiatan ini dilakukan satu minggu sebelum pelaksanaan PI 3. Yang harus dilakukan CGP:
+          <ol class="a">
+            <li>Menyebarkan kuesioner survey Lembar Umpan Balik sesuai peran dan jenjang yang diampu oleh CGP dengan responden Kepala sekolah, rekan guru (5 orang), dan perwakilan murid CGP (5 orang)
+            <li>CGP mengisi self evaluation.
+          </ol>
+        <li>Memotivasi untuk tetap mencoba praktik-praktik pembelajaran yang berpihak pada anak.
+        <li>Jika ada hal-hal terkait pembelajaran daring yang perlu diketahui oleh fasilitator, maka perlu dicatat dalam Jurnal Komunikasi.
+      </ul>
+</div>
+
+<div id="laporan_pi2" class="tabcontent">
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200" height="675" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/63188a14c68b3c001310e999" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+</div>
+
+<div id="rtl_pi2" class="tabcontent">
+    <p align="justify">Pendamping mengembangkan Rencana Tindak Lanjut (RTL) untuk proses pendampingan selanjutnya, tuliskan apa saja yang akan di rencanakan oleh pendamping terkait proses pendampingan berikutnya, perhatikan apa saja yang telah dipelajari oleh CGP dan capaian apa saja yang mungkin telah tercapai saat pendampingan berikutnya, ada baiknya komunikasi ke fasilitator untuk menghasilkan pendampingan yang maksimal.</p>
+</div>
+
+<script>
+function openCity(evt, cityName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+</script>
+</div>
+</body>
+</html>

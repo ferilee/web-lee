@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial;}
+
+* {
+  box-sizing: border-box;
+}
+
+/* The browser window */
+.container_pi1 {
+  border: 3px solid #f1f1f1;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+/* Container for columns and the top "toolbar" */
+.row {
+  padding: 10px;
+  background: #f1f1f1;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+/* Create three unequal columns that floats next to each other */
+.column {
+  float: left;
+}
+
+.left {
+  width: 15%;
+}
+
+.right {
+  width: 10%;
+}
+
+.middle {
+  width: 75%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Three dots */
+.dot {
+  margin-top: 4px;
+  height: 12px;
+  width: 12px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+/* Style the input field */
+input[type=text] {
+  width: 100%;
+  border-radius: 3px;
+  border: none;
+  background-color: white;
+  margin-top: -8px;
+  height: 25px;
+  color: #666;
+  padding: 5px;
+}
+
+/* Three bars (hamburger menu) */
+.bar {
+  width: 17px;
+  height: 3px;
+  background-color: #aaa;
+  margin: 3px 0;
+  display: block;
+}
+
+/* Page content */
+.content {
+  padding: 10px;
+}
+
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #ace7ff;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #f44336;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  -webkit-animation: fadeEffect 1s;
+  animation: fadeEffect 1s;
+}
+
+/* Fade in tabs */
+@-webkit-keyframes fadeEffect {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+
+@keyframes fadeEffect {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+
+.tab_text0 {
+      display: inline-block;
+      margin-left: 10px;
+}
+
+.tab_text1 {
+      display: inline-block;
+      margin-left: 110px;
+}
+.tab_text2 {
+      display: inline-block;
+      margin-left: 12.5px;
+}
+.tab_text3 {
+      display: inline-block;
+      margin-left: 8px;
+}
+
+ul li {
+  background: #f5f5f5;
+  color: DarkSlateGray;
+  margin: 5px;
+}
+
+ol.a {
+  list-style-type: lower-alpha;
+}
+
+ol.b {
+  list-style-type: circle;
+}
+</style>
+</head>
+<body>
+  <div class="container_pi1">
+    <div class="row">
+      <div class="column left">
+        <span class="dot" style="background:#ED594A;"></span>
+        <span class="dot" style="background:#FDD800;"></span>
+        <span class="dot" style="background:#5AC05A;"></span>
+      </div>
+      <div class="column middle">
+        <input type="text" value="Soal PTS Matematika Semester Ganjil">
+      </div>
+      <div class="column right">
+        <div style="float:right">
+          <span class="bar"></span>
+          <span class="bar"></span>
+          <span class="bar"></span>
+        </div>
+      </div>
+    </div>
+
+<p align="justify"><span class="tab_text0"></span>Waktu<span class="tab_text1"></span>: 2 JP <br>
+<span class="tab_text0"></span>Materi yang diujikan<span class="tab_text2"></span>:<br>
+  <ul>
+    <li>Kelas X : Eksponen dan Logaritma, Barisan dan Deret.
+    <li>Kelas XI : Aturan sinus dan cosinus, Luas segitiga pada trigonometri, rumus jumlah dan selisih dua sudut, operasi matriks.
+    <li>Kelas XII : Geometri Dimensi Tiga, Transformasi Geometri, Kaidah Pencacahan, Permutasi, Kombinasi, Peluang.
+  </ul>
+<span class="tab_text0"></span>Petunjuk Pengerjaan <span class="tab_text3"></span>:<br>
+  <ol>
+    <li>Kerjakan soal PTS secara individu pada lembar jawaban yang disediakan
+    <li>Diperbolehkan menggunakan alat bantu hitung
+    <li>Apabila terdapat jawaban yang sama, maka ada pengurangan skor
+    <li>Pilih tab <b>kelas</b> di bawah ini untuk mengikuti PTS
+    <li>Jika belum bergabung dengan kelas Quizizz, silakan klik:<br>
+      <ol class="b">
+        <li><a href="https://quizizz.com/join?class=xxx">bergabung ke kelas X RPL</a> (untuk kelas X RPL)
+        <li><a href="https://quizizz.com/join?class=xxx">bergabung ke kelas XI MM-A</a> (untuk kelas XI MM-A)
+        <li><a href="https://quizizz.com/join?class=E772604">bergabung ke kelas XI MM-B</a> (untuk kelas XI MM-B)
+        <li><a href="https://quizizz.com/join?class=xxx">bergabung ke kelas XI TKJ</a> (untuk kelas XI TKJ)
+        <li><a href="https://quizizz.com/join?class=xxx">bergabung ke kelas XII MM-A</a> (untuk kelas XII MM-A)
+        <li><a href="https://quizizz.com/join?class=xxx">bergabung ke kelas XII MM-B</a> (untuk kelas XII MM-B)
+
+      </ol>
+  </ol>
+
+  <div class="tab">
+    <button class="tablinks" onclick="openCity(event, 'mtkx')">Kelas X</button>
+    <button class="tablinks" onclick="openCity(event, 'mtkxi')">Kelas XI</button>
+    <button class="tablinks" onclick="openCity(event, 'mtkxii')">Kelas XII</button>
+  </div>
+
+<div id="mtkxi" class="tabcontent">
+  <iframe style="border: none;" src="https://quizizz.com/join?gc=50848931" width="100%" height="600px" name="iFrame Name"></iframe>
+</div>
+
+<script>
+function openCity(evt, cityName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+</script>
+</div>
+</body>
+</html>

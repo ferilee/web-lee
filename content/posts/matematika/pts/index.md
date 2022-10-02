@@ -1,15 +1,13 @@
 ---
 title: "Penilaian Tengah Semester"
-date: 2021-08-22T19:33:55+07:00
+date: 2022-10-01T19:33:55+07:00
 author: "Ferilee"
 draft: false
 authorLink: "https://t.me/ferilee"
 description: ""
 resources:
 - name: "featured-image"
-  src: "featured-image.webp"
-- name: "featured-image-preview"
-  src: "featured-image-preview.webp"
+  src: "Cover.gif"
 
 tags: ["PTS"]
 categories: ["Matematika"]
@@ -19,6 +17,11 @@ lightgallery: true
 toc:
   auto: false
 ---
+
+## Soal PTS Semester Ganjil Tahun Pelajaran 2022/2023
+{{< matematika/pts-ganjil22 >}}
+
+<!--
 {{< typeit >}}
 ## **Kerjakan soal-soal berikut dengan benar!**
 {{< /typeit >}}
@@ -36,11 +39,4 @@ Jika $a\not={0}$, nilai $\cfrac{(-2a)^3(2a)^{-\frac{2}{3}}}{(16a)^\frac{1}{3}}$ 
 {{<admonition tip "Soal Nomor 3">}}
 
 {{</admonition>}}
-
-{{<admonition tip "Soal Nomor 4">}}
-
-{{</admonition>}}
-
-{{<admonition tip "Soal Nomor 5">}}
-
-{{</admonition>}}
+-->

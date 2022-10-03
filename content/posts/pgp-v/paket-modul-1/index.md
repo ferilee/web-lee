@@ -26,10 +26,12 @@ Silahkan menyimak dan mengimplementasikannya selama mengikuti Program Pendidikan
 {{< pgp/modul1-1/etikaakademik >}}
 
 ## Modul 1.1
-{{< pgp/modul1-1/browserwindow_pendahuluan >}}
+{{< pgp/modul/modul1-1 >}}
 
 ## Modul 1.2
+{{< pgp/modul/modul1-2 >}}
 
 ## Modul 1.3
+{{< pgp/modul/modul1-3 >}}
 
 ## Modul 1.4

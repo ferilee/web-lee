@@ -13,3 +13,11 @@ categories: ["Pendidikan Guru Penggerak"]
 
 lightgallery: true
 ---
+## Lokakarya Orientasi
+{{< pgp/lokakarya/loka-ori >}}
+
+## Lokakarya 1
+{{< pgp/lokakarya/loka-1 >}}
+
+## Lokakarya 2
+{{< pgp/lokakarya/loka-2 >}}

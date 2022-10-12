@@ -21,3 +21,6 @@ lightgallery: true
 
 ## Lokakarya 2
 {{< pgp/lokakarya/loka-2 >}}
+
+## Lokakarya 3
+{{< pgp/lokakarya/loka-3 >}}

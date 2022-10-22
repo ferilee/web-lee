@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial;}
+
+* {
+  box-sizing: border-box;
+}
+
+/* The browser window */
+.container_modul {
+  border: 3px solid #f1f1f1;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+/* Container for columns and the top "toolbar" */
+.row {
+  padding: 10px;
+  background: #f1f1f1;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+/* Create three unequal columns that floats next to each other */
+.column {
+  float: left;
+}
+
+.left {
+  width: 15%;
+}
+
+.right {
+  width: 10%;
+}
+
+.middle {
+  width: 75%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Three dots */
+.dot {
+  margin-top: 4px;
+  height: 12px;
+  width: 12px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+/* Style the input field */
+input[type=text] {
+  width: 100%;
+  border-radius: 3px;
+  border: none;
+  background-color: white;
+  margin-top: -8px;
+  height: 25px;
+  color: #666;
+  padding: 5px;
+}
+
+/* Three bars (hamburger menu) */
+.bar {
+  width: 17px;
+  height: 3px;
+  background-color: #aaa;
+  margin: 3px 0;
+  display: block;
+}
+
+/* Page content */
+.content {
+  padding: 10px;
+}
+
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #ace7ff;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #f44336;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  -webkit-animation: fadeEffect 1s;
+  animation: fadeEffect 1s;
+}
+
+/* Fade in tabs */
+@-webkit-keyframes fadeEffect {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+
+@keyframes fadeEffect {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+
+.tab_text0 {
+      display: inline-block;
+      margin-left: 10px;
+}
+
+.tab_text1 {
+      display: inline-block;
+      margin-left: 120px;
+}
+.tab_text2 {
+      display: inline-block;
+      margin-left: 12.5px;
+}
+.tab_text3 {
+      display: inline-block;
+      margin-left: 8px;
+}
+
+ul li {
+  background: #cce5ff;
+  color: darkblue;
+  margin: 5px;
+}
+</style>
+</head>
+<body>
+  <div class="container_modul">
+    <div class="row">
+      <div class="column left">
+        <span class="dot" style="background:#ED594A;"></span>
+        <span class="dot" style="background:#FDD800;"></span>
+        <span class="dot" style="background:#5AC05A;"></span>
+      </div>
+      <div class="column middle">
+        <input type="text" value="Pengambilan Keputusan Berbasis Nilai-Nilai Kebajikan Sebagai Pemimpin">
+      </div>
+      <div class="column right">
+        <div style="float:right">
+          <span class="bar"></span>
+          <span class="bar"></span>
+          <span class="bar"></span>
+        </div>
+      </div>
+    </div>
+
+    <div class="tab">
+      <button class="tablinks" onclick="openCity(event, 'Modul2-3')">Modul</button>
+      <button class="tablinks" onclick="openCity(event, 'Pengantar2-3')">Pengantar</button>
+      <button class="tablinks" onclick="openCity(event, 'Surat2-3')">Surat</button>
+      <button class="tablinks" onclick="openCity(event, 'Kompetensi2-3')">Kompetensi</button>
+      <button class="tablinks" onclick="openCity(event, 'Capaian2-3')">Capaian</button>
+      <button class="tablinks" onclick="openCity(event, 'Merdeka2-3')">Alur MERDEKA</button>
+    </div>
+
+  <div id="Modul2-3" class="tabcontent">
+  <iframe style="width:100%;height:500px" src="https://online.fliphtml5.com/rylov/kkus/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
+  </div>
+
+  <div id="Pengantar2-3" class="tabcontent">
+    <h3>Pengantar</h3>
+  <iframe width="100%" height="500" src="https://www.youtube.com/embed/k7qq1aquRv4" title="1.1 - Refleksi Filosofi Pendidikan KIi Hadjar Dewantara" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+
+  <div id="Surat2-3" class="tabcontent">
+    <h3>Surat dari Instruktur</h3>
+    <p>Selamat datang Bapak/Ibu Calon Guru Penggerak (CGP) </p>
+    <p align="justify">Selamat! Anda telah bersedia menyediakan waktu untuk menjadi bagian dari Program Pendidikan Guru Penggerak (PPGP). Bapak/Ibu adalah individu-individu terpilih yang proaktif serta memiliki tingkat kepedulian yang tinggi terhadap kemajuan dan mutu pendidikan di Indonesia, dan untuk itulah program pendidikan ini dibentuk dan dikembangkan.</p>
+    <p align="justify">Dalam Modul 3.1 ini, pembahasan akan fokus kepada keterampilan seorang pemimpin dalam mengemban salah satu perannya, yaitu mengambil suatu  keputusan, khususnya pada kasus-kasus yang berkaitan dengan nilai-nilai kebajikan atau Etika. Selanjutnya keputusan-keputusan yang diambil secara langsung atau tidak, menentukan arah dan tujuan suatu institusi atau lembaga serta menunjukkan nilai-nilai atau integritas dari institusi tersebut, yang pada akhirnya berpengaruh kepada mutu pendidikan yang didapatkan murid-murid Anda sekalian.</p>
+    <p align="justify">Bila kita telusuri lebih dalam, modul ini selaras dan sesuai dengan prinsip-prinsip Standar Nasional Pendidikan, khususnya pada standar pengelolaan. Seorang pemimpin hendaknya memahami nilai-nilai kebajikan yang tertuang dalam visi dan misi sekolah, berkepribadian serta berkinerja baik dalam melaksanakan tugas kepemimpinan, khususnya dalam mengambil suatu keputusan, hendaknya setiap keputusan yang diambil tersebut selaras dengan nilai-nilai kebajikan yang dijunjung tinggi oleh suatu institusi tersebut, yaitu bertanggung jawab dan berpihak pada murid.</p>
+    <p align="justify">Pada modul ini akan tersaji beberapa studi kasus yang akan dihadapi seorang pemimpin sekolah, khususnya studi kasus di mana dua kepentingan sama-sama benar, sama-sama memiliki nilai-nilai kebajikan. Kita akan dihadapkan pada suatu situasi dilematis, yang akan kita kenal dengan dilema etika. Apakah itu dilema etika? Apakah perbedaannya dengan bujukan moral, dan bagaimana mengenali di antara keduanya? Anda juga akan diajak mengidentifikasi 4 (empat) paradigma serta mendalami prinsip-prinsip yang melandasi cara berpikir Anda selama ini, yang mempengaruhi pengambilan keputusan yang Anda ambil. Prinsip-prinsip apa yang selama ini Anda anut, dalam pengambilan suatu keputusan? Sebelum atau sesudah pengambilan keputusan diambil perlukah kita menganalisis kembali keputusan-keputusan kita, untuk apa? Bagaimana menguji pengambilan keputusan kita sendiri, apakah keputusan tersebut sudah efektif atau tepat sasaran?</p>
+    <p align="justify">Pada akhirnya, kami harapkan Anda akan menikmati proses perjalanan pembelajaran Anda. Kami harapkan proses pembelajaran ini dapat mengantarkan Anda menjadi seorang pemimpin yang lebih baik, berkualitas, dan mandiri. Semoga waktu yang telah Anda sisihkan ini bisa dipergunakan dengan sebaik-baiknya, dan tentunya ilmu yang Anda dapatkan pada program pendidikan guru penggerak ini kelak  bermanfaat untuk diri Anda sendiri, dan tentu untuk orang banyak, terutama di lingkungan Anda. "Janganlah pernah ragu bahwa sekelompok kecil orang-orang yang berkomitmen dan peduli pada sesama, dapat mengubah dunia. Bahkan, hal seperti itulah yang terjadi” <i>(Never doubt that a small group of thoughtful committed individuals can change the world. In fact, it's the only thing that ever has.") - Margaret Mead.</i></p><br>
+    <p>Teruslah bertanya, teruslah belajar, dan teruslah bermanfaat!</p><br>
+    <p>Salam, <br><b>Pengembang Modul 1.1</b><br>
+      Andri Nurcahyani, S.Pd, M.S & Diah Samsiati Rajasa, M.Sc
+    </p>
+  </div>
+
+  <div id="Kompetensi2-3" class="tabcontent">
+    <h3>Kompetensi Lulusan yang Dituju</h3>
+    <ol>Modul ini diharapkan berkontribusi untuk mencapai kompetensi lulusan sebagai berikut:
+      <li>Calon Guru Penggerak secara aktif menetapkan tujuan, membuat rencana, dan menentukan cara untuk mencapainya dalam meningkatkan kompetensi dan kematangan dirinya.
+      <li>Calon Guru Penggerak mampu menggerakkan komunitas sekolah untuk bersama-sama mengembangkan dan mewujudkan visi sekolah yang berpihak pada murid dan berlandaskan nilai-nilai kebajikan universal.
+    </ol>
+  </div>
+
+  <div id="Capaian2-3" class="tabcontent">
+    <h3>Capaian Umum</h3>
+    <ol>Secara umum, capaian modul ini adalah:
+      <li><p align="justify">mampu melakukan pengambilan keputusan berbasis nilai-nilai kebajikan, mampu memahami dan menerapkan prinsip moral dalam melakukan pengambilan keputusan.</p>
+      <li><p align="justify">mampu menerapkan strategi pengambilan keputusan untuk menghindari adanya isu kode etik kepemimpinan sekolah dan konflik kepentingan.</p>
+    </ol>
+
+    <h3>Capaian Khusus</h3>
+    <ol><p align="justify">Secara khusus, modul ini diharapkan dapat membantu Calon Guru Penggerak untuk mampu:</p>
+      <li><p align="justify">CGP dapat menjelaskan tentang konsep sekolah sebagai institusi pembentukan karakter dan nilai-nilai kebajikan sebagai acuan utama dalam pengambilan keputusan berbasis etika sebagai seorang pemimpin pembelajaran.</p>
+      <li><p align="justify">CGP dapat melakukan praktik pengambilan keputusan berbasis nilai-nilai kebajikan sebagai seorang pemimpin. CGP dapat mengidentifikasi jenis-jenis paradigma dilema etika yang dihadapi oleh dirinya sendiri maupun orang lain; CGP menunjukkan  sikap reflektif, kritis, kreatif, dan terbuka dalam menganalisis dilema tersebut.</p>
+      <li><p align="justify">CGP dapat memilih 3 (tiga) prinsip yang dapat dilakukan untuk membuat keputusan dalam dilema etika.</p>
+      <li><p align="justify">CGP dapat menerapkan 9 langkah pengambilan dan pengujian keputusan yang diambil dalam dilema etika; CGP bersikap reflektif, kritis, dan kreatif dalam proses tersebut.</p>
+    </ol>
+
+    <h3>Isi Materi Modul</h3>
+    <ol>
+      <li><p align="justify">Bagaimana pengambilan keputusan berbasis nilai-nilai kebajikan sebagai pemimpin pada kasus-kasus dilema etika?
+      <li><p align="justify">Apa perbedaan antara ‘Dilema Etika’ dan ‘Bujukan Moral,’ serta paradigma apa saja yang terkandung dalam sebuah kasus dilema etika?
+      <li><p align="justify">Prinsip-prinsip apa saja yang mendasari pemikiran seseorang dalam mengambil suatu keputusan sebagai seorang pemimpin? Bagaimana kita bisa menganalisis efektifitas sebuah proses pengambilan keputusan yang telah diambil,  dan bagaimana kita menguji keputusan yang telah diambil?
+    </ol>
+
+    <h3>Sumber Belajar</h3>
+    <ol>
+      <li><p align="justify">Video 3 prinsip dilema etika.
+      <li><p align="justify">Pertanyaan-pertanyaan serta pemahaman terhadap 3  prinsip  dilema  etika yang terdapat di LMS
+      <li><p align="justify">Daftar Tugas/Checklist Ruang Kolaborasi yang terdapat di LMS.
+    </ol>
+  </div>
+
+  <div id="Merdeka2-3" class="tabcontent">
+    <div style="width: 100%;">
+      <div style="position: relative; padding-bottom: 162.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="800" height="1300" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/6319da4e09d43e00189d4c08" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe>
+      </div>
+    </div>
+  </div>
+
+<script>
+function openCity(evt, cityName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+</script>
+</div>
+</body>
+</html>

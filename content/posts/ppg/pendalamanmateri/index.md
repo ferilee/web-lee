@@ -27,10 +27,10 @@ toc:
 {{< style "text-align:justify; strong{color:#00b1ff;}" >}}Kegiatan penentuan penyebab masalah dilakukan dengan cara menentukan akar penyebab masalah yang paling mendekati terhadap konteks yang dihadapi guru di kelas/sekolahnya, dan menjelaskan alasannya. Dalam melakukan penentuan penyebab tersebut, mahasiswa berkonsultasi dengan dosen, instruktur, dan guru pamongnya. Selanjutnya mahasiswa  mempresentasikan tentang penentuan akar penyebab masalah yang dihadapi disertai dengan penjelasan tentang kajian/analisis penentuan  penyebab masalah tersebut. Terakhir mahasiswa wajib menentukan masalah (minimal 2 yang paling sesuai dengan tugas keseharian guru) dan akar penyebabnya.{{< /style >}}
 
 ## Identifikasi Masalah
-{{< pgp/modul/modul1-1 >}}
+{{< ppg/pendalamanmateri/identifikasi >}}
 
 ## Eksplorasi Penyebab Masalah
-{{< pgp/modul/modul1-1 >}}
+{{< ppg/pendalamanmateri/eksplorasi >}}
 
 ## Penentuan Penyebab Masalah
-{{< pgp/modul/modul1-1 >}}
+{{< ppg/pendalamanmateri/penentuan >}}

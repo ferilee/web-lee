@@ -35,5 +35,5 @@ toc:
 ## Eksplorasi Alternatif Solusi
 ## Penentuan Solusi
 ## Pembuatan Rencana Aksi
-{{< ppg/perangkat/rencanaaksi >}}
+
 ## Pembuatan Rencana Evaluasi

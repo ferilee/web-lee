@@ -13,8 +13,4 @@ categories: ["Pendidikan Guru Penggerak"]
 
 lightgallery: true
 ---
-## Pendampingan Individu 1
-{{< pgp/pendampingan-individu/pi-1 >}}
-
-## Pendampingan Individu 2
-{{< pgp/pendampingan-individu/pi-2 >}}
+{{< pgp/pendampingan-individu/pi >}}

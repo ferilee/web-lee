@@ -8,7 +8,7 @@ resources:
 - name: "featured-image"
   src: "cover.gif"
 
-tags: ["Artificial Intelligence"]
+tags: ["Artificial Intelligence","Kecerdasan Buatan"]
 categories: ["Teknologi"]
 lightgallery: true
 math: true
@@ -17,6 +17,10 @@ toc:
 ---
 ## Pengertian Artificial Intelligence
 {{< style "text-align:justify; strong{color:#00b1ff;}" >}}**Artificial Intelligence (AI)** atau kecerdasan buatan merupakan suatu teknologi yang berkembang pesat dalam beberapa tahun terakhir. Teknologi ini memungkinkan mesin untuk belajar dan berperilaku seperti manusia, bahkan melebihi kecerdasan manusia pada beberapa aspek tertentu. AI sendiri terbagi menjadi beberapa jenis, di antaranya machine learning, deep learning, neural networks, computer vision, natural language processing, dan sebagainya. Setiap jenis AI memiliki kegunaan yang berbeda-beda, seperti dalam bidang medis, keamanan, logistik, keuangan, dan masih banyak lagi. Penerapan AI dalam kehidupan sehari-hari juga semakin luas, misalnya dalam asisten virtual seperti Siri dan Alexa, kendaraan otonom, pelayanan pelanggan, hingga keamanan siber. Dalam industri, AI dapat membantu mengoptimalkan proses produksi, menganalisis data, dan meningkatkan efisiensi serta produktivitas. Namun, keberadaan AI juga menimbulkan beberapa tantangan, seperti masalah etika dan privasi. Misalnya, bagaimana memastikan keamanan dan privasi data yang dikumpulkan oleh sistem AI, serta bagaimana memastikan sistem AI tidak digunakan untuk tujuan yang merugikan. Dalam pengembangan AI, dibutuhkan kerjasama antara ilmuwan komputer, ahli matematika, psikolog, serta pakar dari berbagai bidang lainnya. Selain itu, juga diperlukan pengawasan dan regulasi yang ketat agar penerapan AI dapat dilakukan secara aman dan bertanggung jawab. Dengan kemampuannya yang semakin berkembang, AI dapat memberikan manfaat yang besar bagi manusia dan dunia. Namun, perlu diingat bahwa teknologi ini hanya merupakan alat, dan penggunaannya harus dilakukan secara bijak dan bertanggung jawab.{{< /style >}}
+
+{{< admonition quote "Yann LeCun" >}}
+*“Kecerdasan kita adalah apa yang menjadikan kita manusia, dan AI adalah perpanjangan dari kualitas itu.”*
+{{< /admonition >}}
 
 ## ChatGPT
 {{< image src="ChatGPT_logo.svg" width="50" >}}
@@ -80,5 +84,13 @@ Namun, kita tidak tahu bagaimana teknologi akan berkembang di masa depan, sehing
 
 ## Penutup
 {{< style "text-align:justify; strong{color:#00b1ff;}" >}}Memang, suka atau tidak suka, mau atau tidak mau, teknologi AI akan terus berkembang dan ditingkatkan kemampuannya dan menjadi bagian dari keseharian kita. Sekarang pilihan ada pada kita, apakah kita akan membiarkan diri kita menjadi tertinggal karena pekerjaan kita digantikan oleh AI atau kita akan belajar memanfaatkan AI untuk membuat diri kita menjadi produktif. Saat ini kita berada pada pivotal moment, bagaimana kita bekerja, berkarya, dan belajar tidak akan sama seperti dulu lagi. terimalah kenyataan itu dan mulailah diri kita menjadi bagian dari masa depan.{{< /style >}}
+
+{{< admonition info "Klik di sini untuk melihat Daftar Rujukan" false>}}
+1. https://ppg.kemdikbud.go.id/news/peranan-kecerdasan-buatan-artificial-intelligence-dalam-pendidikan
+1. https://www.kompasiana.com/akbarisation/63f59390dfb6a12ab0111543/artificial-intelligence-pembelajaran-berdiferensi-dan-paradigma-kurikulum-merdeka
+1. https://www.gurusiana.id/read/fitradeswita/article/5-pekerjaan-yang-bisa-digantikan-oleh-sistem-komputer-4471845
+1. https://www.detik.com/edu/detikpedia/d-6501769/5-jenis-pekerjaan-yang-tak-bisa-digantikan-robot-dan-ai-mahasiswa-sudah-tahu#:~:text=Robot%20dan%20kecerdasan%20buatan%20tidak%20dirancang%20untuk%20berempati%2C%20menilai%2C%20dan,tidak%20dapat%20digantikan%20oleh%20robot.
+1. https://www.youtube.com/watch?v=t2kY2T49Gnk
+{{< /admonition >}}
 
 {{< style "text-align:justify; strong{color:#00c1ff;}" >}}**Jangan lupa untuk memberikan *komentar* Anda di bawah.**{{< /style >}}

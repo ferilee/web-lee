@@ -52,4 +52,4 @@ toc:
 {{< style "text-align:justify; strong{color:#00b1ff;}" >}} Kesepuluh persamaan matematika di atas merupakan contoh bagaimana matematika telah mengubah dunia kita dan memungkinkan pengembangan teknologi dan ilmu pengetahuan yang luar biasa. Tanpa adanya persamaan-persamaan ini, mungkin kita tidak akan pernah memiliki teknologi seperti roket, komputer, atau internet seperti yang kita kenal sekarang. Oleh karena itu, pengembangan matematika dan pemahaman kita terhadap persamaan-persamaan ini akan terus menjadi faktor penting dalam peradaban manusia di masa depan.
 {{< /style >}}
 
-{{< style "text-align:justify; strong{color:#00c1ff;}" >}}**Jangan lupa untuk memberikan **komentar** anda di bawah.**{{< /style >}}
+{{< style "text-align:justify; strong{color:#00c1ff;}" >}}**Jangan lupa untuk memberikan *komentar* Anda di bawah.**{{< /style >}}

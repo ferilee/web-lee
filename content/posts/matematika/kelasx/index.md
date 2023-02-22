@@ -3,6 +3,7 @@ title: "Kelas X"
 date: 2022-08-14T18:02:09+07:00
 author: "Ferilee"
 authorLink: "https://t.me/ferilee"
+draft: true
 description: ""
 resources:
 - name: "featured-image"

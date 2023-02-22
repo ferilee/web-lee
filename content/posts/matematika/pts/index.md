@@ -4,6 +4,7 @@ date: 2022-10-01T19:33:55+07:00
 author: "Ferilee"
 draft: false
 authorLink: "https://t.me/ferilee"
+draft: true
 description: ""
 resources:
 - name: "featured-image"

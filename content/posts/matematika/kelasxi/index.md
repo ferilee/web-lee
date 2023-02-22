@@ -3,6 +3,7 @@ title: "Kelas XI"
 date: 2022-09-24T19:16:02+07:00
 author: "Ferilee"
 authorLink: "https://t.me/ferilee"
+draft: true
 description: ""
 resources:
 - name: "featured-image"

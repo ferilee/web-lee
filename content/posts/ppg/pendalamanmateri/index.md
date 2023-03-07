@@ -2,6 +2,7 @@
 title: "Pendalaman Materi"
 date: 2022-11-03T09:15:23+07:00
 author: "Ferilee"
+draft: true
 authorLink: "https://t.me/ferilee"
 description: ""
 resources:

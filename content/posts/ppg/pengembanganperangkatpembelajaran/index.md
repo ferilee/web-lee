@@ -2,6 +2,7 @@
 title: "Pengembangan Perangkat Pembelajaran"
 date: 2022-11-27T17:25:50+07:00
 author: "Ferilee"
+draft: true
 authorLink: "https://t.me/ferilee"
 description: ""
 resources:

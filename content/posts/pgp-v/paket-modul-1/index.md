@@ -4,6 +4,7 @@ title: "Paket Modul 1"
 date: 2022-05-01T21:29:01+08:00
 lastmod: 2022-05-01T22:20:01+08:00
 author: "Ferilee"
+draft: true
 authorLink: "https://t.me/ferilee"
 description: "Materi Modul 1"
 resources:

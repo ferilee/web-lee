@@ -2,6 +2,7 @@
 title: "Trigonometri"
 date: 2022-11-30T03:01:04+07:00
 author: "Ferilee"
+draft: true
 authorLink: "https://t.me/ferilee"
 description: ""
 resources:

@@ -66,8 +66,6 @@ theme = "FeelIt"
           description = "[Feri Dwi Hermawan](https://github.com/ferilee). Seorang guru matematika yang gemar mempelajari dunia digital. Akrab dipanggil dengan sebutan ferilee sejak kuliah dulu, karena menyukai bela diri hehehehee ... Aktif di beberapa komunitas digital seperti [Indonesia Digital Teacher](https://t.me/idetizen), [Matematika Nusantara](https://t.me/joinchat/PO_09j0pCNPJ1iHB), dan menyukai channel seperti [GimpScape](https://t.me/gimpscape)."
           # description of your status
 
-
-
 [params.page.math]
   enable = true
   copyTex = true
@@ -114,23 +112,23 @@ theme = "FeelIt"
     identifier = "categories"
     pre = ""
     post = ""
-    name = "Categories"
+    name = "Kategori"
     url = "/categories/"
     title = ""
     weight = 3
   [[menu.main]]
-    identifier = "tantangan"
+    identifier = "pkb"
     pre = ""
     post = ""
-    name = "Tantangan"
-    url = "/challenge/"
+    name = "Pelatihan"
+    url = "/pkb/"
     title = ""
     weight = 4
   [[menu.main]]
     identifier = "dokumen"
     pre = ""
     post = ""
-    name = "Docs"
+    name = "Dokumen"
     url = "/dokumen/"
     title = ""
     weight = 5
@@ -146,7 +144,7 @@ theme = "FeelIt"
     identifier = "about"
     pre = ""
     post = ""
-    name = "About Me"
+    name = "Profil"
     url = "/about/"
     title = ""
     weight = 7
@@ -212,7 +210,7 @@ theme = "FeelIt"
         Telegram = "ferilee"
         Youtubelegacy = "xxxx"
         Youtubecustom = ""
-        Youtubechannel = ""
+        Youtubechannel = "ferilee"
         Pinterest = ""
         Stackoverflow = ""
         VK = ""

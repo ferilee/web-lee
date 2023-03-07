@@ -93,4 +93,6 @@ Namun, kita tidak tahu bagaimana teknologi akan berkembang di masa depan, sehing
 1. https://www.youtube.com/watch?v=t2kY2T49Gnk
 {{< /admonition >}}
 
-{{< style "text-align:justify; strong{color:#00c1ff;}" >}}**Jangan lupa untuk memberikan *komentar* Anda di bawah.**{{< /style >}}
+{{< typeit >}}
+Jangan lupa untuk memberikan *komentar* Anda di bawah yaaa ...
+{{< /typeit >}}

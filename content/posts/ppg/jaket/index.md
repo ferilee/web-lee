@@ -2,6 +2,7 @@
 title: "Jaket PPG Matematika UMM 2022"
 date: 2022-12-05T21:30:26+07:00
 author: "Ferilee"
+draft: true
 authorLink: "https://t.me/ferilee"
 description: ""
 resources:

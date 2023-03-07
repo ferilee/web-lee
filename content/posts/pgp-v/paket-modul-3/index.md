@@ -2,6 +2,7 @@
 title: "Paket Modul 3"
 date: 2022-10-13T04:56:16+07:00
 author: "Ferilee"
+draft: true
 authorLink: "https://t.me/ferilee"
 description: "Materi Modul 3"
 resources:

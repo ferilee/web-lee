@@ -2,6 +2,7 @@
 title: "Lingkaran"
 date: 2022-11-30T03:00:53+07:00
 author: "Ferilee"
+draft: true
 authorLink: "https://t.me/ferilee"
 description: ""
 resources:

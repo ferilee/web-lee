@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial;}
+
+* {
+  box-sizing: border-box;
+}
+
+/* The browser window */
+.container {
+  border: 10px solid #a7c7c6;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+/* Container for columns and the top "toolbar" */
+.row {
+  padding: 10px;
+  background: #f1f1f1;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+/* Create three unequal columns that floats next to each other */
+.column {
+  float: left;
+}
+
+.left {
+  width: 15%;
+}
+
+.right {
+  width: 10%;
+}
+
+.middle {
+  width: 75%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Three dots */
+.dot {
+  margin-top: 4px;
+  height: 12px;
+  width: 12px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+/* Style the input field */
+input[type=text] {
+  width: 100%;
+  border-radius: 3px;
+  border: none;
+  background-color: white;
+  margin-top: -8px;
+  height: 25px;
+  color: #666;
+  padding: 5px;
+}
+
+/* Three bars (hamburger menu) */
+.bar {
+  width: 17px;
+  height: 3px;
+  background-color: #aaa;
+  margin: 3px 0;
+  display: block;
+}
+
+/* Page content */
+.content {
+  padding: 10px;
+}
+
+/* Style the tab */
+.tab {
+  overflow: visible; #hidden
+  border: 1px solid #ccc;
+  background-color: #9df79c;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: transparent; #inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #f44336;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: inline;
+  padding: 6px 12px;
+  -webkit-animation: fadeEffect 1s;
+  animation: fadeEffect 1s;
+}
+
+/* Fade in tabs */
+@-webkit-keyframes fadeEffect {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+
+@keyframes fadeEffect {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+
+.tab_text0 {
+      display: inline-block;
+      margin-left: 10px;
+}
+
+.tab_text1 {
+      display: inline-block;
+      margin-left: 120px;
+}
+.tab_text2 {
+      display: inline-block;
+      margin-left: 12.5px;
+}
+.tab_text3 {
+      display: inline-block;
+      margin-left: 8px;
+}
+
+ul li {
+  background: #cce5ff;
+  color: darkblue;
+  margin: 5px;
+}
+</style>
+</head>
+<body>
+  <div class="container_modul">
+    <div class="row">
+      <div class="column left">
+        <span class="dot" style="background:#ED594A;"></span>
+        <span class="dot" style="background:#FDD800;"></span>
+        <span class="dot" style="background:#5AC05A;"></span>
+      </div>
+      <div class="column middle">
+        <input type="text" value="Pengajar Praktik PGP Angkatan 5 Kabupaten Lumajang">
+      </div>
+      <div class="column right">
+        <div style="float:right">
+          <span class="bar"></span>
+          <span class="bar"></span>
+          <span class="bar"></span>
+        </div>
+      </div>
+    </div>
+
+    <div class="tab">
+      <button class="tablinks" onclick="openCity(event, 'Modul1-1')">Modul</button>
+      <button class="tablinks" onclick="openCity(event, 'PI')">Pendampingan Individu</button>
+      <button class="tablinks" onclick="openCity(event, 'Lokakarya')">Lokakarya</button>
+    </div>
+
+  <div id="Modul1-1" class="tabcontent">
+  <iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" src="https://heyzine.com/flip-book/3f7634ab88.html" style="border: 1px solid lightgray; width: 100%; height: 600px;"></iframe>
+  </div>
+
+  <div id="PI" class="tabcontent">
+    <h3>Pengantar</h3>
+  <iframe width="100%" height="500" src="https://www.youtube.com/embed/k7qq1aquRv4" title="1.1 - Refleksi Filosofi Pendidikan KIi Hadjar Dewantara" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+
+  <div id="Lokakarya" class="tabcontent">
+    <h3>Surat dari Instruktur</h3>
+    <p>Selamat datang Bapak/Ibu Calon Guru Penggerak (CGP) </p>
+    <p align="justify">Selamat! Bapak/Ibu Calon Guru Penggerak (CGP) telah bersedia menyediakan waktu untuk menjadi bagian dari Program Pendidikan Guru Penggerak (PPGP). Program pendidikan ini merupakan wujud komitmen Kementerian Pendidikan dan Kebudayaan (Kemendikbud) berkolaborasi dengan berbagai pihak pemangku kepentingan untuk mewujudkan pendidikan yang berkualitas bagi murid-murid Indonesia. Melalui individu-individu yang proaktif dan memiliki kepedulian terhadap kemajuan dan mutu pendidikan di Indonesia, maka dibentuklah program pendidikan guru penggerak.</p>
+    <p align="justify">Selama beberapa bulan ke depan Anda akan diajak untuk mempertajam keterampilan kepemimpinan Anda, menggali lebih dalam tentang jati diri Anda, mengasah berbagai keterampilan manajemen sekolah serta memperkaya dan menunjang sumber daya manusia yang berkualitas dan mumpuni. Semua kegiatan ini akan dilakukan melalui pelatihan daring (dalam jaringan) maupun tatap muka dengan pemodelan pelatihan yang sudah terbukti efektif dalam meningkatkan kualitas proses dan hasil belajar peserta didik/pelatihan.</p>
+    <p align="justify">Refleksi Filosofi Pendidikan Nasional Ki Hadjar Dewantara menjadi titik awal Anda menjadi agen perubahan dan pemimpin pembelajaran dalam transformasi pendidikan di sekolah. Pada Modul 1.1. ini, kita akan membahas lebih mendalam, dan mendemonstrasikan konsep pemikiran-pemikiran filosofis Ki Hadjar Dewantara dan relevansinya dengan penerapan pendidikan abad ke-21 pada konteks lokal (nilai-nilai luhur sosial-budaya) di tempat asal; serta bersikap reflektif  kritis terhadap pemikiran filosofis Ki Hadjar Dewantara dan relevansinya terhadap konteks pendidikan di daerah asal Anda.</p>
+    <p align="justify">Pada akhirnya kami harapkan Anda akan menikmati proses perjalanan pembelajaran, menjadi seorang pemimpin pembelajar yang berkualitas dan mandiri. Semoga waktu dan energi yang telah Anda investasikan akan dipergunakan sebaik-baiknya dan tentunya  bermanfaat untuk diri sendiri dan orang banyak.</p>
+    <p>Teruslah bertanya, teruslah menggali dan teruslah belajar!</p>
+    <p>Salam, Pengembang Modul 1.1</p>
+  </div>
+
+  <div id="Kompetensi1-1" class="tabcontent">
+    <h3>Kompetensi Lulusan yang Dituju</h3>
+    <ol>Modul ini diharapkan berkontribusi untuk mencapai kompetensi lulusan sebagai berikut:
+      <li>Guru Penggerak memahami peran dan alasan menjadi pemimpin pembelajaran.
+      <li>Guru Penggerak, melalui refleksi diri yang terdokumentasi, mampu secara reguler mengidentifikasi kebutuhan peningkatan kompetensi dan kematangan diri demi mendukung pembelajaran murid.
+    </ol>
+  </div>
+
+  <div id="Capaian1-1" class="tabcontent">
+    <h3>Capaian Umum</h3>
+    <ol>Secara umum, capaian modul ini adalah:
+      <li>CGP mampu memahami pemikiran filosofis pendidikan Ki Hadjar Dewantara dan melakukan refleksi-kritis atas korelasi pemikiran-pemikiran tersebut dengan konteks pendidikan lokal dan nasional pada saat ini.
+      <li>CGP mampu mengambil pembelajaran dari pemikiran filosofis Ki Hadjar Dewantara untuk diterapkan sebagai pemimpin pembelajaran yang mengupayakan terwujudnya sekolah sebagai pusat pengembangan karakter.
+    </ol>
+
+    <h3>Capaian Khusus</h3>
+    <ol>Secara khusus, modul ini diharapkan dapat membantu Calon Guru Penggerak untuk mampu memiliki:
+      <li>Pengetahuan tentang dasar-dasar Pendidikan Ki Hadjar Dewantara (KHD),
+      <li>Keterampilan mengelola pembelajaran yang berpihak pada murid pada konteks lokal kelas dan sekolah,
+      <li>Sikap reflektif-kritis dalam menerapkan pembelajaran yang merefleksikan dasar-dasar Pendidikan KHD dalam menuntun murid mencapai kekuatan kodratnya.
+    </ol>
+  </div>
+
+  <div id="Merdeka1-1" class="tabcontent">
+    <div style="width: 100%;">
+      <div style="position: relative; padding-bottom: 162.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="800" height="1300" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/6319da4e09d43e00189d4c08" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe>
+      </div>
+    </div>
+  </div>
+
+<script>
+function openCity(evt, cityName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+</script>
+</div>
+</body>
+</html>

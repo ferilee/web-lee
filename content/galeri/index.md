@@ -7,8 +7,6 @@ description: ""
 resources:
 - name: "featured-image"
   src: "featured-image.gif"
-- name: "featured-image-preview"
-  src: "featured-image-preview.webp"
 
 tags: ["galeri", "biodata", "foto"]
 

@@ -5,6 +5,7 @@ date: 2022-03-04T21:29:01+08:00
 lastmod: 2022-03-04T21:29:01+08:00
 author: "Ferilee"
 authorLink: "https://t.me/ferilee"
+draft: true
 description: "Materi Pembekalan Pengajar Praktik Angkatan V"
 resources:
 - name: "featured-image"

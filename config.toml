@@ -89,17 +89,17 @@ theme = "FeelIt"
     license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
 [menu]
-  # [[menu.main]]
-  #  identifier = "posts"
+  [[menu.main]]
+    identifier = "posts"
     # you can add extra information before the name (HTML format is supported), such as icons
-  #  pre = ""
+    pre = ""
     # you can add extra information after the name (HTML format is supported), such as icons
-  #  post = ""
-  #  name = "Posts"
-  #  url = "/posts/"
+    post = ""
+    name = "Artikel"
+    url = "/posts/"
     # title will be shown when you hover on this menu link
-  #  title = ""
-  #  weight = 1
+    title = ""
+    weight = 1
   # [[menu.main]]
   #  identifier = "tags"
   #  pre = ""

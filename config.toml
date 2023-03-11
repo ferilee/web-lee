@@ -24,7 +24,7 @@ theme = "FeelIt"
     paramTitle = "Personal Information"
     # general description of your site
     # can be write with markdown style
-    description = "[Feri Dwi Hermawan](https://github.com/ferilee). Seorang guru matematika yang gemar mempelajari dunia digital. Akrab dipanggil dengan sebutan ferilee sejak kuliah dulu, karena menyukai bela diri hehehehee ... Aktif di beberapa komunitas digital seperti [Indonesia Digital Teacher](https://t.me/idetizen), [Matematika Nusantara](https://t.me/joinchat/PO_09j0pCNPJ1iHB), dan menyukai channel seperti [GimpScape](https://t.me/gimpscape)."
+    description = "[Feri Dwi Hermawan](https://github.com/ferilee). Seorang guru matematika yang gemar mempelajari dunia digital. Akrab dipanggil dengan sebutan ferilee sejak kuliah dulu, karena menyukai bela diri :) Aktif di beberapa komunitas digital seperti [Indonesia Digital Teacher](https://t.me/idetizen), [Matematika Nusantara](https://t.me/joinchat/PO_09j0pCNPJ1iHB), dan menyukai channel seperti [GimpScape](https://t.me/gimpscape)."
     # description of your status
     [[params.about.status]]
       faIcon = "fas fa-building"
@@ -51,20 +51,6 @@ theme = "FeelIt"
     [[params.about.parameter]]
       language = "Hugo"
       level = "85"
-
-      # Portfolio page config
-        [params.portfolio]
-          # whether to enable profile on about page
-          # depends on .Site.Params.home.profile.enable
-          enable = true
-          # whether to enable param layout
-          param = true
-          # title for param layout
-          paramTitle = "Personal Information"
-          # general description of your site
-          # can be write with markdown style
-          description = "[Feri Dwi Hermawan](https://github.com/ferilee). Seorang guru matematika yang gemar mempelajari dunia digital. Akrab dipanggil dengan sebutan ferilee sejak kuliah dulu, karena menyukai bela diri hehehehee ... Aktif di beberapa komunitas digital seperti [Indonesia Digital Teacher](https://t.me/idetizen), [Matematika Nusantara](https://t.me/joinchat/PO_09j0pCNPJ1iHB), dan menyukai channel seperti [GimpScape](https://t.me/gimpscape)."
-          # description of your status
 
 [params.page.math]
   enable = true

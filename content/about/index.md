@@ -10,7 +10,7 @@ math:
 
   output:
     html_document:
-       css: assets/css/modal.css
+       css: assets/css/scrolleffect.css
        js: assets/js/modal.js
        self_contained: no
 ---

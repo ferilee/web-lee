@@ -81,7 +81,7 @@ youtubecustom:
 # 011: YouTube Channel
 youtubechannel:
   Weight: 11
-  Prefix: https://www.youtube.com/channel/
+  Prefix: https://www.youtube.com/c/
   Title: YouTube
   Icon:
     Class: fab fa-youtube fa-fw

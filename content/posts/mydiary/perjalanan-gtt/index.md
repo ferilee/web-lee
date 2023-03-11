@@ -20,4 +20,8 @@ Delapan belas tahun lalu aku memutuskan untuk memulai karir sebagai seorang guru
 
 Kalau ditanya tentang seberapa jauh aku melakukan perjalanan dari rumah menuju tempat bertugas selama 18 tahun, mungkin setara dengan perjalanan mengelilingi bumi sebanyak 2,5 kali. Banyak kenangan pahit dan manis yang kualami selama menjadi guru honorer. Semuanya mewarnai hari-hariku dan menjadikanku seperti sekarang ini. Tidak ada yang pantas untuk disesali, sabar dan bersyukur adalah cara terbaik untuk menikmati hidup sebagai seorang guru honorer.
 
+Menjadi guru honorer tidaklah seburuk yang kita pikirkan. Mengemban tugas yang sama besarnya dengan rekan PNS/ASN dan bahkan sering menangani lebih banyak kelas dibanding mereka merupakan kebanggaan tersendiri karena sudah berupaya memberikan manfaat kepada lebih banyak anak didik. Guru honorer seringkali dipandang sebelah mata karena dinilai belum pantas menduduki top position seperti 
+
 {{< mydiary/foto-ferilee/foto >}}
+
+Tahun ini semoga menjadi akhir cerita kehidupanku sebagai guru honorer. Tahun ini juga semoga menjadi awal perjuanganku untuk menjadi lebih baik lagi dalam mengantarkan generasi emas Indonesia.

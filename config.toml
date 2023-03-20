@@ -194,7 +194,7 @@ theme = "FeelIt"
         Instagram = "therealferilee"
         Facebook = "the.real.ferilee"
         Telegram = "ferilee"
-        Youtubelegacy = "xxxx"
+        Youtubelegacy = ""
         Youtubecustom = ""
         Youtubechannel = "ferilee"
         Pinterest = ""
@@ -208,7 +208,7 @@ theme = "FeelIt"
         Whatsapp = ""
         Email = "admingse@ferilee.my.id"
         Resume = "" #goo.gl id
-        RSS = true
+        RSS = false
 
         [params.page.comment]
           enable = false

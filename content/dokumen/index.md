@@ -9,4 +9,3 @@ math: true
 toc:
   auto: false
 ---
-{{< dokumen/index >}}

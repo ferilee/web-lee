@@ -28,42 +28,6 @@ body {
   font-size: 40px;
 }
 
-/* Sticky navbar - toggles between relative and fixed, depending on the scroll position. It is positioned relative until a given offset position is met in the viewport - then it "sticks" in place (like position:fixed). The sticky value is not supported in IE or Edge 15 and earlier versions. However, for these versions the navbar will inherit default position */
-.navbar {
-  overflow: hidden;
-  background-color: #333;
-  position: sticky;
-  position: -webkit-sticky;
-  top: 0;
-}
-
-/* Style the navigation bar links */
-.navbar a {
-  float: left;
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 10px;
-  text-decoration: none;
-}
-
-/* Right-aligned link */
-.navbar a.right {
-  float: right;
-}
-
-/* Change color on hover */
-.navbar a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
-/* Active/current link */
-.navbar a.active {
-  background-color: #666;
-  color: white;
-}
-
 /* Column container */
 .row {
   display: -ms-flexbox; /* IE10 */
@@ -81,27 +45,7 @@ body {
   padding: 20px;
 }
 
-/* Main column */
-.main {
-  -ms-flex: 70%; /* IE10 */
-  flex: 70%;
-  background-color: white;
-  padding: 20px;
-}
 
-/* Fake image, just for this example */
-.fakeimg {
-  background-color: #aaa;
-  width: 100%;
-  padding: 20px;
-}
-
-/* footer_website */
-.footer_website {
-  padding: 5px;
-  text-align: center;
-  background: #f1f5;
-}
 
 /* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 700px) {
@@ -123,6 +67,38 @@ body {
   border: 3px solid #f1f1f1;
   border-top-left-radius: 4px;
   border-top-right-radius: 4px;
+}
+
+/* Container for columns and the top "toolbar" */
+.row {
+  padding: 10px;
+  background: #f1f1f1;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 4px;
+}
+
+/* Create three unequal columns that floats next to each other */
+.column {
+  float: right;
+}
+
+.left {
+  width: 15%;
+}
+
+.right {
+  width: 10%;
+}
+
+.middle {
+  width: 75%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 /* Three dots */
@@ -154,6 +130,11 @@ input[type=text] {
   background-color: #aaa;
   margin: 3px 0;
   display: block;
+}
+
+/* Page content */
+.content {
+  padding: 10px;
 }
 
 /* Style the tab */
@@ -239,7 +220,7 @@ input[type=text] {
 <div id="Modul" class="tabcontent">
   <div class="row">
     <div class="side">
-      <h2>Lokakarya</h2>
+      <h2>Modul</h2>
       <h5>Photo of me:</h5>
     </div>
     <div class="main">
@@ -247,11 +228,29 @@ input[type=text] {
       <h5>Title description, Dec 7, 2017</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
       <p>Some text..</p>
-        <iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" src="https://heyzine.com/flip-book/3f7634ab88.html" style="border: 1px solid lightgray; width: 100%; height: 600px;"></iframe>
     </div>
   </div>
 </div>
 
+<div id="PI" class="tabcontent">
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe title="Pendampingan PGP" frameborder="0" width="1200" height="675" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/6406be6d15f500001a407f3a" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+</div>
+
+<div id="Loka" class="tabcontent">
+  <div class="row">
+    <div class="side">
+      <h2>Lokakarya</h2>
+      <h5>Photo of me:</h5>
+      <div class="fakeimg" style="height:200px;">Image</div>
+    </div>
+    <div class="main">
+      <h2>TITLE HEADING</h2>
+      <h5>Title description, Dec 7, 2017</h5>
+      <div class="fakeimg" style="height:200px;">Image</div>
+      <p>Some text..</p>
+    </div>
+  </div>
+</div>
 
 <script>
 function openCity(evt, cityName) {

@@ -10,8 +10,8 @@ body {font-family: Arial;}
 }
 
 /* The browser window */
-.container {
-  border: 1px solid #f1f1f1;
+.container_window {
+  border: 3px solid #f1f1f1;
   border-top-left-radius: 4px;
   border-top-right-radius: 4px;
 }
@@ -20,13 +20,13 @@ body {font-family: Arial;}
 .row {
   padding: 10px;
   background: #f1f1f1;
-  border-top-left-radius: 10px;
+  border-top-left-radius: 4px;
   border-top-right-radius: 4px;
 }
 
 /* Create three unequal columns that floats next to each other */
 .column {
-  float: right;
+  float: left;
 }
 
 .left {
@@ -132,11 +132,33 @@ input[type=text] {
   to {opacity: 1;}
 }
 
+.tab_text0 {
+      display: inline-block;
+      margin-left: 10px;
+}
 
+.tab_text1 {
+      display: inline-block;
+      margin-left: 120px;
+}
+.tab_text2 {
+      display: inline-block;
+      margin-left: 12.5px;
+}
+.tab_text3 {
+      display: inline-block;
+      margin-left: 8px;
+}
+
+ul li {
+  background: #cce5ff;
+  color: darkblue;
+  margin: 5px;
+}
 </style>
 </head>
 <body>
-  <div class="container">
+  <div class="container_window">
     <div class="row">
       <div class="column left">
         <span class="dot" style="background:#ED594A;"></span>

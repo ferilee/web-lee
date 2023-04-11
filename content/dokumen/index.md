@@ -9,3 +9,10 @@ math: true
 toc:
   auto: false
 ---
+## Capaian Pembelajaran
+## Alur Tujuan Pembelajaran
+## Modul Ajar
+## LKPD
+## Media Pembelajaran
+## Bahan Ajar
+## Asesmen

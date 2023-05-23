@@ -47,25 +47,38 @@ body {
 <body>
 
 <div style="text-align:center">
-  <h2>Expanding Grid</h2>
-  <p>Click on the boxes below:</p>
+  <h2>Media Sosial</h2>
+  <p>Klik/ketuk kotak di bawah untuk melihat postinganku</p>
 </div>
 
 <!-- Three columns -->
 <div class="row">
   <div class="column" onclick="openTab('b1');" style="background:DarkCyan;">
-    Box 1
+    Instagram
   </div>
   <div class="column" onclick="openTab('b2');" style="background:GoldenRod;">
-    Box 2
+    Tiktok
   </div>
   <div class="column" onclick="openTab('b3');" style="background:Crimson;">
-    Box 3
+    Identitasku
   </div>
 </div>
 
 <!-- Full-width columns: (hidden by default) -->
-<div id="b1" class="containerTab" style="display:none;background:DarkCyan">
+
+<div id="b1" class="containerTab" style="display:none;background:Crimson">
+  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+  <h2>Instagram</h2>
+<iframe src="https://widget.taggbox.com/132415" style="width:100%;height:600px;border:none;"></iframe>
+</div>
+
+<div id="b2" class="containerTab" style="display:none;background:GoldenRod">
+  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+  <h2>Tiktok</h2>
+  <iframe src="https://widget.taggbox.com/132404" style="width:100%;height:600px;border:none;"></iframe>
+</div>
+
+<div id="b3" class="containerTab" style="display:none;background:DarkCyan">
   <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
   <h2>Contact Me</h2>
   <div style="position: relative; width: 100%; height: 0; padding-top: 63.2047%;
@@ -75,18 +88,6 @@ body {
       src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFikSqqt7w&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
     </iframe>
   </div>
-</div>
-
-<div id="b2" class="containerTab" style="display:none;background:GoldenRod">
-  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-  <h2>Tiktok</h2>
-  <iframe src="https://widget.taggbox.com/132404" style="width:100%;height:600px;border:none;"></iframe>
-</div>
-
-<div id="b3" class="containerTab" style="display:none;background:Crimson">
-  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-  <h2>Instagram</h2>
-<iframe src="https://widget.taggbox.com/132415" style="width:100%;height:600px;border:none;"></iframe>
 </div>
 
 <script>

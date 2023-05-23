@@ -31,6 +31,8 @@ Workshop Canva for Education di MTs Negeri 1 Jember juga memberikan dampak posit
 
 Selain itu, workshop ini juga membuka jalan bagi kolaborasi antara guru-guru. Mereka dapat berbagi ide, pengalaman, dan sumber daya yang menggunakan Canva for Education. Hal ini menciptakan lingkungan pembelajaran yang dinamis dan inspiratif di MTs Negeri 1 Jember.
 
+{{< mydiary/workshop/tiktokcanva >}}
+
 Dalam kesimpulannya, workshop Canva for Education di MTs Negeri 1 Jember menjadi langkah penting dalam memperluas kreativitas visual dalam pendidikan. Para guru telah dibekali dengan pengetahuan dan keterampilan yang diperlukan untuk menciptakan materi pembelajaran yang menarik dan efektif. Dengan menggunakan Canva for Education, mereka dapat membangun pengalaman belajar yang menyenangkan, interaktif, dan memotivasi siswa untuk mencapai potensi terbaik mereka. MTs Negeri 1 Jember telah membuktikan komitmennya dalam memajukan pendidikan melalui pemanfaatan teknologi yang inovatif.
 
 {{< mydiary/workshop/slidecanva >}}

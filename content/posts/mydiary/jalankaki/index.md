@@ -19,7 +19,7 @@ Olahraga adalah salah satu cara terbaik untuk menjaga kesehatan tubuh kita. Olah
 
 Pagi ini saya mencoba untuk berolahraga ringan dengan berjalan kaki dari rumah menuju sekolah tempat mengajar. Saya menggunakan aplikasi Strava untuk melacak jarak dan waktu yang saya tempuh. Hasilnya menunjukkan bahwa saya telah berjalan sejauh 13,6 km selama 2 jam 53 menit dengan kecepatan rata-rata sekitar 4.5 km/jam. Aplikasi ini memberikan informasi tambahan seperti elevasi dan kecepatan maksimum yang telah saya capai. Aplikasi ini juga dapat membandingkan hasil olahraga kita dengan olahraga lainnya dan memberikan penghargaan atas pencapaian yang telah kita raih sehingga dapat memotivasi diri untuk terus berolahraga secara teratur. Jika tertarik ingin melihat aktivitas olahraga yang saya lakukan silakan klik tautan https://www.strava.com/athletes/ferilee. Melalui aplikasi Strava kita bisa membagikan cerita perjalanan olahraga (jalan kaki, lari, mendaki, bersepeda, dan lain-lain) kita dengan orang lain layaknya media sosial seperti facebook, instagram, dan lainnya. Contoh tampilan strava bisa dilihat di bawah ini.
 
-{{< mydiary/jalankaki_9mei23 >}}
+{{< mydiary/strava/walk_9mei23 >}}
 
 Beberapa manfaat kesehatan dari jalan kaki adalah:
 

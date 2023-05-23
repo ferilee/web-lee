@@ -65,6 +65,8 @@
 
         {{- /* Load JavaScript scripts and CSS */ -}}
         {{- partial "assets.html" . | replaceRE `<script src="/sw.min.js"></script>` `` | safeHTML -}}
+
+        <script src="//code.tidio.co/o6ut5ofrved7auwlwj3xx9rqs0cyds7y.js" async></script>
     </body>
     {{- else if eq $offline true -}}
     <body>

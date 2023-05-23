@@ -10,9 +10,21 @@ toc:
   auto: false
 ---
 ## Capaian Pembelajaran
+{{< dokumen/cp >}}
+
 ## Alur Tujuan Pembelajaran
+{{< dokumen/atp >}}
+
 ## Modul Ajar
+{{< dokumen/ma >}}
+
 ## LKPD
+{{< dokumen/lkpd >}}
+
 ## Media Pembelajaran
+{{< dokumen/mp >}}
+
 ## Bahan Ajar
+{{< dokumen/ba >}}
+
 ## Asesmen

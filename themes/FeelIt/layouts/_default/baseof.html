@@ -66,8 +66,12 @@
         {{- /* Load JavaScript scripts and CSS */ -}}
         {{- partial "assets.html" . | replaceRE `<script src="/sw.min.js"></script>` `` | safeHTML -}}
 
-        <script src="//code.tidio.co/o6ut5ofrved7auwlwj3xx9rqs0cyds7y.js" async></script>
-    </body>
+
+          <script type='text/javascript'>
+            (function(I, L, T, i, c, k, s) {if(I.iticks) return;I.iticks = {host:c, settings:s, clientId:k, cdn:L, queue:[]};var h = T.head || T.documentElement;var e = T.createElement(i);var l = I.location;e.async = true;e.src = (L||c)+'/client/inject-v2.min.js';h.insertBefore(e, h.firstChild);I.iticks.call = function(a, b) {I.iticks.queue.push([a, b]);};})(window, 'https://cdn-v1.intelliticks.com/prod/common', document, 'script', 'https://app.intelliticks.com', 'rBtTfZv9dgCWDCaQk_c', {});
+          </script>
+          
+        </body>
     {{- else if eq $offline true -}}
     <body>
         {{- /* Check theme isDark before body rendering */ -}}

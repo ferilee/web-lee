@@ -24,6 +24,39 @@
         {{- end -}}
     </head>
     {{- if ne $offline true -}}
+
+    <script>
+        (function (Q, R) {
+            if(Q.qr) return;
+            var u = 'https://webview.quickreply.ai/whatsapp/script.min.js';
+            var h = R.head || R.documentElement;
+            var e = R.createElement('script');
+            e.type = 'text/javascript';
+            e.async = true;
+            e.src = u;
+            Q.qr = {
+                brandSetting: {
+                    includePageLink: false,
+                    messageText: "Hai mas Ferilee, aku mau bertanya nih!",
+                    phoneNumber: "+6281330577592"
+                },
+                chatButtonSetting: {
+                    sideMargin: 20,
+                    marginBottom: 20,
+                    position: "left",
+                    buttonType: "ICON_TEXT",
+                    buttonText: "Obrolan",
+                    buttonBgColor: "#04AA6D",
+                    buttonTextColor: "#fff"
+                }
+            };
+            e.onload = function () {
+                CreateWhatsappChatWidget(Q.qr);
+            };
+            h.insertBefore(e, h.lastChild);
+        })(window, document);
+      </script>
+
     <body data-header-desktop="{{ .Site.Params.header.desktopMode }}" data-header-mobile="{{ .Site.Params.header.mobileMode }}">
         {{- /* Check theme isDark before body rendering */ -}}
         {{- $theme := .Site.Params.defaulttheme -}}
@@ -66,11 +99,10 @@
         {{- /* Load JavaScript scripts and CSS */ -}}
         {{- partial "assets.html" . | replaceRE `<script src="/sw.min.js"></script>` `` | safeHTML -}}
 
-
           <script type='text/javascript'>
             (function(I, L, T, i, c, k, s) {if(I.iticks) return;I.iticks = {host:c, settings:s, clientId:k, cdn:L, queue:[]};var h = T.head || T.documentElement;var e = T.createElement(i);var l = I.location;e.async = true;e.src = (L||c)+'/client/inject-v2.min.js';h.insertBefore(e, h.firstChild);I.iticks.call = function(a, b) {I.iticks.queue.push([a, b]);};})(window, 'https://cdn-v1.intelliticks.com/prod/common', document, 'script', 'https://app.intelliticks.com', 'rBtTfZv9dgCWDCaQk_c', {});
           </script>
-          
+
         </body>
     {{- else if eq $offline true -}}
     <body>

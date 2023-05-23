@@ -37,7 +37,7 @@ theme = "FeelIt"
     [[params.about.status]]
       title = "Alamat"
       faIcon = "fas fa-map-marker-alt"
-      desc = "Mutiara Kunir Residence Blok A22"
+      desc = "Mutiara Kunir Residence - A22"
     # description of your parameter
     [[params.about.parameter]]
       language = "Matematika"

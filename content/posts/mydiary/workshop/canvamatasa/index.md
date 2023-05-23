@@ -8,7 +8,7 @@ resources:
 - name: "featured-image"
   src: "cover.gif"
 
-tags: ["jalan kaki","olahraga", "kesehatan"]
+tags: ["workshop","canva", "presentasi"]
 categories: ["My Diary"]
 lightgallery: true
 math: true

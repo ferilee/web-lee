@@ -9,23 +9,5 @@ math: true
 toc:
   auto: false
 ---
-
-## Capaian Pembelajaran
-{{< dokumen/cp >}}
-
-## Alur Tujuan Pembelajaran
-{{< dokumen/atp >}}
-
-## Modul Ajar
-{{< dokumen/ma >}}
-
-## LKPD
-{{< dokumen/lkpd >}}
-
-## Media Pembelajaran
-{{< dokumen/mp >}}
-
-## Bahan Ajar
-{{< dokumen/ba >}}
-
-## Asesmen
+## Perangkat Pembelajaran Kurikulum Merdeka 2023/2024
+{{< dokumen/verticaltab >}}

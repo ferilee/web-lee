@@ -2,6 +2,9 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 <style>
 * {
   box-sizing: border-box;
@@ -78,15 +81,10 @@ body {
 
 <!-- Three columns -->
 <div class="row">
-  <div class="column" onclick="openTab('b1');" style="background:DarkCyan;">
-    Instagram
+  <div class="column" onclick="openTab('b1');" style="background:DarkCyan;"><i class="fa fa-camera-retro fa-lg"></i></div>
+  <div class="column" onclick="openTab('b2');" style="background:GoldenRod;"><i class="fa fa-spinner fa-pulse fa-lg fa-fw"></i>
   </div>
-  <div class="column" onclick="openTab('b2');" style="background:GoldenRod;">
-    Tiktok
-  </div>
-  <div class="column" onclick="openTab('b3');" style="background:Crimson;">
-    Testimoni
-  </div>
+  <div class="column" onclick="openTab('b3');" style="background:Crimson;"><i class="fa fa-comments fa-lg"></i></div>
 </div>
 
 <!-- Full-width columns: (hidden by default) -->

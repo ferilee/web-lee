@@ -17,3 +17,6 @@ toc:
 ---
 ## Pendidikan Guru Penggerak
 {{< pgp/index >}}
+
+## Pendidikan Profesi Guru
+{{< ppg/index >}}

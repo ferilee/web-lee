@@ -2,230 +2,141 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 <style>
-body {font-family: Arial;}
+body {margin:0;font-family:Arial}
 
-* {
-  box-sizing: border-box;
-}
-
-/* The browser window */
-.container {
-  border: 1px solid #f1f1f1;
-  border-top-left-radius: 4px;
-  border-top-right-radius: 4px;
-}
-
-/* Container for columns and the top "toolbar" */
-.row {
-  padding: 10px;
-  background: #f1f1f1;
-  border-top-left-radius: 10px;
-  border-top-right-radius: 4px;
-}
-
-/* Create three unequal columns that floats next to each other */
-.column {
-  float: right;
-}
-
-.left {
-  width: 15%;
-}
-
-.right {
-  width: 10%;
-}
-
-.middle {
-  width: 75%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Three dots */
-.dot {
-  margin-top: 4px;
-  height: 12px;
-  width: 12px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-}
-
-/* Style the input field */
-input[type=text] {
-  width: 100%;
-  border-radius: 3px;
-  border: none;
-  background-color: white;
-  margin-top: -8px;
-  height: 25px;
-  color: #666;
-  padding: 5px;
-}
-
-/* Three bars (hamburger menu) */
-.bar {
-  width: 17px;
-  height: 3px;
-  background-color: #aaa;
-  margin: 3px 0;
-  display: block;
-}
-
-/* Page content */
-.content {
-  padding: 10px;
-}
-
-/* Style the tab */
-.tab {
+.topnav_pgp {
   overflow: hidden;
-  border: 1px solid #ccc;
-  background-color: #ace7ff;
+  background-color: #333;
 }
 
-/* Style the buttons inside the tab */
-.tab button {
-  background-color: inherit;
+.topnav_pgp a {
   float: left;
-  border: none;
-  outline: none;
-  cursor: pointer;
+  display: block;
+  color: white;
+  text-align: center;
   padding: 14px 16px;
-  transition: 0.3s;
+  text-decoration: none;
   font-size: 17px;
 }
 
-/* Change background color of buttons on hover */
-.tab button:hover {
-  background-color: #f44336;
+.active_pgp {
+  background-color: GoldenRod;
+  color: white;
 }
 
-/* Create an active/current tablink class */
-.tab button.active {
-  background-color: #ccc;
-}
-
-/* Style the tab content */
-.tabcontent {
+.topnav_pgp .icon {
   display: none;
-  padding: 6px 12px;
-  -webkit-animation: fadeEffect 1s;
-  animation: fadeEffect 1s;
 }
 
-/* Fade in tabs */
-@-webkit-keyframes fadeEffect {
-  from {opacity: 0;}
-  to {opacity: 1;}
+.dropdown {
+  float: left;
+  overflow: hidden;
 }
 
-@keyframes fadeEffect {
-  from {opacity: 0;}
-  to {opacity: 1;}
+.dropdown .dropbtn {
+  font-size: 17px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
 }
 
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
 
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.topnav_pgp a:hover, .dropdown:hover .dropbtn {
+  background-color: #000;
+  color: white;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav_pgp a:not(:first-child), .dropdown .dropbtn {
+    display: none;
+  }
+  .topnav_pgp a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topnav_pgp.responsive {position: relative;}
+  .topnav_pgp.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav_pgp.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .topnav_pgp.responsive .dropdown {float: none;}
+  .topnav_pgp.responsive .dropdown-content {position: relative;}
+  .topnav_pgp.responsive .dropdown .dropbtn {
+    display: block;
+    width: 100%;
+    text-align: left;
+  }
+}
 </style>
 </head>
 <body>
-  <div class="container">
-    <div class="row">
-      <div class="column left">
-        <span class="dot" style="background:#ED594A;"></span>
-        <span class="dot" style="background:#FDD800;"></span>
-        <span class="dot" style="background:#5AC05A;"></span>
-      </div>
-      <div class="column middle">
-        <input type="text" value="PPG Daljab Kategori 1 Gelombang 2 UMM">
-      </div>
-      <div class="column right">
-        <div style="float:right">
-          <span class="bar"></span>
-          <span class="bar"></span>
-          <span class="bar"></span>
-        </div>
-      </div>
-    </div>
 
-    <div class="tab">
-      <button class="tablinks" onclick="openCity(event, 'Modul1-1')">Modul</button>
-      <button class="tablinks" onclick="openCity(event, 'Pengantar1-1')">Pengantar</button>
-      <button class="tablinks" onclick="openCity(event, 'Surat1-1')">Surat</button>
-    </div>
+<div class="topnav_pgp" id="mytopnav_pgp">
+  <a href="#home" class="active_pgp">Home</a>
+  <a href="#modul">Modul</a>
+  <a href="#lokakarya">Lokakarya</a>
+  <a href="#pendampingan">Pendampingan Individu</a>
+  <a href="#galeri">Galeri</a>
+  <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+</div>
 
-  <div id="Modul1-1" class="tabcontent">
-  <iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" src="https://heyzine.com/flip-book/3f7634ab88.html" style="border: 1px solid lightgray; width: 100%; height: 600px;"></iframe>
-  </div>
-
-  <div id="Pengantar1-1" class="tabcontent">
-    <h3>Pengantar</h3>
-  <iframe width="100%" height="500" src="https://www.youtube.com/embed/k7qq1aquRv4" title="1.1 - Refleksi Filosofi Pendidikan KIi Hadjar Dewantara" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-
-  <div id="Surat1-1" class="tabcontent">
-    <h3>Surat dari Instruktur</h3>
-    <p>Selamat datang Bapak/Ibu Calon Guru Penggerak (CGP) </p>
-    <p align="justify">Selamat! Bapak/Ibu Calon Guru Penggerak (CGP) telah bersedia menyediakan waktu untuk menjadi bagian dari Program Pendidikan Guru Penggerak (PPGP). Program pendidikan ini merupakan wujud komitmen Kementerian Pendidikan dan Kebudayaan (Kemendikbud) berkolaborasi dengan berbagai pihak pemangku kepentingan untuk mewujudkan pendidikan yang berkualitas bagi murid-murid Indonesia. Melalui individu-individu yang proaktif dan memiliki kepedulian terhadap kemajuan dan mutu pendidikan di Indonesia, maka dibentuklah program pendidikan guru penggerak.</p>
-    <p align="justify">Selama beberapa bulan ke depan Anda akan diajak untuk mempertajam keterampilan kepemimpinan Anda, menggali lebih dalam tentang jati diri Anda, mengasah berbagai keterampilan manajemen sekolah serta memperkaya dan menunjang sumber daya manusia yang berkualitas dan mumpuni. Semua kegiatan ini akan dilakukan melalui pelatihan daring (dalam jaringan) maupun tatap muka dengan pemodelan pelatihan yang sudah terbukti efektif dalam meningkatkan kualitas proses dan hasil belajar peserta didik/pelatihan.</p>
-    <p align="justify">Refleksi Filosofi Pendidikan Nasional Ki Hadjar Dewantara menjadi titik awal Anda menjadi agen perubahan dan pemimpin pembelajaran dalam transformasi pendidikan di sekolah. Pada Modul 1.1. ini, kita akan membahas lebih mendalam, dan mendemonstrasikan konsep pemikiran-pemikiran filosofis Ki Hadjar Dewantara dan relevansinya dengan penerapan pendidikan abad ke-21 pada konteks lokal (nilai-nilai luhur sosial-budaya) di tempat asal; serta bersikap reflektif  kritis terhadap pemikiran filosofis Ki Hadjar Dewantara dan relevansinya terhadap konteks pendidikan di daerah asal Anda.</p>
-    <p align="justify">Pada akhirnya kami harapkan Anda akan menikmati proses perjalanan pembelajaran, menjadi seorang pemimpin pembelajar yang berkualitas dan mandiri. Semoga waktu dan energi yang telah Anda investasikan akan dipergunakan sebaik-baiknya dan tentunya  bermanfaat untuk diri sendiri dan orang banyak.</p>
-    <p>Teruslah bertanya, teruslah menggali dan teruslah belajar!</p>
-    <p>Salam, Pengembang Modul 1.1</p>
-  </div>
-
-  <div id="Kompetensi1-1" class="tabcontent">
-    <h3>Kompetensi Lulusan yang Dituju</h3>
-    <ol>Modul ini diharapkan berkontribusi untuk mencapai kompetensi lulusan sebagai berikut:
-      <li>Guru Penggerak memahami peran dan alasan menjadi pemimpin pembelajaran.
-      <li>Guru Penggerak, melalui refleksi diri yang terdokumentasi, mampu secara reguler mengidentifikasi kebutuhan peningkatan kompetensi dan kematangan diri demi mendukung pembelajaran murid.
-    </ol>
-  </div>
-
-  <div id="Capaian1-1" class="tabcontent">
-    <h3>Capaian Umum</h3>
-    <ol>Secara umum, capaian modul ini adalah:
-      <li>CGP mampu memahami pemikiran filosofis pendidikan Ki Hadjar Dewantara dan melakukan refleksi-kritis atas korelasi pemikiran-pemikiran tersebut dengan konteks pendidikan lokal dan nasional pada saat ini.
-      <li>CGP mampu mengambil pembelajaran dari pemikiran filosofis Ki Hadjar Dewantara untuk diterapkan sebagai pemimpin pembelajaran yang mengupayakan terwujudnya sekolah sebagai pusat pengembangan karakter.
-    </ol>
-
-    <h3>Capaian Khusus</h3>
-    <ol>Secara khusus, modul ini diharapkan dapat membantu Calon Guru Penggerak untuk mampu memiliki:
-      <li>Pengetahuan tentang dasar-dasar Pendidikan Ki Hadjar Dewantara (KHD),
-      <li>Keterampilan mengelola pembelajaran yang berpihak pada murid pada konteks lokal kelas dan sekolah,
-      <li>Sikap reflektif-kritis dalam menerapkan pembelajaran yang merefleksikan dasar-dasar Pendidikan KHD dalam menuntun murid mencapai kekuatan kodratnya.
-    </ol>
-  </div>
-
-  <div id="Merdeka1-1" class="tabcontent">
-    <div style="width: 100%;">
-      <div style="position: relative; padding-bottom: 162.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="800" height="1300" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/6319da4e09d43e00189d4c08" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe>
-      </div>
-    </div>
-  </div>
+<div style="padding-left:16px">
+  <h2>Responsive topnav_pgp with Dropdown</h2>
+  <p>Resize the browser window to see how it works.</p>
+  <p>Hover over the dropdown button to open the dropdown menu.</p>
+</div>
 
 <script>
-function openCity(evt, cityName) {
-  var i, tabcontent, tablinks;
-  tabcontent = document.getElementsByClassName("tabcontent");
-  for (i = 0; i < tabcontent.length; i++) {
-    tabcontent[i].style.display = "none";
+function myFunction() {
+  var x = document.getElementById("mytopnav_pgp");
+  if (x.className === "topnav_pgp") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav_pgp";
   }
-  tablinks = document.getElementsByClassName("tablinks");
-  for (i = 0; i < tablinks.length; i++) {
-    tablinks[i].className = tablinks[i].className.replace(" active", "");
-  }
-  document.getElementById(cityName).style.display = "block";
-  evt.currentTarget.className += " active";
 }
 </script>
-</div>
+
 </body>
 </html>

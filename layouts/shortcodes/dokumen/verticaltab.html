@@ -3,7 +3,7 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- Add icon library -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 <style>
 * {box-sizing: border-box}
 body {font-family: "Lato", sans-serif;}
@@ -51,14 +51,51 @@ body {font-family: "Lato", sans-serif;}
   border-left: none;
   height: 400px;
 }
+
+/* -------- coming soon -------- */
+.bgimg_comingsoon {
+  background-image: url('/w3images/forestbridge.jpg');
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  color: Crimson;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 25px;
+}
+
+.topleft_comingsoon {
+  position: absolute;
+  top: 0;
+  left: 16px;
+}
+
+.bottomleft_comingsoon {
+  position: absolute;
+  bottom: 0;
+  left: 16px;
+}
+
+.middle_comingsoon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+hr {
+  margin: auto;
+  width: 40%;
+}
 </style>
 </head>
 <body>
 <div class="vertab">
-  <button class="vertablinks" onclick="openCity(event, 'Modul_Ajar')" id="defaultOpen"><i class="fa fa-book"></i></button>
-  <button class="vertablinks" onclick="openCity(event, 'Bahan_Ajar')" id="defaultOpen"><i class="fa fa-book-open"></i></button>
-  <button class="vertablinks" onclick="openCity(event, 'LKPD')" id="defaultOpen"><i class="fa fa-file"></i></button>
-  <button class="vertablinks" onclick="openCity(event, 'Media_Pembelajaran')" id="defaultOpen"><i class="fa fa-play"></i></button>
+  <button class="vertablinks" onclick="openCity(event, 'Modul_Ajar')" id="defaultOpen"><i class="fa-solid fa-book-open-reader"></i></button>
+  <button class="vertablinks" onclick="openCity(event, 'Bahan_Ajar')" id="defaultOpen"><i class="fa-solid fa-book-bookmark"></i></button>
+  <button class="vertablinks" onclick="openCity(event, 'LKPD')" id="defaultOpen"><i class="fa-solid fa-sheet-plastic"></i></button>
+  <button class="vertablinks" onclick="openCity(event, 'Media_Pembelajaran')" id="defaultOpen"><i class="fa-solid fa-chalkboard-user"></i></button>
 </div>
 
 <div id="Modul_Ajar" class="vertabcontent">
@@ -69,17 +106,53 @@ body {font-family: "Lato", sans-serif;}
 
 <div id="Bahan_Ajar" class="vertabcontent">
   <h3>Bahan Ajar</h3>
-  <p>Paris is the capital of France.</p>
+  <div class="bgimg_comingsoon">
+    <div class="topleft_comingsoon">
+      <p>Logo</p>
+    </div>
+    <div class="middle_comingsoon">
+      <h1>COMING SOON</h1>
+      <hr>
+      <p id="demo" style="font-size:30px"></p>
+    </div>
+    <div class="bottomleft_comingsoon">
+      <p>Some text</p>
+    </div>
+  </div>
 </div>
 
 <div id="LKPD" class="vertabcontent">
   <h3>Paris</h3>
-  <p>Paris is the capital of France.</p>
+  <div class="bgimg_comingsoon">
+    <div class="topleft_comingsoon">
+      <p>Logo</p>
+    </div>
+    <div class="middle_comingsoon">
+      <h1>COMING SOON</h1>
+      <hr>
+      <p id="demo" style="font-size:30px"></p>
+    </div>
+    <div class="bottomleft_comingsoon">
+      <p>Some text</p>
+    </div>
+  </div>
 </div>
 
 <div id="Media_Pembelajaran" class="vertabcontent">
-  <h3>Tokyo</h3>
-  <p>Tokyo is the capital of Japan.</p>
+  <h3>Media Pembelajaran</h3>
+  <div class="bgimg_comingsoon">
+    <div class="topleft_comingsoon">
+      <p>Logo</p>
+    </div>
+    <div class="middle_comingsoon">
+      <h1>COMING SOON</h1>
+      <hr>
+      <p id="demo" style="font-size:30px"></p>
+    </div>
+    <div class="bottomleft_comingsoon">
+      <p>Some text</p>
+    </div>
+  </div>
 </div>
 
 <script>
@@ -99,6 +172,36 @@ function openCity(evt, cityName) {
 
 // Get the element with id="defaultOpen" and click on it
 document.getElementById("defaultOpen").click();
+
+// ------------------- Skrip coming soon
+// Set the date we're counting down to
+var countDownDate = new Date("Jun 1, 2023 07:00:00").getTime();
+
+// Update the count down every 1 second
+var countdownfunction = setInterval(function() {
+
+  // Get todays date and time
+  var now = new Date().getTime();
+
+  // Find the distance between now an the count down date
+  var distance = countDownDate - now;
+
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+  // Output the result in an element with id="demo"
+  document.getElementById("demo").innerHTML = days + "hari " + hours + "jam "
+  + minutes + "menit " + seconds + "detik ";
+
+  // If the count down is over, write some text
+  if (distance < 0) {
+    clearInterval(countdownfunction);
+    document.getElementById("demo").innerHTML = "EXPIRED";
+  }
+}, 1000);
 </script>
 
 </body>

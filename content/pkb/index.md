@@ -6,7 +6,7 @@ authorLink: "https://t.me/ferilee"
 description: ""
 resources:
 - name: "featured-image"
-  src: "Cover-PKB.gif"
+  src: ""
 
 tags: ["ppg", "pgp"]
 
@@ -17,6 +17,3 @@ toc:
 ---
 ## Pendidikan Guru Penggerak
 {{< pgp/index >}}
-
-## Pendidikan Profesi Guru
-{{< ppg/index >}}

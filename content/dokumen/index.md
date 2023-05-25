@@ -9,5 +9,5 @@ math: true
 toc:
   auto: false
 ---
-## Perangkat Pembelajaran Kurikulum Merdeka 2023/2024
+## Perangkat Pembelajaran Kurikulum Merdeka
 {{< dokumen/verticaltab >}}

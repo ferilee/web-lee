@@ -223,6 +223,12 @@ theme = "FeelIt"
           # telegram comments
           telegram_site_id= "pzaWdwUk"
 
+        [params.logo]
+          description = ""
+          keywords = ""
+          logo = "../favicon.png"
+          favicon = "/favicon/"
+
 # Markup related configuration in Hugo
 [markup]
   # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)

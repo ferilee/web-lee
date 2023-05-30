@@ -11,4 +11,3 @@ toc:
 ---
 ## Perangkat Pembelajaran Kurikulum Merdeka
 {{< dokumen/verticaltab >}}
-{{< dokumen/card/card >}}

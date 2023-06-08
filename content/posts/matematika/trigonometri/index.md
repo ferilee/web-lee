@@ -1,6 +1,6 @@
 ---
 title: "Trigonometri"
-date: 2022-01-22T19:33:55+07:00
+date: 2022-01-10T19:33:55+07:00
 author: "Ferilee"
 authorLink: "https://t.me/ferilee"
 

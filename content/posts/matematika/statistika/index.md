@@ -19,57 +19,41 @@ toc:
 ---
 ## Deskripsi
 {{< admonition info "Bahan Ajar" >}}
-Bahan ajar ini disusun untuk menambah referensi peserta didik dalam mempelajari materi Perbandingan Trigonometri pada Segitiga Siku-siku. Di dalam bahan ajar ini terdapat materi dan contoh soal beserta pembahasannya untuk mempermudah peserta didik dalam memahami materi ini. \
+Bahan ajar ini disusun untuk menambah referensi peserta didik dalam mempelajari materi tentang ukuran pemusatan data (statistika). Di dalam bahan ajar ini terdapat materi dan contoh soal beserta pembahasannya untuk mempermudah peserta didik dalam memahami materi ini. \
 \
 Selamat belajar.
 {{< /admonition >}}
 
-## A. Perbandingan Trigonometri
-{{< admonition note "Ayo mengingat kembali" >}}
-Sebelum mempelajari perbandingan trigonometri, kalian perlu mengingat:
-* teorema Pythagoras yang berlaku pada segitiga siku-siku. \
-Pada segitiga siku-siku berlaku persamaan berikut: $a^2+b^2=c^2$
-* rasio (perbandingan) \
-Rasio adalah nilai/bilangan yang menjelaskan keterkaitan antara dua hal.
-Misalnya diketahui nilai perbandingan tinggi penggaris dengan pohon adalah $\frac{1}{100}$. Jika tinggi penggaris 3 cm dan tinggi bayangan 6 cm, kita bisa mengambil kesimpulan bahwa tinggi pohon adalah 300 cm dan tinggi bayangan pohon adalah 600 cm.
-* konsep kesebangunan segitiga \
-Konsep ini juga mempunyai hubungan dekat dengan konsep rasio perbandingan.
-Dua segitiga dapat memenuhi syarat kesebangun jika: \
-• Ketiga sudut pada segitiga sama besarnya atau \
-• Ketiga sisi segitiga sebanding (mempunyai nilai rasio yang sama)
-{{< /admonition >}}
+{{< matematika/petakonsepstatistik >}}
 
-### 1. Penamaan Sisi Segitiga Siku-siku
+## A. Histogram
 {{< style "text-align:justify; strong{color:#00b1ff;}" >}}
-Perbandingan trigonometri secara sederhana adalah perbandingan nilai segitiga siku-siku yang istimewa dan berguna. Ketiga garis dalam segitiga siku-siku mempunyai nama tertentu.
+Ada berbagai tipe diagram. Diagram mana yang paling baik untuk digunakan sangat tergantung pada data apa yang kalian miliki dan informasi apa yang ingin kalian sampaikan.
+
+Salah satu diagram yang dapat kalian gunakan adalah histogram. Histogram hampir serupa dengan diagram batang, namun histogram berbeda dengan diagram batang. Gambar 1 dan 2 menunjukkan contoh histogram dan diagram batang.
+{{< /style >}}
+{{< matematika/histogram_batang >}}
+
+{{< style "text-align:justify; strong{color:#00b1ff;}" >}}
+Histogram biasanya digunakan untuk menunjukkan distribusi dari suatu kelompok data, sedangkan diagram batang digunakan untuk membandingkan data. Histogram menampilkan data yang sifatnya kuantitatif dengan rentang data yang dikelompokkan ke dalam interval, sedangkan diagram batang menampilkan data yang sifatnya kategori.
+
+Perbedaan lainnya, pada histogram, gambar batang menempel satu sama lain, sedangkan pada diagram batang, ada spasi antarbatang. Perbedaan terakhir, diagram batang biasanya memiliki batang dengan lebar yang sama, sedangkan lebar batang dalam histogram tidak perlu sama selama luas totalnya seratus persen jika digunakan persen atau luas total sama dengan jumlah data. Oleh karena itu, frekuensi data dalam diagram batang dilihat dari panjang batang, sedangkan frekuensi dalam histogram diberikan berdasarkan area pada masing-masing batang.
 {{< /style >}}
 
-Silakan cermati gambar berikut ini:\
-{{< image src="segitiga_sikusiku.png" width="25%" >}}
+## B. Frekuensi Relatif
+Frekuensi pada histogram tidak harus selalu menunjukkan banyaknya data yang ada dalam setiap interval. Histogram juga dapat menggunakan persentase sebagai frekuensi relatif dari setiap kelas intervalnya.
 
-Tiga nama untuk setiap sisi segitiga pada gambar di atas adalah:\
-• sisi depan, sisi yang berada tepat di seberang sudut θ. \
-• sisi samping, sisi yang berada di samping sudut θ. \
-• sisi miring, sisi yang berada di seberang sudut siku-siku.
+> Eksplorasi 7.2 Frekuensi Relatif dalam Histogram \
+Ayo Berdiskusi
+{{< matematika/petakonsepstatistik >}}
 
-
-{{< admonition example "Contoh Soal" >}}
-Tentukan nama yang tepat untuk setiap sisi segitiga siku-siku pada Gambar berikut
-
-{{< /admonition >}}
-{{< image src="segitiga_sikusiku_2.png" width="100%" >}}
-### 2. Satu Jenis Perbandingan Trigonometri: Tan θ
-Tangen (Tan) suatu sudut dapat ditemukan dengan membagi panjang sisi depan dan sisi samping segitiga. Tan dapat dituliskan sebagai berikut: $tan ~ \theta = \cfrac{sisi ~ depan}{sisi ~ samping}$
-### 3. Kegunaan Perbandingan Trigonometri Tan θ
-
-## B. Pemanfaatan Perbandingan Trigonometri
-
-### 1. Perbandingan Trigonometri di Piramida
-### 2. Tiga Serangkai Perbandingan Trigonometri
-### 3. Sudut Istimewa Perbandingan Trigonometri
-###
+## C. Ukuran Pemusatan
+## D. Ukuran Penempatan
+## E. Ukuran Penyebaran
 
 <!--
+
+{{< style "text-align:justify; strong{color:#00b1ff;}" >}}{{< /style >}}
 
 {{< admonition info "INFO" >}}
 note, info, abstract, tip, success, question, warning, failure, danger, bug, example, quote

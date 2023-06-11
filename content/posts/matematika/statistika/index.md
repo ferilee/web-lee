@@ -24,7 +24,7 @@ Bahan ajar ini disusun untuk menambah referensi peserta didik dalam mempelajari 
 Selamat belajar.
 {{< /admonition >}}
 
-{{< matematika/petakonsepstatistik >}}
+{{< matematika/statistik/petakonsep-statistik >}}
 
 ## A. Histogram
 {{< style "text-align:justify; strong{color:#00b1ff;}" >}}
@@ -32,7 +32,7 @@ Ada berbagai tipe diagram. Diagram mana yang paling baik untuk digunakan sangat 
 
 Salah satu diagram yang dapat kalian gunakan adalah histogram. Histogram hampir serupa dengan diagram batang, namun histogram berbeda dengan diagram batang. Gambar 1 dan 2 menunjukkan contoh histogram dan diagram batang.
 {{< /style >}}
-{{< matematika/histogram_batang >}}
+{{< matematika/statistik/histogram-batang >}}
 
 {{< style "text-align:justify; strong{color:#00b1ff;}" >}}
 Histogram biasanya digunakan untuk menunjukkan distribusi dari suatu kelompok data, sedangkan diagram batang digunakan untuk membandingkan data. Histogram menampilkan data yang sifatnya kuantitatif dengan rentang data yang dikelompokkan ke dalam interval, sedangkan diagram batang menampilkan data yang sifatnya kategori.
@@ -43,9 +43,19 @@ Perbedaan lainnya, pada histogram, gambar batang menempel satu sama lain, sedang
 ## B. Frekuensi Relatif
 Frekuensi pada histogram tidak harus selalu menunjukkan banyaknya data yang ada dalam setiap interval. Histogram juga dapat menggunakan persentase sebagai frekuensi relatif dari setiap kelas intervalnya.
 
-> Eksplorasi 7.2 Frekuensi Relatif dalam Histogram \
-Ayo Berdiskusi
-{{< matematika/petakonsepstatistik >}}
+> {{< style "text-align:center; strong{color:#00b1ff;}" >}}**Eksplorasi 7.2 Frekuensi Relatif dalam Histogram**{{< /style >}} \
+Ayo berdiskusi dengan menjawab pertanyaan berikut.
+{{< matematika/statistik/histogram-hasil-ulangan >}}
+Dari histogram pada Gambar 3, ditunjukkan bahwa ada 16% siswa yang mendapatkan nilai matematika antara 70 sampai 75.\
+• Apakah ini berarti ada 16 siswa yang berada di kelas tersebut? Jelaskan!\
+• Interval kelas manakah yang memiliki persentase terbesar? Berapa persen kelas dengan interval tersebut? \
+Misalkan ada 200 siswa yang mengikuti ulangan matematika tersebut. Berapakah banyaknya siswa yang mendapatkan nilai 85 ke atas tapi di bawah 90?
+
+{{< style "text-align:justify; strong{color:#00b1ff;}" >}}
+Apabila kalian menambahkan seluruh persen pada setiap interval, berapakah seharusnya jumlah total persen yang kalian peroleh? Jelaskan!
+
+Histogram dengan frekuensi relatif sangat efektif jika digunakan untuk membandingkan dua kelompok data dengan jumlah data yang berbeda, misalnya, jika kalian ingin membandingkan data harian berapa persen penduduk di Jakarta dengan penduduk di Bali yang telah sembuh dari Covid-19. Karena jumlah total penduduk yang terinfeksi Covid-19 di Jakarta berbeda dengan Bali, maka penggunaan persentase sebagai frekuensi relatif memberikan gambaran yang lebih baik.
+{{< /style >}}
 
 ## C. Ukuran Pemusatan
 ## D. Ukuran Penempatan

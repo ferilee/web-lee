@@ -5,13 +5,10 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 <style>
 body {margin:0;font-family:Arial}
-* {
-  box-sizing: border-box;
-}
 
 .topnav_pgp {
   overflow: hidden;
-  background-color: #2B2A4C;
+  background-color: #333;
 }
 
 .topnav_pgp a {
@@ -25,7 +22,7 @@ body {margin:0;font-family:Arial}
 }
 
 .active_pgp {
-  background-color: #EEE2DE;
+  background-color: GoldenRod;
   color: white;
 }
 
@@ -68,7 +65,7 @@ body {margin:0;font-family:Arial}
 }
 
 .topnav_pgp a:hover, .dropdown:hover .dropbtn {
-  background-color: #EEE2DE;
+  background-color: GoldenRod;
   color: white;
 }
 
@@ -111,77 +108,26 @@ body {margin:0;font-family:Arial}
     text-align: left;
   }
 }
-
-/* --------- Style the tab --------- */
-.tab {
-  overflow: hidden;
-  border: 1px solid #ccc;
-  background-color: #ace7ff;
-}
-
-/* Style the buttons inside the tab */
-.tab button {
-  background-color: inherit;
-  float: left;
-  border: none;
-  outline: none;
-  cursor: pointer;
-  padding: 14px 16px;
-  transition: 0.3s;
-  font-size: 17px;
-}
-
-/* Change background color of buttons on hover */
-.tab button:hover {
-  background-color: #f44336;
-}
-
-/* Create an active/current tablink class */
-.tab button.active {
-  background-color: #ccc;
-}
-
-/* Style the tab content */
-.tabcontent {
-  display: none;
-  padding: 6px 12px;
-  -webkit-animation: fadeEffect 1s;
-  animation: fadeEffect 1s;
-}
-
-/* Fade in tabs */
-@-webkit-keyframes fadeEffect {
-  from {opacity: 0;}
-  to {opacity: 1;}
-}
-
-@keyframes fadeEffect {
-  from {opacity: 0;}
-  to {opacity: 1;}
-}
 </style>
 </head>
 <body>
 
 <div class="topnav_pgp" id="mytopnav_pgp">
-  <a href="#home" class="active_pgp" onclick="openCity(event, 'home')"><i class="fa fa-fw fa-home"></i> Home</a>
+  <a href="#home" class="active_pgp"><i class="fa fa-fw fa-home"></i> Home</a>
   <a href="#modul" onclick="window.location.href='https://www.canva.com/design/DAFjyjmRRBA/UhiUjq7PL4cXWElNnuXlDw/edit?utm_content=DAFjyjmRRBA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton';"><i class="fa fa-fw fa-search"></i>Modul</a>
-  <a href="#Modul1-1" onclick="openCity(event, 'Modul1-1')"><i class="fa fa-fw fa-search"></i>Lokakarya</a>
-  <a href="#pendampingan" onclick="openCity(event, 'Pendampingan')"><i class="fa fa-fw fa-search"></i>Pendampingan Individu</a>
+  <a href="#lokakarya"><i class="fa fa-fw fa-search"></i>Lokakarya</a>
+  <a href="#pendampingan"><i class="fa fa-fw fa-search"></i>Pendampingan Individu</a>
   <a href="javascript:alert('Ci Luk baaaa!');"><i class="fa fa-fw fa-search"></i>Galeri</a>
   <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
 </div>
 
-<div id="home" class="tabcontent">
-<p>Beranda</p>
-</div>
+<h2 id="lokakarya">Lokakarya</h2>
+<p>In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever since.</p>
 
-<div id="Modul1-1" class="tabcontent">
-<iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" src="https://heyzine.com/flip-book/3f7634ab88.html" style="border: 1px solid lightgray; width: 100%; height: 600px;"></iframe>
-</div>
-
-<div id="Pendampingan" class="tabcontent">
-<p>Pendampingan Individu</p>
+<div style="padding-left:16px" id="pendampingan">
+  <h2>Pendampingan</h2>
+  <p>Resize the browser window to see how it works.</p>
+  <p>Hover over the dropdown button to open the dropdown menu.</p>
 </div>
 
 <script>
@@ -193,20 +139,7 @@ function myFunction() {
     x.className = "topnav_pgp";
   }
 }
-
-function openCity(evt, cityName) {
-  var i, tabcontent, tablinks;
-  tabcontent = document.getElementsByClassName("tabcontent");
-  for (i = 0; i < tabcontent.length; i++) {
-    tabcontent[i].style.display = "none";
-  }
-  tablinks = document.getElementsByClassName("tablinks");
-  for (i = 0; i < tablinks.length; i++) {
-    tablinks[i].className = tablinks[i].className.replace(" active", "");
-  }
-  document.getElementById(cityName).style.display = "block";
-  evt.currentTarget.className += " active";
-}
 </script>
+
 </body>
 </html>

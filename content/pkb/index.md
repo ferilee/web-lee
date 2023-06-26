@@ -1,22 +1,16 @@
 ---
-title: "Pengembangan Kompetensi"
+title: ""
 date: 2022-09-14T16:09:05+07:00
 author: "Ferilee"
 authorLink: "https://t.me/ferilee"
 description: ""
 resources:
 - name: "featured-image"
-  src: ""
+  src: "Cover-PKB.gif"
 
 tags: ["ppg", "pgp"]
 
-lightgallery: false
+lightgallery: true
 math: true
-toc:
-  auto: true
 ---
-## Pendidikan Guru Penggerak
 {{< pgp/index >}}
-
-## Pendidikan Profesi Guru
-{{< ppg/index >}}

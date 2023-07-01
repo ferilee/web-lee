@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content_galeri="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Center website */
+.main_galeri {
+  max-width: 1000px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 50px;
+  word-break: break-all;
+}
+
+.row_galeri {
+  margin: 10px -16px;
+}
+
+/* Add padding BETWEEN each column_galeri */
+.row_galeri,
+.row_galeri > .column_galeri {
+  padding: 8px;
+}
+
+/* Create three equal column_galeris that floats next to each other */
+.column_galeri {
+  float: left;
+  width: 33.33%;
+  display: none; /* Hide all elements by default */
+}
+
+/* Clear floats after row_galeris */
+.row_galeri:after {
+  content_galeri: "";
+  display: table;
+  clear: both;
+}
+
+/* content_galeri */
+.content_galeri {
+  background-color: #f1f1f1;
+  padding: 10px;
+}
+
+/* The "show_galeri" class is added to the filtered elements */
+.show_galeri {
+  display: block;
+}
+
+/* Style the buttons */
+.btn_galeri {
+  border: none;
+  outline: 3px;
+  padding: 10px 16px;
+  background-color: white;
+  cursor: pointer;
+}
+
+.btn_galeri:hover {
+  background-color: #ddd;
+}
+
+.btn_galeri.active {
+  background-color: #666;
+  color: white;
+}
+
+.button1 {border-radius: 50px;}
+</style>
+</head>
+<body>
+
+<!-- main_galeri (Center website) -->
+<div class="main_galeri">
+<div id="mybtn_galeriContainer">
+  <button class="btn_galeri active button1" onclick="filterSelection('all')"> Semua</button>
+  <button class="btn_galeri button1" onclick="filterSelection('nature')"> Nature</button>
+  <button class="btn_galeri button1" onclick="filterSelection('cars')"> Cars</button>
+  <button class="btn_galeri button1" onclick="filterSelection('people')"> People</button>
+</div>
+
+<!-- Portfolio Gallery Grid -->
+<div class="row_galeri">
+  <div class="column_galeri nature">
+    <div class="content_galeri">
+      <img src="https://github.com/ferilee/web-lee/blob/main/static/favicon.png?raw=tru" alt="Mountains" style="width:100%">
+      <h4>Mountains</h4>
+      <p>Lorem ipsum dolor..</p>
+    </div>
+  </div>
+  <div class="column_galeri nature">
+    <div class="content_galeri">
+    <img src="https://github.com/ferilee/web-lee/blob/main/static/favicon.png?raw=tru" alt="Lights" style="width:100%">
+      <h4>Lights</h4>
+      <p>Lorem ipsum dolor..</p>
+    </div>
+  </div>
+  <div class="column_galeri nature">
+    <div class="content_galeri">
+    <img src="https://github.com/ferilee/web-lee/blob/main/static/favicon.png?raw=tru" alt="Nature" style="width:100%">
+      <h4>Forest</h4>
+      <p>Lorem ipsum dolor..</p>
+    </div>
+  </div>
+
+  <div class="column_galeri cars">
+    <div class="content_galeri">
+      <img src="https://github.com/ferilee/web-lee/blob/main/static/favicon.png?raw=tru" alt="Car" style="width:100%">
+      <h4>Retro</h4>
+      <p>Lorem ipsum dolor..</p>
+    </div>
+  </div>
+  <div class="column_galeri cars">
+    <div class="content_galeri">
+    <img src="https://github.com/ferilee/web-lee/blob/main/static/favicon.png?raw=tru" alt="Car" style="width:100%">
+      <h4>Fast</h4>
+      <p>Lorem ipsum dolor..</p>
+    </div>
+  </div>
+  <div class="column_galeri cars">
+    <div class="content_galeri">
+    <img src="https://github.com/ferilee/web-lee/blob/main/static/favicon.png?raw=tru" alt="Car" style="width:100%">
+      <h4>Classic</h4>
+      <p>Lorem ipsum dolor..</p>
+    </div>
+  </div>
+
+  <div class="column_galeri people">
+    <div class="content_galeri">
+      <img src="https://github.com/ferilee/web-lee/blob/main/static/favicon.png?raw=tru" alt="Car" style="width:100%">
+      <h4>Girl</h4>
+      <p>Lorem ipsum dolor..</p>
+    </div>
+  </div>
+  <div class="column_galeri people">
+    <div class="content_galeri">
+    <img src="https://github.com/ferilee/web-lee/blob/main/static/favicon.png?raw=tru" alt="Car" style="width:100%">
+      <h4>Man</h4>
+      <p>Lorem ipsum dolor..</p>
+    </div>
+  </div>
+  <div class="column_galeri people">
+    <div class="content_galeri">
+    <img src="https://github.com/ferilee/web-lee/blob/main/static/favicon.png?raw=tru" alt="Car" style="width:100%">
+      <h4>Woman</h4>
+      <p>Lorem ipsum dolor..</p>
+    </div>
+  </div>
+<!-- END GRID -->
+</div>
+
+<!-- END main_galeri -->
+</div>
+
+<script>
+filterSelection("all")
+function filterSelection(c) {
+  var x, i;
+  x = document.getElementsByClassName("column_galeri");
+  if (c == "all") c = "";
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "show_galeri");
+    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show_galeri");
+  }
+}
+
+function w3AddClass(element, name) {
+  var i, arr1, arr2;
+  arr1 = element.className.split(" ");
+  arr2 = name.split(" ");
+  for (i = 0; i < arr2.length; i++) {
+    if (arr1.indexOf(arr2[i]) == -1) {element.className += " " + arr2[i];}
+  }
+}
+
+function w3RemoveClass(element, name) {
+  var i, arr1, arr2;
+  arr1 = element.className.split(" ");
+  arr2 = name.split(" ");
+  for (i = 0; i < arr2.length; i++) {
+    while (arr1.indexOf(arr2[i]) > -1) {
+      arr1.splice(arr1.indexOf(arr2[i]), 1);
+    }
+  }
+  element.className = arr1.join(" ");
+}
+
+
+// Add active class to the current button (highlight it)
+var btn_galeriContainer = document.getElementById("mybtn_galeriContainer");
+var btn_galeris = btn_galeriContainer.getElementsByClassName("btn_galeri");
+for (var i = 0; i < btn_galeris.length; i++) {
+  btn_galeris[i].addEventListener("click", function(){
+    var current = document.getElementsByClassName("active");
+    current[0].className = current[0].className.replace(" active", "");
+    this.className += " active";
+  });
+}
+</script>
+
+</body>
+</html>

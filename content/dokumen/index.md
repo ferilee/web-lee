@@ -21,7 +21,42 @@ Pada halaman ini terdapat perangkat pembelajaran yang terdiri dari modul ajar, b
 Selamat menjelajahi daftar perangkat pembelajaran ini! Semoga bisa menginspirasi pembelajaran Anda. Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk menghubungi saya. Terima kasih telah mengunjungi website pribadi saya, dan semoga Anda menikmati pengalaman belajar yang luar biasa!
 
 ## Kalender Pendidikan
+{{< admonition info "Informasi" >}}
+Kalender Pendidikan ini disematkan dari Canva dan terdiri dari beberapa halaman. Untuk berpindah dari halaman ke halaman lainnya klik pada tepi (kanan atau kiri) gambar.{{< /admonition >}}
 {{< dokumen/kaldik >}}
 
 ## Perangkat Pembelajaran Kurikulum Merdeka
 {{< dokumen/verticaltab >}}
+
+<!--
+
+{{< style "text-align:justify; strong{color:#00b1ff;}" >}}{{< /style >}}
+
+{{< admonition info "INFO" >}}
+note, info, abstract, tip, success, question, warning, failure, danger, bug, example, quote
+{{< /admonition >}}
+
+{{< mermaid >}}
+journey
+    title My working day
+    section Go to work
+      Make tea: 5: Me
+      Go upstairs: 3: Me
+      Do work: 1: Me, Cat
+    section Go home
+      Go downstairs: 5: Me
+      Sit down: 5: Me
+
+{{< /mermaid >}}
+
+
+{{< typeit >}}
+This is a *paragraph* with **typing animation** based on [TypeIt](https://typeitjs.com/)...
+{{< /typeit >}}
+
+
+> **Fusion Drive** combines a hard drive with a flash storage (solid-state drive) and presents it as a single logical volume with the space of both drives combined.
+
+$ c = \pm\sqrt{a^2 + b^2} $ and \\( f(x)=\int_{-\infty}^{\infty} \hat{f}(\xi) e^{2 \pi i \xi x} d \xi \\)
+
+-->

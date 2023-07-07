@@ -20,6 +20,7 @@ Pada halaman ini terdapat perangkat pembelajaran yang terdiri dari modul ajar, b
 
 Selamat menjelajahi daftar perangkat pembelajaran ini! Semoga bisa menginspirasi pembelajaran Anda. Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk menghubungi saya. Terima kasih telah mengunjungi website pribadi saya, dan semoga Anda menikmati pengalaman belajar yang luar biasa!
 
+![](Kelas_ferilee.gif)
 ## Kalender Pendidikan
 {{< admonition info "Informasi" >}}
 Kalender Pendidikan ini disematkan dari Canva dan terdiri dari beberapa halaman. Untuk berpindah dari halaman ke halaman lainnya klik pada tepi (kanan atau kiri) gambar.{{< /admonition >}}

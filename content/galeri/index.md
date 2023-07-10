@@ -15,7 +15,11 @@ math: true
 toc:
   auto: true
 ---
+## Galeri Foto
 {{< galeri/galeriku >}}
+
+## Galeri Musik
+{{< musik/playlist >}}
 
 <!------------------
 ## Galeri XII MM-A

@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- font awesome cdn link  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap');
+
+*{
+  font-family: 'Poppins', sans-serif;
+  margin:0; padding:0;
+  box-sizing: border-box;
+  outline: none; border:none;
+  text-transform: capitalize;
+  text-decoration: none;
+  transition: .2s linear;
+}
+
+.container .heading{
+  text-align: center;
+  padding:10px;
+  color:#333;
+  font-size: 35px;
+  border-bottom: 3px solid #333;
+}
+
+.container .box-container{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap:20px;
+  padding:20px 9%;
+  background: #eee;
+}
+
+.container .box-container.active{
+  padding-bottom: 150px;
+}
+
+.container .box-container .box{
+  border-radius: 10px;
+  background:#fff;
+  box-shadow: 0 5px 10px rgba(0,0,0,.2);
+  padding:15px;
+  cursor: pointer;
+}
+
+.container .box-container .box .image{
+  height:540px;
+  width: 100%;
+  overflow: hidden;
+  border-radius: 10px;
+  position: relative;
+}
+
+.container .box-container .box .image img{
+  height:100%;
+  width:100%;
+  object-fit: cover;
+}
+
+.container .box-container .box .image .play{
+  position: absolute;
+  top:0; left:0;
+  height: 100%;
+  width:100%;
+  background: rgba(0,0,0,.8);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+  display: none;
+}
+
+.container .box-container .box:hover .image .play{
+  display: flex;
+}
+
+.container .box-container .box .image .play i{
+  font-size: 100px;
+  color:#fff;
+}
+
+.container .box-container .box .content{
+  padding-top: 15px;
+}
+
+.container .box-container .box .content h3{
+  font-size: 20px;
+  color:#333;
+}
+
+.music-player{
+  position: fixed;
+  bottom: -125px; left:0; right:0;
+  background: #fff;
+  z-index: 1000;
+}
+
+.music-player.active{
+  bottom: 0;
+}
+
+.music-player .music-title{
+  font-size: 25px;
+  margin-bottom: 5px;
+  border-top: 3px solid #333;
+  border-bottom: 1px solid #333;
+  text-align: center;
+  color:#333;
+  padding:10px;
+}
+
+.music-player audio{
+  width: 100%;
+}
+
+.music-player audio::-webkit-media-controls-enclosure{
+  border-radius: 0;
+  background: #fff;
+}
+
+.music-player #close-player{
+  position: absolute;
+  top:-50px; right:5px;
+  height: 50px;
+  width: 55px;
+  line-height: 50px;
+  cursor: pointer;
+  font-size: 30px;
+  color:#333;
+  background: #fff;
+  border:3px solid #333;
+  border-bottom: none;
+  text-align: center;
+}
+
+@media (max-width:768px) {
+  .container .box-container{
+    padding:20px;
+  }
+}
+
+@media (max-width:450px) {
+  .container .box-container{
+    grid-template-columns: 1fr;
+  }
+
+  .container .box-container .box .image{
+    height: 300px;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+
+    <h1 class="heading"> music playlist </h1>
+
+    <div class="box-container">
+
+        <div class="box" data-src="https://soundcloud.com/spiritualmoment/relaxing-music-for-stress-relief-calm-music-for-sleep-meditation-healing-therapy-study-spa-yoga?si=5ef46eb44f91415d96b7d03f9f5916fc&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/435378582&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/spiritualmoment" title="Spiritual Moment" target="_blank" style="color: #cccccc; text-decoration: none;">Spiritual Moment</a> · <a href="https://soundcloud.com/spiritualmoment/relaxing-music-for-stress-relief-calm-music-for-sleep-meditation-healing-therapy-study-spa-yoga" title="Relaxing Music for Stress Relief. Calm Music for Sleep Meditation, Healing Therapy, Study, Spa, Yoga" target="_blank" style="color: #cccccc; text-decoration: none;">Relaxing Music for Stress Relief. Calm Music for Sleep Meditation, Healing Therapy, Study, Spa, Yoga</a></div>
+            <div class="image">
+                <div class="play">
+                    <i class="fas fa-play"></i>
+                </div>
+                <img src="images/album-1.png" alt="">
+            </div>
+            <div class="content">
+                <h3>NEFFEX cold</h3>
+            </div>
+        </div>
+
+        <div class="box" data-src="images/music-2.mp3">
+            <div class="image">
+                <div class="play">
+                    <i class="fas fa-play"></i>
+                </div>
+                <img src="images/album-2.png" alt="">
+            </div>
+            <div class="content">
+                <h3>rize up</h3>
+            </div>
+        </div>
+
+        <div class="box" data-src="images/music-3.mp3">
+            <div class="image">
+                <div class="play">
+                    <i class="fas fa-play"></i>
+                </div>
+                <img src="images/album-3.png" alt="">
+            </div>
+            <div class="content">
+                <h3>arround the world</h3>
+            </div>
+        </div>
+
+        <div class="box" data-src="images/music-4.mp3">
+            <div class="image">
+                <div class="play">
+                    <i class="fas fa-play"></i>
+                </div>
+                <img src="images/album-4.png" alt="">
+            </div>
+            <div class="content">
+                <h3>THNK U jay someday</h3>
+            </div>
+        </div>
+
+        <div class="box" data-src="images/music-5.mp3">
+            <div class="image">
+                <div class="play">
+                    <i class="fas fa-play"></i>
+                </div>
+                <img src="images/album-5.png" alt="">
+            </div>
+            <div class="content">
+                <h3>NEFFEX life</h3>
+            </div>
+        </div>
+
+        <div class="box" data-src="images/music-6.mp3">
+            <div class="image">
+                <div class="play">
+                    <i class="fas fa-play"></i>
+                </div>
+                <img src="images/album-6.png" alt="">
+            </div>
+            <div class="content">
+                <h3>fun house</h3>
+            </div>
+        </div>
+
+    </div>
+
+</div>
+
+<div class="music-player">
+    <div id="close-player" class="fas fa-angle-up"></div>
+    <h3 class="music-title">(play your song)</h3>
+    <audio src="" controls></audio>
+</div>
+<script>
+let closePlayer = document.querySelector('#close-player');
+let musicPlayer = document.querySelector('.music-player');
+let boxContainer = document.querySelector('.container .box-container');
+
+closePlayer.onclick = () =>{
+    closePlayer.classList.toggle('fa-times');
+    musicPlayer.classList.toggle('active');
+    boxContainer.classList.toggle('active');
+}
+
+let boxes = document.querySelectorAll('.container .box-container .box');
+
+boxes.forEach(box =>{
+
+    box.onclick = () =>{
+        let src = box.getAttribute('data-src');
+        let text = box.querySelector('.content h3').innerText;
+        closePlayer.classList.add('fa-times');
+        musicPlayer.classList.add('active');
+        boxContainer.classList.add('active');
+        musicPlayer.querySelector('h3').innerText = text;
+        musicPlayer.querySelector('audio').src = src;
+        musicPlayer.querySelector('audio').play();
+    }
+
+});
+</script>
+</body>
+</html>

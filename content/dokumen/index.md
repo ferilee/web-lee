@@ -14,6 +14,7 @@ math: true
 toc:
   auto: false
 ---
+{{< musik/musik_relax >}}
 Selamat datang pengunjung yang berbahagia. Saya sangat bersemangat untuk berbagi koleksi perangkat pembelajaran yang telah saya susun. Melalui website ini, saya berharap dapat memberikan inspirasi dan bahan referensi bagi para guru, siswa, orangtua, dan siapa pun yang tertarik untuk meningkatkan pengalaman pembelajaran mereka.
 
 Pada halaman ini terdapat perangkat pembelajaran yang terdiri dari modul ajar, bahan ajar, media pembelajaran, serta LKPD yang dirancang untuk mendukung proses pembelajaran secara interaktif, kreatif, dan efektif.

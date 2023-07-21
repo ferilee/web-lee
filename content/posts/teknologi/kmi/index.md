@@ -21,4 +21,7 @@ Di kelas Canva ini, Anda akan mendapatkan akses lebih luas ke alat desain profes
 
 Dengan bergabung di Kelas Canva, kita semua dapat mewujudkan impian bersama untuk menghadirkan kreativitas yang tak terbatas. Anda tidak hanya akan menjadi bagian dari komunitas yang penuh semangat, tetapi juga ikut serta dalam merajut masa depan industri multimedia di Indonesia. Bersama, kita dapat menciptakan dampak positif dan membantu perkembangan industri kreatif Tanah Air.
 {{< /style >}}
-![](joinus_btn.gif) Klik di {{< link href="https://www.canva.com/brand/join?token=60SrD1bVMZW_MFOfZw9V7Q&brandingVariant=edu&referrer=team-invite" content=sini title="Bergabung Kelas Canva!" >}} untuk bergabung Komunitas Multimedia Indonesia. 
+
+{{< tombolbergabung/joinkmi >}}
+
+{{< typeit >}}Jika terdapat kendala ketika bergabung, silakan tuliskan komentar atau hubungi saya melalui tombol di bawah ini.{{< /typeit >}}
